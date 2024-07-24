@@ -1,0 +1,509 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario1_Table_nl-NL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl-NL
+  m_SharedData: {fileID: 11400000, guid: a58a75991ac08d149a2124682c3949cb, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 36428341248
+    m_Localized: Vijandige werkomgeving
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411606405120
+    m_Localized: Is sinds een maand crewlid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508306083840
+    m_Localized: Is sinds drie maanden crewlid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1620579213312
+    m_Localized: De paar keer dat ze voor dezelfde dienst waren ingepland, hebben
+      ze met plezier samengewerkt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2411931131904
+    m_Localized: Heb je broers of zussen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272907587313664
+    m_Localized: 'Ja, ik heb jongere broers. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272979058253824
+    m_Localized: Zie je wel, ik wist gewoon dat jij het oudste kind was!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273020137267200
+    m_Localized: Hoe weet je dat dan?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273053385515008
+    m_Localized: Omdat je vindt dat je altijd gelijk hebt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273093751496704
+    m_Localized: "\u2026 maar ik <i>heb</i> ook altijd gelijk."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273163750236160
+    m_Localized: (Lacht)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273241915285504
+    m_Localized: Jij bent vast en zeker de jongste.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273274916069376
+    m_Localized: Ja... Hoe wist je dat nou?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273312195043328
+    m_Localized: Selecteer een grap voor {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273481917554688
+    m_Localized: Je blijft maar praten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273518680629248
+    m_Localized: Je grappen zijn verschrikkelijk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273544324603904
+    m_Localized: Je moet altijd het laatste woord hebben
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273563354161152
+    m_Localized: En als we dezelfde dienst hebben, ben ik het altijd die het meeste
+      werk doet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274315288010752
+    m_Localized: Ja maar, zo'n hardwerkende buitenlander als jij kan ik toch niet
+      bijhouden?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274368794746880
+    m_Localized: "H\xE9, het is niet mijn probleem dat je het niet kunt bijbenen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274933650055168
+    m_Localized: Bezorgd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275049173770240
+    m_Localized: Onbezorgd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275076474494976
+    m_Localized: Blij
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275097773170688
+    m_Localized: Vrolijk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275111236886528
+    m_Localized: "Ge\xEBrgerd"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275124285366272
+    m_Localized: Verward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275137623252992
+    m_Localized: Onbezorgd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275158263422976
+    m_Localized: Blij
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275879419469824
+    m_Localized: Het werk is zoveel leuker als Ravi er is. De tijd vliegt om op het
+      werk als je kunt lachen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276721195311104
+    m_Localized: "Jake geniet van samen werken \xE9n lachen met Ravi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276788484530176
+    m_Localized: Hij leert echt heel snel. Je kunt je nauwelijks voorstellen dat
+      hij hier nog maar een paar weken is.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276839353049088
+    m_Localized: Jake vindt Ravi echt heel goed in zijn werk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276939483668480
+    m_Localized: 'Dat is al de derde keer dat Jake grapjes maakt omdat ik een buitenlander
+      ben. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277366186991616
+    m_Localized: Jake heeft meerdere grappen gemaakt over het feit dat Ravi een buitenlander
+      is.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277367822770176
+    m_Localized: Ik wil er eigenlijk iets van zeggen. Maar ik werk graag met hem
+      samen en ik wil de sfeer niet ongemakkelijk maken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277369299165184
+    m_Localized: Ravi weet niet zeker of hij iets zou moeten zeggen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277370909777920
+    m_Localized: "Misschien moet ik er niet zo zwaar aan tillen. Hij heeft niet echt
+      een probleem met buitenlanders\u2026 denk ik."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277559338885120
+    m_Localized: Ravi vraagt zich af of hij overdrijft.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277569124196352
+    m_Localized: Ik denk niet dat deze grappen zullen ophouden. En ik weet niet hoeveel
+      ik er nog wil aanhoren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277570382487552
+    m_Localized: Ravi vraagt zich af of de grappenmakerij erger zal worden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277571863076864
+    m_Localized: Ik ben bang dat iemand anders Jake zou kunnen horen. Hij zou in
+      de problemen kunnen komen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277573184282624
+    m_Localized: Ravi wil niet dat Jake in de problemen komt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278077507395584
+    m_Localized: Veiligheid voor iedereen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278203915329536
+    m_Localized: 'Iedereen die bij McDonald''s werkt, heeft het recht om in een omgeving
+      te werken die vrij is van geweld, pesten, intimidatie, discriminatie en represailles/vergelding.
+
+
+      Anderen
+      intimideren op basis van hun gender, ras, leeftijd, geloofsovertuiging, beperkingen
+      of andere factoren wordt niet getolereerd.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278576247889920
+    m_Localized: "Jake's grappen omdat Ravi een immigrant is, zouden een vijandige
+      werkomgeving kunnen cre\xEBren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278616114749440
+    m_Localized: "<b>Zelfs als het gedrag niet beledigend is bedoeld,</b> kan het
+      desondanks als intimiderend worden beschouwd en een vijandige werkomgeving
+      kunnen cre\xEBren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278774059655168
+    m_Localized: 'Zelfs als Jake niet de bedoeling had om Ravi te beledigen, kunnen
+      zijn grappen worden opgevat als pesten of intimidatie. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278872999092224
+    m_Localized: Wat moet {0} als volgende doen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280045575495680
+    m_Localized: Er verder niet op ingaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280162160369664
+    m_Localized: Er nu iets van zeggen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280367333138432
+    m_Localized: Hij weet niet wat hij moet zeggen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280430620991488
+    m_Localized: Hij maakt zich zorgen dat de grappen kunnen aanhouden of erger kunnen
+      worden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280433020133376
+    m_Localized: Hij kan zich op zijn werk concentreren en zich niet laten afleiden
+      door persoonlijke zaken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280434999844864
+    m_Localized: Hij voelt zich ongemakkelijk bij grappen over zijn status als vreemdeling.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280437172494336
+    m_Localized: Hij moet het allemaal niet zo serieus nemen. Anders zou het hun
+      vriendschap kunnen veranderen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280439210926080
+    m_Localized: Hij wil niet dat Jake hetzelfde type grap maakt tegen andere buitenlanders
+      in het restaurant.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280445540130816
+    m_Localized: Hij vindt Jake een geweldige vent die het zeker zou willen weten
+      als de grap beledigend is.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280479383969792
+    m_Localized: Jake wilde Ravi niet beledigen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281021090914304
+    m_Localized: Niet helemaal juist, misschien moet ik hier nog eens goed over nadenken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281095795662848
+    m_Localized: Ik denk niet dat dit de beste keuze is, maar deze misschien?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281627281088512
+    m_Localized: '[0.00-5.00]
+
+      Eh... ik weet dat we maar grapjes maakten, en
+      ik weet niet precies hoe ik dit moet zeggen,
+
+      [5.00-8.00]
+
+      maar
+      ik vind het heel moeilijk om die grappen over buitenlanders aan te horen.
+
+      [8.00-10.89]
+
+      Die
+      stereotypen heeft mijn familie al zo vaak moeten horen.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281630267432960
+    m_Localized: 'Echt? Het spijt me echt, Rav. Dat wist ik echt niet.
+
+      Het
+      was absoluut niet mijn bedoeling om je minderwaardig te laten voelen.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281632377167872
+    m_Localized: Bedankt voor je begrip.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281634356879360
+    m_Localized: Natuurlijk, joh. Bedankt dat je het hebt verteld. In het vervolg
+      zal ik voorzichtiger zijn.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281636558888960
+    m_Localized: Ik hoop dat ik net niet te veel als een oudere broer klonk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281638601515008
+    m_Localized: Geen probleem, daar ben ik wel aan gewend!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281640837079040
+    m_Localized: Jake en Ravi gaan weer vrolijk verder met het maken van sandwiches.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282218757644288
+    m_Localized: "Ravi besloot om direct te handelen. Daarbij droeg hij ook bij aan
+      het cre\xEBren van een veiligere werkomgeving voor zichzelf en mogelijk ook
+      voor anderen. \n\nWat zou er zijn gebeurd als Ravi anders had gehandeld?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283547773198336
+    m_Localized: Wat als Ravi er verder niet op was ingegaan?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283750395830272
+    m_Localized: "\u2022 <indent=2%>De grappen zouden erger of frequenter kunnen
+      worden.</indent>\n\u2022 <indent=2%>Het zou nog moeilijker kunnen worden om
+      er de volgende keer iets van te zeggen wanneer er beledigende grappen worden
+      gemaakt.</indent>\n\u2022 <indent=2%>Andere mensen zouden de grappen ook kunnen
+      horen en er ook door gekwetst worden.</indent>\n\u2022 <indent=2%>Ravi's vermogen
+      om zijn werk goed te doen, zou kunnen worden be\xEFnvloed als hij zich niet
+      veilig of gerespecteerd voelt.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283898056302592
+    m_Localized: Wat als Ravi er later iets van zou zeggen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283999382298624
+    m_Localized: "Er kunnen veel redenen zijn waarom iemand kan twijfelen om direct
+      iets te zeggen. Mogelijk voelt de persoon zich niet veilig of voelt deze zich
+      ongemakkelijk, of misschien is er meer tijd nodig om na te denken over wat
+      deze kan zeggen. \n\nAls Ravi had besloten om te wachten om iets te zeggen:
+      \n\u2022 <indent=2%>Hij had het gesprek een andere wending kunnen geven door
+      een nieuw onderwerp aan te snijden.</indent>\n\u2022 <indent=2%>Hij had een
+      neutraler tijdstip kunnen vinden om het gedrag of zijn ongemak aan te pakken.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284148749852672
+    m_Localized: Wat als Ravi dit had gemeld aan zijn manager?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284166646947840
+    m_Localized: "Pesten of intimidatie worden absoluut niet getolereerd en iedereen
+      die het slachtoffer wordt van dit soort gedrag kan dit melden. Mogelijk maakte
+      Ravi zich in dit geval zorgen dat Jake in de problemen zou kunnen komen. Houd
+      er echter rekening mee dat niet elke melding ernstige consequenties heeft.
+      \n\nAls Ravi de opmerkingen van Jake had gemeld aan zijn manager, had het volgende
+      kunnen gebeuren:\n\u2022 <indent=2%>De manager had met Jake kunnen praten over
+      zijn opmerkingen.</indent>\n\u2022 <indent=2%>Jake had feedback kunnen ontvangen
+      over zijn gedrag en had uitleg kunnen krijgen over waarom zijn grapje te ver
+      ging.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284400093519872
+    m_Localized: Of je nu met je collega's of gasten praat, je kunt bijdragen aan
+      een <b>veilige, respectvolle en inclusieve</b> cultuur voor iedereen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284575386066944
+    m_Localized: Zelfs als je de beste bedoelingen had en iedereen moest lachen,
+      zijn grappen die betrekking hebben op beschermde kenmerken altijd in strijd
+      met ons beleid. Iedereen heeft recht op een veilige werkplek.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284655421775872
+    m_Localized: Als je ooit iets respectloos tegen een collega hebt gezegd, raden
+      we je aan om je excuses aan te bieden en je gedrag te verbeteren. Iedereen
+      moet bijdragen aan een respectvolle cultuur.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284665953673216
+    m_Localized: Je kunt een beter inzicht krijgen in wie je collega's zijn door
+      meer te weten te komen over hun ervaringen. Neem de tijd om naar ze te luisteren.
+      Bouw sterke werkrelaties op om een inclusieve omgeving te cultiveren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048439436861440
+    m_Localized: Ravi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048523280998400
+    m_Localized: Jake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7204747913334784
+    m_Localized: Veilig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7204889949245440
+    m_Localized: Respectvol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7205035462234112
+    m_Localized: Inclusief
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7238201412632576
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7241701743869952
+    m_Localized: '[0.00-3.00]
+
+      Ik had kunnen weten dat je zou proberen om mijn
+      baan in te pikken.
+
+      [3.00-5.00]
+
+      Ik zal voortaan op mijn hoede
+      moeten zijn.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078710535225344
+    m_Localized: 'Wat moet ik doen?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078863094644736
+    m_Localized: 'Ik kan dit niet langer uitstellen.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078930916540416
+    m_Localized: 'Niet helemaal juist, misschien moet ik hier nog eens goed over
+      nadenken.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078943189073920
+    m_Localized: 'Ik denk nog steeds niet dit de beste keuze is, maar deze dan?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078954572414976
+    m_Localized: 'Hm... Misschien moet ik iets zeggen, ... heb ik goede redenen om
+      het te doen?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078965364359168
+    m_Localized: Ja, dit voelt goed aan, ik ga het doen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13293897244295168
+    m_Localized: '"Het was maar een grapje"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303657540698112
+    m_Localized: 'Van je laten horen betekent iets zeggen over ongepast gedrag of
+      ongepaste woorden, of die nu tegen jou of anderen zijn gericht.
+
+
+      <b>Je
+      kunt dat direct doen of op een later moment</b>. Melding maken is een andere
+      manier om van je te laten horen.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303725081575424
+    m_Localized: Van je laten horen betekent ergens iets van zeggen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303761957896192
+    m_Localized: Doe dit nu of later
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45694103168475136
+    m_Localized: "Ravi en Jake staan \u200B\u200Bin de keuken van een McDonald's-restaurant"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45693008257998848
+    m_Localized: "Ravi en Jake staan \u200B\u200Bin de keuken van een McDonald's-restaurant"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

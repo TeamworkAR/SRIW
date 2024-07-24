@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d5224ca61aa403fa22ffec5afcffb8d, type: 3}
+  m_Name: Scenario03_Dialogue02_Data
+  m_EditorClassIdentifier: 
+  m_DialogueGraph: {fileID: 11400000, guid: e75bb1f550def654190879e2429b0769, type: 2}
+  m_Characters:
+  - {fileID: 11400000, guid: b1a8a3a1c8b7614488d141f17313b31c, type: 2}
+  - {fileID: 11400000, guid: 920e871dc917b4844a1658d7856b9923, type: 2}
+  - {fileID: 11400000, guid: 8d6ddc5cefd0aeb439fa415d9ab3a13e, type: 2}
+  - {fileID: 11400000, guid: a9773ff4ba4c9304abef7187940bcd9e, type: 2}
+  - {fileID: 11400000, guid: 1cfb378b208f22e4d8956b3f69c3709e, type: 2}
+  - {fileID: 11400000, guid: 706db89ee4fb85241a7fda9de0aa911c, type: 2}
+  - {fileID: 11400000, guid: a41712a8a0b28a346b49618def02eb39, type: 2}
+  - {fileID: 11400000, guid: 2087e6f0a9e2ee342b743530a173c6df, type: 2}
+  m_AccessibilityDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:1cdae39b5d7e86340b581f14ac86265f
+    m_TableEntryReference:
+      m_KeyId: 33772363660124160
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []

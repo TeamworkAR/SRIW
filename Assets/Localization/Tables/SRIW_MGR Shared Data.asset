@@ -1,0 +1,644 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: SRIW_MGR Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: SRIW_MGR
+  m_TableCollectionNameGuidString: 30630d9d68e57f84bb4a6bc4784ad227
+  m_Entries:
+  - m_Id: 58963357696
+    m_Key: k_LOC_SRIW_MGR_AT_MCD_WE_PROMOTE_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32415523106816
+    m_Key: SRIW_MGR_WELCOME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280336076206080
+    m_Key: k_LOC_SPLASH_SRIW_MGR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 300762370240512
+    m_Key: k_LOC_SRIW_MGR_AT_MCD_WE_PROMOTE_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 301541340573696
+    m_Key: k_LOC_SRIW_MGR_AT_MCD_WE_PROMOTE_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 324650974146560
+    m_Key: k_LOC_SRIW_MGR_AT_MCD_WE_PROMOTE_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 328896373157888
+    m_Key: k_LOC_SRIW_MGR_AT_MCD_WE_PROMOTE_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 329567763787776
+    m_Key: k_LOC_SRIW_MGR_AT_MCD_WE_PROMOTE_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2592079758446592
+    m_Key: k_LOC_SRIW_MGR_AS_MGR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2592417236340736
+    m_Key: k_LOC_SRIW_MGR_AS_A_ROLE_MODEL_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2592760418488320
+    m_Key: k_LOC_SRIW_MGR_AS_A_ROLE_MODEL_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2593642577088512
+    m_Key: k_LOC_SRIW_MGR_AS_A_ROLE_MODEL_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2594270552477696
+    m_Key: k_LOC_SRIW_MGR_AS_A_ROLE_MODEL_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2594492410187776
+    m_Key: k_LOC_SRIW_MGR_AS_A_ROLE_MODEL_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2595063053635584
+    m_Key: k_LOC_SRIW_MGR_AS_A_ROLE_MODEL_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2595208877002752
+    m_Key: k_LOC_SRIW_MGR_AS_A_ROLE_MODEL_06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2609365743521792
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2609551664435200
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2609684217024512
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_SUBTITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610809649451008
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610878549282816
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610915408826368
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610968991059968
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611299066007552
+    m_Key: k_LOC_SRIW_MGR_RESPONSE_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611431417270272
+    m_Key: k_LOC_SRIW_MGR_RESPONSE_CONVERSATION_ADAM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611612242104320
+    m_Key: k_LOC_SRIW_MGR_RESPONSE_CONVERSATION_ADAM_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611893193363456
+    m_Key: k_LOC_SRIW_MGR_RESPONSE_CONVERSATION_CORRECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612031949328384
+    m_Key: k_LOC_SRIW_MGR_RESPONSE_CONVERSATION_INCORRECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612287864786944
+    m_Key: k_LOC_SRIW_MGR_RESPONSE_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612453514629120
+    m_Key: k_LOC_SRIW_MGR_RESPONSE_02_ANSWER_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612574507716608
+    m_Key: k_LOC_SRIW_MGR_RESPONSE_02_ANSWER_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612620355653632
+    m_Key: k_LOC_SRIW_MGR_RESPONSE_02_ANSWER_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612676479635456
+    m_Key: k_LOC_SRIW_MGR_RESPONSE_02_ANSWER_CORRECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612770310410240
+    m_Key: k_LOC_SRIW_MGR_RESPONSE_02_ANSWER_INCORRECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612922806915072
+    m_Key: k_LOC_SRIW_MGR_RESPONSE_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613051878232064
+    m_Key: k_LOC_SRIW_MGR_RESPONSE_03_ANSWER_CORRECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613344506433536
+    m_Key: k_LOC_SRIW_MGR_RESPONSE_03_ANSWER_INCORRECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613459648466944
+    m_Key: k_LOC_SRIW_MGR_RESPONSIBILITIES_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613561855266816
+    m_Key: k_LOC_SRIW_MGR_RESPONSIBILITIES_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613610907652096
+    m_Key: k_LOC_SRIW_MGR_RESPONSIBILITIES_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613718365720576
+    m_Key: k_LOC_SRIW_MGR_RESPONSIBILITIES_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613822434791424
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613934519177216
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614011002310656
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_ANA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614046637117440
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_ANA_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614120544948224
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_SAMUEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614198881964032
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_SAMUEL_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614224014233600
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_RESPONSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614313474543616
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_RESPONSE_CORRECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614433234505728
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_RESPONSE_INCORRECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614603657465856
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_01_ANSWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2615178197422080
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_02_ANSWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2615219234492416
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_03_ANSWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2615270258200576
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_04_ANSWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616712327024640
+    m_Key: k_LOC_SRIW_MGR_GETTING_COMPLAINT_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616952182493184
+    m_Key: k_LOC_SRIW_MGR_GETTING_COMPLAINT_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616995702591488
+    m_Key: k_LOC_SRIW_WHEN_TO_SPEAK_UP_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617243074252800
+    m_Key: k_LOC_SRIW_WHEN_TO_SPEAK_UP_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617462226636800
+    m_Key: k_LOC_SRIW_WHEN_TO_SPEAK_UP_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617526504345600
+    m_Key: k_LOC_SRIW_WHEN_TO_SPEAK_UP_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617569235914752
+    m_Key: k_LOC_SRIW_WHEN_TO_SPEAK_UP_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617613712314368
+    m_Key: k_LOC_SRIW_WHEN_TO_SPEAK_UP_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617686349271040
+    m_Key: k_LOC_SRIW_MGR_4_WAYS_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617762022903808
+    m_Key: k_LOC_SRIW_MGR_4_WAYS_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617816230088704
+    m_Key: k_LOC_SRIW_MGR_4_WAYS_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617852200439808
+    m_Key: k_LOC_SRIW_MGR_4_WAYS_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617899503800320
+    m_Key: k_LOC_SRIW_MGR_4_WAYS_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617962007318528
+    m_Key: k_LOC_SRIW_MGR_WITNESS_CONDUCT_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618062515425280
+    m_Key: k_LOC_SRIW_MGR_WITNESS_CONDUCT_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618343659622400
+    m_Key: k_LOC_SRIW_MGR_WITNESS_CONDUCT_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618387137777664
+    m_Key: k_LOC_SRIW_MGR_WITNESS_CONDUCT_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618432058773504
+    m_Key: k_LOC_SRIW_MGR_WITNESS_CONDUCT_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618481622863872
+    m_Key: k_LOC_SRIW_MGR_WITNESS_CONDUCT_CORRECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618524257964032
+    m_Key: k_LOC_SRIW_MGR_WITNESS_CONDUCT_INCORRECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618619523190784
+    m_Key: k_LOC_SRIW_MGR_WHY_SPEAK_UP_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618729158103040
+    m_Key: k_LOC_SRIW_MGR_WHY_SPEAK_UP_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618858913091584
+    m_Key: k_LOC_SRIW_MGR_WHY_SPEAK_UP_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618964798296064
+    m_Key: k_LOC_SRIW_MGR_WHY_SPEAK_UP_02_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619046234902528
+    m_Key: k_LOC_SRIW_MGR_INTERACTING_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619095698329600
+    m_Key: k_LOC_SRIW_MGR_INTERACTING_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619130938871808
+    m_Key: k_LOC_SRIW_MGR_INTERACTING_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619167324459008
+    m_Key: k_LOC_SRIW_MGR_INTERACTING_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619225725947904
+    m_Key: k_LOC_SRIW_MGR_INTERACTING_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619266410696704
+    m_Key: k_LOC_SRIW_MGR_INTERACTING_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619331070087168
+    m_Key: k_LOC_SRIW_MGR_TEXTING_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619509646774272
+    m_Key: k_LOC_SRIW_MGR_TEXTING_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619554618101760
+    m_Key: k_LOC_SRIW_MGR_TEXTING_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619588357083136
+    m_Key: k_LOC_SRIW_MGR_TEXTING_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619636767739904
+    m_Key: k_LOC_SRIW_MGR_TEXTING_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619668753502208
+    m_Key: k_LOC_SRIW_MGR_TEXTING_06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619733047988224
+    m_Key: k_LOC_SRIW_MGR_TEXTING_07
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619797409583104
+    m_Key: k_LOC_SRIW_MGR_ABUSE_OF_AUTHORITY_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619884999233536
+    m_Key: k_LOC_SRIW_MGR_ABUSE_OF_AUTHORITY_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619924635406336
+    m_Key: k_LOC_SRIW_MGR_ABUSE_OF_AUTHORITY_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619964825227264
+    m_Key: k_LOC_SRIW_MGR_ABUSE_OF_AUTHORITY_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620003890974720
+    m_Key: k_LOC_SRIW_MGR_ABUSE_OF_AUTHORITY_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620054579138560
+    m_Key: k_LOC_SRIW_MGR_ABUSE_OF_AUTHORITY_EXAMPLES_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620149190053888
+    m_Key: k_LOC_SRIW_MGR_ABUSE_OF_AUTHORITY_EXAMPLES_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620257784778752
+    m_Key: k_LOC_SRIW_MGR_ABUSE_OF_AUTHORITY_EXAMPLES_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620348922810368
+    m_Key: k_LOC_SRIW_MGR_CONCLUSION_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620484646293504
+    m_Key: k_LOC_SRIW_MGR_CONCLUSION_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620514086113280
+    m_Key: k_LOC_SRIW_MGR_CONCLUSION_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620555144155136
+    m_Key: k_LOC_SRIW_MGR_CONCLUSION_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620572621819904
+    m_Key: k_LOC_SRIW_MGR_CONCLUSION_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620609611386880
+    m_Key: k_LOC_SRIW_MGR_CONCLUSION_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620668432306176
+    m_Key: k_LOC_SRIW_MGR_CONCLUSION_06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620709704257536
+    m_Key: k_LOC_SRIW_MGR_CONCLUSION_07
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620743099305984
+    m_Key: k_LOC_SRIW_MGR_CONCLUSION_08
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620798967435264
+    m_Key: k_LOC_SRIW_MGR_REMINDER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4631539316781056
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_2_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4633439663648768
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_2_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4633509599473664
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_2_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4633596132159488
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_2_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4633979759980544
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_2_01_ANSWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4634832814305280
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_2_02_ANSWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4635007720976384
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_2_03_ANSWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4635145419976704
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_2_04_INCORRECTANSWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5044474736373760
+    m_Key: k_LOC_SRIW_MGR_WHAT_YOU_SAY_OR_DO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5377724755308544
+    m_Key: k_LOC_SRIW_MGR_SPEAK_UP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5377927554101248
+    m_Key: k_LOC_SRIW_MGR_GETTING_COMPLAINT_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5378092260225024
+    m_Key: k_LOC_SRIW_MGR_GETTING_COMPLAINT_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5479293621964800
+    m_Key: k_LOC_SRIW_MGR_4_WAYS_01_Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5479429462888448
+    m_Key: k_LOC_SRIW_MGR_4_WAYS_02_Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5479531518693376
+    m_Key: k_LOC_SRIW_MGR_4_WAYS_03_Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5479641749196800
+    m_Key: k_LOC_SRIW_MGR_4_WAYS_04_Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5727196316266496
+    m_Key: k_LOC_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5727260262625280
+    m_Key: k_LOC_B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5727327660896256
+    m_Key: k_LOC_C
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5727378479083520
+    m_Key: k_LOC_D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5735202403778560
+    m_Key: k_LOC_AbuseAuthority
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5735498689413120
+    m_Key: k_LOC_FlipCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563320299212800
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_ANA_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563519709007872
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_ANA_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563633269788672
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_ANA_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563646171467776
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_ANA_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6564142617677824
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_SAMUEL_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6564282116034560
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_SAMUEL_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6564307944558592
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_SAMUEL_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6564322591068160
+    m_Key: k_LOC_SRIW_MGR_PREVENT_STOP_SAMUEL_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7333489694953472
+    m_Key: k_LOC_SRIW_MGR_RESPONSIBILITIES_EMPTYTITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7603158175666176
+    m_Key: k_LOC_SRIW_MGR_AS_MGR_SUMMARY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8375492478193664
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8375577408655360
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8376570875695104
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_07
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8376643999191040
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_08
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377561062789120
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_05_ANSWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377673197506560
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_06_ANSWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377809847930880
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_07_INCORRECTANSWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377869428019200
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_08_INCORRECTANSWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11672892315750400
+    m_Key: k_LOC_SRIW_Aisha_Incorrect_Decision
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684172002971648
+    m_Key: k_LOC_SRIW_Anna_Incorrect_Decision
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12024615286820864
+    m_Key: k_LOC_SRIW_MGR_TEXTING_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15218309350809600
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_2_04_ANSWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15219142033399808
+    m_Key: k_LOC_SRIW_WHAT_DO_YOU_DO_SCENARIO_07_ANSWER
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6753186526753456131
+  references:
+    version: 2
+    RefIds:
+    - rid: 6753186526753456131
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1721242899397

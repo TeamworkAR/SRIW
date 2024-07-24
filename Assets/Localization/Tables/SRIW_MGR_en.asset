@@ -1,0 +1,817 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: SRIW_MGR_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 30630d9d68e57f84bb4a6bc4784ad227, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 58963357696
+    m_Localized: "<b>At Mcdonald\u2019s, we promote and maintain a safe, respectful
+      and inclusive workplace for everyone by:</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32415523106816
+    m_Localized: Manager's Role in Building a Safe, Respectful, and Inclusive Workplace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280336076206080
+    m_Localized: <size=+20><b>Manager's Role in Building a Safe, Respectful, and
+      Inclusive Workplace</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 300762370240512
+    m_Localized: Living and championing our values every day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 301541340573696
+    m_Localized: Treating everyone with respect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 324650974146560
+    m_Localized: Being aware and reflecting on the impact that our words and actions
+      have on others
+    m_Metadata:
+      m_Items: []
+  - m_Id: 328896373157888
+    m_Localized: Speaking up when you see or experience inappropriate behavior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 329567763787776
+    m_Localized: Remembering everyone, especially leaders, plays a key role in creating
+      a respectful culture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2592079758446592
+    m_Localized: 'As a manager of others, you have a critical role in building a
+      safe, respectful, and inclusive workplace.
+
+
+      You are expected to be a
+      role model for your team and always lead by example!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2592417236340736
+    m_Localized: <b>Managers have a responsibility when it comes to being a role
+      model, including:</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2592760418488320
+    m_Localized: Setting a positive example by ensuring your conduct, including your
+      employment decisions and workplace behaviors, are free of inappropriate behaviors
+      such as harassment (physical, psychological, sexual), discrimination, bullying
+      and retaliation/victimization.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2593642577088512
+    m_Localized: Taking steps to eliminate all inappropriate behaviors such as harassment
+      (physical, psychological, sexual), discrimination, bullying and retaliation/victimization.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2594270552477696
+    m_Localized: Immediately escalating when you become aware of any inappropriate
+      conduct or if an employee provides you with information about behavior that
+      could make them, or others feel uncomfortable or unsafe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2594492410187776
+    m_Localized: Taking allegations or reports seriously on all inappropriate behaviors
+      such as harassment (physical, psychological, sexual), discrimination, bullying,
+      and retaliation/victimization.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2595063053635584
+    m_Localized: Partnering with the right people to investigate allegations promptly
+      and thoroughly.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2595208877002752
+    m_Localized: Ensuring you and your team members know how and where to speak up
+      if they experience or recognize inappropriate behavior.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2609365743521792
+    m_Localized: <b>What do you think you should do in this situation?</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2609551664435200
+    m_Localized: '<b>Someone has come to you with a possible complaint.
+
+      What
+      do you think you should do in this situation?</b>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2609684217024512
+    m_Localized: Flip the cards for more context, then select all that apply.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610809649451008
+    m_Localized: Thank the person for coming forward.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610878549282816
+    m_Localized: Take the complaint seriously.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610915408826368
+    m_Localized: Listen, but do not take sides or draw conclusions.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610968991059968
+    m_Localized: Explain that someone will follow up.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611299066007552
+    m_Localized: 'A young employee has told you that a supplier winked at them and
+      it made them feel uncomfortable.
+
+
+      Is the following response from a manager
+      appropriate?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611431417270272
+    m_Localized: Adam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611612242104320
+    m_Localized: "\u201CThat supplier winks at everyone, but they\u2019re harmless.\nIf
+      they do something more serious, you can always come to us to let us know.\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611893193363456
+    m_Localized: Correct! Managers should always take potentially inappropriate conduct
+      seriously. This means reporting the incident immediately.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612031949328384
+    m_Localized: Incorrect, managers should always take potentially inappropriate
+      conduct seriously. This means reporting the incident immediately.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612287864786944
+    m_Localized: What should you do if an employee tells you they witnessed inappropriate
+      language from a senior leader towards crew members?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612453514629120
+    m_Localized: "Wait to observe if the senior leader\u2019s behavior happens again."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612574507716608
+    m_Localized: "Explain to the crew members that it can happen sometimes, and it\u2019s
+      not a big deal."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612620355653632
+    m_Localized: " Say that the senior leader\u2019s conduct is not tolerated and
+      report it."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612676479635456
+    m_Localized: "Correct! As a manager, you have discretion in stopping inappropriate
+      behavior. Any inappropriate behavior, including senior leader's behaviors\_must
+      be reported and taken seriously."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612770310410240
+    m_Localized: Incorrect, as a manager, you have discretion in stopping inappropriate
+      behavior. Any inappropriate behavior, including senior leader's behaviors must
+      be reported and taken seriously.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612922806915072
+    m_Localized: "An employee complains to you that a manager harassed them because
+      they returned late from a break for the second time this week. The manager
+      took them aside to discuss the issue and gain a commitment to being punctual.\n\_\nIs
+      this harassment?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613051878232064
+    m_Localized: "Correct! Communicating McDonald\u2019s expectations and taking
+      aside an employee to discuss an issue is not a form of harassment. However,
+      it could be harassment if the feedback was delivered in a forceful, hurtful,
+      threatening or intimidating way. If you\u2019re unsure, you should report it
+      through the proper channel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613344506433536
+    m_Localized: "Incorrect, communicating McDonald\u2019s expectations and taking
+      aside an employee to discuss an issue is not a form of harassment. However,
+      it could be harassment if the feedback was provided in a bullying way. If you\u2019re
+      unsure, you should report it through the proper channel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613459648466944
+    m_Localized: "<b>Manager\u2019s Responsibilities Around Retaliation/Victimization</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613561855266816
+    m_Localized: Retaliation/victimization occurs when someone is punished or experiences
+      a negative employment or individual action because they intend to, or have
+      raised a complaint, or are involved in a complaint (such as a witness) about
+      workplace behavior such as potential harassment (physical, psychological, sexual),
+      discrimination, bullying, or retaliation/victimization.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613610907652096
+    m_Localized: "<b>Examples of retaliation/victimization:</b>\n\n\u2022<indent=5%>Termination</indent>\_\n\u2022<indent=5%>Demotion\_</indent>\_\n\u2022<indent=5%>Poor
+      Performance Review\_\_</indent>\n\u2022<indent=5%>Changing shifts</indent>\n\u2022<indent=5%>Excluding
+      from teams, events, meetings\_</indent>\n\u2022<indent=5%>Undesirable tasks\_\_</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613718365720576
+    m_Localized: As a manager - prevent, stop, and report any retaliatory behaviors
+      from your team. If, as a manager, you are accused of retaliation/victimization,
+      continue managing the employee as a role model. Cooperate fully and honestly
+      with investigators and let the process run its course.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613822434791424
+    m_Localized: "As a manager \u2013 prevent, stop, and report any retaliatory behaviors
+      from your team."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613934519177216
+    m_Localized: "In the following scenario, Samuel reported his co-worker Miguel
+      for inappropriate behavior. Now, some of Samuel\u2019s co-workers are not speaking
+      to him. Samuel has confronted them about why he had to report Miguel, but his
+      co-workers are still ignoring him.\_\_\n\_\nAfter noticing the tension, Anna,
+      the manager, sits down for a chat with Samuel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614011002310656
+    m_Localized: Anna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614046637117440
+    m_Localized: You all used to be friends, and the vibe around here was fantastic.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614120544948224
+    m_Localized: Samuel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614198881964032
+    m_Localized: Yeah, well things change.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614224014233600
+    m_Localized: In this situation, can Anna transfer Samuel to a new restaurant?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614313474543616
+    m_Localized: "Correct!\_It\u2019s clear that Anna wants to transfer Samuel to
+      another restaurant based on the fallout from Samuel\u2019s complaint. Changing
+      an employee\u2019s work situation because the employee made a complaint is
+      extremely risky, even if the manager and the employee consider it a positive
+      move.\n\_\nA good rule of thumb is to treat an employee the same as if they
+      never made a complaint."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614433234505728
+    m_Localized: "Incorrect,\_it\u2019s clear that Anna wants to transfer Samuel
+      to another restaurant based on the fallout from Samuel\u2019s complaint. Changing
+      an employee\u2019s work situation because the employee made a complaint is
+      extremely risky, even if the manager and the employee consider it a positive
+      move.\n\_\nA good rule of thumb is to treat an employee the same as if they
+      never made a complaint."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614603657465856
+    m_Localized: It can be difficult for people to come forward with a complaint.
+      Acknowledge that difficulty by thanking them.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2615178197422080
+    m_Localized: There are many reasons why people might not report (for example,
+      fear that their report might not be taken seriously).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2615219234492416
+    m_Localized: Only collect the information required to make the report with compassion
+      and objectivity.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2615270258200576
+    m_Localized: Establishing expectations during the reporting process is key.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616712327024640
+    m_Localized: Someone who makes a complaint or is involved in the investigation
+      of a complaint can often feel insecure and even threatened.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616952182493184
+    m_Localized: "Speaking up for each other puts people first, creates inclusion,
+      and it\u2019s the right thing to do.\_\_"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616995702591488
+    m_Localized: "<b>When to Speak Up</b>\n\_\nNot sure when it\u2019s the right
+      thing to do?\_\n\_\nAsk yourself these questions about the situation:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617243074252800
+    m_Localized: Am I offended by what I see?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617462226636800
+    m_Localized: Could this go against our values?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617526504345600
+    m_Localized: "Does any person look uncomfortable?\_"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617569235914752
+    m_Localized: Does watching this make me uncomfortable?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617613712314368
+    m_Localized: "If your answer to any of these questions is \"Yes\", it\u2019s
+      a good idea to speak up."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617686349271040
+    m_Localized: '<b>There are 4 ways to speak up. Anyone can utilize these four
+      ways depending on the situation and their comfort level.
+
+
+      Flip each
+      card for more information.</b>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617762022903808
+    m_Localized: "<b>Be Direct:</b> \nIdentify the correct action or behavior.\_"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617816230088704
+    m_Localized: "<b>Redirect:</b> \nBring up a new topic and redirect the conversation."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617852200439808
+    m_Localized: '<b>Delay:</b>
+
+      Address the behavior or discomfort at a more
+      neutral time.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617899503800320
+    m_Localized: "<b>Seek Assistance:</b>\nAs a manager, you can seek guidance.\_"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617962007318528
+    m_Localized: <b>Which of the following should you do if you witness any form
+      of inappropriate conduct from a customer toward an employee?</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618062515425280
+    m_Localized: "Tell the customers that \u201Cwe appreciate your visit but we want
+      you to know that we can\u2019t have inappropriate language here.\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618343659622400
+    m_Localized: "Make sure to take sole responsibility for getting the customer\u2019s
+      order prepared."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618387137777664
+    m_Localized: "At the first opportunity, tell the employee that the customers\u2019
+      conduct is not tolerated here and report it."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618432058773504
+    m_Localized: Wait to mention what you observed till it is more convenient.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618481622863872
+    m_Localized: As a manager, you have discretion in stopping inappropriate behavior.
+      Any inappropriate behavior must be reported and treated seriously.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618524257964032
+    m_Localized: Incorrect, as a manager, you have discretion in stopping inappropriate
+      behavior. Any inappropriate behavior must be reported and treated seriously.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618619523190784
+    m_Localized: <b>Why Speak Up?</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618729158103040
+    m_Localized: "Speaking up aligns with our values:\n\n\u2022<indent=5%>Puts people
+      first</indent>\n\u2022<indent=5%>Creates inclusion</indent>\n\u2022<indent=5%>Strengthens
+      our community/work family</indent>\n\nIt\u2019s also the right thing to do."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618858913091584
+    m_Localized: "Remember, when you speak up, you:\_\n\n\u2022<indent=5%>Take the
+      first step to stopping any inappropriate behavior</indent>\n\u2022<indent=5%>Act
+      as a role model of our values </indent>\n\u2022<indent=5%>Encourage others
+      to come forward with concerns</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618964798296064
+    m_Localized: Speak Up to create a culture of belonging where each person has
+      a voice and trusted ally.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619046234902528
+    m_Localized: <b>Interacting with Employees</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619095698329600
+    m_Localized: "\u2022  It can be risky for managers to socialize with employees
+      outside of the workplace. Socializing can often start out well, but becoming
+      overly familiar has the potential to impact your judgment.\n\n\u2022  If you
+      treat people differently, you risk creating an environment that can be perceived
+      as discriminatory. That can create a hostile work environment for those who
+      don\u2019t feel favored.\n\_\n\u2022  Favoritism includes giving preferential
+      treatment to one or more employees, causing others to lose out on possible
+      job promotions or benefits like better shifts.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619130938871808
+    m_Localized: "If you treat people differently, you risk creating an environment
+      that can be perceived as discriminatory. That can create a hostile work environment
+      for those who don\u2019t feel favored.\n\_\nFavoritism includes giving preferential
+      treatment to one or more employees, causing others to lose out on possible
+      job promotions or benefits like better shifts."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619167324459008
+    m_Localized: Always be aware that actions and words, even away from work, can
+      later affect the work environment.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619225725947904
+    m_Localized: "\u2022  Always be aware that actions and words, even away from
+      work, can later affect the work environment.\n\n\u2022  Review and acknowledge
+      the policy where you work regarding managers socializing with employees outside
+      of work.\n\n\u2022  Stop and think before socializing outside of work with
+      other employees."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619266410696704
+    m_Localized: Stop and think before socializing outside of work with other employees.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619331070087168
+    m_Localized: Be mindful when communicating with other employees through text
+      messages or other social media channels.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619509646774272
+    m_Localized: Any interactions with co-workers via text messages or social media
+      should be respectful and professional.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619554618101760
+    m_Localized: Avoid posts that could reasonably be viewed as malicious, obscene,
+      threatening, or intimidating.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619588357083136
+    m_Localized: Do not post or support any posts that include discriminatory remarks
+      or content, harassment (physical, psychological, sexual), threats of violence,
+      or similar inappropriate or unlawful conduct.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619636767739904
+    m_Localized: Managers must exercise caution and sound judgment if interacting
+      with employees via text messages or social media.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619668753502208
+    m_Localized: Participating in such forums with subordinates may increase the
+      potential to violate our values. Think before you post anything and always
+      ask for consent.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619733047988224
+    m_Localized: Additionally, avoid interacting on social media with employees under
+      the age of 18.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619797409583104
+    m_Localized: <b>Abuse of Authority</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619884999233536
+    m_Localized: "\u2022  An example of abuse of authority is misconduct that involves
+      a person with authority (such as a manager, supervisor or other authority figure)
+      making promises, denying, or threatening a job benefit or making decisions
+      in exchange for sexual favors.\n\n\u2022  Such behaviors violate our values
+      and do incredible damage to everyone involved."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619924635406336
+    m_Localized: Such behaviors violate our values and do incredible damage to everyone
+      involved.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619964825227264
+    m_Localized: "\u2022  Abuse of authority is not limited to exchanging favors
+      for sex. Any activity promised in exchange for a favor (such as a date, a kiss,
+      or a hug) is inappropriate and not tolerated by McDonald\u2019s.\n\n\u2022 
+      Abuse of authority isn\u2019t categorized by the gender of the offender or
+      victim. Regardless of the genders involved, it\u2019s absolutely unacceptable
+      to sexually harass anyone or abuse your authority."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620003890974720
+    m_Localized: "Abuse of authority isn\u2019t categorized by the gender of the
+      offender or victim. Regardless of the genders involved, it\u2019s absolutely
+      unacceptable to sexually harass anyone or abuse your authority."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620054579138560
+    m_Localized: <b>Abuse of authority also includes treating someone less favorably
+      because they reject offers of sexual activity or favors.</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620149190053888
+    m_Localized: "<b>Threats</b>\n\n\u2022   Termination\n\u2022   Demotion\_\n\u2022  
+      Poor Performance Review\_\n\u2022   Changing shifts\n\u2022   Excluding from
+      teams, events, meetings\n\u2022   Undesirable tasks\n\u2022   Delegating the
+      same tasks (mopping, cleaning) \n<indent=5%>only to certain employees"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620257784778752
+    m_Localized: "<b>Promises</b>\n\n\u2022   Continued Employment\_\n\u2022   Promotion\_\n\u2022  
+      Positive Performance Review\_\n\u2022   Additional Overtime"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620348922810368
+    m_Localized: '<b>Conclusion
+
+
+      In your role, you have a responsibility to:</b>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620484646293504
+    m_Localized: "\u2022<indent=5%>Report all inappropriate behavior.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620514086113280
+    m_Localized: "\u2022<indent=5%>Speak up when you see inappropriate behavior.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620555144155136
+    m_Localized: "\u2022<indent=5%>Encourage your team to speak up if they see or
+      experience inappropriate behavior.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620572621819904
+    m_Localized: "\u2022<indent=5%>Prevent or stop any retaliation/victimization.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620609611386880
+    m_Localized: "\u2022<indent=5%>Stop and think before you socialize outside of
+      work with employees.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620668432306176
+    m_Localized: "\u2022<indent=5%>Be aware of your impact on the work environment
+      and avoid favoritism.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620709704257536
+    m_Localized: "\u2022<indent=5%>Exercise caution when communicating with co-workers
+      via social media and text messages.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620743099305984
+    m_Localized: "\u2022<indent=5%>Don\u2019t abuse your authority.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620798967435264
+    m_Localized: '<b>Reminder</b>
+
+      If you have any questions regarding these
+      points, please review your local policies and ask for advice.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4631539316781056
+    m_Localized: Explain that someone will follow up.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4633439663648768
+    m_Localized: Do not promise confidentiality or make promises
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4633509599473664
+    m_Localized: Report immediately, seek advice, and be discreet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4633596132159488
+    m_Localized: Offer your personal opinion on the situation to show empathy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4633979759980544
+    m_Localized: Establishing expectations during the report process is key.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4634832814305280
+    m_Localized: If there is an investigation, every measure will be taken to protect
+      confidentiality, but details may be provided to those involved.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4635007720976384
+    m_Localized: What happens next will vary based on the allegation of inappropriate
+      behavior and policies and processes where you work.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4635145419976704
+    m_Localized: This is not a correct response because providing an opinion can
+      bias the process and undermine objectivity.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5044474736373760
+    m_Localized: "What you say or do, or what is not said or done, often has huge
+      implications.\u202F\u202F\_\n\_\nMake sure that the person doesn\u2019t feel
+      isolated from their co-workers or separated from their work opportunities and
+      responsibilities."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5377724755308544
+    m_Localized: Speak Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5377927554101248
+    m_Localized: It can sometimes be difficult to speak up when someone witnesses
+      a tense situation at work.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5378092260225024
+    m_Localized: "As a manager, you should speak up and encourage others to speak
+      up. You are a role model for conduct that is aligned with McDonald\u2019s values.
+      \_"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5479293621964800
+    m_Localized: "<b>\u201CThose comments are inappropriate at work.\u201D</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5479429462888448
+    m_Localized: "<b>\u201CThose types of comments could offend someone and are inappropriate
+      here. Let\u2019s get back to the topic at hand.\u201D</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5479531518693376
+    m_Localized: "<b>\u201CI need to let you know that the comment you made earlier
+      could offend someone and doesn\u2019t align with our values.\u201D</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5479641749196800
+    m_Localized: "<b>\u201CI need direction on how to handle something that happened
+      today.\u201D</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5727196316266496
+    m_Localized: <b>A</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5727260262625280
+    m_Localized: <b>B</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5727327660896256
+    m_Localized: <b>C</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5727378479083520
+    m_Localized: <b>D</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5735202403778560
+    m_Localized: 'Examples of abuse of authority:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5735498689413120
+    m_Localized: Flip card for more information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563320299212800
+    m_Localized: "Look, you know I don\u2019t like how they treat you, but let\u2019s\nbe
+      real, what did you think was going to happen? \nThey were going to throw you
+      a party?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563519709007872
+    m_Localized: "Look, I don\u2019t like this situation either, but I had no choice.\nYou
+      know that I can\u2019t even think about scheduling Miguel \nuntil the investigation
+      is complete. But what I\u2019m concerned\nabout is no one is talking, work
+      is suffering, and I can\u2019t \nhave that in my restaurant."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563633269788672
+    m_Localized: "I\u2019m not saying it is. But I have good news, there\u2019s a
+      vacancy\nat the Washington Ave restaurant. It\u2019s closer to your house,
+      right?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563646171467776
+    m_Localized: Guess who was able to get you a transfer? No need to thank me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6564142617677824
+    m_Localized: Funny.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6564282116034560
+    m_Localized: "But that\u2019s not my fault!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6564307944558592
+    m_Localized: Uh huh...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6564322591068160
+    m_Localized: "\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7333489694953472
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7603158175666176
+    m_Localized: As a leader, your role is to maintain standards and a safe working
+      environment. You will constantly be challenged to provide coaching and feedback.
+      This should always be done fairly and respectfully.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8375492478193664
+    m_Localized: Do not promise confidentiality or make promises
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8375577408655360
+    m_Localized: Report immediately, seek advice, and be discreet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8376570875695104
+    m_Localized: Suggest the person wait a few days to see if the issue resolves
+      itself.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8376643999191040
+    m_Localized: Offer your personal opinion on the situation to show empathy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377561062789120
+    m_Localized: If there is an investigation every measure will be taken to protect
+      the confidentiality of the person or people involved. Some details may be required
+      in order for the report to be investigated.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377673197506560
+    m_Localized: What happens next will vary based on the allegation of inappropriate
+      behavior and policies and processes where you work.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377809847930880
+    m_Localized: This is not a correct response because it's important to address
+      complaints promptly rather than delaying action.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377869428019200
+    m_Localized: This is not a correct response because providing an opinion can
+      bias the process and undermine objectivity.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11672892315750400
+    m_Localized: That doesn't feel quite right.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684172002971648
+    m_Localized: I should think through this more.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12024615286820864
+    m_Localized: "@McDonald\u2019s Social Media Interactions with Co-Workers"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15218309350809600
+    m_Localized: Providing an opinion can help the employee feel more at ease.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15219142033399808
+    m_Localized: These situations often resolve after a cooling-off period.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

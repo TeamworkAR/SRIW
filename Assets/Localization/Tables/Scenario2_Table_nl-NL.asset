@@ -1,0 +1,449 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario2_Table_nl-NL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl-NL
+  m_SharedData: {fileID: 11400000, guid: 546bd2c46a601bb499bd0cdab1e7328e, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2394929133959774211
+  m_TableData:
+  - m_Id: 466376015872
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 944228876288
+    m_Localized: Is sinds een jaar crewlid.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166791229440
+    m_Localized: Is crewlid sinds acht maanden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1222629998592
+    m_Localized: Is crewlid sinds zes maanden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2493600579584
+    m_Localized: Het zijn crewleden die vaak samenwerken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Localized: Bedankt dat je dat programma hebt aanbevolen. Ik heb de laatste
+      aflevering gisteren gekeken. Het was fantastisch!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Localized: Ik wist gewoon dat je het goed zou vinden!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Localized: Vorige week heb ik Liam erover verteld. Die is er ook helemaal aan
+      verslaafd.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Localized: Als Liam eenmaal zijn promotie binnen heeft, zal hij wel niet veel
+      tijd hebben voor tv.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Localized: Krijgt Liam een promotie?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Localized: Nog niet. Maar het is wel duidelijk dat hij de openstaande functie
+      van Shift Leader zal krijgen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Localized: "[0.00-6.10]\nOh, eigenlijk wilde ik daarnaar solliciteren. Dat
+      leek me een prachtige kans. \n[6.10-8.00]\nGaat een van jullie solliciteren?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Localized: "[0.00-3.60]\nNee, ik kan daar niet naar solliciteren. Mijn dochter
+      heeft zoveel activiteiten.\n[3.60-6.91]  \nWe zijn veel te druk. Ouders krijgen
+      geen promotie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Localized: Is dat echt waar?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4219418263552
+    m_Localized: Nee, maar het is een soort 'ongeschreven regel'. Heb jij kinderen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4248908414976
+    m_Localized: Ja. Eentje maar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300582240256
+    m_Localized: "[0.00-3.00]\nDan maak je geen schijn van kans tegen Liam. \n[3.00-5.80]\nHij
+      heeft geen kinderen of andere afleidingen buiten het werk."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348598632448
+    m_Localized: "[0.00-4.50]\nDaarom krijgen mensen zonder kinderen meestal de promoties
+      tot Shift Leader. \n[4.50-6.98]\nAnna vindt vast dat ze toegewijder zijn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4370207686656
+    m_Localized: "[0.00-1.89]\nIk weet dat echt niet zeker. \n[1.89-4.40]\nMaar de
+      laatste twee Shift Leaders waren alleenstaande mannen, \n[4.40-6.24]\nzonder
+      gezinsverantwoordelijkheden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4395776163840
+    m_Localized: Dat lijkt oneerlijk als het waar is.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4423588593664
+    m_Localized: "[0.00-4.10]\nIk heb dat nooit uit Anna's mond gehoord, maar Miguel
+      heeft gelijk. \n[4.10-7.15]\nVerspil je tijd maar niet, Aisha. Je krijgt die
+      functie nooit."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Localized: "[0.00-3.40]\nHoi Anna, heb je even een momentje? \n[3.40-6.04]\nIk
+      heb een paar vragen over de positie van Shift Leader."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Localized: Hoi Aisha, natuurlijk. Ik heb nu wel even tijd, wat wilde je weten?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Localized: "[0.00-3.00]\nIk werk met veel plezier en wil graag blijven groeien. 
+      \n[3.00-6.00]\nIk denk dat die functie van Shift Leader goed bij me zou passen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6477430210560
+    m_Localized: "[0.00-1.78]\nDat is goed om te horen, Aisha. \n[1.78-5.80]\nJe
+      bent geweldig met mensen en ik zie dat je collega's je echt respecteren. \n[5.80-9.33]\nIk
+      ben blij te horen dat je nadenkt over de positie van Shift Leader."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478063550464
+    m_Localized: "[0.00-4.00]\nIk weet alleen niet zeker of ik geschikt ben voor
+      de rol, \n[4.00-7.05]\nmoet ik veel avonddiensten draaien als ik de functie
+      zou krijgen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478696890368
+    m_Localized: "[0.00-2.30]\nNiet per se. \n[2.30-5.80]\nIk raad nieuwe Shift Leaders
+      altijd aan om allerlei verschillende diensten te draaien,\n[5.80-8.06]\nzodat
+      ze inzicht krijgen in alle aspecten van de functie. \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Localized: "[0.00-2.70]\nDat is goed om te horen. \n[2.70-5.00]\nEnkele collega's
+      zijn ervan overtuigd dat je alleen mensen\n[5.00-8.06]\npromoveert die geen
+      kinderen of gezinsverantwoordelijkheden hebben. \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Localized: "[0.00-3.20]\nEcht? Het spijt me dat te horen. \n[3.20-8.68]\nIk
+      zou promoties nooit beperken op basis van gender of gezinsverantwoordelijkheden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Localized: Bedankt! Ik ga zeker solliciteren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Localized: Omdat Aisha een kind heeft, maakt ze geen kans op de promotie als
+      iemand zoals Liam ook solliciteert.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Localized: Miguel gaat ervan uit dat Aisha de promotie niet kan krijgen vanwege
+      haar gender/burgerlijke staat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Localized: Ik weet dat ik over de juiste vaardigheden beschik om Shift Leader
+      te zijn, maar ik die promotie nooit zal krijgen vanwege mijn gezinsverantwoordelijkheden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Localized: Miguel gaat ervan uit dat hij nooit promotie zal maken omdat hij
+      een gezin heeft.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Localized: 'Jammer dan. Aisha zou een geweldige Shift Leader zijn, maar Miguel
+      heeft gelijk. De meeste Shift Leaders hebben geen kinderen en weinig verplichtingen
+      buiten het werk. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Localized: Mira is ervan overtuigd dat Aisha een goede Shift Leader zou zijn,
+      maar vermoedt dat ze de promotie niet krijgt omdat ze een kind heeft.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7931473772544
+    m_Localized: Misschien hebben Miguel en Mira gelijk. Ik kan maar beter niet solliciteren
+      naar die functie van Shift Leader.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8271615049728
+    m_Localized: Aisha solliciteert mogelijk niet naar de rol, al wil ze die nog
+      zo graag, vanwege de dingen die Miguel en Mira haar hebben verteld.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Localized: 'Als ik geen enkele kans op promotie maak, weet ik niet of ik wel
+      wil blijven. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Localized: Aisha overweegt McDonald's te verlaten vanwege de dingen die ze
+      heeft gehoord.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8462938226688
+    m_Localized: Ik zou Anna kunnen vragen hoe ze promoties afhandelt. Maar ik wil
+      niet klinken alsof ik haar ergens van beschuldig.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8464821469184
+    m_Localized: Aisha wil met Anna praten, maar weet niet goed wat ze moet zeggen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Localized: Een omgeving die vrij is van discriminatie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Localized: "Discriminatie is een oneerlijke behandeling van medewerkers op
+      basis van kenmerken zoals ras, beperkingen, geloof, gender of burgerlijke staat
+      (onder andere). \nAls je het gevoel hebt dat je<b> beroepsstatus is gevaar
+      komt</b> op basis van je gender of gezinsverantwoordelijkheden of aannames
+      die daarop worden gebaseerd, moet je die ervaring melden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Localized: Aisha's gender of haar beslissing om kinderen te krijgen mag geen
+      factor zijn bij beslissingen over haar dienstverband.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Localized: Aannames of verkeerde percepties delen (zelfs als <b>het niet de
+      bedoeling is om te roddelen of intimideren</b>) kan anderen ontmoedigen hun
+      beste werk te leveren of hun potentieel te bereiken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Localized: De opmerkingen van Miguel en Mira zouden Aisha zodanig kunnen intimideren
+      dat ze niet naar de promotie solliciteert.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Localized: Wat moet {0} als volgende doen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11266293579776
+    m_Localized: Er verder niet op ingaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Localized: Melding maken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Localized: 'Ze heeft bewijs nodig dat Anna alleen alleenstaande mannen een
+      promotie geeft voordat ze met haar praat. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Localized: Ze moet aan Anna vragen wat haar eisen zijn voor de nieuwe Shift
+      Leader en mag niet uitgaan van de aannames van anderen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Localized: Miguel en Mira hebben meer ervaring, dus ze moet hun advies opvolgen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Localized: Ze zou haar zorgen over het promotieproces naar voren kunnen brengen
+      via de gepaste kanalen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Localized: Ze moet op zoek gaan naar een eenvoudigere baan en elke confrontatie
+      uit de weg gaan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Localized: 'Ze vindt haar werk leuk en hoopt dat er een toekomst voor haar
+      is bij McDonald''s. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Localized: "Haar gender of gezinsverantwoordelijkheden mogen geen enkele invloed
+      hebben op beslissingen over haar carri\xE8re."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Localized: Ze wil niet het risico lopen Anna tegen de haren in te strijken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Localized: Ik zou hier nog eens goed over moeten nadenken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Localized: Dat voelt toch niet helemaal goed aan. Dit is een betere keuze.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Localized: '\u2022 <indent=1em>Omdat Aisha haar zorgen aan Anna kenbaar heeft
+      gemaakt, heeft Anna ook de mogelijkheid aangegrepen om duidelijkheid te scheppen
+      over de verwachtingen rond de rol voor het hele team. Dit heeft de anderen
+      nauwer bij het team betrokken en het gevoel gegeven dat ze ook konden solliciteren.</indent>
+
+      \u2022
+      <indent=1em>Als gevolg hiervan besloot Miguel ook te solliciteren naar de rol.</indent>
+
+
+      Wat
+      zou er zijn gebeurd als Aisha anders had gehandeld?'
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774211
+  - m_Id: 15426061680640
+    m_Localized: Wat als Aisha niet met Anna had gesproken?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15471767011328
+    m_Localized: "\\u2022 <indent=1em>Mogelijk had ze een negatief gevoel gekregen
+      over het vermeende gebrek aan mogelijkheden en zou haar werkplezier zijn aangetast.</indent>\n\\u2022
+      <indent=1em>Ze had nooit zeker kunnen weten hoe ze haar carri\xE8re bij McDonald's
+      verder had kunnen ontwikkelen.</indent>\n\\u2022 <indent=1em>Mogelijk zou ze
+      op zoek zijn gegaan naar een nieuwe baan buiten McDonald's. </indent>\n\\u2022
+      <indent=1em>Als ze naar de rol had gesolliciteerd en ze deze niet had gekregen,
+      was ze mogelijk de aannames gaan geloven van Miguel en Mira. </indent>\n\\u2022
+      <indent=1em>Miguel en Mira hadden kunnen doorgaan met het intimideren van anderen.</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774211
+  - m_Id: 15505216585728
+    m_Localized: Wat als Anna echt discrimineerde?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15515450687488
+    m_Localized: "Als een van de crewleden zich zorgen maakte over het promotieproces,
+      zou deze zijn of haar zorgen kunnen melden via de gepaste kanalen. \n\nNa het
+      melden van de zorgen wordt gepaste actie ondernomen om te bepalen of Anna medewerkers
+      discrimineert op basis van hun gender of als ze gezinsverantwoordelijkheden
+      hebben. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16655802253312
+    m_Localized: Door de kernwaarden van McDonald's hoog te houden, kun je bijdragen
+      aan een <b>veilige, respectvolle en inclusieve cultuur</b> in je restaurant.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Localized: "Van mensen die zich veilig voelen op de werkplek is de kans groter
+      dat ze bij het bedrijf blijven en hun carri\xE8re verder ontwikkelen, en ook
+      zijn ze tevredener."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Localized: Door de juiste actie te ondernemen, zoals ongepaste opmerkingen
+      melden, kun je een positieve invloed uitoefenen, waardoor ook anderen zich
+      meer gerespecteerd voelen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Localized: Alle beslissingen inzake het dienstverband (inclusief promoties)
+      moeten worden gebaseerd op kwalificaties en niet op persoonlijke kenmerken
+      zoals gender, leeftijd of gezinsverantwoordelijkheden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Localized: Miguel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Localized: Mira
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17400073109504
+    m_Localized: Aisha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Localized: Veilig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Localized: Respectvol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Localized: Inclusief
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296104909160448
+    m_Localized: Dit voelt goed aan, ik ga het doen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303875540992000
+    m_Localized: Anna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113546642558976
+    m_Localized: Je woorden zijn van invloed op anderen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344469507850240
+    m_Localized: "[0.00-3.40]\nDe laatste Shift Leaders hebben meer avonddiensten
+      aangevraagd. \n[3.40-7.56]\nMaar we kunnen de planning aanpassen op basis van
+      jouw behoeften."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1345536433930240
+    m_Localized: Ze zeiden zelfs dat je vaak alleenstaande mannen een promotie geeft.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1345861337300992
+    m_Localized: "[0.00-2.10]\nBedankt dat je dit aan me hebt verteld. \n[2.10-4.40]\nIk
+      zal iedereen zeker laten weten dat ze kunnen\n[4.40-7.56]\nsolliciteren en
+      ik zal mijn best doen om de verwachtingen duidelijk te maken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7901011161989120
+    m_Localized: Aisha is de direct ondergeschikte van haar manager, Anna.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36295544098775040
+    m_Localized: Aisha en Anna zitten in de pauzeruimte van een McDonald's-restaurant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36295452922994688
+    m_Localized: "Miguel, Mira en Aisha staan \u200B\u200Bin de pauzeruimte van een
+      McDonald's-restaurant"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2394929133959774211
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00402df3f20d000000402d4d120e0000

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Slovak (Slovakia) (sk-SK)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Slovak (Slovakia) (sk-SK)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5004c08d1f5b8364090e2bf3442a5b30
+  m_SerializeEntries:
+  - m_GUID: 72b6774e4275bd8438cd115f6d5a59a4
+    m_Address: CommonTable_sk-SK
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk-SK
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c4eb6606afe23541b02610a9dacbe5a
+    m_Address: Scenario1_Table_sk-SK
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk-SK
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 377524c6b9728464c8d5ea2dec4997f9
+    m_Address: Scenario2_Table_sk-SK
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk-SK
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b5163ad92a44ff4ebb24b334a36e95b
+    m_Address: Scenario3_Table_sk-SK
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk-SK
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ce768ad0dc863945a18df732f82bcda
+    m_Address: Scenario4_Table_sk-SK
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk-SK
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35db154080d04fb4682be0d6c64c659d
+    m_Address: Scenario5_Table_sk-SK
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk-SK
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 2d72e871c656bcd49bcfc065e13eed24, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6ffd9d3b5efbe5743ad3bf4890dd9b64, type: 2}
+    - {fileID: 11400000, guid: 695a46d97f30bab4cb77908df585083c, type: 2}

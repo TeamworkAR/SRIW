@@ -70,3 +70,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Remove Mac added files
+*.DS_Store
+
+# Additions to ignore files containing secrets
+Assets/Settings/EasyFeedbackConfig.asset
+Assets/Settings/EasyFeedbackConfig_Scenario01.asset
+Assets/Settings/EasyFeedbackConfig_Scenario02.asset
+Assets/Settings/EasyFeedbackConfig_Scenario03.asset
+Assets/Settings/EasyFeedbackConfig_Scenario04.asset
+Assets/Settings/EasyFeedbackConfig_Scenario05.asset

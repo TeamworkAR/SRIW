@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario2_Table_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 546bd2c46a601bb499bd0cdab1e7328e, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2394929133959774214
+  m_TableData:
+  - m_Id: 466376015872
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 944228876288
+    m_Localized: "Ist seit 1\_Jahr ein Crew-Mitglied."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166791229440
+    m_Localized: "Ist seit 8\_Monaten ein Crew-Mitglied."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1222629998592
+    m_Localized: "Ist seit 6\_Monaten ein Crew-Mitglied."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2493600579584
+    m_Localized: Sie sind Crew-Mitglieder, die oft zusammenarbeiten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Localized: "Danke f\xFCr die Empfehlung dieser Sendung, ich habe sie gestern
+      Abend zu Ende gesehen. Es hat mir sehr gefallen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Localized: Das wusste ich!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Localized: "Ich habe Liam letzte Woche davon erz\xE4hlt. Er ist auch s\xFCchtig
+      danach."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Localized: "Liam wird nicht viel Zeit zum Fernsehen haben, wenn er bef\xF6rdert
+      wird."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Localized: "Liam wird bef\xF6rdert?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Localized: "Noch nicht. Aber es ist ziemlich offensichtlich, dass er die offene
+      Position als Schichtf\xFChrer bekommen wird."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Localized: "[0.00-6.10]\nOh, ich dachte, ich k\xF6nnte mich daf\xFCr bewerben.
+      Das k\xF6nnte eine tolle Chance sein. \n[6.10-8.00]\nWird einer von euch es
+      versuchen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Localized: "[0.00-3.60]\nNein, ich kann nicht. Meine Tochter hat so viele Aktivit\xE4ten.\n[3.60-6.91] 
+      \nWir haben eine Menge zu tun. Eltern werden nicht bef\xF6rdert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Localized: Ist das wirklich wahr?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4219418263552
+    m_Localized: "Nein, aber es ist eine Art \u201Eungeschriebenes Gesetz\u201C.
+      Hast du Kinder?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4248908414976
+    m_Localized: Ja. Aber nur eins.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300582240256
+    m_Localized: "[0.00-3.00]\nDann hast du keine Chance gegen Liam. \n[3.00-5.80]\nEr
+      hat keine Kinder oder andere Ablenkungen au\xDFerhalb der Arbeit."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348598632448
+    m_Localized: "[0.00-4.50]\nAus diesem Grund werden Mitarbeiter ohne Kinder in
+      der Regel zu Schichtf\xFChrern bef\xF6rdert. \n[4.50-6.98]\nIch wette, Anna
+      h\xE4lt sie f\xFCr engagierter."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4370207686656
+    m_Localized: "[0.00-1.89]\nDas wei\xDF ich nicht genau. \n[1.89-4.40]\nAber die
+      letzten beiden Schichtf\xFChrer waren alleinstehende M\xE4nner, \n[4.40-6.24]\nohne
+      famili\xE4re Verpflichtungen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4395776163840
+    m_Localized: Das scheint ungerecht, wenn es stimmt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4423588593664
+    m_Localized: "[0.00-4.10]\nIch habe Anna noch nie so etwas sagen h\xF6ren, aber
+      Miguel hat Recht. \n[4.10-7.15]\nVergeude nicht deine Zeit, Aisha. Du wirst
+      sie nie bekommen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Localized: "[0.00-3.40]\nHallo Anna, hast du einen Moment Zeit, um zu reden?
+      \n[3.40-6.04]\nIch habe ein paar Fragen zur Position des Schichtf\xFChrers."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Localized: "Hallo Aisha, nat\xFCrlich. Ich kann jetzt - wor\xFCber m\xF6chtest
+      du denn sprechen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Localized: "[0.00-3.00]\nDie Arbeit macht mir Spa\xDF, und ich m\xF6chte mich
+      weiterentwickeln.  \n[3.00-6.00]\nDie Position des Schichtf\xFChrers k\xF6nnte
+      gut zu mir zu passen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6477430210560
+    m_Localized: "[0.00-1.78]\nDas ist sch\xF6n zu h\xF6ren, Aisha. \n[1.78-5.80]\nDu
+      kannst gut mit Menschen umgehen, und ich habe festgestellt, dass deine Kollegen
+      dich wirklich respektieren. \n[5.80-9.33]\nFreut mich zu h\xF6ren, dass du
+      \xFCber die Position des Schichtf\xFChrers nachdenkst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478063550464
+    m_Localized: "[0.00-4.00]\nIch bin mir nur nicht sicher, ob ich f\xFCr die Stelle
+      geeignet bin. \n[4.00-7.05]\nM\xFCsste ich viele Abendschichten \xFCbernehmen,
+      wenn ich die Stelle bek\xE4me?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478696890368
+    m_Localized: "[0.00-2.30]\nNicht unbedingt. \n[2.30-5.80]\nIch empfehle neuen
+      Schichtf\xFChrern, in verschiedenen Schichten zu arbeiten,\n[5.80-8.06]\num
+      sicherzustellen, dass die sie alle Aspekte der T\xE4tigkeit verstehen. \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Localized: "[0.00-2.70]\nDas ist gut zu h\xF6ren. \n[2.70-5.00]\nWei\xDFt du,
+      einige meiner Kollegen denken, dass du nur Mitarbeiter bef\xF6rderst,\n[5.00-8.06]\ndie
+      keine Kinder oder andere famili\xE4re Verpflichtungen haben. \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Localized: "[0.00-3.20]\nWirklich? Es tut mir leid, das zu h\xF6ren. \n[3.20-8.68]\nIch
+      w\xFCrde niemals eine Bef\xF6rderung aufgrund des Geschlechts oder der famili\xE4ren
+      Verpflichtungen einer Person einschr\xE4nken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Localized: Vielen Dank! Ich freue mich darauf, mich zu bewerben.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Localized: "Da Aisha ein Kind hat, hat sie bei der Bef\xF6rderung keine Chance
+      gegen jemanden wie Liam."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Localized: "Miguel nimmt an, dass Aisha aufgrund ihres Geschlechts bzw. ihres
+      Familienstands nicht bef\xF6rdert werden k\xF6nnte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Localized: "Ich wei\xDF, dass ich das Zeug zum Schichtf\xFChrer habe, aber
+      sie w\xFCrden mich wegen meiner famili\xE4ren Verpflichtungen nie bef\xF6rdern."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Localized: "Miguel geht davon aus, dass er aufgrund seines Familienstandes
+      nie bef\xF6rdert werden w\xFCrde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Localized: "Das ist sehr bedauerlich. Aisha w\xE4re eine tolle Schichtf\xFChrerin,
+      aber Miguel hat Recht. Die meisten Schichtf\xFChrer haben weder Kinder noch
+      viele andere Verpflichtungen. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Localized: "Mira glaubt, dass Aisha die F\xE4higkeit hat, die Position des
+      Schichtf\xFChrers zu \xFCbernehmen, vermutet aber, dass sie nicht bef\xF6rdert
+      wird, weil sie ein Kind hat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7931473772544
+    m_Localized: "Vielleicht haben Miguel und Mira Recht. Ich sollte mich nicht um
+      die Stelle des Schichtf\xFChrers bewerben."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8271615049728
+    m_Localized: "Aisha bewirbt sich aufgrund der \xC4u\xDFerungen von Miguel und
+      Mira m\xF6glicherweise nicht f\xFCr die Position, auch wenn sie es gerne m\xF6chte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Localized: "Wenn es keine Chance auf eine Bef\xF6rderung gibt, bin ich mir
+      nicht sicher, ob ich bleiben m\xF6chte. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Localized: "Aisha \xFCberlegt, McDonald's aufgrund dessen, was sie geh\xF6rt
+      hat, zu verlassen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8462938226688
+    m_Localized: "Ich k\xF6nnte Anna fragen, wie sie Bef\xF6rderungen handhabt. Aber
+      ich m\xF6chte nicht so klingen, als w\xFCrde ich ihr etwas vorwerfen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8464821469184
+    m_Localized: "Aisha m\xF6chte mit Anna sprechen, wei\xDF aber nicht, was sie
+      sagen soll."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Localized: Eine diskriminierungsfreie Arbeitsumgebung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Localized: "Diskriminierung ist die ungerechte Behandlung eines Arbeitnehmers
+      aufgrund von Merkmalen wie Rasse, Behinderung, Religion, Geschlecht oder Familienstand
+      (unter anderem). \nWenn du das Gef\xFChl hast, dass dein<b> Jobstatus aufgrund
+      deines</b> Geschlechts oder deiner famili\xE4ren Verpflichtungen oder aufgrund
+      von darauf beruhenden Annahmen gef\xE4hrdet ist, solltest du deine Erfahrungen
+      melden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Localized: "Das Geschlecht von Aisha oder ihre Entscheidung, Kinder zu bekommen,
+      sollte bei Entscheidungen \xFCber ihre Besch\xE4ftigung keine Rolle spielen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Localized: "Annahmen oder falsche Wahrnehmungen zu \xE4u\xDFern (selbst wenn
+      <b>die Absicht nicht darin besteht, zu tratschen oder jemanden einzusch\xFCchtern</b>),
+      kann andere davon abhalten, gute Arbeit zu leisten oder ihr Potenzial auszusch\xF6pfen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Localized: "Miguels und Miras Kommentare k\xF6nnten Aisha verunsichern und
+      dazu bringen, dass sie sich nicht f\xFCr die Bef\xF6rderung bewirbt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Localized: "Was sollten wir {0} als N\xE4chstes tun?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11266293579776
+    m_Localized: Lass es auf sich beruhen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Localized: Melden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Localized: "Sie braucht einen Beweis daf\xFCr, dass Anna nur alleinstehende
+      M\xE4nner bef\xF6rdert, bevor sie mit ihr spricht. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Localized: "Sie sollte Anna fragen, was sie vom neuen Schichtf\xFChrer erwartet,
+      anstatt sich auf die Vermutungen anderer zu verlassen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Localized: Miguel und Mira haben mehr Erfahrung, also sollte sie deren Rat
+      befolgen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Localized: "Sie k\xF6nnte ihre Bedenken bez\xFCglich des Bef\xF6rderungsverfahrens
+      bei den entsprechenden Stellen vorbringen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Localized: Sie sollte sich einfach einen leichteren Job suchen und jede Konfrontation
+      vermeiden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Localized: 'Sie mag ihren Job und hofft, dass sie eine Zukunft bei McDonald''s
+      hat. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Localized: "Ihr Geschlecht oder ihre famili\xE4ren Verpflichtungen sollten
+      keinen Einfluss auf die Entscheidungen \xFCber ihre berufliche Laufbahn haben."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Localized: "Sie m\xF6chte nicht riskieren, Anna zu ver\xE4rgern."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Localized: "Ich sollte das noch einmal \xFCberdenken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Localized: Das ist immer noch nicht ganz richtig. Das wird noch besser werden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Localized: "\\u2022 <indent=1em>Da Aisha ihre Bedenken Anna gegen\xFCber ge\xE4u\xDFert
+      hat, hat Anna ebenfalls die Gelegenheit genutzt, die Erwartungen an die Position
+      mit dem gesamten Team zu kl\xE4ren und damit anderen Mitarbeitern das Gef\xFChl
+      gegeben, dass sie besser einbezogen werden und sich bewerben k\xF6nnen.</indent>\n\\u2022
+      <indent=1em>Daraufhin beschloss Miguel, sich ebenfalls auf die Position zu
+      bewerben.</indent>\n\nWas w\xE4re, wenn Aisha anders gehandelt h\xE4tte?"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774214
+  - m_Id: 15426061680640
+    m_Localized: "Was w\xE4re, wenn Aisha nicht mit Anna gesprochen h\xE4tte?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15471767011328
+    m_Localized: "\\u2022 <indent=1em>Sie k\xF6nnte sich \xFCber den vermeintlichen
+      Mangel an M\xF6glichkeiten \xE4rgern und beginnen, weniger Freude an der Arbeit
+      zu haben.</indent>\n\\u2022 <indent=1em>Sie w\xFCrde nie mit Sicherheit wissen,
+      wie sie ihre Karriere bei McDonald's h\xE4tte ausbauen k\xF6nnen.</indent>\n\\u2022
+      <indent=1em>Sie k\xF6nnte sich nach einem neuen Job au\xDFerhalb von McDonald's
+      umsehen. </indent>\n\\u2022 <indent=1em>Wenn sie sich f\xFCr die Position beworben
+      und sie nicht bekommen h\xE4tte, k\xF6nnte sie den Vermutungen von Miguel und
+      Mira m\xF6glicherweise tats\xE4chlich Glauben schenken. </indent>\n\\u2022
+      <indent=1em>Miguel und Mira k\xF6nnten andere weiterhin einsch\xFCchtern.</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774214
+  - m_Id: 15505216585728
+    m_Localized: "Was w\xE4re, wenn Anna andere wirklich diskriminieren w\xFCrde?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15515450687488
+    m_Localized: "Wenn ein Crew-Mitglied Bedenken bez\xFCglich des Bef\xF6rderungsverfahrens
+      h\xE4tte, k\xF6nnte es diese \xFCber die entsprechenden Kan\xE4le melden. \n\nNachdem
+      sie ihre Bedenken ge\xE4u\xDFert h\xE4tte, w\xFCrden geeignete Ma\xDFnahmen
+      ergriffen, um zu ermitteln, ob Anna Mitarbeiter aufgrund ihres Geschlechts
+      oder ihrer famili\xE4ren Verpflichtungen diskriminiert. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16655802253312
+    m_Localized: "Durch die Einhaltung der McDonald\u2019s Grundwerte kannst du dazu
+      beitragen, eine <b>sichere, respektvolle und integrative Kultur</b> in deinem
+      Restaurant zu schaffen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Localized: "Mitarbeiter, die sich am Arbeitsplatz sicher f\xFChlen, sind eher
+      bereit, zu bleiben und ihre Karriere voranzutreiben, und sie sind zufriedener."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Localized: "Die richtigen Ma\xDFnahmen zu ergreifen, z.\_B. das Melden unangemessener
+      Kommentare, kann einen Dominoeffekt haben, der dazu beitr\xE4gt, dass sich
+      andere mehr respektiert f\xFChlen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Localized: "Alle Einstellungsentscheidungen (einschlie\xDFlich Bef\xF6rderungen)
+      m\xFCssen auf der Grundlage von Qualifikationen und nicht auf pers\xF6nlichen
+      Merkmalen wie Geschlecht, Alter oder famili\xE4ren Verpflichtungen getroffen
+      werden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Localized: Miguel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Localized: Mira
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17400073109504
+    m_Localized: Aisha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Localized: Sicher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Localized: Respektvoll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Localized: Integrativ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296104909160448
+    m_Localized: "Das f\xFChlt sich f\xFCr mich richtig an, ich werde es tun."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303875540992000
+    m_Localized: Anna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113546642558976
+    m_Localized: Deine Worte beeinflussen andere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344469507850240
+    m_Localized: "[0.00-3.40]\nDie letzten Schichtf\xFChrer haben mehr Abendschichten
+      gefordert. \n[3.40-7.56]\nAber wir k\xF6nnen die Terminplanung so umsetzen,
+      wie es f\xFCr dich am besten ist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1345536433930240
+    m_Localized: "Sie haben sogar erw\xE4hnt, dass du h\xE4ufig alleinstehende M\xE4nner
+      bef\xF6rderst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1345861337300992
+    m_Localized: "[0.00-2.10]\nDanke f\xFCr den Hinweis. \n[2.10-4.40]\nIch werde
+      es alle wissen lassen, dass sie sich willkommen f\xFChlen\n[4.40-7.56]\nbewerben
+      k\xF6nnen, und die Erwartungen besser formulieren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7901011161989120
+    m_Localized: Aisha meldet es Anna, ihrer Managerin.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36295544098775040
+    m_Localized: Aisha und Anna sitzen im Pausenraum eines McDonald's-Restaurants
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36295452922994688
+    m_Localized: Miguel, Mira und Aisha stehen im Pausenraum eines McDonald's-Restaurants
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2394929133959774214
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00402df3f20d000000402d4d120e0000

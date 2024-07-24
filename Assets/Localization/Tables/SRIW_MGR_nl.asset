@@ -1,0 +1,843 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: SRIW_MGR_nl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl
+  m_SharedData: {fileID: 11400000, guid: 30630d9d68e57f84bb4a6bc4784ad227, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 58963357696
+    m_Localized: <b>Bij Mcdonald's bevorderen en onderhouden we een veilige, respectvolle
+      en inclusieve werkplek voor iedereen door:</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32415523106816
+    m_Localized: De rol van de manager bij het opbouwen van een veilige, respectvolle
+      en inclusieve werkplek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280336076206080
+    m_Localized: <size=+20><b>De rol van de manager bij het opbouwen van een veilige,
+      respectvolle en inclusieve werkplek</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 300762370240512
+    m_Localized: Elke dag onze waarden naleven en verdedigen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 301541340573696
+    m_Localized: Iedereen met respect behandelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 324650974146560
+    m_Localized: Zich bewust zijn van en reflecteren op de impact die onze woorden
+      en daden hebben op anderen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 328896373157888
+    m_Localized: Spreek uw mening uit als u ongepast gedrag ziet of ervaart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 329567763787776
+    m_Localized: "Erom denken dat iedereen, vooral leiders, een belangrijke rol speelt
+      bij het cre\xEBren van een respectvolle cultuur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2592079758446592
+    m_Localized: 'Als manager van anderen speelt u een cruciale rol bij het opbouwen
+      van een veilige, respectvolle en inclusieve werkplek.
+
+
+      Er wordt van
+      je verwacht dat je een rolmodel bent voor je team en altijd het goede voorbeeld
+      geeft!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2592417236340736
+    m_Localized: <b>Managers hebben een verantwoordelijkheid als het gaat om het
+      zijn van een rolmodel, waaronder:</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2592760418488320
+    m_Localized: Een positief voorbeeld geven door ervoor te zorgen dat er in jouw
+      handelen, inclusief beslissingen ten aanzien van medewerkers en gedrag op de
+      werkplek, geen sprake is van ongepast gedrag zoals intimidatie (fysiek, psychologisch,
+      seksueel), discriminatie, pesten en vergelding/represailles.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2593642577088512
+    m_Localized: Er alles aan doen om alle vormen van ongepast gedrag, zoals intimidatie
+      (fysiek, psychologisch, seksueel), discriminatie, pesten en vergelding/represailles,
+      uit te bannen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2594270552477696
+    m_Localized: Onmiddellijk escaleren als u zich bewust wordt van ongepast gedrag
+      of als een medewerker u informatie geeft over gedrag waardoor hijzelf of anderen
+      zich ongemakkelijk of onveilig kunnen voelen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2594492410187776
+    m_Localized: Beschuldigingen of meldingen van alle vormen van ongepast gedrag,
+      zoals intimidatie (fysiek, psychologisch, seksueel), discriminatie, pesten
+      en vergelding/represailles, serieus nemen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2595063053635584
+    m_Localized: Samenwerken met de juiste mensen om beschuldigingen snel en grondig
+      te onderzoeken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2595208877002752
+    m_Localized: Ervoor zorgen dat u en uw teamleden weten hoe en waar ze zich moeten
+      melden als ze ongepast gedrag ervaren of herkennen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2609365743521792
+    m_Localized: <b>Wat denk je dat je in deze situatie moet doen?</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2609551664435200
+    m_Localized: '<b>Iemand heeft zich bij je gemeld met een mogelijke klacht.
+
+      Wat
+      denk je dat je in deze situatie moet doen?</b>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2609684217024512
+    m_Localized: Draai de kaarten om voor meer context en selecteer vervolgens alles
+      wat van toepassing is.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610809649451008
+    m_Localized: Vertel diegene dat je blij bent dat hij of zij het bij je heeft
+      gemeld.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610878549282816
+    m_Localized: Neem de klacht serieus.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610915408826368
+    m_Localized: Luister, maar kies geen partij en trek geen conclusies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610968991059968
+    m_Localized: Leg uit dat iemand dit zal opvolgen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611299066007552
+    m_Localized: 'Een jonge medewerker heeft je verteld dat een leverancier naar
+      haar knipoogde en dat ze zich daar ongemakkelijk bij voelde.
+
+
+      Is de
+      volgende reactie van een manager passend?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611431417270272
+    m_Localized: Adam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611612242104320
+    m_Localized: '"Die leverancier knipoogt naar iedereen, maar dat is volkomen onschuldig.
+
+      Als
+      hij iets ernstigers doen, moet je me dat zeker laten weten."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611893193363456
+    m_Localized: Juist! Managers moeten potentieel ongepast gedrag altijd serieus
+      nemen. Dit betekent dat je het incident onmiddellijk moet melden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612031949328384
+    m_Localized: Onjuist, managers moeten potentieel ongepast gedrag altijd serieus
+      nemen. Dit betekent dat je het incident onmiddellijk moet melden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612287864786944
+    m_Localized: Wat moet je doen als een medewerker je vertelt dat hij/zij er getuige
+      van is geweest dat een Senior Leader crewleden op een ongepaste manier aansprak?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612453514629120
+    m_Localized: Wacht om te observeren of het gedrag van de senior leider zich opnieuw
+      voordoet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612574507716608
+    m_Localized: Leg de bemanningsleden uit dat dit soms kan gebeuren, en dat dit
+      geen probleem is.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612620355653632
+    m_Localized: Geef aan dat het gedrag van de Senior Leader niet wordt getolereerd
+      en rapporteer het.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612676479635456
+    m_Localized: Juist! Als manager heb jij de mogelijkheid om ongepast gedrag een
+      halt toe te roepen. Elke vorm van ongepast gedrag, inclusief dat van Senior
+      Leaders, moet worden gemeld en serieus worden genomen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612770310410240
+    m_Localized: Onjuist, als manager heb je de discretionaire bevoegdheid om ongepast
+      gedrag te stoppen. Elke vorm van ongepast gedrag, inclusief dat van Senior
+      Leaders, moet worden gemeld en serieus worden genomen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612922806915072
+    m_Localized: "Een medewerker klaagt bij je dat hij/zij is lastiggevallen door
+      een manager omdat hij/zij voor de tweede keer deze week te laat terugkwam van
+      pauze. De manager nam hen terzijde om de kwestie te bespreken en zich ertoe
+      te verbinden punctueel te zijn.\n\_\nIs dit intimidatie?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613051878232064
+    m_Localized: "Juist! Het communiceren van de verwachtingen van McDonald's en
+      het apart nemen van een medewerker om een \u200B\u200Bkwestie te bespreken
+      is geen vorm van intimidatie. Er kan echter sprake zijn van intimidatie als
+      de feedback op een krachtige, kwetsende, bedreigende of intimiderende manier
+      wordt gegeven. Als u het niet zeker weet, moet u dit via het juiste kanaal
+      melden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613344506433536
+    m_Localized: "Onjuist: het communiceren van de verwachtingen van McDonald's en
+      het apart nemen van een medewerker om een \u200B\u200Bkwestie te bespreken
+      is geen vorm van intimidatie. Er kan echter sprake zijn van intimidatie als
+      de feedback op een pestende manier wordt gegeven. Als u het niet zeker weet,
+      moet u dit via het juiste kanaal melden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613459648466944
+    m_Localized: <b>Verantwoordelijkheden van de manager op het gebied van vergelding/slachtofferschap</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613561855266816
+    m_Localized: Er is sprake van vergelding/represailles wanneer iemand wordt gestraft
+      of een negatieve werksfeer ervaart of individuele acties ondervindt, omdat
+      hij/zij van plan is een klacht in te dienen, of betrokken is bij een klacht
+      (bijvoorbeeld als getuige) over gedrag op de werkplek, zoals mogelijke intimidatie
+      (fysiek, psychologisch, seksueel), discriminatie, pesten of vergelding/represailles.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613610907652096
+    m_Localized: "<b>Voorbeelden van vergelding/slachtofferschap:</b>\n\n\u2022<indent=5%>Ontslag</indent>\_\n\u2022<indent=5%>Demotie\_</indent>\_\n\u2022<indent=5%>Een
+      slechte evaluatie op hun prestaties\_</indent>\n\u2022<indent=5%>Het wisselen
+      van diensten</indent>\n\u2022<indent=5%>Uitgesloten worden van teams, evenementen,
+      vergaderingen\_</indent>\n\u2022<indent=5%>Ongewenste taken\_\_</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613718365720576
+    m_Localized: 'Als manager: voorkom, stop en rapporteer vergeldingsgedrag van
+      uw team. Als je als manager wordt beschuldigd van vergelding/represailles,
+      blijf dan als rolmodel leidinggeven aan de medewerker. Werk volledig en eerlijk
+      samen met de onderzoekers en laat het proces zijn gang gaan.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613822434791424
+    m_Localized: Zorg ervoor dat je als manager eventueel vergeldingsgedrag van je
+      team voorkomt, een halt toeroept en meldt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613934519177216
+    m_Localized: "In het volgende scenario gaf Samuel zijn collega Miguel aan wegens
+      ongepast gedrag. Nu praten sommige collega's van Samuel niet met hem. Samuel
+      heeft hen geconfronteerd met de reden waarom hij Miguel moest rapporteren,
+      maar wordt nog steeds door zijn collega's genegeerd.\_\_\n\_\nNadat ze de gespannen
+      situatie heeft opgemerkt, nodigt Anna, de manager, Samuel uit voor een gesprek."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614011002310656
+    m_Localized: Anna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614046637117440
+    m_Localized: Jullie waren allemaal vrienden, en de sfeer hier was fantastisch.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614120544948224
+    m_Localized: Samuel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614198881964032
+    m_Localized: Tja, dingen veranderen soms.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614224014233600
+    m_Localized: Kan Anna Samuel in deze situatie overplaatsen naar een nieuw restaurant?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614313474543616
+    m_Localized: "Juist!\_Het is duidelijk dat Anna Samuel naar een ander restaurant
+      wil overplaatsen op basis van de gevolgen van Samuels klacht. Het veranderen
+      van de werksituatie van een medewerker omdat de medewerker een klacht heeft
+      ingediend, is uiterst riskant, zelfs als de leidinggevende en de medewerker
+      dit als een positieve zet beschouwen.\n\_\nEen goede vuistregel is om een medewerker
+      te blijven behandelen alsof die nooit een klacht heeft ingediend."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614433234505728
+    m_Localized: "Onjuist. Het is duidelijk dat Anna Samuel naar een ander restaurant
+      wil overplaatsen op basis van de gevolgen van Samuels klacht. Het veranderen
+      van de werksituatie van een medewerker omdat de medewerker een klacht heeft
+      ingediend, is uiterst riskant, zelfs als de leidinggevende en de medewerker
+      dit als een positieve zet beschouwen.\n\_\nEen goede vuistregel is om een medewerker
+      te blijven behandelen alsof die nooit een klacht heeft ingediend."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614603657465856
+    m_Localized: Het kan voor mensen lastig zijn om met een klacht naar voren te
+      komen. Erken die moeilijkheid door hen te bedanken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2615178197422080
+    m_Localized: Er zijn veel redenen waarom mensen mogelijk geen melding doen (bijvoorbeeld
+      de angst dat hun melding niet serieus wordt genomen).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2615219234492416
+    m_Localized: Verzamel alleen de informatie die nodig is om de melding te doen
+      met compassie en objectiviteit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2615270258200576
+    m_Localized: Het scheppen van verwachtingen tijdens het rapportageproces is van
+      cruciaal belang.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616712327024640
+    m_Localized: Iemand die een klacht indient of betrokken is bij het onderzoek
+      naar een klacht kan zich vaak onzeker en zelfs bedreigd voelen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616952182493184
+    m_Localized: "Door voor elkaar op te komen, zet je mensen op de eerste plaats,
+      waarmee je zorgt voor inclusie. Dat is de juiste manier van handelen.\_\_"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616995702591488
+    m_Localized: "<b>Wanneer moet je iets aankaarten</b>\n\_\nWeet u niet zeker wanneer
+      dit het juiste is om te doen?\_\n\_\nStel uzelf deze vragen over de situatie:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617243074252800
+    m_Localized: Is wat ik meemaak beledigend of kwetsend voor mij?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617462226636800
+    m_Localized: Zou dit in strijd kunnen zijn met onze waarden?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617526504345600
+    m_Localized: "Ziet iemand er ongemakkelijk uit?\_"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617569235914752
+    m_Localized: Voel ik me ongemakkelijk als ik toekijk?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617613712314368
+    m_Localized: Kun je een of meer van deze vragen met Ja beantwoorden, dan is het
+      een goed idee om er iets van te zeggen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617686349271040
+    m_Localized: '<b>Dit kun je op vier manieren doen. Iedereen kan deze vier manieren
+      gebruiken, afhankelijk van de situatie en het comfortniveau.
+
+
+      Draai
+      elke kaart om voor meer informatie.</b>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617762022903808
+    m_Localized: "<b>Wees direct:</b> \nIdentificeer de juiste actie of gedrag.\_"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617816230088704
+    m_Localized: "<b>Omleiding:</b> \nBreng een nieuw onderwerp ter sprake en leid
+      het gesprek om."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617852200439808
+    m_Localized: '<b>Vertraging:</b>
+
+      Bespreek het gedrag of ongemak op een
+      neutraler moment.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617899503800320
+    m_Localized: "<b>Zoek hulp:</b>\nAls manager kun je iemand om advies vragen.\_"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617962007318528
+    m_Localized: <b>Wat moet u doen als u getuige bent van enige vorm van ongepast
+      gedrag van een klant jegens een medewerker?</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618062515425280
+    m_Localized: 'Zeg tegen de gast: "We blij zijn dat u er bent, maar willen dat
+      u weet dat we hier geen ongepast taalgebruik tolereren."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618343659622400
+    m_Localized: Zorg ervoor dat je als enige verantwoordelijk bent voor het klaarmaken
+      van de bestelling van de gast.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618387137777664
+    m_Localized: Vertel de medewerker bij de eerste gelegenheid dat het gedrag van
+      de gast hier niet wordt getolereerd en maak er melding van.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618432058773504
+    m_Localized: Wacht met het vermelden van wat je hebt waargenomen totdat het handiger
+      is.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618481622863872
+    m_Localized: Als manager heb jij de mogelijkheid om ongepast gedrag een halt
+      toe te roepen. Elk ongepast gedrag moet worden gemeld en serieus worden behandeld.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618524257964032
+    m_Localized: Onjuist, als manager heb je de discretionaire bevoegdheid om ongepast
+      gedrag te stoppen. Elk ongepast gedrag moet worden gemeld en serieus worden
+      behandeld.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618619523190784
+    m_Localized: <b>Waarom moet je iets aankaarten?</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618729158103040
+    m_Localized: "Je mening uiten sluit aan bij onze waarden:\n\n\u2022<indent=5%>Zet
+      mensen op de eerste plaats</indent>\n\u2022<indent=5%>Zorgt voor inclusie</indent>\n\u2022<indent=5%>Versterkt
+      onze Goede Buur/werkfamilie</indent>\n\nHet is ook gewoon het juiste."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618858913091584
+    m_Localized: "Bedenk dat wanneer u iets zegt, u:\_\n\n\u2022<indent=5%>Zet de
+      eerste stap om ongepast gedrag te stoppen</indent>\n\u2022<indent=5%>Handel
+      als rolmodel voor onze waarden </indent>\n\u2022<indent=5%>Moedig anderen aan
+      om hun zorgen naar voren te brengen</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618964798296064
+    m_Localized: "Spreek uw mening uit om een \u200B\u200Bcultuur van verbondenheid
+      te cre\xEBren waarin elke persoon een stem en een vertrouwde bondgenoot heeft."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619046234902528
+    m_Localized: <b>Interactie met medewerkers</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619095698329600
+    m_Localized: "\u2022 Het kan voor managers riskant zijn om buiten het werk om
+      vriendschappelijk met medewerkers om te gaan. Socialiseren kan vaak goed beginnen,
+      maar te vertrouwd raken kan uw oordeel be\xEFnvloeden.\n\n\u2022 Als je mensen
+      anders behandelt, loop je het risico dat er een omgeving ontstaat die als discriminerend
+      kan worden ervaren. Dat kan een vijandige werkomgeving cre\xEBren voor degenen
+      die zich niet bevoordeeld voelen.\n\_\n\u2022 Favoritisme omvat het geven van
+      een voorkeursbehandeling aan een of meer werknemers, waardoor anderen mogelijke
+      baanpromoties of voordelen zoals betere diensten mislopen.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619130938871808
+    m_Localized: "Als je mensen anders behandelt, loop je het risico een omgeving
+      te cre\xEBren die als discriminerend kan worden ervaren. Dat kan een vijandige
+      werkomgeving cre\xEBren voor degenen die zich niet bevoordeeld voelen.\n\_\nFavoritisme
+      omvat het geven van een voorkeursbehandeling aan een of meer werknemers, waardoor
+      anderen mogelijke baanpromoties of voordelen zoals betere diensten mislopen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619167324459008
+    m_Localized: "Houd er altijd rekening mee dat daden en woorden, zelfs buiten
+      het werk, later de werkomgeving kunnen be\xEFnvloeden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619225725947904
+    m_Localized: "\u2022 Houd er altijd rekening mee dat daden en woorden, zelfs
+      buiten het werk, later de werkomgeving kunnen be\xEFnvloeden.\n\n\u2022 Bekijk
+      en erken het beleid dat op jouw werkplek geldt ten aanzien van managers die
+      buiten werktijd vriendschappelijk omgaan met medewerkers.\n\n\u2022 Denk goed
+      na voor je buiten het werk met andere medewerkers op stap gaat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619266410696704
+    m_Localized: Denk even na voordat u buiten het werk met andere werknemers omgaat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619331070087168
+    m_Localized: Wees terughoudend wanneer je met andere medewerkers communiceert
+      via sms/WhatsApp of andere sociale mediakanalen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619509646774272
+    m_Localized: Alle interacties met collega's via sms-berichten of sociale media
+      moeten respectvol en professioneel zijn.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619554618101760
+    m_Localized: Vermijd berichten die redelijkerwijs als kwaadaardig, obsceen, bedreigend
+      of intimiderend kunnen worden beschouwd.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619588357083136
+    m_Localized: Plaats of ondersteun geen berichten die discriminerende opmerkingen
+      of inhoud, intimidatie (fysiek, psychologisch, seksueel), bedreigingen met
+      geweld of soortgelijk ongepast of onwettig gedrag bevatten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619636767739904
+    m_Localized: Managers moeten voorzichtig zijn en gezond verstand gebruiken als
+      ze met werknemers communiceren via sms-berichten of sociale media.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619668753502208
+    m_Localized: Deelnemen aan dergelijke forums met ondergeschikten kan de kans
+      vergroten dat we onze waarden schenden. Denk na voordat je iets plaatst en
+      vraag altijd om toestemming.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619733047988224
+    m_Localized: Vermijd bovendien interactie op sociale media met werknemers jonger
+      dan 18 jaar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619797409583104
+    m_Localized: <b>Misbruik van autoriteit</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619884999233536
+    m_Localized: "\u2022 Een voorbeeld van misbruik van autoriteit is wangedrag waarbij
+      een persoon met autoriteit (zoals een manager, supervisor of ander gezagsdrager)
+      beloften doet, een baanvoordeel ontkent of bedreigt, of beslissingen neemt
+      in ruil voor seksuele gunsten.\n\n\u2022 Dergelijk gedrag is in strijd met
+      onze waarden en veroorzaakt ongelooflijke schade aan alle betrokkenen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619924635406336
+    m_Localized: Dergelijk gedrag is in strijd met onze waarden en veroorzaakt ongelooflijke
+      schade aan alle betrokkenen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619964825227264
+    m_Localized: "\u2022 Misbruik van autoriteit beperkt zich niet tot het uitwisselen
+      van gunsten voor seks. Elke activiteit die wordt beloofd in ruil voor een gunst
+      (zoals een date, een kus of een knuffel) is ongepast en wordt niet getolereerd
+      door McDonald's.\n\n\u2022 Misbruik van gezag wordt niet gecategoriseerd op
+      basis van het geslacht van de dader of het slachtoffer. Ongeacht de betrokken
+      genders is het absoluut onaanvaardbaar om iemand seksueel te intimideren of
+      je macht te misbruiken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620003890974720
+    m_Localized: Misbruik van gezag wordt niet gecategoriseerd op basis van het geslacht
+      van de dader of het slachtoffer. Ongeacht de betrokken genders is het absoluut
+      onaanvaardbaar om iemand seksueel te intimideren of je macht te misbruiken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620054579138560
+    m_Localized: <b>Onder machtsmisbruik valt ook het minder gunstig behandelen van
+      iemand omdat diegene niet ingaat op seksuele gunsten of aanbiedingen van seksuele
+      activiteiten afwijst.</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620149190053888
+    m_Localized: "<b>Dreigementen</b>\n\n\u2022 Ontslag\n\u2022 Demotie\_\n\u2022
+      Een slechte evaluatie op hun prestaties\_\n\u2022 Wisselende diensten\n\u2022
+      Uitgesloten worden van teams, evenementen, vergaderingen\n\u2022 Ongewenste
+      taken\n\u2022 Delegeren van dezelfde taken (dweilen, schoonmaken) \n<indent=5%>alleen
+      voor bepaalde werknemers"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620257784778752
+    m_Localized: "<b>Beloften</b>\n\n\u2022 Contractverlenging\_\n\u2022 Promotie\_\n\u2022
+      Positieve evaluaties op hun prestaties\_\n\u2022 Extra overuren"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620348922810368
+    m_Localized: '<b>Conclusie
+
+
+      In jouw rol is het jouw verantwoordelijkheid
+      om:</b>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620484646293504
+    m_Localized: "\u2022<indent=5%>alle mogelijke vormen van ongepast gedrag te melden.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620514086113280
+    m_Localized: "\u2022<indent=5%>er iets van te zeggen als je ongepast gedrag ziet.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620555144155136
+    m_Localized: "\u2022<indent=5%>je team te stimuleren om zich uit te spreken als
+      ze ongepast gedrag zien of ervaren.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620572621819904
+    m_Localized: "\u2022<indent=5%>alle vormen van vergelding/represailles te voorkomen
+      of een halt toe te roepen.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620609611386880
+    m_Localized: "\u2022<indent=5%>goed na te denken voor je buiten het werk om op
+      vriendschappelijke basis met medewerkers omgaat.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620668432306176
+    m_Localized: "\u2022<indent=5%>je bewust te zijn van de impact op de werkomgeving
+      en voortrekkerij te vermijden.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620709704257536
+    m_Localized: "\u2022<indent=5%>Wees voorzichtig bij het communiceren met collega's
+      via sociale media en sms-berichten.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620743099305984
+    m_Localized: "\u2022<indent=5%>Maak geen misbruik van uw autoriteit.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620798967435264
+    m_Localized: '<b>Herinnering</b>
+
+      Heb je vragen over deze punten, raadpleeg
+      dan het lokale beleid bij jullie en vraag om advies.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4631539316781056
+    m_Localized: Leg uit dat iemand dit zal opvolgen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4633439663648768
+    m_Localized: Beloof geen vertrouwelijkheid en doe geen beloftes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4633509599473664
+    m_Localized: Meld het onmiddellijk, vraag advies en wees discreet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4633596132159488
+    m_Localized: Geef uw persoonlijke mening over de situatie om empathie te tonen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4633979759980544
+    m_Localized: Het scheppen van verwachtingen tijdens het rapportageproces is van
+      cruciaal belang.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4634832814305280
+    m_Localized: Als er een onderzoek komt, worden alle maatregelen genomen om de
+      vertrouwelijkheid te beschermen, maar details kunnen aan de betrokkenen worden
+      verstrekt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4635007720976384
+    m_Localized: "Wat er vervolgens gebeurt, zal vari\xEBren op basis van de beschuldigingen
+      van ongepast gedrag en het beleid en de processen waar u werkt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4635145419976704
+    m_Localized: "Dit is geen juist antwoord, omdat het geven van een mening het
+      proces kan be\xEFnvloeden en de objectiviteit kan ondermijnen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5044474736373760
+    m_Localized: "Wat je zegt of doet, of wat je niet zegt of doet, heeft vaak grote
+      gevolgen.\u202F\u202F\_\n\_\nZorg ervoor dat diegene zich niet afgezonderd
+      voelt van diens collega's of een afstand ervaart tot hun kans en verantwoordelijkheden
+      op het werk."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5377724755308544
+    m_Localized: Kaart het aan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5377927554101248
+    m_Localized: Het kan soms moeilijk zijn om iets te zeggen als iemand getuige
+      is van een gespannen situatie op het werk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5378092260225024
+    m_Localized: "Als manager moet je zaken bespreekbaar maken en andere stimuleren
+      dat ook te doen. Aan jou de taak om je als rolmodel te gedragen voor het gedrag
+      dat past bij de waarden van McDonald's. \_"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5479293621964800
+    m_Localized: <b>"Deze opmerkingen zijn ongepast op het werk."</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5479429462888448
+    m_Localized: <b>"Met dit soort opmerkingen kun je iemand beledigen en deze zijn
+      hier ongepast. Laten we teruggaan naar het onderwerp waar het om gaat."</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5479531518693376
+    m_Localized: <b>"Het is belangrijk dat je van mij hoort dat de opmerking die
+      je daarstraks plaatste voor anderen beledigend kan zijn en niet past bij onze
+      waarden."</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5479641749196800
+    m_Localized: <b>"Ik heb advies nodig voor hoe ik iets wat vandaag is gebeurd
+      moet aanpakken."</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5727196316266496
+    m_Localized: <b>A</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5727260262625280
+    m_Localized: <b>B</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5727327660896256
+    m_Localized: <b>C</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5727378479083520
+    m_Localized: <b>D</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5735202403778560
+    m_Localized: 'Voorbeelden van machtsmisbruik:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5735498689413120
+    m_Localized: Draai de kaart om voor meer informatie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563320299212800
+    m_Localized: "Kijk, je weet dat ik het niet leuk vind hoe ze je behandelen, maar
+      laten we\nZeg eens eerlijk: wat dacht je dat er zou gebeuren? \nGingen ze een
+      feestje voor je geven?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563519709007872
+    m_Localized: "Kijk, ik vind deze situatie ook niet leuk, maar ik had geen keus.\nJe
+      weet dat het echt geen optie is om Miguel in te plannen \ntotdat het onderzoek
+      is afgerond. Maar wat me zorgen baart,\nis dat niemand erover praat, het werk
+      eronder lijdt en dat kan \ngewoon niet in mijn restaurant."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563633269788672
+    m_Localized: 'Ik zeg niet dat het zo is. Maar ik heb goed nieuws, er is een vacature
+
+      in
+      het restaurant op Washington Ave. Het is dichter bij jouw huis, toch?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563646171467776
+    m_Localized: Raad eens wie je een overplaatsing heeft kunnen bezorgen? Je hoeft
+      me niet te bedanken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6564142617677824
+    m_Localized: Grappig.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6564282116034560
+    m_Localized: Maar dat is niet mijn schuld!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6564307944558592
+    m_Localized: Uh Huh...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6564322591068160
+    m_Localized: "\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7333489694953472
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7603158175666176
+    m_Localized: Als leider moet jij de standaarden handhaven en een veilige werkomgeving
+      bieden. Je wordt voortdurend uitgedaagd om coaching en feedback te geven. Dit
+      moet altijd eerlijk en respectvol gebeuren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8375492478193664
+    m_Localized: Beloof geen vertrouwelijkheid en doe geen beloftes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8375577408655360
+    m_Localized: Meld het onmiddellijk, vraag advies en wees discreet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8376570875695104
+    m_Localized: Stel voor dat de persoon een paar dagen wacht om te zien of het
+      probleem zichzelf oplost.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8376643999191040
+    m_Localized: Geef uw persoonlijke mening over de situatie om empathie te tonen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377561062789120
+    m_Localized: Indien er sprake is van onderzoek zullen alle maatregelen worden
+      genomen om de vertrouwelijkheid van de betrokken persoon of personen te beschermen.
+      Om de melding te kunnen onderzoeken zijn mogelijk bepaalde gegevens nodig.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377673197506560
+    m_Localized: "Wat er vervolgens gebeurt, zal vari\xEBren op basis van de beschuldigingen
+      van ongepast gedrag en het beleid en de processen waar u werkt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377809847930880
+    m_Localized: Dit is geen correct antwoord, omdat het belangrijk is om klachten
+      snel te behandelen in plaats van actie uit te stellen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377869428019200
+    m_Localized: "Dit is geen juist antwoord, omdat het geven van een mening het
+      proces kan be\xEFnvloeden en de objectiviteit kan ondermijnen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11672892315750400
+    m_Localized: Dat lijkt niet de allerbeste keuze.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684172002971648
+    m_Localized: Ik zou hier nog eens goed over moeten nadenken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12024615286820864
+    m_Localized: '@McDonald''s sociale media-interacties met collega''s'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15218309350809600
+    m_Localized: Het geven van een mening kan ervoor zorgen dat de medewerker zich
+      meer op zijn gemak voelt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15219142033399808
+    m_Localized: Deze situaties lossen zichzelf vaak op na een afkoelperiode.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

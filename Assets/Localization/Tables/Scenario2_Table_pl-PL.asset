@@ -1,0 +1,464 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario2_Table_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: 546bd2c46a601bb499bd0cdab1e7328e, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2394929133959774216
+  m_TableData:
+  - m_Id: 466376015872
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 944228876288
+    m_Localized: "Pracownik z rocznym sta\u017Cem pracy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166791229440
+    m_Localized: "Pracownik z 8-miesi\u0119cznym sta\u017Cem pracy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1222629998592
+    m_Localized: "Pracownik z 6-miesi\u0119cznym sta\u017Cem pracy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2493600579584
+    m_Localized: "To pracownicy, kt\xF3rzy cz\u0119sto ze sob\u0105 wsp\xF3\u0142pracuj\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Localized: "Dzi\u0119kuj\u0119 za polecenie tego serialu, sko\u0144czy\u0142am
+      go wczoraj wieczorem. By\u0142 \u015Bwietny!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Localized: "Wiedzia\u0142em, \u017Ce Ci si\u0119 spodoba!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Localized: "Powiedzia\u0142am o nim Liamowi w zesz\u0142ym tygodniu. Te\u017C
+      si\u0119 wci\u0105gn\u0105\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Localized: "Liam nie b\u0119dzie mie\u0107 zbyt wiele czasu na ogl\u0105danie
+      telewizji, kiedy dostanie awans."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Localized: Liam dostaje awans?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Localized: "Jeszcze nie. Ale jest ca\u0142kiem oczywiste, \u017Ce zostanie
+      nowym kierownikiem zmiany."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Localized: "[0.00-6.10]\nOch, my\u015Bla\u0142am, \u017Ce mog\u0142abym si\u0119
+      stara\u0107 o to stanowisko. To mog\u0142aby by\u0107 \u015Bwietna okazja.
+      \n[6.10-8.00]\nCzy wy b\u0119dziecie pr\xF3bowa\u0107?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Localized: "[0.00-3.60]\nNie mog\u0119. Moja c\xF3rka ma mn\xF3stwo zaj\u0119\u0107.\n[3.60-6.91] 
+      \nJeste\u015Bmy bardzo zaj\u0119ci. Rodzice nie dostaj\u0105 awansu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Localized: "Powa\u017Cnie?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4219418263552
+    m_Localized: "Nie, ale jest to swego rodzaju \u201Eniepisana zasada\u201D. Masz
+      dzieci?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4248908414976
+    m_Localized: Tak. Ale tylko jedno.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300582240256
+    m_Localized: "[0.00-3.00]\nW takim razie nie masz szans z Liamem. \n[3.00-5.80]\nNie
+      ma dzieci ani innych zaj\u0119\u0107 poza prac\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348598632448
+    m_Localized: "[0.00-4.50]\nDlatego osoby bez dzieci zazwyczaj dostaj\u0105 awans
+      na kierownika zmiany. \n[4.50-6.98]\nZa\u0142o\u017C\u0119 si\u0119, \u017Ce
+      zdaniem Anny b\u0119dzie on bardziej zaanga\u017Cowany."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4370207686656
+    m_Localized: "[0.00-1.89]\nNie wiem tego na pewno. \n[1.89-4.40]\nAle dwoma ostatnio
+      awansowanymi kierownikami zmiany zostali samotni m\u0119\u017Cczy\u017Ani,
+      \n[4.40-6.24]\nbez rodzinnych obowi\u0105zk\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4395776163840
+    m_Localized: "Wydaje si\u0119 to niesprawiedliwe, je\u015Bli to prawda."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4423588593664
+    m_Localized: "[0.00-4.10]\nNigdy nie s\u0142ysza\u0142am, \u017Ceby Anna tak
+      m\xF3wi\u0142a, ale Miguel ma racj\u0119. \n[4.10-7.15]\nNie marnuj czasu,
+      Aisha. Nigdy nie dostaniesz tego stanowiska."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Localized: "[0.00-3.40]\nCze\u015B\u0107, Anna, masz chwil\u0119 na rozmow\u0119?
+      \n[3.40-6.04]\nMam kilka pyta\u0144 odno\u015Bnie roli kierownika zmiany."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Localized: "Cze\u015B\u0107, Aisha, oczywi\u015Bcie. Mog\u0119 teraz porozmawia\u0107,
+      co Ci\u0119 trapi?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Localized: "[0.00-3.00]\nLubi\u0119 swoj\u0105 prac\u0119 i chc\u0119 si\u0119
+      dalej rozwija\u0107.  \n[3.00-6.00]\nWydaje si\u0119, \u017Ce stanowisko kierownika
+      zmiany mo\u017Ce by\u0107 dla mnie odpowiednie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6477430210560
+    m_Localized: "[0.00-1.78]\nMi\u0142o to s\u0142ysze\u0107, Aisha. \n[1.78-5.80]\n\u015Awietnie
+      radzisz sobie z lud\u017Ami i zauwa\u017Cy\u0142am, \u017Ce Twoi wsp\xF3\u0142pracownicy
+      naprawd\u0119 Ci\u0119 szanuj\u0105. \n[5.80-9.33]\nCiesz\u0119 si\u0119, \u017Ce
+      my\u015Blisz o roli kierownika zmiany."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478063550464
+    m_Localized: "[0.00-4.00]\nNie jestem tylko pewna, czy nadaj\u0119 si\u0119 do
+      tej roli. \n[4.00-7.05]\nCzy gdybym dosta\u0142a to stanowisko, musia\u0142abym
+      pracowa\u0107 cz\u0119sto na wieczornych zmianach?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478696890368
+    m_Localized: "[0.00-2.30]\nNiekoniecznie. \n[2.30-5.80]\nRekomenduj\u0119 nowym
+      kierownikom zmiany prac\u0119 na r\xF3\u017Cnych zmianach,\n[5.80-8.06]\naby
+      upewni\u0107 si\u0119, \u017Ce rozumiej\u0105 wszystkie aspekty pracy. \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Localized: "[0.00-2.70]\nDobrze to s\u0142ysze\u0107. \n[2.70-5.00]\nWiesz,
+      niekt\xF3rzy z moich wsp\xF3\u0142pracownik\xF3w my\u015Bl\u0105, \u017Ce awansujesz\n[5.00-8.06]\ntylko
+      osoby, kt\xF3re nie maj\u0105 dzieci ani innych obowi\u0105zk\xF3w rodzinnych.
+      \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Localized: "[0.00-3.20]\nNaprawd\u0119? Przykro mi to s\u0142ysze\u0107. \n[3.20-8.68]\nNigdy
+      nie ogranicza\u0142abym mo\u017Cliwo\u015Bci awansu ze wzgl\u0119du na w czyj\u0105\u015B
+      p\u0142e\u0107 lub czyje\u015B obowi\u0105zki rodzinne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Localized: "Dzi\u0119kuj\u0119! Jestem podekscytowana mo\u017Cliwo\u015Bci\u0105
+      aplikowania."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Localized: "Aisha ma dziecko, nie ma zatem szans na awans w por\xF3wnaniu z
+      kim\u015B takim jak Liam."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Localized: "Miguel zak\u0142ada, \u017Ce \u200B\u200BAisha nie mog\u0142aby
+      dosta\u0107 awansu ze wzgl\u0119du na p\u0142e\u0107/stan cywilny."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Localized: "Wiem, \u017Ce mam wszystko, czego potrzeba, aby zosta\u0107 kierownikiem
+      zmiany, ale nigdy mnie nie awansuj\u0105 z powodu moich obowi\u0105zk\xF3w
+      rodzinnych."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Localized: "Miguel zak\u0142ada, \u017Ce nigdy nie awansuje ze wzgl\u0119du
+      na to, \u017Ce ma rodzin\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Localized: "Wielka szkoda. Aisha by\u0142aby \u015Bwietnym kierownikiem zmiany,
+      ale Miguel ma racj\u0119. Wi\u0119kszo\u015B\u0107 kierownik\xF3w zmiany nie
+      ma dzieci ani wielu dodatkowych zobowi\u0105za\u0144. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Localized: "Mira wierzy, \u017Ce Aisha nadaje si\u0119 na kierownika zmiany,
+      ale podejrzewa, \u017Ce \u200B\u200Bnie dostanie awansu ze wzgl\u0119du na
+      dziecko."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7931473772544
+    m_Localized: "Mo\u017Ce Miguel i Mira maj\u0105 racj\u0119. Nie powinnam zawraca\u0107
+      sobie g\u0142owy ubieganiem si\u0119 o rol\u0119 kierownika zmiany."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8271615049728
+    m_Localized: "Ze wzgl\u0119du na to, co jej powiedzieli Miguel i Mira, Aisha
+      mo\u017Ce nie ubiega\u0107 si\u0119 o stanowisko, mimo \u017Ce tego chce."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Localized: "Je\u015Bli nie mam tu szans na awans, to nie jestem pewna, czy
+      chc\u0119 tu zosta\u0107. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Localized: "Aisha rozwa\u017Ca odej\u015Bcie z McDonald\u2019s ze wzgl\u0119du
+      na to, co us\u0142ysza\u0142a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8462938226688
+    m_Localized: "Mog\u0142abym zapyta\u0107 Ann\u0119, jak podchodzi do kwestii
+      awans\xF3w. Ale nie chc\u0119, \u017Ceby to zabrzmia\u0142o, jakbym j\u0105
+      o cokolwiek oskar\u017Ca\u0142a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8464821469184
+    m_Localized: "Aisha chce porozmawia\u0107 z Ann\u0105, ale nie jest pewna, co
+      powiedzie\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Localized: "\u015Arodowisko wolne od dyskryminacji"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Localized: "Dyskryminacja to niesprawiedliwe traktowanie pracownik\xF3w ze
+      wzgl\u0119du na cechy takie jak m.in. rasa, niepe\u0142nosprawno\u015B\u0107,
+      religia, p\u0142e\u0107 lub stan cywilny. \nJe\u015Bli czujesz, \u017Ce Tw\xF3j<b>
+      status zawodowy jest zagro\u017Cony</b> ze wzgl\u0119du na Twoj\u0105 p\u0142e\u0107
+      lub obowi\u0105zki rodzinne lub za\u0142o\u017Cenia z tego wynikaj\u0105ce,\_najlepiej
+      zg\u0142o\u015B to, co odczuwasz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Localized: "Ani p\u0142e\u0107 Aishy, ani decyzja o posiadaniu dzieci nie powinny
+      mie\u0107 wp\u0142ywu na decyzje podejmowane w sprawie jej zatrudnienia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Localized: "Dzielenie si\u0119 za\u0142o\u017Ceniami lub b\u0142\u0119dnymi
+      spostrze\u017Ceniami (nawet je\u015Bli <b>nie maj\u0105 na celu plotek ani
+      zastraszania</b>) mo\u017Ce zniech\u0119ca\u0107 innych do dawania z siebie
+      wszystkiego lub wykorzystywania swojego potencja\u0142u."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Localized: "Komentarze Miguela i Miry mog\u0142y zniech\u0119ci\u0107 Aish\u0119
+      do ubiegania si\u0119 o awans."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Localized: "Co {0} powinien/powinna zrobi\u0107 w nast\u0119pnej kolejno\u015Bci?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11266293579776
+    m_Localized: "Odpu\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Localized: "Zg\u0142o\u015B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Localized: "Zanim z ni\u0105 porozmawia, potrzebuje dowodu, \u017Ce Anna awansuje
+      tylko samotnych m\u0119\u017Cczyzn. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Localized: "Powinna zapyta\u0107 Ann\u0119, czego oczekuje od nowego kierownika
+      zmiany, zamiast kierowa\u0107 si\u0119 cudzymi za\u0142o\u017Ceniami."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Localized: "Miguel i Mira maj\u0105 wi\u0119cej do\u015Bwiadczenia, wi\u0119c
+      powinna zastosowa\u0107 si\u0119 do ich rad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Localized: "Mog\u0142aby zg\u0142osi\u0107 swoje obawy dotycz\u0105ce awans\xF3w
+      za po\u015Brednictwem odpowiednich kana\u0142\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Localized: "Powinna po prostu poszuka\u0107 \u0142atwiejszej pracy i unika\u0107
+      jakiejkolwiek konfrontacji."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Localized: "Lubi swoj\u0105 prac\u0119 i ma nadziej\u0119, \u017Ce zwi\u0105\u017Ce
+      swoj\u0105 przysz\u0142o\u015B\u0107 z McDonald\u2019s. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Localized: "Jej p\u0142e\u0107 ani obowi\u0105zki rodzinne nie powinny mie\u0107
+      \u017Cadnego wp\u0142ywu na podejmowane decyzje dotycz\u0105ce jej kariery."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Localized: "Nie chcia\u0142aby ryzykowa\u0107, \u017Ce zaniepokoi Ann\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Localized: "Powinnam to jeszcze przemy\u015Ble\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Localized: "To nadal nie jest do ko\u0144ca w porz\u0105dku. To b\u0119dzie
+      lepsze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Localized: "\\u2022 <indent=1em>Aisha zg\u0142osi\u0142a swoje obawy Annie,
+      Anna podzieli\u0142a si\u0119 zatem z ca\u0142ym zespo\u0142em oczekiwaniami
+      dotycz\u0105cymi roli. To sprawi\u0142o, \u017Ce inni poczuli si\u0119 bardziej
+      w\u0142\u0105czeni i zach\u0119ceni do aplikowania.</indent>\n\\u2022 <indent=1em>W
+      efekcie Miguel r\xF3wnie\u017C zdecydowa\u0142 si\u0119 aplikowa\u0107 na stanowisko.</indent>\n\nCo
+      by by\u0142o, gdyby Aisha zachowa\u0142a si\u0119 inaczej?"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774216
+  - m_Id: 15426061680640
+    m_Localized: "Co by by\u0142o, gdyby Aisha nie porozmawia\u0142a z Ann\u0105?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15471767011328
+    m_Localized: "\\u2022 <indent=1em>Mo\u017Ce j\u0105 zniech\u0119ci\u0107 rzekomy
+      brak okazji do rozwoju, przez co b\u0119dzie mniej cieszy\u0107 si\u0119 prac\u0105.</indent>\n\\u2022
+      <indent=1em>Nigdy nie b\u0119dzie mie\u0107 pewno\u015Bci, jak mog\u0142aby
+      rozwija\u0107 swoj\u0105 karier\u0119 w McDonald\u2019s.</indent>\n\\u2022
+      <indent=1em>Mo\u017Ce zacz\u0105\u0107 szuka\u0107 nowej pracy poza McDonald\u2019s.
+      </indent>\n\\u2022 <indent=1em>Je\u015Bli ubiega\u0142a si\u0119 o stanowisko
+      i go nie dosta\u0142a, mo\u017Ce uwierzy\u0107 w za\u0142o\u017Cenia, kt\xF3re
+      us\u0142ysza\u0142a od Miguela i Miry. </indent>\n\\u2022 <indent=1em>Miguel
+      i Mira mog\u0105 wywo\u0142ywa\u0107 podobne obawy u innych pracownik\xF3w.</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774216
+  - m_Id: 15505216585728
+    m_Localized: "A co, je\u015Bli Anna naprawd\u0119 post\u0119powa\u0142a w spos\xF3b
+      dyskryminuj\u0105cy?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15515450687488
+    m_Localized: "Je\u015Bli kt\xF3ry\u015B z pracownik\xF3w mia\u0142by w\u0105tpliwo\u015Bci
+      dotycz\u0105ce procesu awans\xF3w, m\xF3g\u0142by zg\u0142osi\u0107 swoje w\u0105tpliwo\u015Bci
+      za po\u015Brednictwem odpowiednich kana\u0142\xF3w. \n\nPo zg\u0142oszeniu
+      w\u0105tpliwo\u015Bci zosta\u0142yby podj\u0119te odpowiednie dzia\u0142ania
+      w celu ustalenia, czy Anna dyskryminowa\u0142a pracownik\xF3w ze wzgl\u0119du
+      na p\u0142e\u0107 lub obowi\u0105zki rodzinne. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16655802253312
+    m_Localized: "Przestrzegaj\u0105c podstawowych warto\u015Bci McDonald\u2019s,
+      pomagasz budowa\u0107 <b>bezpieczn\u0105, pe\u0142n\u0105 szacunku i otwart\u0105
+      kultur\u0119</b> w swojej restauracji."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Localized: "Osoby, kt\xF3re czuj\u0105 si\u0119 bezpiecznie w miejscu pracy,
+      ch\u0119tniej zostaj\u0105 z nami na d\u0142u\u017Cej i chc\u0105 tu rozwija\u0107
+      swoj\u0105 karier\u0119 oraz osi\u0105gaj\u0105 wy\u017Cszy poziom zadowolenia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Localized: "Podejmowanie w\u0142a\u015Bciwych dzia\u0142a\u0144, np. zg\u0142aszanie
+      nieodpowiednich komentarzy, ma pozytywne oddzia\u0142ywanie, dzi\u0119ki czemu
+      inni czuj\u0105 si\u0119 bardziej szanowani."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Localized: "Wszystkie decyzje o zatrudnieniu (w tym o awansach) musz\u0105
+      opiera\u0107 si\u0119 na kwalifikacjach, a nie na cechach osobistych takich
+      jak p\u0142e\u0107, wiek czy obowi\u0105zki rodzinne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Localized: Miguel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Localized: Mira
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17400073109504
+    m_Localized: Aisha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Localized: "Bezpiecze\u0144stwo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Localized: Wzajemny szacunek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Localized: "Otwarto\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296104909160448
+    m_Localized: "Wydaje mi si\u0119 to w\u0142a\u015Bciwe, zamierzam to zrobi\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303875540992000
+    m_Localized: Anna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113546642558976
+    m_Localized: "Twoje s\u0142owa wp\u0142ywaj\u0105 na innych"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344469507850240
+    m_Localized: "[0.00-3.40]\nKilku ostatnich kierownik\xF3w zmiany poprosi\u0142o
+      o wi\u0119cej zmian wieczornych. \n[3.40-7.56]\nMo\u017Cemy jednak u\u0142o\u017Cy\u0107
+      grafik pracy tak, by Ci odpowiada\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1345536433930240
+    m_Localized: "Wspomnieli nawet, \u017Ce cz\u0119sto awansujesz samotnych m\u0119\u017Cczyzn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1345861337300992
+    m_Localized: "[0.00-2.10]\nDzi\u0119kuj\u0119, \u017Ce mnie o tym informujesz.
+      \n[2.10-4.40]\nNa pewno dam wszystkim zna\u0107, \u017Ce zach\u0119cam ich\n[4.40-7.56]\ndo
+      aplikowania i przekraczania oczekiwa\u0144 stawianych im w pracy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7901011161989120
+    m_Localized: "Aisha zg\u0142osi\u0142a si\u0119 do Anny, swojego mened\u017Cera."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36295452922994688
+    m_Localized: "Miguel, Mira i Aisha stoj\u0105 w pokoju socjalnym restauracji
+      McDonald's"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36295544098775040
+    m_Localized: "Aisha i Anna siedz\u0105 w pokoju socjalnym restauracji McDonald's"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2394929133959774216
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00402df3f20d000000402d4d120e0000

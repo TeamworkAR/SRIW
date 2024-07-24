@@ -1,0 +1,634 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario3_Table_nl-NL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl-NL
+  m_SharedData: {fileID: 11400000, guid: 1cdae39b5d7e86340b581f14ac86265f, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2394929133959774222
+  m_TableData:
+  - m_Id: 466376015872
+    m_Localized: Intimidatie op de werkplek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 860133392384
+    m_Localized: Ze werken graag samen en hebben gemeenschappelijke vrienden bij
+      het restaurant die vaak buiten het werk met elkaar omgaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 944228876288
+    m_Localized: Is crewlid sinds zes maanden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3102777409536
+    m_Localized: "Ge\xEBrgerd"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3249083121664
+    m_Localized: Bezorgd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3257173934080
+    m_Localized: Ongemakkelijk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3259564687360
+    m_Localized: Blij
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3269194809344
+    m_Localized: Bezorgd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3274131505152
+    m_Localized: Onbezorgd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276333514752
+    m_Localized: Blij
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3278724268032
+    m_Localized: Enthousiast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Localized: "H\xE9 Kai, ik ben klaar voor vandaag. Werk je morgen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Localized: Nee, ik ben pas volgende week weer terug.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Localized: Wat moet ik nou doen zonder mijn Drive-thru maatje?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Localized: Waarschijnlijk worden die auto's nu veel sneller afgehandeld. Oh
+      ja, ga je dit weekend naar het feestje van Amal?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Localized: Feestje? Ik... ik ben helemaal nooit uitgenodigd.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Localized: Wat? Oh, dat spijt me, ik...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Localized: Grapje! Ik zal er zeker zijn.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Localized: (Zucht, lacht)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Localized: Wauw, ik had je mooi te pakken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4219418263552
+    m_Localized: 'Dat kun je wel zeggen. Nou, ik zie je op het feestje. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4248908414976
+    m_Localized: "[0.00-3.80]\nIk ben blij dat je ook gaat. Wordt het meteen een
+      stuk leuker. \n[3.80-8.56]\nTrouwens, ik zat nog te denken dat we een keertje
+      samen iets moeten afspreken, alleen jij en ik. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300582240256
+    m_Localized: Ik denk niet dat dat... eh, ik denk dat het beter is als we met
+      de hele groep gaan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348598632448
+    m_Localized: "Ok\xE9, denk er maar eens over na!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Localized: Melding maken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Localized: Bedoeling is geen excuus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Localized: 'De bedoeling van Eva doet er niet toe als haar acties Kai ongemakkelijk
+      maken.  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6477430210560
+    m_Localized: Zelfs als opmerkingen of vragen niet bedoeld zijn om te beledigen
+      of om iemand een ongemakkelijk gevoel te geven, <b>vormt de bedoeling geen</b>
+      excuus voor ongewenst gedrag. Het gaat erom of de persoon die het gedrag ervaart
+      het gevoel krijgt dat dit beledigend of ongewenst is.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478696890368
+    m_Localized: 'Dit begint vervelend te worden. Als het niet stopt, moet ik misschien
+      andere diensten aanvragen om haar te kunnen vermijden.  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Localized: Kai wil dat Eva ermee stopt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Localized: Ik heb momenteel geen relatie. Maar dat gaat niemand wat aan. Ik
+      zou haar niet hoeven uitleggen dat ik niet alleen met haar wil afspreken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Localized: "Kai wil zijn priv\xE9leven ook echt priv\xE9 houden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6598260031488
+    m_Localized: "Behandel collega's buiten \nhet werk met respect"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Localized: 'Ik weet dat het nooit iets zou worden, maar ik voel me haast gedwongen
+      om toe te geven, zodat ze zal stoppen. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Localized: 'Kai voelt zich onder druk gezet om op een date te gaan met Eva. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Localized: Ik had het gevoel dat Kai een spionagefilm niet zou kunnen weerstaan.
+      Ik moet iets anders bedenken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Localized: 'Eva wil Kai opnieuw op een date vragen. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Localized: Misschien heeft hij momenteel geen relatie? Ik zal eens rondvragen
+      en nagaan of iemand iets weet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Localized: "Eva is van plan anderen naar het priv\xE9leven van Kai te vragen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Localized: Ik zou iets tegen de manager kunnen zeggen. Maar ik werk graag met
+      Eva samen. En ik wil niet dat ze haar baan kwijtraakt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Localized: 'Kai wil Eva niet in de problemen brengen. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Localized: Respecteer 'nee'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Localized: 'Als je iemand op een date vraagt en deze ''nee'' zegt, MOET je
+      dat besluit respecteren. <b>Seksuele intimidatie omvat ongewenste avances of
+      flirten, </b>zoals iemand mee uit vragen nadat deze heeft geweigerd. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Localized: De voortdurende ongewenste avances van Eva kunnen we als intimidatie
+      beschouwen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Localized: 'Hoe wij met onze collega <b>buiten het restaurant of kantoor omgaan,
+      zoals in een sociale omgeving,</b> kan ook impact hebben op de werkplek. Behandel
+      iedereen altijd en overal met respect.  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8776731197440
+    m_Localized: 'Eva is altijd even aardig tegen iedereen, dus misschien overdrijft
+      hij de bedoelingen van haar avances. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Localized: Ook al waren Eva en Kai niet op het werk toen Eva Kai opnieuw mee
+      uit vroeg, zou dat een impact kunnen hebben op de werkplek.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9254827327488
+    m_Localized: Nee, dat voelt nog niet helemaal goed aan. Ik denk dat dit een betere
+      keuze is.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10970805174272
+    m_Localized: "H\xE9 Dan, kunnen we even ergens over praten?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Localized: Wat moet {0} als volgende doen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10985120333824
+    m_Localized: Natuurlijk, joh. Ik heb nu wel eventjes. Wat is er aan de hand?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11151973941248
+    m_Localized: "[0.00-4.00]\nNou, ik dacht dat jij me misschien kon helpen. \n[4.00-7.80]\nIk
+      wil niet dat Eva in de problemen komt, maar ze heeft me een paar keer mee uit
+      gevraagd \n[7.80-10.60]\nen ik weet niet zeker hoe ik haar kan laten stoppen. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11153991401472
+    m_Localized: 'Ik begrijp het. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11266293579776
+    m_Localized: Er verder niet op ingaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Localized: Er nu iets van zeggen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Localized: 'Hij wil Eva niet kwetsen. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Localized: 'Wat Eva hem aandoet is intimidatie. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Localized: 'Hij kan de boot steeds opnieuw afhouden. Uiteindelijk zal ze het
+      dan wel doorkrijgen. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Localized: 'Als hij haar avances negeert, verliest ze mogelijk haar belangstelling. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Localized: "Hij heeft het recht om zijn priv\xE9leven priv\xE9 te houden. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Localized: 'Hij zou haar niet langer op sociale media kunnen volgen in de hoop
+      dat ze de hint begrijpt. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Localized: 'Hij heeft al nee gezegd, maar dat houdt Eva niet tegen. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Localized: 'Hij denkt dat Eva geen kwade bedoelingen heeft, maar hij voelt
+      zich ongemakkelijk bij de aandacht die ze hem geeft. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12206929477632
+    m_Localized: Goed werk!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13511391576064
+    m_Localized: Goed werk!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13702404374528
+    m_Localized: Wat als Kai er verder niet op was ingegaan?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Localized: Ik heb het haar al eerder geprobeerd te vertellen, maar ik denk
+      niet dat ze zal stoppen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Localized: Ik moet hier nog eens goed over nadenken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Localized: 'In dit scenario besloot Kai het aan zijn manager te melden: </indent>
+
+      \u2022
+      <indent=1em>Dan heeft een gesprekje gehad met Eva. En vervolgens vroeg Eva
+      Kai niet langer op dates.</indent>
+
+      \u2022 <indent=1em>Eva en Kai konden
+      gewoon blijven samenwerken en vrienden blijven.</indent>
+
+      \u2022 <indent=1em>Daarna
+      ging Eva veel bewuster om met haar gedrag op het werk, zoals de manier waarop
+      ze sociale media gebruikte als het collega''s betrof.</indent>
+
+
+      Wat
+      zou er zijn gebeurd als Kai anders had gehandeld?'
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774222
+  - m_Id: 15515450687488
+    m_Localized: "In dit geval probeerde Kai direct te handelen en iets tegen Eva
+      te zeggen door zijn voorkeur voor 'uitgaan met de groep' te uiten. \nZe luisterde
+      echter niet.\nTer herinnering: niemand is verplicht om direct iets te zeggen,
+      vooral niet als de persoon zich hierbij ongemakkelijk voelt.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16316051357696
+    m_Localized: "\\u2022 <indent=1em>Hij voelt zich mogelijk onder druk gezet om
+      details over zijn priv\xE9leven te delen die hij gescheiden wil houden van
+      zijn werk</indent>\n\\u2022 <indent=1em>Mogelijk zouden zijn werkprestaties
+      eronder leiden, omdat hij zich niet op zijn gemak voelt in de samenwerking
+      met Eva, en misschien zelfs besluiten om zijn baan op te zeggen</indent>\n\\u2022
+      <indent=1em>Eva zou misschien nooit begrijpen dat haar gedrag ongepast is</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774222
+  - m_Id: 16349987471360
+    m_Localized: Wat als Kai tegen Eva zou zeggen dat ze moet stoppen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16412994306048
+    m_Localized: Wat als Kai op een date met Eva zou gaan?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16432816586752
+    m_Localized: Kai wil duidelijk geen date met Eva. Niemand zou zich gedwongen
+      moeten voelen om uit te gaan met een collega. Instemmen met een date met Eva
+      zou Kai geen veiliger gevoel geven op het werk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16655802253312
+    m_Localized: Of je nu op het werk bent of daarbuiten met collega's omgaat, je
+      stemt ermee in om je aan de waarden van McDonald's te houden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Localized: 'Mensen voelen zich veiliger op het werk als je hun grenzen respecteert,
+      vooral als iemand nee zegt op een persoonlijke uitnodiging. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Localized: Neem een pauze voordat je post. Denk heel goed na over de manier
+      waarop je met collega's communiceert via sociale media, tekstberichten of e-mail.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Localized: "Het McDonald's-beleid garandeert dat alle werknemers, ongeacht
+      wie ze zijn, hun werk kunnen doen. Ze hebben ook recht op privacy met betrekking
+      tot hun priv\xE9leven.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Localized: Kai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Localized: Eva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Localized: Veilig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Localized: Respectvol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Localized: Inclusief
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274034335023104
+    m_Localized: <size=200%><b>Het feestje</b></size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274469670223872
+    m_Localized: Hoi Kai!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274496694124544
+    m_Localized: "H\xE9 Eva. Ben je hier net aangekomen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274532735778816
+    m_Localized: Ja, hoe is het tot nu toe?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274544693739520
+    m_Localized: 'De feestjes van Amal zijn altijd fantastisch. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274558790795264
+    m_Localized: "[0.00-3.00]\nOp weg hiernaartoe kwam ik langs de bioscoop. \n[3.00-7.05]\nEr
+      draait een marathon van spionagefilms. Jij houdt toch van spionagefilms?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274602323476480
+    m_Localized: Ja, nou. Je hebt een goed geheugen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274614969303040
+    m_Localized: Ik kan wel kaartjes regelen als je wilt gaan? Dat zou leuk kunnen
+      zijn.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274838349545472
+    m_Localized: "Ik weet niet of dat zo'n goed idee is\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274890853842944
+    m_Localized: En ik heb trouwens toch al gezegd dat ik liever met de groep uitga...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274906112720896
+    m_Localized: "Eva, het is een leuk idee, maar ik ben niet ge\xEFnteresseerd... "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275035020460032
+    m_Localized: 'Ik snap het wel, je hoeft het niet uit te leggen. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275074438529024
+    m_Localized: 'Je hebt duidelijk een relatie met iemand anders.   '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275087587672064
+    m_Localized: Nee, dat is het probleem niet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275097968574464
+    m_Localized: "H\xE9 Eva, kom eens hier!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275126250766336
+    m_Localized: "[0.00-3.50]\nIk moet echt met haar praten. Ik zie je zeker later
+      nog wel.  \n[3.50-5.68]\nMaar, even snel lachen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275137957068800
+    m_Localized: (Telefoon zoemt)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275547438579712
+    m_Localized: Ik met mijn toekomstige vriend #sexy!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275788460064768
+    m_Localized: Boos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275823071461376
+    m_Localized: Gefrustreerd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275849965338624
+    m_Localized: Ongemakkelijk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275876641112064
+    m_Localized: Onbezorgd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275917095174144
+    m_Localized: "Ge\xEBrgerd"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276018807046144
+    m_Localized: Onbezorgd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276029716430848
+    m_Localized: Enthousiast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276038713212928
+    m_Localized: Hoopvol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278173962076160
+    m_Localized: Wees voorzichtig met sociale media
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278207336153088
+    m_Localized: "Iedereen die bij McDonald's werkt, heeft recht op <b>privacy op
+      het werk.</b> Niemand heeft recht op details over het priv\xE9leven van iemand
+      anders. \n<b>E-mails, tekstberichten of foto's delen</b> die iemand ongemakkelijk
+      maken, zelfs als de inhoud niet seksueel van aard is, beschouwen we als beledigend
+      gedrag.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278228601274368
+    m_Localized: 'Kai hoeft Eva niet te vertellen of hij een relatie heeft, en Eva''s
+      sociale-mediabericht kan worden beschouwd als intimidatie.  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278249522462720
+    m_Localized: Melding maken en de consequenties daarvan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278268526854144
+    m_Localized: In bepaalde gevallen kan ongepast gedrag ernstige consequenties,
+      zoals ontslag, hebben. Maar het kan ook minder ernstige vormen aannemen, zoals
+      een schriftelijke waarschuwing, training, coaching of andere maatregelen. <b>Consequenties
+      moeten evenredig zijn aan het gedrag.</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278283093671936
+    m_Localized: Als Kai Eva's gedrag meldt aan een manager, hoeft dit niet noodzakelijkerwijs
+      ernstige consequenties voor Eva te hebben.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279466818535424
+    m_Localized: Eva kan in grote problemen komen als hij dit meldt, en dat wil hij
+      niet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281393660821504
+    m_Localized: Kai besluit met zijn manager Dan te praten over de situatie met
+      Eva.
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774222
+  - m_Id: 281832754118656
+    m_Localized: "[0.00-6.10]\nZe is geweldig. Maar ik ben gewoon niet ge\xEFnteresseerd
+      en ik heb ook steeds geprobeerd om dat duidelijk te maken. \n[6.10-9.02]\nIk
+      wil niet meer die g\xEAne op het werk."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281861627707392
+    m_Localized: Bedankt dat je het hebt verteld. Ik zal het er zo gauw mogelijk
+      met haar over hebben.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281880820842496
+    m_Localized: Is er nog iets anders dat ik moet doen? Moet ik zelf met haar praten?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282182995279872
+    m_Localized: "[0.00-2.11]\nJe hoeft niets anders te doen. \n[2.11-6.00]\nAls
+      je besluit dat je er direct met haar over wilt praten, is dat geheel aan jou.
+      \n[6.00-7.68]\nMaar dat hoeft niet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282196278640640
+    m_Localized: Bedankt, Dan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8984898575351808
+    m_Localized: Ik met mijn toekomstige vriend #sexy!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9079372215304192
+    m_Localized: 'Oh, ik moet nu echt terug naar de vloer. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10069078382034944
+    m_Localized: Het wordt zo erg dat ik gewoon niet meer met haar wil werken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10070229630402560
+    m_Localized: "[0.00-3.00]\nIk kan geen details met je delen over mijn gesprek
+      met haar, \n[3.00-5.80]\nmaar laat het me weten als het blijft gebeuren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12593492147388416
+    m_Localized: Kai vindt Dan in de pauzeruimte.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33598141228072960
+    m_Localized: Selecteer een antwoord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33773089228578816
+    m_Localized: "Kai en Dan staan \u200B\u200Bin de pauzeruimte van een McDonald's-restaurant"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33772363660124160
+    m_Localized: "Kai en Eva staan \u200B\u200Bin een woonkamer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33772351580528640
+    m_Localized: "Kai en Eva staan \u200B\u200Bin de pauzeruimte van een McDonald's-restaurant"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2394929133959774222
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00402df3f20d0000000072e0d60e000000003211edff0000

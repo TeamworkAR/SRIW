@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Scenario03_Dialogue02_Line04_Kai
+  m_Controller: {fileID: 9100000, guid: 4528a8919e4d72f43b608d817cc2406f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 151cff8e9ce676f48abcb8bebe57c517, type: 2}
+    m_OverrideClip: {fileID: -623603649343465320, guid: 1119736d4a761fb48bcd6417c0f5b3f8, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 6fea5a3ac64f8734489d3bbefd4c91e4, type: 2}
+    m_OverrideClip: {fileID: -623603649343465320, guid: 1119736d4a761fb48bcd6417c0f5b3f8, type: 3}

@@ -1,0 +1,488 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario1_Table_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: a58a75991ac08d149a2124682c3949cb, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 36428341248
+    m_Localized: "Nieprzyjazne \u015Brodowisko pracy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411606405120
+    m_Localized: "Pracownik restauracji z miesi\u0119cznym sta\u017Cem pracy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508306083840
+    m_Localized: "Pracownik restauracji z 3-miesi\u0119cznym sta\u017Cem pracy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1620579213312
+    m_Localized: "Pracowali kilkukrotnie na tych samych zmianach i dobrze im si\u0119
+      ze sob\u0105 wsp\xF3\u0142pracowa\u0142o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2411931131904
+    m_Localized: "Masz rodze\u0144stwo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272907587313664
+    m_Localized: "Tak, m\u0142odszych braci. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272979058253824
+    m_Localized: "Ach! Tak czu\u0142em, \u017Ce jeste\u015B najstarszym dzieckiem!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273020137267200
+    m_Localized: Dlaczego?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273053385515008
+    m_Localized: "Bo my\u015Blisz, \u017Ce zawsze masz racj\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273093751496704
+    m_Localized: "Ale ja zawsze <i>mam</i> racj\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273163750236160
+    m_Localized: "(\u015Bmiech)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273241915285504
+    m_Localized: "Ty jeste\u015B najm\u0142odszym dzieckiem, prawda?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273274916069376
+    m_Localized: "Tak. Sk\u0105d wiesz?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273312195043328
+    m_Localized: "Wybierz \u017Cart, kt\xF3ry ma rzuci\u0107 {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273481917554688
+    m_Localized: "Nigdy nie przestajesz m\xF3wi\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273518680629248
+    m_Localized: "Twoje \u017Carty s\u0105 okropne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273544324603904
+    m_Localized: "Zawsze musisz mie\u0107 ostatnie s\u0142owo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273563354161152
+    m_Localized: "Poza tym kiedy pracujemy na tej samej zmianie, wi\u0119kszo\u015B\u0107
+      pracy wykonuj\u0119 ja."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274315288010752
+    m_Localized: "A jak mam dotrzyma\u0107 kroku ci\u0119\u017Cko pracuj\u0105cemu
+      obcokrajowcowi?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274368794746880
+    m_Localized: "Je\u015Bli nie nad\u0105\u017Casz, to nie m\xF3j problem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274933650055168
+    m_Localized: Zmartwienie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275049173770240
+    m_Localized: "Spok\xF3j"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275076474494976
+    m_Localized: Zadowolenie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275097773170688
+    m_Localized: "Rado\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275111236886528
+    m_Localized: Poirytowanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275124285366272
+    m_Localized: Zdezorientowanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275137623252992
+    m_Localized: "Spok\xF3j"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275158263422976
+    m_Localized: Zadowolenie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275879419469824
+    m_Localized: "W pracy jest o wiele przyjemniej, gdy Ravi jest w pobli\u017Cu.
+      Czas w pracy szybko mija, kiedy mo\u017Cna si\u0119 po\u015Bmia\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276721195311104
+    m_Localized: "Jake lubi pracowa\u0107 i \u015Bmia\u0107 si\u0119 z Ravim."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276788484530176
+    m_Localized: "On naprawd\u0119 szybko si\u0119 uczy. Trudno uwierzy\u0107, \u017Ce
+      jest tu dopiero od kilku tygodni."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276839353049088
+    m_Localized: "Jake uwa\u017Ca, \u017Ce Ravi jest dobrym pracownikiem"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276939483668480
+    m_Localized: "To ju\u017C trzeci raz, kiedy Jake \u017Cartuje z tego, \u017Ce
+      jestem obcokrajowcem. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277366186991616
+    m_Localized: "Jake wielokrotnie \u017Cartowa\u0142 z tego, \u017Ce Ravi jest
+      obcokrajowcem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277367822770176
+    m_Localized: "W pewnym sensie chc\u0119 co\u015B powiedzie\u0107. Ale lubi\u0119
+      z nim pracowa\u0107 i nie chc\u0119, aby sytuacja sta\u0142a si\u0119 niezr\u0119czna."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277369299165184
+    m_Localized: "Ravi nie jest pewien, czy powinien co\u015B powiedzie\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277370909777920
+    m_Localized: "Mo\u017Ce musz\u0119 po prostu wyluzowa\u0107. On przecie\u017C
+      nie ma uprzedze\u0144 do obcokrajowc\xF3w\u2026 Nie s\u0105dz\u0119, \u017Ceby
+      tak by\u0142o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277559338885120
+    m_Localized: "Ravi zastanawia si\u0119, czy nie przesadza."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277569124196352
+    m_Localized: "Nie s\u0105dz\u0119, \u017Ce te \u017Carty si\u0119 sko\u0144cz\u0105.
+      I nie wiem, ile jeszcze chc\u0119 ich us\u0142ysze\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277570382487552
+    m_Localized: "Ravi zastanawia si\u0119, czy \u017Carty b\u0119d\u0105 coraz gorsze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277571863076864
+    m_Localized: "Martwi\u0119 si\u0119, \u017Ce kto\u015B mo\u017Ce us\u0142ysze\u0107
+      Jake'a m\xF3wi\u0105cego w ten spos\xF3b. M\xF3g\u0142by mie\u0107 k\u0142opoty."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277573184282624
+    m_Localized: "Ravi nie chce, \u017Ceby Jake mia\u0142 k\u0142opoty."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278077507395584
+    m_Localized: "Bezpiecze\u0144stwo dla wszystkich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278203915329536
+    m_Localized: "Ka\u017Cdy, kto pracuje w McDonald\u2019s, ma prawo do pracy w
+      \u015Brodowisku wolnym od przemocy, zastraszania, n\u0119kania, dyskryminacji
+      i wiktymizacji/dzia\u0142a\u0144 odwetowych.\n\nN\u0119kanie innych os\xF3b
+      ze wzgl\u0119du na ich p\u0142e\u0107, ras\u0119, wiek, przekonania religijne,
+      niepe\u0142nosprawno\u015B\u0107 lub inne czynniki nie jest tolerowane."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278576247889920
+    m_Localized: "\u017Barty Jake\u2019a o tym, \u017Ce Ravi jest imigrantem, mog\u0105
+      kreowa\u0107 nieprzyjazne \u015Brodowisko pracy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278616114749440
+    m_Localized: "<b>Nawet je\u015Bli zachowanie nie mia\u0142o na celu by\u0107
+      obra\u017Aliwe,</b> mo\u017Cna nadal uzna\u0107 je za n\u0119kanie, kt\xF3re
+      kreuje nieprzyjazne \u015Brodowisko pracy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278774059655168
+    m_Localized: "Nawet je\u015Bli Jake nie chcia\u0142 urazi\u0107 Raviego, jego
+      \u017Carty mog\u0105 nadal by\u0107 uwa\u017Cane za dr\u0119czenie lub n\u0119kanie. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278872999092224
+    m_Localized: "Co {0} powinien/powinna zrobi\u0107 w nast\u0119pnej kolejno\u015Bci?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280045575495680
+    m_Localized: "Odpu\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280162160369664
+    m_Localized: "Zabierz g\u0142os"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280367333138432
+    m_Localized: "Nie wie, co powiedzie\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280430620991488
+    m_Localized: "Martwi si\u0119, \u017Ce \u017Carty b\u0119d\u0105 trwa\u0107 lub
+      si\u0119 nasila\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280433020133376
+    m_Localized: "Mo\u017Ce po prostu skupia\u0107 si\u0119 na pracy i nie pozwala\u0107,
+      aby sprawy osobiste go rozprasza\u0142y."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280434999844864
+    m_Localized: "Czuje si\u0119 niezr\u0119czie, gdy s\u0142yszy \u017Carty na temat
+      swojego zagranicznego pochodzenia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280437172494336
+    m_Localized: "Powinien wyluzowa\u0107. Nie chce, \u017Ceby ich przyja\u017A\u0144
+      na tym ucierpia\u0142a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280439210926080
+    m_Localized: "Nie chce, aby Jake \u017Cartowa\u0142 w ten spos\xF3b z obcokrajowc\xF3w
+      pracuj\u0105cych w restauracji."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280445540130816
+    m_Localized: "Wierzy, \u017Ce Jake to \u015Bwietny kolega, i wola\u0142by wiedzie\u0107,
+      \u017Ce jego \u017Cart jest obra\u017Aliwy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280479383969792
+    m_Localized: "Jake nie chcia\u0142 urazi\u0107 Raviego."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281021090914304
+    m_Localized: "Nie do ko\u0144ca, mo\u017Ce nie przemy\u015Bla\u0142em tego."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281095795662848
+    m_Localized: "Nie s\u0105dz\u0119, \u017Ce to w porz\u0105dku. A co powiesz na
+      to?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281627281088512
+    m_Localized: "[0.00-5.00]\nHmm\u2026 Wiem, \u017Ce \u017Cartowali\u015Bmy, i
+      nie jestem do ko\u0144ca pewien, jak to powiedzie\u0107,\n[5.00-8.00]\nale
+      ci\u0119\u017Cko mi s\u0142ucha\u0107 \u017Cart\xF3w o obcokrajowcach.\n[8.00-10.89]\nS\u0142ysza\u0142em,
+      jak te stereotypy s\u0105 u\u017Cywane przeciwko mojej rodzinie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281630267432960
+    m_Localized: "Naprawd\u0119? Rav, przepraszam. Nie wiedzia\u0142em o tym.\nZdecydowanie
+      nie chcia\u0142em, \u017Ceby\u015B poczu\u0142 si\u0119 ura\u017Cony."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281632377167872
+    m_Localized: "Dzi\u0119ki za zrozumienie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281634356879360
+    m_Localized: "Oczywi\u015Bcie. Dzi\u0119ki, \u017Ce da\u0142e\u015B mi zna\u0107.
+      B\u0119d\u0119 bardziej ostro\u017Cny."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281636558888960
+    m_Localized: "Mam nadziej\u0119, \u017Ce nie zabrzmia\u0142em teraz za bardzo
+      jak najstarszy z rodze\u0144stwa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281638601515008
+    m_Localized: "Nie martw si\u0119, jestem do tego przyzwyczajony!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281640837079040
+    m_Localized: "Jake i Ravi szcz\u0119\u015Bliwie wracaj\u0105 do robienia kanapek."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282218757644288
+    m_Localized: "Ravi zdecydowa\u0142 si\u0119 zadzia\u0142a\u0107 w odpowiedniej
+      chwili. Przy okazji pom\xF3g\u0142 stworzy\u0107 bezpieczniejsze \u015Brodowisko
+      pracy dla siebie i by\u0107 mo\u017Ce dla innych. \n\nCo by by\u0142o, gdyby
+      Ravi zachowa\u0142 si\u0119 inaczej?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283547773198336
+    m_Localized: "Co by by\u0142o, gdyby Ravi odpu\u015Bci\u0142?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283750395830272
+    m_Localized: "\u2022 <indent=2%>\u017Barty mog\u0142yby by\u0107 gorsze lub cz\u0119stsze.</indent>\n\u2022
+      <indent=2%>Nast\u0119pnym razem, przy pojawieniu si\u0119 kolejnego \u017Cartu,
+      by\u0142oby jeszcze trudniej zabra\u0107 g\u0142os.</indent>\n\u2022 <indent=2%>Inni
+      ludzie mogliby us\u0142ysze\u0107 dowcipy i r\xF3wnie\u017C poczu\u0107 si\u0119
+      ura\u017Ceni.</indent>\n\u2022 <indent=2%>Mog\u0142oby to mie\u0107 wp\u0142yw
+      na zdolno\u015B\u0107 Raviego do efektywnej pracy, je\u015Bli nie czu\u0142by
+      si\u0119 bezpiecznie i szanowany.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283898056302592
+    m_Localized: "A co je\u015Bli Ravi zabierze g\u0142os p\xF3\u017Aniej?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283999382298624
+    m_Localized: "Istnieje wiele powod\xF3w, dla kt\xF3rych kto\u015B mo\u017Ce w
+      danej chwili waha\u0107 si\u0119 przed zabraniem g\u0142osu. Mo\u017Ce nie
+      czu\u0107 si\u0119 bezpiecznie i komfortowo, zabieraj\u0105c g\u0142os, lub
+      mo\u017Ce po prostu potrzebowa\u0107 czasu na przemy\u015Blenie tego, co chce
+      powiedzie\u0107. \n\nJe\u015Bli Ravi zdecydowa\u0142by si\u0119 poczeka\u0107
+      z zabraniem g\u0142osu: \n\u2022 <indent=2%>M\xF3g\u0142by przekierowa\u0107
+      rozmow\u0119 i wywo\u0142a\u0107 nowy temat.</indent>\n\u2022 <indent=2%>M\xF3g\u0142by
+      poczeka\u0107 na bardziej neutralny czas, w kt\xF3rym zajmie si\u0119 tym zachowaniem
+      lub swoim poczuciem skr\u0119powania.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284148749852672
+    m_Localized: "A gdyby Ravi zg\u0142osi\u0142 t\u0119 sytuacj\u0119 do swojego
+      menad\u017Cera?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284166646947840
+    m_Localized: "Nie tolerujemy \u017Cadnych form dr\u0119czenia, zastraszania ani
+      n\u0119kania. Ka\u017Cda osoba, kt\xF3ra pada ofiar\u0105 takiego zachowania,
+      mo\u017Ce to zg\u0142osi\u0107. W tym przypadku Ravi m\xF3g\u0142 obawia\u0107
+      si\u0119 wpakowania Jake'a w k\u0142opoty. Nale\u017Cy pami\u0119ta\u0107,
+      \u017Ce nie ka\u017Cde zg\u0142oszenie prowadzi do powa\u017Cnych konsekwencji.
+      \n\nGdyby Ravi zg\u0142osi\u0142 komentarze Jake\u2019a swojemu menad\u017Cerowi,
+      w\xF3wczas:\n\u2022 <indent=2%>Menad\u017Cer mo\u017Ce porozmawia\u0107 z Jakiem
+      o jego komentarzach.</indent>\n\u2022 <indent=2%>Jake mo\u017Ce otrzyma\u0107
+      informacje zwrotne na temat swojego zachowania i dowiedzie\u0107 si\u0119,
+      dlaczego jego \u017Carty zabrn\u0119\u0142y za daleko.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284400093519872
+    m_Localized: "Niezale\u017Cnie od tego, czy rozmawiasz ze wsp\xF3\u0142pracownikami,
+      czy go\u015B\u0107mi, mo\u017Cesz pomaga\u0107 budowa\u0107 <b>bezpieczn\u0105,
+      pe\u0142n\u0105 wzajemnego szacunku i otwart\u0105</b> kultur\u0119 dla ka\u017Cdego."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284575386066944
+    m_Localized: "Nawet je\u015Bli Twoje intencje nie by\u0142y z\u0142e i\_wszyscy
+      si\u0119 \u015Bmiali, \u017Carty odnosz\u0105ce si\u0119 do kt\xF3rejkolwiek
+      z\_cech chronionych s\u0105 sprzeczne z\_nasz\u0105 polityk\u0105. Ka\u017Cdy
+      ma prawo do bezpiecznego miejsca pracy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284655421775872
+    m_Localized: "Je\u015Bli kiedykolwiek w Twoich czynach lub wypowiedziach pojawi\u0142o
+      si\u0119 co\u015B, co by\u0142o oznak\u0105 braku szacunku wobec wsp\xF3\u0142pracownika,
+      przepro\u015B go za to i zmie\u0144 swoje zachowanie. Ka\u017Cdy przyczynia
+      si\u0119 do budowania kultury wzajemnego szacunku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284665953673216
+    m_Localized: "Mo\u017Cesz lepiej zrozumie\u0107, kim s\u0105 Twoi wsp\xF3\u0142pracownicy,
+      poznaj\u0105c ich do\u015Bwiadczenia. Po\u015Bwi\u0119\u0107 czas na ich wys\u0142uchanie.
+      Buduj silne relacje w pracy, aby dba\u0107 o otwarte \u015Brodowisko."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048439436861440
+    m_Localized: Ravi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048523280998400
+    m_Localized: Jake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7204747913334784
+    m_Localized: "Bezpiecze\u0144stwo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7204889949245440
+    m_Localized: Wzajemny szacunek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7205035462234112
+    m_Localized: "Otwarto\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7238201412632576
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7241701743869952
+    m_Localized: "[0.00-3.00]\nPowinienem by\u0142 wiedzie\u0107, \u017Ce spr\xF3bujesz
+      ukra\u015B\u0107 mi prac\u0119.\n[3.00-5.00]\nB\u0119d\u0119 teraz mie\u0107
+      si\u0119 na baczno\u015Bci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078710535225344
+    m_Localized: "Co ja powinienem/powinnam zrobi\u0107?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078863094644736
+    m_Localized: "Nie chc\u0119 ju\u017C tego odk\u0142ada\u0107.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078930916540416
+    m_Localized: "Nie do ko\u0144ca, mo\u017Ce nie przemy\u015Bla\u0142em tego.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078943189073920
+    m_Localized: "Nadal nie s\u0105dz\u0119, \u017Ce to w porz\u0105dku, a ty?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078954572414976
+    m_Localized: "Hmm... Mo\u017Ce powinienem zabra\u0107 g\u0142os... Czy mam dobre
+      powody, \u017Ceby to zrobi\u0107?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078965364359168
+    m_Localized: "Tak, wydaje mi si\u0119 to w\u0142a\u015Bciwe, zamierzam to zrobi\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13293897244295168
+    m_Localized: "\u201ETo by\u0142 tylko \u017Cart\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303657540698112
+    m_Localized: "Zabranie g\u0142osu oznacza powiedzenie czego\u015B w reakcji na
+      nieodpowiednie zachowanie lub niew\u0142a\u015Bciwe s\u0142owa, niezale\u017Cnie
+      od tego, czy s\u0105 one skierowane do Ciebie, czy do innych os\xF3b.\n\n<b>G\u0142os
+      mo\u017Cna zabra\u0107 od razu lub p\xF3\u017Aniej</b>. Zg\u0142oszenie to
+      inny spos\xF3b na zabranie g\u0142osu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303725081575424
+    m_Localized: "Zabranie g\u0142osu oznacza powiedzenie czego\u015B."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303761957896192
+    m_Localized: "Zabierz g\u0142os teraz lub p\xF3\u017Aniej"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45693008257998848
+    m_Localized: "Ravi i Jake stoj\u0105 w kuchni restauracji McDonald's"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45694103168475136
+    m_Localized: "Ravi i Jake stoj\u0105 w kuchni restauracji McDonald's"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

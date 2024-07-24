@@ -1,0 +1,650 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario3_Table_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: 1cdae39b5d7e86340b581f14ac86265f, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2394929133959774227
+  m_TableData:
+  - m_Id: 466376015872
+    m_Localized: "N\u0119kanie w miejscu pracy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 860133392384
+    m_Localized: "Lubi\u0105 razem pracowa\u0107 i maj\u0105 w restauracji wsp\xF3lnych
+      znajomych, kt\xF3rzy cz\u0119sto spotykaj\u0105 si\u0119 poza prac\u0105"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 944228876288
+    m_Localized: "Pracownik z 6-miesi\u0119cznym sta\u017Cem pracy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3102777409536
+    m_Localized: Irytacja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3249083121664
+    m_Localized: Zmartwienie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3257173934080
+    m_Localized: "Skr\u0119powanie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3259564687360
+    m_Localized: Zadowolenie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3269194809344
+    m_Localized: Zmartwienie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3274131505152
+    m_Localized: "Spok\xF3j"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276333514752
+    m_Localized: Zadowolenie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3278724268032
+    m_Localized: Ekscytacja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Localized: "Hej, Kai, sko\u0144czy\u0142am na dzi\u015B. B\u0119dziesz tu jutro?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Localized: "Nie, b\u0119d\u0119 dopiero w przysz\u0142ym tygodniu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Localized: "Co ja zrobi\u0119 bez mojego kumpla z Drive-Thru?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Localized: "Prawdopodobnie du\u017Co szybciej obs\u0142u\u017Cysz te samochody.
+      Idziesz na imprez\u0119 Amala w ten weekend?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Localized: "Imprez\u0119? Chyba\u2026 Chyba nie zosta\u0142am zaproszona."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Localized: "S\u0142ucham? Przykro mi..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Localized: "\u017Bartuj\u0119! B\u0119d\u0119 tam."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Localized: "(westchni\u0119cie, \u015Bmiech)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Localized: "Wow, nabra\u0142am Ci\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4219418263552
+    m_Localized: 'Faktycznie. Do zobaczenia na miejscu. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4248908414976
+    m_Localized: "[0.00-3.80]\nCiesz\u0119 si\u0119, \u017Ce idziesz. B\u0119dzie
+      o wiele fajniej. \n[3.80-8.56]\nW\u0142a\u015Bciwie to pomy\u015Bla\u0142am,
+      \u017Ce fajnie by\u0142oby si\u0119 kiedy\u015B spotka\u0107, tylko we dwoje. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300582240256
+    m_Localized: "Nie s\u0105dz\u0119, \u017Ceby to by\u0142o\u2026 My\u015Bl\u0119,
+      \u017Ce powinni\u015Bmy pozosta\u0107 przy spotkaniach w grupie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348598632448
+    m_Localized: "Dobrze, ale przemy\u015Bl to!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Localized: "Zg\u0142o\u015B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Localized: "Intencja nie jest wym\xF3wk\u0105"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Localized: "Intencja Evy nie ma znaczenia, je\u015Bli jej dzia\u0142ania powoduj\u0105,
+      \u017Ce Kai si\u0119 kr\u0119puje.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6477430210560
+    m_Localized: "Nawet je\u015Bli komentarze lub pytania nie maj\u0105 na celu ura\u017Cenia
+      ani wprawienia kogo\u015B w dyskomfort, <b>intencja nie</b> t\u0142umaczy niepo\u017C\u0105danego
+      zachowania. Wa\u017Cne jest, czy osoba do\u015Bwiadczaj\u0105ca danego zachowania
+      uwa\u017Ca je za obra\u017Aliwe lub niepo\u017C\u0105dane."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478696890368
+    m_Localized: "To staje si\u0119 denerwuj\u0105ce. Je\u015Bli to si\u0119 nie
+      sko\u0144czy, by\u0107 mo\u017Ce b\u0119d\u0119 musia\u0142 spr\xF3bowa\u0107
+      zmieni\u0107 zmian\u0119, aby jej unika\u0107.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Localized: "Kai chce, \u017Ceby Eva przesta\u0142a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Localized: "W\u0142a\u015Bciwie nie spotykam si\u0119 z nikim innym. Ale to
+      moja sprawa. Nie musz\u0119 si\u0119 t\u0142umaczy\u0107, dlaczego nie chc\u0119
+      sp\u0119dza\u0107 z ni\u0105 czasu sam na sam."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Localized: "Kai chce zachowa\u0107 swoje \u017Cycie prywatne w tajemnicy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6598260031488
+    m_Localized: "Traktuj wsp\xF3\u0142pracownik\xF3w \nz szacunkiem poza prac\u0105"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Localized: "Wiem, \u017Ce nigdy by nam si\u0119 nie uda\u0142o, ale niemal
+      czuj\u0119, \u017Ce musz\u0119 si\u0119 zgodzi\u0107, \u017Ceby przesta\u0142a. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Localized: "Kai czuje presj\u0119, aby p\xF3j\u015B\u0107 na randk\u0119 z
+      Ev\u0105. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Localized: "Nie s\u0105dzi\u0142am, \u017Ce Kai b\u0119dzie w stanie oprze\u0107
+      si\u0119 filmowi szpiegowskiemu. B\u0119d\u0119 musia\u0142a znale\u017A\u0107
+      inny spos\xF3b."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Localized: "Eva zamierza ponownie zaprosi\u0107 Kaia na randk\u0119. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Localized: "Mo\u017Ce tak naprawd\u0119 nie spotyka si\u0119 teraz z nikim
+      innym? Popytam i zobacz\u0119, czy kto\u015B co\u015B wie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Localized: "Eva zamierza wypyta\u0107 innych o \u017Cycie osobiste Kaia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Localized: "M\xF3g\u0142bym co\u015B powiedzie\u0107 mened\u017Cerowi. Ale
+      lubi\u0119 pracowa\u0107 z Ev\u0105. I nie chc\u0119, \u017Ceby straci\u0142a
+      prac\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Localized: "Kai nie chce wpakowa\u0107 Evy w k\u0142opoty. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Localized: "Szanuj s\u0142owo \u201Enie\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Localized: "Je\u015Bli kto\u015B m\xF3wi \u201Enie\u201D, gdy zostanie poproszony
+      o um\xF3wienie si\u0119 na spotkanie, jego decyzja MUSI zosta\u0107 uszanowana.
+      <b>Molestowanie seksualne obejmuje niepo\u017C\u0105dane propozycje i flirt,
+      </b>np. zapraszanie kogo\u015B na randk\u0119 mimo odmowy. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Localized: "Dalsze niepo\u017C\u0105dane propozycje Evy mo\u017Cna uzna\u0107
+      za molestowanie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Localized: "To, jak traktujemy naszych wsp\xF3\u0142pracownik\xF3w <b>poza
+      restauracj\u0105 lub biurem, np. w miejscach spotka\u0144 towarzyskich,</b>
+      mo\u017Ce mie\u0107 r\xF3wnie\u017C wp\u0142yw na miejsce pracy. Traktuj wszystkich
+      z szacunkiem zawsze i wsz\u0119dzie.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8776731197440
+    m_Localized: "Eva jest zawsze mi\u0142a dla wszystkich, mo\u017Ce wi\u0119c odczytuje
+      jej propozycje niew\u0142a\u015Bciwie. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Localized: "Mimo \u017Ce Eva i Kai byli poza prac\u0105, kiedy Eva ponownie
+      zaprosi\u0142a Kaia na randk\u0119, mog\u0142o to nadal mie\u0107 wp\u0142yw
+      na ich miejsce pracy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9254827327488
+    m_Localized: "Nadal nie s\u0105dz\u0119, \u017Ceby to by\u0142o w porz\u0105dku.
+      My\u015Bl\u0119, \u017Ce to b\u0119dzie lepsze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10970805174272
+    m_Localized: "Hej, Dan, masz czas, \u017Ceby o czym\u015B porozmawia\u0107?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Localized: "Co {0} powinien/powinna zrobi\u0107 w nast\u0119pnej kolejno\u015Bci?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10985120333824
+    m_Localized: "Oczywi\u015Bcie. Mam teraz kilka minut. Co si\u0119 dzieje?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11151973941248
+    m_Localized: "[0.00-4.00]\nC\xF3\u017C, pomy\u015Bla\u0142em, \u017Ce m\xF3g\u0142by\u015B
+      mi pom\xF3c. \n[4.00-7.80]\nNie chc\u0119, \u017Ceby Eva mia\u0142a k\u0142opoty,
+      ale zaprasza\u0142a mnie na randk\u0119 kilka razy, \n[7.80-10.60]\na ja nie
+      wiem, jak j\u0105 przekona\u0107, \u017Ceby przesta\u0142a. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11153991401472
+    m_Localized: 'Rozumiem. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11266293579776
+    m_Localized: "Odpu\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Localized: "Zabierz g\u0142os"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Localized: "Nie chce zrani\u0107 uczu\u0107 Evy. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Localized: 'To, co Eva robi, to molestowanie. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Localized: "Mo\u017Ce po prostu ci\u0105gle jej odmawia\u0107. W ko\u0144cu
+      sama zrozumie. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Localized: "Mo\u017Ce straci zainteresowanie, je\u015Bli on zignoruje jej propozycje. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Localized: "Ma prawo chroni\u0107 swoje \u017Cycie prywatne. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Localized: "M\xF3g\u0142by przesta\u0107 j\u0105 obserwowa\u0107 w mediach
+      spo\u0142eczno\u015Bciowych, licz\u0105c, \u017Ce ona odpowiednio to odczyta "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Localized: "Ju\u017C powiedzia\u0142 nie, ale to nie powstrzymuje Evy. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Localized: "Nie uwa\u017Ca, \u017Ce \u200B\u200BEva chce wyrz\u0105dzi\u0107
+      mu krzywd\u0119, ale czuje si\u0119 skr\u0119powany z powodu uwagi, jak\u0105
+      mu ona po\u015Bwi\u0119ca. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12206929477632
+    m_Localized: "\u015Awietna robota!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13511391576064
+    m_Localized: "\u015Awietna robota!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13702404374528
+    m_Localized: "Co by by\u0142o, gdyby Kai odpu\u015Bci\u0142?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Localized: "Pr\xF3bowa\u0142em ju\u017C jej to powiedzie\u0107, ale nie s\u0105dz\u0119,
+      \u017Ce przestanie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Localized: "Musz\u0119 to jeszcze przemy\u015Ble\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Localized: "W tym scenariuszu Kai zdecydowa\u0142 si\u0119 zg\u0142osi\u0107
+      problem swojemu menad\u017Cerowi: </indent>\n\\u2022 <indent=1em>Dan porozmawia\u0142
+      z Ev\u0105. W rezultacie Eva przesta\u0142a zaprasza\u0107 Kaia na randki.</indent>\n\\u2022
+      <indent=1em>Eva i Kai mogli dalej wsp\xF3\u0142pracowa\u0107 i pozosta\u0107
+      przyjaci\xF3\u0142mi.</indent>\n\\u2022 <indent=1em>Ponadto Eva przemy\u015Bla\u0142a
+      swoje zachowanie w pracy, w tym to, jak u\u017Cywa\u0142a medi\xF3w spo\u0142eczno\u015Bciowych,
+      gdy wsp\xF3\u0142pracownicy byli zaanga\u017Cowani w prac\u0119.</indent>\n\nCo
+      by by\u0142o, gdyby Kai zachowa\u0142 si\u0119 inaczej?"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774227
+  - m_Id: 15515450687488
+    m_Localized: "W tym przypadku Kai pr\xF3bowa\u0142 dzia\u0142a\u0107 natychmiast
+      i powiedzie\u0107 co\u015B Evie, wyra\u017Caj\u0105c swoje preferencje dotycz\u0105ce
+      wy\u0142\u0105cznie \u201Espotka\u0144 grupowych\u201D. \nNie pos\u0142ucha\u0142a.\nPami\u0119taj,
+      \u017Ce nikt nie ma obowi\u0105zku zabierania g\u0142osu natychmiast, zw\u0142aszcza
+      je\u015Bli nie czuje si\u0119 na si\u0142ach, aby to zrobi\u0107.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16316051357696
+    m_Localized: "\\u2022 <indent=1em>Mo\u017Ce czu\u0107 presj\u0119, aby podzieli\u0107
+      si\u0119 szczeg\xF3\u0142ami ze swojego \u017Cycia osobistego, o kt\xF3rym
+      nie chce opowiada\u0107 w pracy</indent>\n\\u2022 <indent=1em>Jego efektywno\u015B\u0107
+      mo\u017Ce ucierpie\u0107, poniewa\u017C czuje si\u0119 skr\u0119powany, pracuj\u0105c
+      z Ev\u0105, a mo\u017Ce nawet zdecydowa\u0107 si\u0119 na odej\u015Bcie z pracy</indent>\n\\u2022
+      <indent=1em>Eva mo\u017Ce nigdy nie zrozumie\u0107, \u017Ce jej zachowanie
+      jest niew\u0142a\u015Bciwe</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774227
+  - m_Id: 16349987471360
+    m_Localized: "Co by by\u0142o, gdyby Kai powiedzia\u0142 Evie, \u017Ceby przesta\u0142a?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16412994306048
+    m_Localized: "Co by by\u0142o, gdyby Kai poszed\u0142 z Ev\u0105 na randk\u0119?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16432816586752
+    m_Localized: "Kai wyra\u017Anie nie ma ochoty i\u015B\u0107 w na randk\u0119
+      z Ev\u0105. Nikt nie powinien chodzi\u0107 na randk\u0119 ze wsp\xF3\u0142pracownikiem
+      tylko dlatego, \u017Ce czuje tak\u0105 presj\u0119 lub przymus. Zgoda na randk\u0119
+      z Ev\u0105 nie sprawi, \u017Ce Kai poczuje si\u0119 bezpieczniej w pracy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16655802253312
+    m_Localized: "Niezale\u017Cnie od tego, czy jeste\u015B w pracy, czy kontaktujesz
+      si\u0119 ze wsp\xF3\u0142pracownikami poza prac\u0105, zgadzasz si\u0119 \u017Cy\u0107
+      zgodnie z warto\u015Bciami firmy McDonald's."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Localized: "Ludzie czuj\u0105 si\u0119 bezpieczniej w pracy, gdy respektujesz
+      stawiane przez nich granice, zw\u0142aszcza je\u015Bli kto\u015B odmawia osobistego
+      zaproszenia. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Localized: "Pomy\u015Bl, zanim co\u015B opublikujesz. Zachowaj szczeg\xF3ln\u0105
+      ostro\u017Cno\u015B\u0107 podczas kontaktowania si\u0119 ze wsp\xF3\u0142pracownikami
+      za po\u015Brednictwem medi\xF3w spo\u0142eczno\u015Bciowych, wiadomo\u015Bci
+      tekstowych lub wiadomo\u015Bci e-mail."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Localized: "Polityka McDonald\u2019s zapewnia, \u017Ce \u200B\u200Bwszyscy
+      pracownicy, bez wzgl\u0119du na to, kim s\u0105, mog\u0105 spokojnie wykonywa\u0107
+      swoj\u0105 prac\u0119. Maj\u0105 r\xF3wnie\u017C prawo do prywatno\u015Bci
+      w odniesieniu do swojego \u017Cycia osobistego.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Localized: Kai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Localized: Eva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Localized: "Bezpiecze\u0144stwo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Localized: Wzajemny szacunek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Localized: "Otwarto\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274034335023104
+    m_Localized: <size=200%><b>Impreza</b></size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274469670223872
+    m_Localized: "Cze\u015B\u0107, Kai!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274496694124544
+    m_Localized: "Hej, Ewa. Dopiero teraz przysz\u0142a\u015B?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274532735778816
+    m_Localized: "Tak, jak by\u0142o do tej pory?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274544693739520
+    m_Localized: "Amal zawsze urz\u0105dza \u015Bwietne imprezy. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274558790795264
+    m_Localized: "[0.00-3.00]\nWiesz, jad\u0105c tutaj, mija\u0142am kino. \n[3.00-7.05]\nMa
+      by\u0107 maraton film\xF3w szpiegowskich. Lubisz je, prawda?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274602323476480
+    m_Localized: "Tak. Masz dobr\u0105 pami\u0119\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274614969303040
+    m_Localized: "Ch\u0119tnie za\u0142atwi\u0119 nam bilety, je\u015Bli jeste\u015B
+      zainteresowany? By\u0142oby fajnie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274838349545472
+    m_Localized: "Nie jestem pewien, czy to dobry pomys\u0142\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274890853842944
+    m_Localized: "W\u0142a\u015Bciwie m\xF3wi\u0142em, \u017Ce powinni\u015Bmy pozosta\u0107
+      przy spotkaniach grupowych\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274906112720896
+    m_Localized: "Eva, to fajny pomys\u0142, ale nie jestem zainteresowany\u2026 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275035020460032
+    m_Localized: "S\u0142uchaj, rozumiem, nie musisz si\u0119 t\u0142umaczy\u0107. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275074438529024
+    m_Localized: "Najwyra\u017Aniej spotykasz si\u0119 z kim\u015B innym.   "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275087587672064
+    m_Localized: Nie chodzi o to...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275097968574464
+    m_Localized: "Hej, Eva, chod\u017A tutaj!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275126250766336
+    m_Localized: "[0.00-3.50]\nMusz\u0119 z ni\u0105 porozmawia\u0107. Do zobaczenia
+      p\xF3\u017Aniej.  \n[3.50-5.68]\nJeszcze tylko u\u015Bmiech!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275137957068800
+    m_Localized: (wibracja telefonu)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275547438579712
+    m_Localized: "Ja i m\xF3j przysz\u0142y ch\u0142opak #sexy!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275788460064768
+    m_Localized: "Z\u0142o\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275823071461376
+    m_Localized: Frustracja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275849965338624
+    m_Localized: "Skr\u0119powanie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275876641112064
+    m_Localized: "Spok\xF3j"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275917095174144
+    m_Localized: Poirytowanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276018807046144
+    m_Localized: "Spok\xF3j"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276029716430848
+    m_Localized: Ekscytacja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276038713212928
+    m_Localized: Nadzieja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278173962076160
+    m_Localized: "Zachowaj szczeg\xF3ln\u0105 ostro\u017Cno\u015B\u0107 je\u015Bli
+      chodzi o media spo\u0142eczno\u015Bciowe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278207336153088
+    m_Localized: "Ka\u017Cda osoba pracuj\u0105ca w McDonald\u2019s ma prawo do <b>prywatno\u015Bci
+      w pracy.</b> Nikt nie ma prawa zna\u0107 szczeg\xF3\u0142\xF3w dotycz\u0105cych
+      \u017Cycia osobistego innej osoby. \n<b>Udost\u0119pnianie wiadomo\u015Bci
+      e-mail, SMS-\xF3w lub zdj\u0119\u0107</b>, kt\xF3re sprawiaj\u0105, \u017Ce
+      kto\u015B czuje si\u0119 niezr\u0119cznie, nawet je\u015Bli tre\u015B\u0107
+      nie ma charakteru seksualnego, stanowi przyk\u0142ad obra\u017Aliwego zachowania.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278228601274368
+    m_Localized: "Kai nie musi m\xF3wi\u0107 Evie, czy spotyka si\u0119 z kim\u015B,
+      a wpis Evy w mediach spo\u0142eczno\u015Bciowych mo\u017Cna uzna\u0107 za molestowanie.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278249522462720
+    m_Localized: "Zg\u0142oszenie i jego konsekwencje"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278268526854144
+    m_Localized: "W niekt\xF3rych przypadkach nieodpowiednie zachowanie mo\u017Ce
+      prowadzi\u0107 do powa\u017Cnych konsekwencji, takich jak rozwi\u0105zanie
+      stosunku pracy. Mo\u017Ce te\u017C jednak przybiera\u0107 mniej powa\u017Cne
+      formy, takie jak ostrze\u017Cenie pisemne, szkolenie, coaching lub inne \u015Brodki.
+      <b>Konsekwencje maj\u0105 by\u0107 proporcjonalne do zachowania.</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278283093671936
+    m_Localized: "Je\u015Bli Kai zg\u0142osi zachowanie Evy mened\u017Cerowi, niekoniecznie
+      b\u0119dzie to oznacza\u0107 powa\u017Cne konsekwencje dla Evy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279466818535424
+    m_Localized: "Eva mo\u017Ce mie\u0107 powa\u017Cne k\u0142opoty, je\u015Bli zg\u0142osi
+      jej zachowanie i on tego nie chce."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281393660821504
+    m_Localized: "Kai postanawia porozmawia\u0107 ze swoim menad\u017Cerem Danem
+      o sytuacji z Ev\u0105."
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774227
+  - m_Id: 281832754118656
+    m_Localized: "[0.00-6.10]\nJest wspania\u0142a. Po prostu nie jestem zainteresowany
+      i za ka\u017Cdym razem pr\xF3bowa\u0142em jej to powiedzie\u0107. \n[6.10-9.02]\nPo
+      prostu nie chc\u0119, \u017Ceby by\u0142o dalej niezr\u0119cznie w pracy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281861627707392
+    m_Localized: "Dzi\u0119ki, \u017Ce da\u0142e\u015B mi zna\u0107. Porozmawiam
+      z ni\u0105, gdy tylko b\u0119d\u0119 m\xF3g\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281880820842496
+    m_Localized: "Czy jest co\u015B jeszcze, co mog\u0119 zrobi\u0107? Czy mam sam
+      z ni\u0105 porozmawia\u0107?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282182995279872
+    m_Localized: "[0.00-2.11]\nNie musisz robi\u0107 nic wi\u0119cej. \n[2.11-6.00]\nJe\u015Bli
+      zdecydujesz, \u017Ce chcesz z ni\u0105 o tym porozmawia\u0107, to zale\u017Cy
+      to wy\u0142\u0105cznie od Ciebie. \n[6.00-7.68]\nAle nie musisz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282196278640640
+    m_Localized: "Dzi\u0119ki, Dan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8984898575351808
+    m_Localized: "Ja i m\xF3j przysz\u0142y ch\u0142opak #sexy!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9079372215304192
+    m_Localized: "Sp\xF3\u017Ani\u0119 si\u0119 z powrotem do pracy. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10069078382034944
+    m_Localized: "Dochodzi do tego, \u017Ce nawet nie chc\u0119 z ni\u0105 pracowa\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10070229630402560
+    m_Localized: "[0.00-3.00]\nNie mog\u0119 Ci powiedzie\u0107, o czym rozmawiali\u015Bmy,
+      \n[3.00-5.80]\nale je\u015Bli to si\u0119 b\u0119dzie powtarza\u0107, daj mi
+      zna\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12593492147388416
+    m_Localized: Kai znajduje Dana w pokoju socjalnym.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33598141228072960
+    m_Localized: "Wybierz odpowied\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33772351580528640
+    m_Localized: "Kai i Eva stoj\u0105 w pokoju socjalnym restauracji McDonald's"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33772363660124160
+    m_Localized: "Kai i Eva stoj\u0105 w salonie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33773089228578816
+    m_Localized: "Kai i Dan stoj\u0105 w pokoju socjalnym restauracji McDonald's"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2394929133959774227
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00402df3f20d0000000072e0d60e000000003211edff0000

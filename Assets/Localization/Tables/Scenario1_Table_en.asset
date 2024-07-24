@@ -1,0 +1,474 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario1_Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a58a75991ac08d149a2124682c3949cb, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 36428341248
+    m_Localized: Hostile Work Environment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272979058253824
+    m_Localized: Ah man, I knew you were the oldest kid!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272907587313664
+    m_Localized: 'Yeah - I have younger brothers. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411606405120
+    m_Localized: Has been a crew member for one month
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508306083840
+    m_Localized: Has been a crew member for three months
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1620579213312
+    m_Localized: "They\u2019ve been scheduled on the same shifts on a few occasions
+      and have enjoyed working together."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2411931131904
+    m_Localized: Do you have any siblings?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273020137267200
+    m_Localized: "Oh\u2026 Why's that?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273053385515008
+    m_Localized: Because you think you're always right.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273093751496704
+    m_Localized: "\u2026 but, I <i>am</i> always right."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273163750236160
+    m_Localized: (Laughs)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273241915285504
+    m_Localized: You're the youngest, right?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273274916069376
+    m_Localized: "Yeah\u2026 How did you know?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273312195043328
+    m_Localized: Select a joke for {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273481917554688
+    m_Localized: You never stop talking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273518680629248
+    m_Localized: Your jokes are terrible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273544324603904
+    m_Localized: You always get the last word
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273563354161152
+    m_Localized: Also, when we're on the same shift, I end up doing most of the work.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274315288010752
+    m_Localized: Well--how am I supposed to keep up with a hard-working foreigner?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274368794746880
+    m_Localized: "Hey, if you can\u2019t keep up, that isn\u2019t my problem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274933650055168
+    m_Localized: Worried
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275049173770240
+    m_Localized: Untroubled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275076474494976
+    m_Localized: Happy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275097773170688
+    m_Localized: Cheerful
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275111236886528
+    m_Localized: Annoyed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275124285366272
+    m_Localized: Confused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275137623252992
+    m_Localized: Untroubled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275158263422976
+    m_Localized: Happy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275879419469824
+    m_Localized: This job is so much better when Ravi is around. Time flies at work
+      when you can laugh.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276721195311104
+    m_Localized: Jake enjoys working and laughing with Ravi.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276788484530176
+    m_Localized: "He\u2019s really learning fast. Hard to believe he\u2019s only
+      been here a few weeks."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276839353049088
+    m_Localized: Jake believes Ravi is good at the job.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276939483668480
+    m_Localized: "That\u2019s the third time Jake has joked about me being a foreigner. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277366186991616
+    m_Localized: Jake has made multiple jokes about Ravi being a foreigner.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277367822770176
+    m_Localized: "I kind of want to say something. But I like working with him, and
+      I don\u2019t want to make things uncomfortable."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277369299165184
+    m_Localized: Ravi isn't sure whether he should say something.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277370909777920
+    m_Localized: "Maybe I should just lighten up. He doesn\u2019t really have a problem
+      with foreigners\u2026 I don\u2019t think."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277559338885120
+    m_Localized: Ravi wonders if he is overreacting.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277570382487552
+    m_Localized: Ravi wonders if the joking will get worse.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277569124196352
+    m_Localized: "I don\u2019t think these jokes are going to stop. And I don\u2019t
+      know how many more I want to hear."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277571863076864
+    m_Localized: I worry someone might overhear Jake talking that way. He could get
+      in trouble.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277573184282624
+    m_Localized: "Ravi doesn\u2019t want Jake to get in trouble."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278077507395584
+    m_Localized: Safety for all
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278203915329536
+    m_Localized: 'Everyone who works at McDonald''s is entitled to work in an environment
+      free from violence, bullying, harassment, discrimination, and victimization/retaliaton.
+
+
+      Harassing
+      others based on their gender, race, age, religious beliefs, disability, or
+      other factors is not tolerated.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278576247889920
+    m_Localized: Jake's jokes about Ravi being an immigrant could create a hostile
+      work environment.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278616114749440
+    m_Localized: <b>Even if the behavior was not meant to be offensive,</b> it could
+      still be considered harassment and create a hostile work environment.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278774059655168
+    m_Localized: 'Even if Jake didn''t mean to offend Ravi, his jokes can still be
+      considered bullying or harassment. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278872999092224
+    m_Localized: What should {0} do next?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280045575495680
+    m_Localized: Let it go
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280162160369664
+    m_Localized: Speak up now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280367333138432
+    m_Localized: "He doesn\u2019t know what to say."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280430620991488
+    m_Localized: He is worried the jokes will continue or increase.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280433020133376
+    m_Localized: He can just stay focused on work and not let personal stuff bother
+      him.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280434999844864
+    m_Localized: He is uncomfortable with jokes about his foreign status.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280437172494336
+    m_Localized: "He should lighten up. He doesn\u2019t want their friendship to
+      change."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280439210926080
+    m_Localized: He doesn't want Jake to share the same type of joke with any other
+      foreigners in the restaurant.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280445540130816
+    m_Localized: He believes Jake is a great guy  and would want to know why the
+      joke is offensive.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280479383969792
+    m_Localized: "Jake didn\u2019t mean to offend Ravi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281021090914304
+    m_Localized: Not quite, I may not have thought this through.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281095795662848
+    m_Localized: "I don\u2019t think that\u2019s right, how about this?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281627281088512
+    m_Localized: "[0.00-5.00]\nUm\u2026 I know we\u2019ve been joking, and I\u2019m
+      not exactly sure how to say this,\n[5.00-8.00]\nbut jokes about foreigners
+      are hard for me to hear.\n[8.00-10.89]\nI\u2019ve heard those stereotypes used
+      against my family."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281630267432960
+    m_Localized: "Really? Rav, I\u2019m sorry. I didn\u2019t know that.\nI definitely
+      didn\u2019t mean to make you feel less than."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281632377167872
+    m_Localized: Thanks for understanding.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281634356879360
+    m_Localized: "Of course. Thanks for letting me know. I\u2019ll be more careful."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281636558888960
+    m_Localized: "I hope I didn\u2019t sound too much like an older sibling just
+      now."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281638601515008
+    m_Localized: "Don\u2019t worry, I\u2019m used to it!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281640837079040
+    m_Localized: Jake and Ravi go back to making sandwiches happily.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282218757644288
+    m_Localized: "Ravi chose to act in the moment. In the process, he helped create
+      a safer work environment for himself, and possibly for others. \n\nWhat if
+      Ravi had acted differently?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283547773198336
+    m_Localized: What if Ravi had let it go?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283750395830272
+    m_Localized: "\u2022 <indent=2%>The jokes could get worse or more frequent.</indent>\n\u2022
+      <indent=2%>It could be even harder to speak up next time offensive jokes are
+      shared.</indent>\n\u2022 <indent=2%>Other people could hear and also be hurt
+      by the jokes.</indent>\n\u2022 <indent=2%>Ravi\u2019s ability to do his work
+      well could be affected if he doesn\u2019t feel safe or respected.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283898056302592
+    m_Localized: What if Ravi spoke up later?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283999382298624
+    m_Localized: "There are many reasons why someone might hesitate to speak up in
+      the moment. They might not feel safe or comfortable speaking up, or they might
+      just need time to think about what they want to say. \n\nIf Ravi decided to
+      wait to speak up: \n\u2022 <indent=2%>He could have redirected the conversation
+      and brought up a new topic.</indent>\n\u2022 <indent=2%>He could have found
+      a more neutral time to address the behavior or his discomfort.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284148749852672
+    m_Localized: What if Ravi reported to his manager?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284166646947840
+    m_Localized: "We do not tolerate bullying, intimidation, or harassment in any
+      way, and anyone who receives this kind of behavior can report. In this case,
+      Ravi might have been concerned about getting Jake into trouble. It\u2019s important
+      to remember that not every report leads to serious consequences. \n\nIf Ravi
+      had reported Jake\u2019s comments to his manager, here\u2019s what might have
+      happened:\n\u2022 <indent=2%>The manager might speak to Jake about his comments.</indent>\n\u2022
+      <indent=2%>Jake might receive feedback about his behavior and get some perspective
+      on why his joking went too far.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284400093519872
+    m_Localized: Whether you are talking to your co-workers or guests, you can help
+      build a <b>safe, respectful, and inclusive</b> culture for everyone.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284575386066944
+    m_Localized: Even if you meant no harm and everyone laughed, jokes that touch
+      upon any protected characteristic are against our policy. Everyone is entitled
+      to a safe workplace.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284655421775872
+    m_Localized: If you have ever said or done anything to disrespect a co-worker,
+      it is good to apologize and do better. Everyone contributes to a respectful
+      culture.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284665953673216
+    m_Localized: You can better understand who your co-workers are by learning about
+      their experiences. Take time to listen to them. Build strong working relationships
+      to cultivate an inclusive environment.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048439436861440
+    m_Localized: Ravi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048523280998400
+    m_Localized: Jake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7204747913334784
+    m_Localized: Safe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7204889949245440
+    m_Localized: Respectful
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7205035462234112
+    m_Localized: Inclusive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7241701743869952
+    m_Localized: "[0.00-3.00]\nI should have known you\u2019d try to swoop in and
+      steal my job.\n[3.00-5.00]\nI\u2019ll be watching my back now."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078710535225344
+    m_Localized: 'What should I do?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078863094644736
+    m_Localized: "I don\u2019t want to put this off anymore.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078930916540416
+    m_Localized: 'Not quite, I may not have thought this through.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078943189073920
+    m_Localized: "I still don\u2019t think that\u2019s right, how about this?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078954572414976
+    m_Localized: 'Hmm.. Maybe I should Speak Up, ... do I have good reasons to do
+      it?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078965364359168
+    m_Localized: "Yes, this feels right to me, I\u2019m going to do it."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13293897244295168
+    m_Localized: '"It was only a joke"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303761957896192
+    m_Localized: Speak up now or later
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303657540698112
+    m_Localized: 'Speaking up means to say something about inappropriate behavior
+      or words, whether they are directed to you or others.
+
+
+      <b>Speaking up
+      can be done in the moment or later</b>. Reporting is another way to speak up.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303725081575424
+    m_Localized: Speaking up means to say something.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45693008257998848
+    m_Localized: Ravi and Jake standing in the kitchen of a McDonald's Restaurant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45694103168475136
+    m_Localized: Ravi and Jake standing in the kitchen of a McDonald's Restaurant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7238201412632576
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

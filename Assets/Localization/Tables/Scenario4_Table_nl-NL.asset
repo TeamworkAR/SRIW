@@ -1,0 +1,607 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario4_Table_nl-NL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl-NL
+  m_SharedData: {fileID: 11400000, guid: cf2d1ef1053fd584cb0013e6eed1a750, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2394929133959774233
+  m_TableData:
+  - m_Id: 466376015872
+    m_Localized: Discriminatie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 860133392384
+    m_Localized: Ze werken vaak samen en vinden dat heel prettig.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 944228876288
+    m_Localized: Is crewlid sinds drie maanden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3102777409536
+    m_Localized: Van de wijs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3249083121664
+    m_Localized: 'Boos
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3257173934080
+    m_Localized: Onbezorgd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3259564687360
+    m_Localized: Blij
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3269194809344
+    m_Localized: Bezorgd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3274131505152
+    m_Localized: "Ge\xEBrgerd"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276333514752
+    m_Localized: Onbezorgd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3278724268032
+    m_Localized: Blij
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3284759871488
+    m_Localized: Van de wijs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3288031428608
+    m_Localized: "Ge\xEBrgerd"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3290644480000
+    m_Localized: Onbezorgd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3292976513024
+    m_Localized: Blij
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Localized: "H\xE9 Jake, waar werk jij vandaag?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Localized: "Hoi Maria. H\xE9 Samuel. Ik begin vandaag bij de counter. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Localized: "[0.00-3.50]\nDat zou dan geen probleem moeten zijn. \n[3.50-8.44]\nAlan
+      werkt daar vandaag ook denk ik, dus dan kun je hem helpen. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Localized: Hoe bedoel je, hem helpen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Localized: 'Oh, je weet wel. Hij durft niet eens oogcontact te maken met mensen. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Localized: Maar hij kan het wisselgeld sneller berekenen dan het POS!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Localized: "[0.00-4.00]\nDat is wel waar. Maar hij is zo onhandig, het is onuitstaanbaar.
+      \n[4.00-8.80]\nHij kan niet eens over koetjes en kalfjes praten. Volgens mij
+      moeten gasten niks van hem hebben.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Localized: "[0.00-3.40]\nKom zeg, Maria. Alan kan echt een hele gave gozer
+      zijn. \n[3.40-8.00]\nHij is dan misschien sociaal een beetje beperkt, maar
+      hij doet zijn werk gewoon goed. \n[8.00-10.05]\nIn veel dingen is hij veel
+      beter dan ik."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Localized: Je kunt me nog meer vertellen, Jake.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Localized: Melding maken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Localized: Een bondgenoot zijn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Localized: 'Jake heeft een goede werkrelatie opgebouwd met Alan, zodat hij
+      een goede bondgenoot is. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6477430210560
+    m_Localized: "Als je getuige bent van een ervaring die ingaat tegen de waarden
+      van McDonald's, heb je de mogelijkheid om een bondgenoot te zijn.  \nEen bondgenoot
+      komt voor anderen op door:\n<align=\"left\">\n\u2022 <indent=1em>Naar hen te
+      luisteren en aan sterke werkrelaties te bouwen\n</indent>\n\u2022 <indent=1em>Positief
+      gedrag als voorbeeld aan de dag te leggen\n</indent>\n\u2022 <indent=1em>Zijn
+      of haar invloed te gebruiken om anderen te helpen\n</indent>\n"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774233
+  - m_Id: 6478696890368
+    m_Localized: Ik ken Alan inmiddels een beetje beter. Als hij zou horen wat Maria
+      en Samuel over hem zeggen, zou hij daar kapot van zijn.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Localized: 'Jake begrijpt hoe kwetsend deze opmerkingen voor Alan zouden kunnen
+      zijn. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Localized: Maria praat altijd over anderen als die er niet bij zijn. Ik vraag
+      me af wat ze over mij zegt als ik er niet ben.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Localized: Door de opmerkingen van Maria over anderen voelt Jake zich onveilig
+      en ongewenst op het werk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6598260031488
+    m_Localized: Kwetsende grappen zijn ongepast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Localized: Maria heeft hier veel vrienden. Als ik iets tegen Maria zeg, of
+      ik het meld, zou ze ook anderen tegen me kunnen opzetten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Localized: Jake is bang voor de consequenties als hij iets zegt of melding
+      maakt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Localized: Natuurlijk zou ik nooit iets over Alan zeggen waar hij bij stond.
+      Zo erg ben ik ook weer niet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Localized: Maria denkt dat haar opmerkingen over Alan geen probleem vormen,
+      omdat ze deze niet rechtstreeks tegen Alan heeft gemaakt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Localized: Er is niks mis met wat ik heb gezegd, hij is gewoon anders... en
+      ik weet niet of hij wel geschikt is voor dit werk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Localized: Maria denkt dat het geen probleem vormt om beledigende opmerkingen
+      te maken over de verschillen tussen mensen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7931473772544
+    m_Localized: Ik vind dat een geintje op het werk moet kunnen. Samuel snapt dat.
+      Als Jake het niet goed vindt, is dat zijn probleem.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8271615049728
+    m_Localized: Maria is van plan door te gaan met het soort opmerkingen dat ze
+      ook over Alan maakte.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Localized: Misschien heeft Jake gelijk. We moeten niet zo over Alan praten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Localized: Samuel wil Alan niet belachelijk maken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8462938226688
+    m_Localized: Ik heb tenminste nog iets aardigs over Alan gezegd. Als Jake maar
+      niet vindt dat ik gemeen ben.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8464821469184
+    m_Localized: Samuel vindt dat zijn opmerkingen geen probleem vormen, omdat hij
+      iets aardigs over Alan heeft gezegd.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Localized: Niet roddelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Localized: "Roddelen over anderen, vooral met taalgebruik dat beledigend of
+      kwetsend is, kan de mensen over wie wordt gepraat schaden. Het kan ook schadelijk
+      zijn voor de mensen die meeluisteren naar het gesprek, die zich mogelijk ge\xEFntimideerd
+      of gepest voelen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Localized: De opmerkingen van Maria en Samuel kunnen Alan kwetsen, ook al hoorde
+      hij ze niet. Ze kunnen ook zorgen dat Jake zich minder veilig voelt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Localized: "Een waarschuwing geven dat je op het punt staat iets beledigends
+      te zeggen, maakt het niet ok\xE9. \"Het was maar een grap\" of \"Ik bedoelde
+      het niet zo kwaad\" zeggen nadat je hebt gezegd, maakt het ook niet minder
+      erg. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8776731197440
+    m_Localized: 'Omdat Alan niets heeft gehoord, zou hij het dit keer door de vingers
+      kunnen zien. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Localized: "Maria kan dan wel zeggen dat ze maar een grap maakt, maar dat maakt
+      haar opmerkingen over Alan nog niet ok\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9254827327488
+    m_Localized: Dit voelt toch niet helemaal goed aan. Ik wil niet dat ze Alan kwetsen,
+      dus dit is een betere keuze.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10970805174272
+    m_Localized: "[0.00-4.00]\nIk neem het hoog op, omdat ik echt heb geprobeerd
+      hem beter te leren kennen. \n[4.00-7.05]\nHij probeert echt goed om te gaan
+      met mensen, ook al is hij niet sociaal."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Localized: Wat moet {0} als volgende doen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10985120333824
+    m_Localized: 'Nou, hij doet duidelijk niet genoeg zijn best. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11151973941248
+    m_Localized: Je zou eens met hem moeten gaan praten. Hij weet veel over Formule
+      1-racen. Je bent toch gek op F1?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11153991401472
+    m_Localized: "[0.00-2.00]\nJa, ik wil niet met Alan praten, hoor. \n[2.00-5.88]\nHet
+      is een rare vogel. Ga jij maar beste vrienden met hem spelen als je dat wilt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11266293579776
+    m_Localized: Er verder niet op ingaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Localized: Er nu iets van zeggen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Localized: 'Hij wil Maria niet kwetsen. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11664132014080
+    m_Localized: Jake koos ervoor hier meteen iets over te zeggen en direct tegen
+      Maria te zijn.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Localized: 'Iets zeggen kan de situatie alleen maar erger maken '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Localized: 'Hij wil niet het risico lopen dat Alan over de opmerkingen van
+      Maria hoort. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Localized: 'Hij kan wachten om iets te zeggen/melding te maken als Maria hierna
+      nog iets beledigends over Alan zegt. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Localized: 'Hij vindt Alan aardig en stelt de manier waarop Maria over hem
+      praat niet op prijs. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Localized: Hij heeft al eens iets gezegd om voor Alan op te komen en dat zou
+      voldoende moeten zijn.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11795438895104
+    m_Localized: In dit geval kon direct iets zeggen Maria niet overtuigen om haar
+      gedrag te veranderen, maar dat betekent nog niet dat Jake een fout maakte door
+      iets te zeggen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11797074673664
+    m_Localized: Samuel besloot Alan beter te leren kennen en hij heeft niet langer
+      grappen achter zijn rug om gemaakt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Localized: 'Hij vindt dat niemand het verdient om voor gek te worden gezet,
+      vooral niet om wie ze zijn.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Localized: 'Hij weet dat het plagen erger kan worden als hij niets anders onderneemt. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11852275908608
+    m_Localized: "Hoewel Jake het gedrag van Maria niet kon veranderen, verbeterde
+      hij de werkomgeving toch indirect door Samuel te be\xEFnvloeden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12206929477632
+    m_Localized: Goed werk!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12335631695872
+    m_Localized: Jake had de opmerkingen van Maria ook aan zijn manager kunnen melden.
+      Ontdek hoe dat gesprek had kunnen verlopen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12464291971072
+    m_Localized: "H\xE9 Dan kunnen we nu eventjes praten?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12788276789248
+    m_Localized: Natuurlijk, Jake.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12831557812224
+    m_Localized: 'Ik wilde met je praten over een gesprek dat ik onlangs met Maria
+      had. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12835018113024
+    m_Localized: Weet Alan ervan?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12838633603072
+    m_Localized: 'Ik denk het niet. En ik zou niet willen dat hij erachter kwam. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12842815324160
+    m_Localized: Bedankt dat je het hebt verteld. Ik zal tijd maken om met haar te
+      praten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12846002995200
+    m_Localized: "[0.00-4.00]\nIk wil niet dat ze kwaad op me wordt, maar ik wil
+      dat Alan zich veilig kan voelen op het werk. \n[4.00-7.05]\nHij heeft me een
+      paar dingen over zichzelf verteld en me gevraagd het aan niemand te vertellen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12848926425088
+    m_Localized: Ik zal met Maria praten over hoe zij collega's behandelt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12852130873344
+    m_Localized: Bedankt, Dan. Ik stel dit echt op prijs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12856035770368
+    m_Localized: "[0.00-2.00]\nBedankt dat je voor Alan bent opgekomen. \n[2.00-4.53]\nHij
+      werkt hard en vindt het leuk om deel uit te maken van het team.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13400527732736
+    m_Localized: 'Dan volgde dit op met een gesprek met Maria. Ze was verrast en
+      niet erg blij dat iemand melding had gemaakt over haar opmerkingen, maar ze
+      maakte geen grapjes meer over Alan. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13507302129664
+    m_Localized: 'Alan heeft nooit iets van Maria''s opmerkingen vernomen. Hij geniet
+      nog steeds van zijn werk en breidt zijn vaardigheden uit. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13509281841152
+    m_Localized: 'Jake en Maria hebben elkaar na de melding niet zoveel meer gesproken,
+      maar konden in het vervolg nog wel samenwerken. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13511391576064
+    m_Localized: Goed werk!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13700575657984
+    m_Localized: Jake had Maria ook rechtstreeks op haar gedrag kunnen aanspreken.
+      Ontdek hoe dat gesprek had kunnen verlopen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13702404374528
+    m_Localized: 'Wat als Jake er verder niet op was ingegaan? '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Localized: Ik wil echt niet dat Alan er ook maar iets van te horen krijgt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Localized: Misschien moet ik hier nog eens over nadenken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Localized: "Er direct iets van zeggen of melding maken, of beide, zou kunnen
+      voorkomen dat Alan op het werk wordt gepest.\nGeen van beide acties was gemakkelijk
+      voor Jake. Een bondgenoot zijn is niet altijd gemakkelijk, maar iedereen helpen
+      de waarden van McDonald's na te leven is een belangrijk onderdeel van je werk.
+      \n\nWat zou er zijn gebeurd als Jake anders had gehandeld?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15515450687488
+    m_Localized: "Als Maria Jake slecht had behandeld nadat hij haar gedrag had gemeld,
+      zou dit worden beschouwd als vergelding (of represailles). Het is nooit toegestaan
+      om vergeldingsmaatregelen tegen iemand te nemen die ongepast gedrag heeft gemeld. 
+      \nAls Jake ooit het gevoel heeft dat Maria vergeldingacties tegen hem onderneemt,
+      moet hij ook dat gedrag melden.\n\nVergelding kan vele vormen aannemen:\n\\u2022<indent=1em>Roddelen,
+      iemand kleineren of onterecht bekritiseren\n </indent>\n\\u2022<indent=1em>Iemand
+      ontslaan\n</indent>\n\\u2022<indent=1em>Iemands loon of uren verlagen of de
+      persoon degraderen of overplaatsen\n</indent>\n"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774233
+  - m_Id: 16316051357696
+    m_Localized: "\\u2022<indent=1em>Maria en Samuel zouden kunnen doorgaan met het
+      maken van gemene of kleinerende opmerkingen over Alan, wat anderen zou kunnen
+      aanmoedigen soortgelijke opmerkingen te maken. \n</indent>\n\\u2022<indent=1em>Alan
+      zou uiteindelijk te weten kunnen komen dat deze opmerkingen zijn gemaakt. Hij
+      zou zich onveilig kunnen voelen op het werk, zijn vermogen om zijn werk te
+      doen zou eronder kunnen lijden of hij zou zelfs kunnen besluiten om zijn baan
+      op te zeggen. \n</indent>\n"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774233
+  - m_Id: 16349987471360
+    m_Localized: Wat als Maria vergeldingsmaatregelen neemt tegen Jake?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16412994306048
+    m_Localized: Wat als we Alans gedachten zouden kunnen lezen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16432816586752
+    m_Localized: "\\u2022 <indent=1em>Ik probeer echt net zo vriendelijk met mensen
+      om te gaan als iedereen. Het gaat zoveel beter dan vroeger. </indent>\n\n\\u2022<indent=1em>Ik
+      zou willen dat mensen mijn sterke kanten erkennen en niet alleen de gebieden
+      benadrukken waarop ik moet verbeteren. \n</indent>\n\\u2022 <indent=1em>Dan
+      weet dat ik met uitdagingen kamp die van invloed zijn op mijn werk. Hij heeft
+      aanpassingen gedaan om mij te helpen. Zo kan ik bijvoorbeeld een extra pauze
+      nemen als dat nodig is. Maar ik houd dat liever priv\xE9.\n</indent>\n\\u2022
+      <indent=1em>Als ik hoor hoe iemand me belachelijk maakt (vooral als ze denken
+      dat ik kan het niet horen), voel ik me zo ongelukkig. \n</indent>\n\nWat moet
+      ik nog meer weten?\n\\u2022 <indent=1em>McDonald's streeft ernaar om ruimtes
+      te cre\xEBren binnen de McDonald's-community voor mensen met beperkingen waarin
+      deze personen zich vertegenwoordigd en verbonden kunnen voelen. \n</indent>\n\\u2022<indent=1em>McDonald's
+      biedt redelijke aanpassingen aan in aanmerking komende personen met een beperking
+      als onderdeel van de sollicitatieprocedure of het aannemen van personen of
+      om de essenti\xEBle functies van hun werk uit te voeren.\n</indent>\n\\u2022<indent=1em>Je
+      kunt een bondgenoot worden voor collega's met een beperking door te leren over
+      verschillende soorten beperkingen en door toegankelijkheid en inclusie te promoten.\n</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774233
+  - m_Id: 16655802253312
+    m_Localized: McDonald's streeft ernaar een lonende en plezierige plek te zijn
+      waar iedereen kan werken en groeien.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Localized: Als bondgenoot laat je zien dat je toewerkt naar een veilige omgeving
+      voor alle collega's.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Localized: 'Je kunt bijdragen aan een cultuur van respect door op te komen
+      voor je collega''s.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Localized: Houd er rekening mee dat je niet op de hoogte bent van de omstandigheden
+      van elke collega. Het is jouw verantwoordelijkheid om ervoor te zorgen dat
+      iedereen zich welkom voelt bij McDonald's.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Localized: Maria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Localized: Samuel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17400073109504
+    m_Localized: Jake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Localized: Veilig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Localized: Respectvol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Localized: Inclusief
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100570604847104
+    m_Localized: Alan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1126879934103552
+    m_Localized: "[0.00-4.20]\nIk maak maar een grapje, ik zou zoiets niet zeggen
+      waar hij bij was. \n[4.20-8.85]\nJe hoeft niet altijd alles zo serieus te nemen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1198907840086016
+    m_Localized: Dan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1575028882804736
+    m_Localized: ' Ik vind het gewoon vervelend dat wat Maria zegt hem kan kwetsen
+      als hij het te horen krijgt.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4014003593547776
+    m_Localized: '[0.00-4.60]
+
+      Ze maakt Alan achter zijn rug om belachelijk
+      omdat hij anders communiceert met mensen.
+
+      [4.60-6.06]
+
+      Ik maak
+      me zorgen dat ze er niet mee zal ophouden.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34957367509508096
+    m_Localized: Jake, Maria en Samuel in de pauzeruimte van een McDonald's-restaurant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34956705736417280
+    m_Localized: "Jake en Dan staan \u200B\u200Bin de pauzeruimte van een McDonald's-restaurant"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34956696487976960
+    m_Localized: Samuel, Jake en Maria in de pauzeruimte van een McDonald's-restaurant
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2394929133959774233
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 000072e0d60e00000040ed781c0e000000003210f20e00000040ed24e4050000

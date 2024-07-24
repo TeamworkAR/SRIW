@@ -1,0 +1,605 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario5_Table_es-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: 5ec72a9f21754d44aa6e15b6101707c7, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 9076166187184553984
+  m_TableData:
+  - m_Id: 466376015872
+    m_Localized: Acoso sexual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 860133392384
+    m_Localized: "Adam ha sido gerente durante 4 meses y tiene una experiencia de
+      2 a\xF1os en total.\n\nSofia ha formado parte del personal de equipo durante
+      2 meses."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3261561176064
+    m_Localized: 'Claro, supongo. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3269194809344
+    m_Localized: Asustada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3274131505152
+    m_Localized: Preocupada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276333514752
+    m_Localized: "Inc\xF3moda"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3278724268032
+    m_Localized: Aliviada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3281622532096
+    m_Localized: "Has demostrado que eres una persona fiable y trabajadora, y que
+      aprendes r\xE1pido. Encajar\xEDas muy bien."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3297758019584
+    m_Localized: "\xA1Muchas gracias!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3316888240128
+    m_Localized: "[0.00-2.00]\nS\xE9 que hay otras personas interesadas tambi\xE9n.
+      \n[2.00-6.21]\nPor eso, puedo darte algunos consejos sobre c\xF3mo puedes obtener
+      el ascenso. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3358533484544
+    m_Localized: "Vale\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3372223692800
+    m_Localized: "\xBFQu\xE9 tal si nos reunimos para tomar un caf\xE9 m\xE1s adelante
+      esta semana? Pero no aqu\xED. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3381753151488
+    m_Localized: "Bueno\u2026 esta semana la tengo muy ocupada\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393266515968
+    m_Localized: "[0.00-2.30]\nNo le hago estas propuestas a cualquiera.\n[2.30-6.43]
+      \nSi podemos sentarnos y hablar en privado, te garantizo que conseguir\xE1s
+      este ascenso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Localized: "Parece que te est\xE1s quedando sin lechuga. A ver si conseguimos
+      que tengas suficiente. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Localized: No queremos quedarnos sin nada en medio del ajetreo de la comida.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Localized: "S\xED. Gracias."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Localized: Hola, Sofia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Localized: 'Hola, Aisha. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Localized: "\xBFEso sucede mucho?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Localized: "\xBFQu\xE9? "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Localized: "Esa forma de acercarse Adam a ti. \xBFPresion\xE1ndote? "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Localized: "[0.00-5.40]\nBueno, s\xED, a veces. \xBFNo lo hace con todo el
+      mundo?\n[5.40-9.12]\nPens\xE9 que era porque hay poco espacio aqu\xED. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4219418263552
+    m_Localized: "No, \xE9l nunca me hace eso a m\xED. \xBFEst\xE1s bien?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4248908414976
+    m_Localized: "No, hace que me sienta muy inc\xF3moda. En realidad no me gusta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300582240256
+    m_Localized: "\xBFQuieres decirle algo al respecto? "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348598632448
+    m_Localized: "No s\xE9 qu\xE9 decir. Ni siquiera s\xE9 c\xF3mo llamar a lo que
+      sea que est\xE1 haciendo. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4370207686656
+    m_Localized: "[0.00-2.50]\nHasta que te sientas c\xF3moda para decir algo, \n[2.50-5.56]\n\xBFqu\xE9
+      te parece si estoy atenta y trato de estar m\xE1s contigo cuando trabajemos
+      juntas? "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4395776163840
+    m_Localized: "Vale, genial. \xA1Gracias!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4423588593664
+    m_Localized: "[0.00-4.30]\nSofia, \xBFte interesar\xEDa cambiarte aqu\xED? \n[4.30-9.35]\nPronto
+      habr\xE1 una vacante. M\xE1s responsabilidades, pero tambi\xE9n m\xE1s paga. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Localized: Informar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Localized: "Cu\xE1ndo hay que hacerse o\xEDr"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Localized: "\\u2022 <indent=1em>\xBFMe ofende lo que veo? \n</indent>\n\\u2022
+      <indent=1em>\xBFMe parece preocupante esta situaci\xF3n? \n</indent>\n\\u2022
+      <indent=1em>\xBFLa persona parece sentirse inc\xF3moda? \n</indent>\n\\u2022
+      <indent=1em>\xBFPresenciar esto me genera incomodidad? \n</indent>\n\nPara
+      Aisha, la respuesta a estas preguntas es \"s\xED\". "
+    m_Metadata:
+      m_Items:
+      - rid: 9076166187184553984
+  - m_Id: 6477430210560
+    m_Localized: "A veces, puede ser dif\xEDcil decidir si debes hacerte o\xEDr cuando
+      ves una situaci\xF3n tensa en el trabajo.\nHazte estas preguntas cuando te
+      sientas confuso/a sobre una situaci\xF3n: \n<align=\"left\">\n\n\u2022 <indent=1em>\xBFMe
+      ofende lo que veo? \n</indent>\n\u2022 <indent=1em>\xBFMe parece preocupante
+      esta situaci\xF3n? \n</indent>\n\u2022 <indent=1em>\xBFLa persona parece sentirse
+      inc\xF3moda? \n</indent>\n\u2022 <indent=1em>\xBFPresenciar esto me genera
+      incomodidad? \n</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 9076166187184553984
+  - m_Id: 6478696890368
+    m_Localized: "\xBFDe verdad quiero involucrarme en esto? Podr\xEDa ser m\xE1s
+      perjudicial para Sofia o incluso para m\xED tambi\xE9n. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Localized: A Aisha le preocupan las posibles consecuencias de hablar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Localized: "Quiero ayudar a Sofia, pero \xBFes este el momento adecuado para
+      decir lo que pienso? No estoy segura. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Localized: "Aisha est\xE1 dudando si debe decir o no lo que piensa en este
+      momento."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6598260031488
+    m_Localized: Abuso de autoridad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Localized: Me pregunto si Adam trata a otras empleadas de la misma manera.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Localized: "Puede que Sofia no sea la \xFAnica empleada a la que Adam trate
+      as\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Localized: "Cada vez que Adam me roza hace que me sienta incomod\xEDsima. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Localized: Esta no es la primera vez que Adam roza intencionadamente a Sofia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Localized: "Podr\xEDa decir algo, pero no s\xE9 c\xF3mo reaccionar\xE1 \xE9l. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Localized: Sofia no se siente segura para hablar con Adam.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Localized: "Probablemente est\xE9 sacando demasiadas conclusiones. Aqu\xED
+      no hay mucho espacio para moverse."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Localized: "Sofia duda de s\xED misma y de c\xF3mo se siente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Localized: "\xBFEn qu\xE9 consiste el acoso sexual?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Localized: "El acoso sexual incluye muchos tipos diferentes de insinuaciones
+      inadecuadas, como tocar a alguien de una manera sexual, hacer comentarios sobre
+      el cuerpo de alguien, rozar intencionadamente a alguien, mirar a alguien de
+      una manera que le incomode o compartir fotos o bromas de \xEDndole sexual."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Localized: "Cuando Adam toca intencionadamente a Sofia de una manera inadecuada,
+      la est\xE1 acosando."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Localized: "Otra forma de acoso sexual es cuando una persona con autoridad
+      (una persona con responsabilidad de gerente, por ejemplo) promete, niega o
+      amenaza con un beneficio laboral a cambio de algo de \xEDndole sexual."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Localized: "Es acoso cuando Adam presiona a Sofia para que se re\xFAna con
+      \xE9l fuera del trabajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9254827327488
+    m_Localized: "S\xE9 que debo decir algo ahora mismo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Localized: "\xBFQu\xE9 deber\xEDa hacer {0} a continuaci\xF3n?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11266293579776
+    m_Localized: Dejarlo pasar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Localized: Decir lo que piensa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Localized: No quiere que Adam lo pague con ella.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Localized: "Adam tambi\xE9n podr\xEDa estar tratando a otro personal de equipo
+      de manera inapropiada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Localized: "Adam est\xE1 usando su autoridad para presionar a Sofia y conseguir
+      que pase tiempo a solas con \xE9l."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Localized: Ella no quiere empeorar las cosas para Sofia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Localized: "Deber\xEDa esperar a conseguir m\xE1s pruebas del mal comportamiento
+      de Adam."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Localized: "Sofia parece inc\xF3moda y Aisha se siente igual."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Localized: "Ella puede estar m\xE1s cerca de Sofia para evitar que Adam se
+      encuentre a solas con ella."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Localized: "Su propio trabajo ya se est\xE1 viendo afectado por el comportamiento
+      inapropiado de Adam."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12206929477632
+    m_Localized: "\xA1Gran trabajo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13511391576064
+    m_Localized: "\xA1Gran trabajo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13702404374528
+    m_Localized: "\xBFY si la propia Sofia hubiera hablado con Adam?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Localized: Tengo pensado informar sobre esto, pero ahora mismo quiero ayudar
+      a Sofia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Localized: Eso no parece del todo correcto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Localized: "\\u2022 <indent=1em>Debido a que Aisha actu\xF3 como aliada de
+      Sofia, tanto Sofia como Aisha se sintieron m\xE1s seguras en el trabajo. </indent>\n\\u2022
+      <indent=1em>Se abri\xF3 una investigaci\xF3n sobre el comportamiento de Adam
+      hacia Sofia y Aisha. Aisha recuper\xF3 sus turnos habituales.</indent>\n\\u2022
+      <indent=1em>Una investigaci\xF3n revel\xF3 que Adam hab\xEDa acosado sexualmente
+      a m\xE1s de una empleada. Como resultado, fue despedido.</indent>\n\n\xBFQu\xE9
+      hubiera pasado si Aisha hubiese actuado de otra forma?"
+    m_Metadata:
+      m_Items:
+      - rid: 9076166187184553984
+  - m_Id: 15515450687488
+    m_Localized: "\\u2022 <indent=1em>Adam habr\xEDa seguido acosando a Sofia y haci\xE9ndola
+      sentirse inc\xF3moda e insegura.</indent>\n\\u2022 <indent=1em>Sofia puede
+      cansarse de sentirse inc\xF3moda en el trabajo y empezar a buscar un nuevo
+      puesto.</indent> \n\\u2022 <indent=1em>Aisha continuar\xEDa sinti\xE9ndose
+      inc\xF3moda al observar el comportamiento de Adam, lo que podr\xEDa afectar
+      a su propio desempe\xF1o y satisfacci\xF3n en el trabajo.</indent>\n\\u2022
+      <indent=1em>Adam podr\xEDa tratar a otras personas igual que a Sofia.</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 9076166187184553984
+  - m_Id: 16316051357696
+    m_Localized: "\\u2022 <indent=1em>Sofia no est\xE1 obligada a decirle a Adam
+      lo que piensa, especialmente si no se siente segura al hacerlo. Si Sofia hubiese
+      dicho lo que pensaba, podr\xEDa haber mejorado o no la situaci\xF3n.</indent>\n\\u2022
+      <indent=1em>Sin importar lo que pase, Sofia debe denunciar su comportamiento,
+      porque se siente inc\xF3moda.</indent>  "
+    m_Metadata:
+      m_Items:
+      - rid: 9076166187184553984
+  - m_Id: 16349987471360
+    m_Localized: "\xBFY si Aisha no hubiera actuado como aliada?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16412994306048
+    m_Localized: "\xBFQu\xE9 hubiera pasado si Aisha no hubiera denunciado el comportamiento
+      de Adam?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16432816586752
+    m_Localized: "\\u2022 <indent=1em>No se habr\xEDa investigado el comportamiento
+      de Adam y sus acciones no habr\xEDan tenido ninguna consecuencia oficial.</indent>
+      \n\\u2022 <indent=1em>Adam puede continuar acosando sexualmente a Sofia y potencialmente
+      a otras personas.</indent> \n\\u2022 <indent=1em>Es posible que Aisha no recupere
+      su horario laboral habitual.</indent>\n\nEn este caso, es sumamente importante
+      que se denuncie el comportamiento de Adam, de modo que se tomen las medidas
+      adecuadas para resolver la situaci\xF3n."
+    m_Metadata:
+      m_Items:
+      - rid: 9076166187184553984
+  - m_Id: 16477708222464
+    m_Localized: "\\u2022 <indent=1em>McDonald's no tolera el acoso a sus empleados
+      y empleadas por parte de personas no empleadas (por ejemplo, clientes, distribuidores
+      o proveedores).</indent> \n\\u2022 <indent=1em>Tambi\xE9n existe tolerancia
+      cero con el acoso de nuestros empleados o empleadas hacia personas que no son
+      parte del personal.</indent>  "
+    m_Metadata:
+      m_Items:
+      - rid: 9076166187184553984
+  - m_Id: 16655802253312
+    m_Localized: En McDonald's, somos una familia cuando trabajamos juntos, nos respetamos
+      y nos cuidamos los unos a los otros.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Localized: "Si t\xFA o cualquier otro compa\xF1ero o compa\xF1era os sent\xEDs
+      inc\xF3modos en el trabajo, no dud\xE9is en contarlo y denunciar. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Localized: "Vivir nuestros valores significa mostrar respeto por tus compa\xF1eros
+      y compa\xF1eras de trabajo. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Localized: Todos estamos juntos en esto. Si mantenemos nuestra profesionalidad
+      en todo momento, podemos promover una cultura de prosperidad para todas las
+      personas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Localized: Adam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Localized: Aisha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17400073109504
+    m_Localized: Sofia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17453865369600
+    m_Localized: "\xBFQu\xE9 sucede si un cliente muestra un comportamiento similar
+      al de Adam?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Localized: Seguro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Localized: Respetuoso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Localized: Inclusivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37312208388096
+    m_Localized: "Sofia es inteligente, ella sabr\xE1 salir sola de esta situaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275788460064768
+    m_Localized: Frustrada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275823071461376
+    m_Localized: Preocupada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275849965338624
+    m_Localized: Esperanzada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275876641112064
+    m_Localized: Tranquila
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275917095174144
+    m_Localized: Asustada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276018807046144
+    m_Localized: Preocupada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276029716430848
+    m_Localized: Esperanzada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276038713212928
+    m_Localized: Aliviada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281393660821504
+    m_Localized: "\\u2022 <indent=1em>Kai decide hablar con su gerente, Dan, sobre
+      la situaci\xF3n con Eva.\n\\u2022 <indent=1em>Kai se encuentra con Dan en la
+      sala de descanso."
+    m_Metadata:
+      m_Items:
+      - rid: 9076166187184553984
+  - m_Id: 1010716877078528
+    m_Localized: "<size=160%>M\xE1s tarde esa semana.</size>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1013342070980608
+    m_Localized: Hola Soph, te necesitan antes de lo previsto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1013552289497088
+    m_Localized: "Bueno, te dejo. Sofia, av\xEDsame cuando tengas tiempo para terminar
+      nuestra conversaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1013645499514880
+    m_Localized: Claro.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014349442138112
+    m_Localized: "[0.00-2.50]\nElla no quiere salir contigo, Adam. \n[2.50-5.56]\nTambi\xE9n
+      debes dejar de rozarla cuando pases junto a ella."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014438495600640
+    m_Localized: "[0.00-4.00]\nNo s\xE9 qu\xE9 crees que has o\xEDdo, pero solo la
+      ayudo a prepararse para un ascenso. \n[4.00-6.31]\nDeber\xEDas centrarte en
+      tu propio trabajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014598713819136
+    m_Localized: "3 d\xEDas despu\xE9s:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014795179212800
+    m_Localized: "\xBFVienes hoy?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014875672100864
+    m_Localized: No. Ya no estoy en tu turno.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014910367383552
+    m_Localized: "\xBFQu\xE9? \xBFPor qu\xE9?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014951878410240
+    m_Localized: No estoy segura del todo. Me han cambiado todos los turnos a horas
+      que no me vienen bien.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014968517214208
+    m_Localized: "\xBFCrees que ha sido Adam?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014993351688192
+    m_Localized: "Yo no lo dejar\xEDa pasar. Sucedi\xF3 justo despu\xE9s de que hablara
+      con \xE9l."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015005393534976
+    m_Localized: Lo siento mucho.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015020329451520
+    m_Localized: No te disculpes, no es culpa tuya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015033512148992
+    m_Localized: "Inform\xE9 sobre ello y me dijeron que lo llevar\xEDan hasta el
+      final, y est\xE1n investigando. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015049052045312
+    m_Localized: Gracias por defenderme.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015066638761984
+    m_Localized: Por supuesto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015080589017088
+    m_Localized: "Tanto t\xFA como yo merecemos sentirnos seguras en el trabajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22196894196293632
+    m_Localized: Adam y Sofia trabajando en la cocina de un Restaurante McDonald's
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22196915385917440
+    m_Localized: Sofia y Aisha trabajando en la cocina de un Restaurante McDonald's
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22196944817348608
+    m_Localized: Sofia, Aisha y Adam trabajando en la cocina de un restaurante McDonald's
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22196967646945280
+    m_Localized: Sofia, Aisha y Adam trabajando en la cocina de un restaurante McDonald's
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22197009153777664
+    m_Localized: "Aisha en la sala de descanso mirando los mensajes de texto de Sof\xEDa
+      en su tel\xE9fono"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 9076166187184553984
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 000072e0d60e00000040ed781c0e000000003210f20e00000000f283fc0e000000402df3f20d000000003211edff00000040ed24e40500000040add0e3050000

@@ -1,0 +1,634 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario3_Table_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-US
+  m_SharedData: {fileID: 11400000, guid: 1cdae39b5d7e86340b581f14ac86265f, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2394929133959774230
+  m_TableData:
+  - m_Id: 466376015872
+    m_Localized: Acoso en el lugar de trabajo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 860133392384
+    m_Localized: "Disfrutan trabajar juntos y tienen amigos en com\xFAn en el restaurante
+      con los que a menudo socializan fuera del trabajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 944228876288
+    m_Localized: Ha sido empleado durante 6 meses.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3102777409536
+    m_Localized: Irritado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3249083121664
+    m_Localized: Preocupado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3257173934080
+    m_Localized: "Inc\xF3modo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3259564687360
+    m_Localized: Feliz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3269194809344
+    m_Localized: Preocupada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3274131505152
+    m_Localized: Tranquila
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276333514752
+    m_Localized: Feliz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3278724268032
+    m_Localized: Entusiasmada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Localized: "Hola Kai, ya termin\xE9 por hoy. \xBFVienes ma\xF1ana?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Localized: No, no vuelvo hasta la semana que viene.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Localized: "\xBFQu\xE9 voy a hacer sin mi compa\xF1ero de Drive Thru?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Localized: "Probablemente, hagas pasar esos autos mucho m\xE1s r\xE1pido. Oh,
+      \xBFvas a ir a la fiesta de Amal este fin de semana?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Localized: "\xBFFiesta? Supongo\u2026 supongo que no me invitaron."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Localized: "\xBFQu\xE9? Oh, lo siento, yo\u2014"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Localized: "\xA1Es una broma! Ah\xED estar\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Localized: "(Suspira, r\xEDe)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Localized: Vaya, te hice una buena broma.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4219418263552
+    m_Localized: "De hecho lo hiciste. Bueno, nos vemos all\xE1. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4248908414976
+    m_Localized: "[0.00-3.80]\nMe alegro que vayas. Ser\xE1 mucho m\xE1s divertido.
+      \n[3.80-8.56]\nEn realidad, estaba pensando, ser\xEDa divertido reunirnos alg\xFAn
+      d\xEDa, solo nosotros dos. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300582240256
+    m_Localized: "No creo que eso sea...hum, creo que deber\xEDamos limitarnos a
+      salidas en grupo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348598632448
+    m_Localized: "Est\xE1 bien, \xA1pero tal vez solo pi\xE9nsalo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Localized: Informarlo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Localized: "La intenci\xF3n no es una excusa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Localized: "La intenci\xF3n de Eva no importa si sus acciones incomodan a Kai.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6477430210560
+    m_Localized: "Incluso si los comentarios o las preguntas no tienen la intenci\xF3n
+      de ofender o de incomodar a alguien, <b>la intenci\xF3n no</b> es una excusa
+      para el comportamiento no deseado. Lo que importa es si la persona a la que
+      se dirigi\xF3 la conducta siente que es ofensiva o no deseada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478696890368
+    m_Localized: "Esto se est\xE1 volviendo molesto. Si esto no para, quiz\xE1s tenga
+      que intentar cambiar de turno para evitarla.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Localized: Kai quiere que Eva pare.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Localized: "En realidad no estoy saliendo con nadie m\xE1s. Pero eso no es
+      asunto de nadie m\xE1s. No deber\xEDa tener que explicar por qu\xE9 no quiero
+      pasar tiempo a solas con ella."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Localized: Kai quiere mantener su vida privada en privado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6598260031488
+    m_Localized: "Trata a los compa\xF1eros y las compa\xF1eras con \nrespeto fuera
+      del trabajo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Localized: "S\xE9 que nunca funcionar\xEDamos, pero casi siento que tengo que
+      decir que s\xED para que deje de hacerlo. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Localized: 'Kai se siente presionado a tener una cita con Eva. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Localized: "No pens\xE9 que Kai ser\xEDa capaz de resistirse a una pel\xEDcula
+      de esp\xEDas. Tendr\xE9 que encontrar otra manera."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Localized: "Eva tiene la intenci\xF3n de invitar a salir a Kai nuevamente. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Localized: "\xBFQuiz\xE1s en realidad no est\xE1 saliendo con nadie m\xE1s
+      en este momento? Preguntar\xE9 por ah\xED a ver si alguien lo sabe con seguridad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Localized: "Eva tiene la intenci\xF3n de preguntar a otras personas sobre la
+      vida personal de Kai."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Localized: "Podr\xEDa decirle algo al gerente. Pero me gusta trabajar con Eva.
+      Y no quiero que pierda su trabajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Localized: 'Kai no quiere meter a Eva en problemas. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Localized: Respeta el "no"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Localized: "Si una persona dice \"no\" cuando la invitas a salir, se DEBE respetar
+      su decisi\xF3n. <b>El acoso sexual incluye insinuaciones o coqueteos no deseados,
+      </b>como invitar a salir a alguien despu\xE9s de que se haya negado. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Localized: "Los continuos avances no deseados de Eva podr\xEDan considerarse
+      acoso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Localized: "La manera en que tratamos a nuestros compa\xF1eros y compa\xF1eras
+      de trabajo <b>fuera del restaurante o de la oficina, como en entornos sociales,</b>
+      tambi\xE9n puede afectar el lugar de trabajo. Trata a todas las personas con
+      respeto en todo momento y en todo lugar.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8776731197440
+    m_Localized: "Eva siempre es amable con todos, as\xED que tal vez \xE9l est\xE9
+      interpretando demasiado sus propuestas. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Localized: "Aunque Eva y Kai estaban fuera del trabajo cuando Eva lo volvi\xF3
+      a invitar a salir, a\xFAn podr\xEDa afectar su lugar de trabajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9254827327488
+    m_Localized: "Todav\xEDa no creo que eso sea del todo correcto. Creo que esto
+      va a ser mejor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10970805174272
+    m_Localized: "Hola, Dan, \xBFtienes tiempo para hablar de algo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Localized: "\xBFQu\xE9 deber\xEDa hacer {0} a continuaci\xF3n?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10985120333824
+    m_Localized: "Por supuesto. Tengo unos minutos ahora mismo. \xBFQu\xE9 pasa?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11151973941248
+    m_Localized: "[0.00-4.00]\nBueno, pens\xE9 que podr\xEDas ayudarme. \n[4.00-7.80]\nNo
+      quiero que Eva se meta en problemas, pero me ha invitado a salir varias veces,
+      \n[7.80-10.60]\ny no estoy seguro de c\xF3mo hacer para que deje de preguntarme. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11153991401472
+    m_Localized: 'Ah, ya veo. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11266293579776
+    m_Localized: Dejarlo pasar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Localized: Di lo que piensas ahora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Localized: 'No quiere herir los sentimientos de Eva. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Localized: "Lo que Eva le est\xE1 haciendo es acoso. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Localized: "\xC9l puede seguir posponi\xE9ndola. Ella entender\xE1 la idea
+      en alg\xFAn momento. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Localized: "Tal vez ella pierda el inter\xE9s si \xE9l ignora sus insinuaciones. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Localized: 'Tiene derecho a mantener su vida privada en privado. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Localized: "Podr\xEDa dejar de seguirla en las redes sociales con la esperanza
+      de que ella entienda la idea. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Localized: "\xC9l ya ha dicho que no, pero eso no detiene a Eva. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Localized: "No cree que Eva pretenda hacer ning\xFAn da\xF1o, pero se siente
+      inc\xF3modo con la atenci\xF3n que ella le brinda. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12206929477632
+    m_Localized: "\xA1Buen trabajo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13511391576064
+    m_Localized: "\xA1Buen trabajo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13702404374528
+    m_Localized: "\xBFY si Kai lo hubiera dejado pasar?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Localized: "He intentado dec\xEDrselo antes, pero no creo que vaya a parar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Localized: "Necesito pensar m\xE1s en esto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Localized: "En esta situaci\xF3n, Kai decidi\xF3 informarlo a su gerente: </indent>\n\\u2022
+      <indent=1em>Dan tuvo una conversaci\xF3n con Eva. Como resultado, Eva dej\xF3
+      de invitar a salir a Kai.</indent>\n\\u2022 <indent=1em>Eva y Kai pudieron
+      seguir trabajando juntos y seguir siendo amigos.</indent>\n\\u2022 <indent=1em>En
+      el futuro, Eva fue m\xE1s reflexiva sobre su comportamiento en el trabajo,
+      como la manera en la que usaba las redes sociales cuando sus compa\xF1eros
+      y compa\xF1eras de trabajo estaban involucrados.</indent>\n\n\xBFY si Kai hubiera
+      actuado de manera diferente?"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774230
+  - m_Id: 15515450687488
+    m_Localized: "En este caso, Kai intent\xF3 actuar en el momento y decirle algo
+      a Eva expresando su preferencia por \"reuniones en grupo\" \xFAnicamente. \nElla
+      no escuch\xF3.\nComo recordatorio, ninguna persona est\xE1 obligada a decir
+      lo que piensa en el momento, especialmente si no se siente c\xF3moda haci\xE9ndolo.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16316051357696
+    m_Localized: "\\u2022 <indent=1em>La persona podr\xEDa sentirse presionada a
+      contar detalles sobre su vida personal que no quiere compartir en el trabajo.</indent>\n\\u2022
+      <indent=1em>Su desempe\xF1o en el trabajo podr\xEDa verse afectado porque se
+      siente inc\xF3modo trabajando con Eva; incluso podr\xEDa decidir renunciar.</indent>\n\\u2022
+      <indent=1em>Es posible que Eva nunca comprenda que su comportamiento es inapropiado.</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774230
+  - m_Id: 16349987471360
+    m_Localized: "\xBFQu\xE9 pasar\xEDa si Kai le dijera a Eva que parara?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16412994306048
+    m_Localized: "\xBFQu\xE9 pasar\xEDa si Kai tuviera una cita con Eva?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16432816586752
+    m_Localized: "Kai claramente no quiere tener una cita con Eva. Ninguna persona
+      deber\xEDa tener una cita con un compa\xF1ero o una compa\xF1era de trabajo
+      porque se siente presionada o forzada. Aceptar tener una cita con Eva no har\xEDa
+      que Kai se sintiera m\xE1s seguro en el trabajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16655802253312
+    m_Localized: "Ya sea que est\xE9s en el trabajo o interactuando con compa\xF1eros
+      y compa\xF1eras de trabajo en otros \xE1mbitos, aceptas vivir con los valores
+      de McDonald's."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Localized: "Las personas se sentir\xE1n m\xE1s seguras en el trabajo si respetas
+      sus l\xEDmites, especialmente si alguien dice que no a una invitaci\xF3n personal. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Localized: "Piensa antes de publicar algo. Presta mucha atenci\xF3n a c\xF3mo
+      interact\xFAas con tus compa\xF1eros y compa\xF1eras de trabajo en las redes
+      sociales, a trav\xE9s de mensajes de texto o correos electr\xF3nicos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Localized: "La pol\xEDtica McDonald's garantiza que todos los empleados y las
+      empleadas, sin importar qui\xE9nes sean, puedan realizar su trabajo. Tambi\xE9n
+      tienen derecho a la privacidad en lo que respecta a su vida personal.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Localized: Kai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Localized: Eva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Localized: Seguro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Localized: Respetuoso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Localized: Inclusivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274034335023104
+    m_Localized: <size=200%><b>La fiesta</b></size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274469670223872
+    m_Localized: "\xA1Hola, Kai!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274496694124544
+    m_Localized: "Hola, Eva. \xBFAcabas de llegar?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274532735778816
+    m_Localized: "S\xED, \xBFc\xF3mo estuvo hasta ahora?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274544693739520
+    m_Localized: 'Amal siempre organiza fiestas muy buenas. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274558790795264
+    m_Localized: "[0.00-3.00]\nSabes, de camino hacia aqu\xED, pas\xE9 por el cine.
+      \n[3.00-7.05]\nVan a hacer un marat\xF3n de pel\xEDculas de esp\xEDas. Te gustan
+      las pel\xEDculas de esp\xEDas, \xBFverdad?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274602323476480
+    m_Localized: "S\xED. Tienes una buena memoria."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274614969303040
+    m_Localized: "Estar\xE9 encantada de conseguirnos entradas si te interesa. Podr\xEDa
+      ser divertido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274838349545472
+    m_Localized: No estoy seguro de que sea una buena idea...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274890853842944
+    m_Localized: "En realidad, dije que deber\xEDamos limitarnos a las reuniones
+      en grupo..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274906112720896
+    m_Localized: "Eva, es una idea genial, pero no me interesa\u2026 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275035020460032
+    m_Localized: 'Mira, lo entiendo, no tienes que dar explicaciones. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275074438529024
+    m_Localized: "Obviamente, est\xE1s saliendo con alguien m\xE1s.   "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275087587672064
+    m_Localized: "Eso no es\u2014"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275097968574464
+    m_Localized: "\xA1Hola, Eva, ven aqu\xED!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275126250766336
+    m_Localized: "[0.00-3.50]\nRealmente necesito hablar con ella. Te buscar\xE9
+      m\xE1s tarde.  \n[3.50-5.68]\nPero, muy r\xE1pido, \xA1sonr\xEDe!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275137957068800
+    m_Localized: "(El tel\xE9fono suena)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275547438579712
+    m_Localized: "\xA1Yo y mi futuro novio #sexy!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275788460064768
+    m_Localized: Enojado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275823071461376
+    m_Localized: Frustrado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275849965338624
+    m_Localized: "Inc\xF3modo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275876641112064
+    m_Localized: Tranquilo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275917095174144
+    m_Localized: Enojada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276018807046144
+    m_Localized: Tranquila
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276029716430848
+    m_Localized: Entusiasmada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276038713212928
+    m_Localized: Esperanzada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278173962076160
+    m_Localized: Ten cuidado con las redes sociales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278207336153088
+    m_Localized: "Todos los que trabajan en McDonald's tienen derecho a la <b>privacidad
+      en el trabajo.</b> Nadie tiene derecho a conocer detalles sobre la vida personal
+      de otra persona. \n<b>Compartir correos electr\xF3nicos, mensajes de texto
+      o im\xE1genes</b> que incomoden a alguien, incluso si el contenido no es de
+      naturaleza sexual, es un comportamiento ofensivo.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278228601274368
+    m_Localized: "Kai no necesita decirle a Eva si est\xE1 saliendo con alguien y
+      la publicaci\xF3n en las redes sociales de Eva podr\xEDa considerarse acoso.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278249522462720
+    m_Localized: Hacer informes y sus consecuencias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278268526854144
+    m_Localized: "En algunos casos, el comportamiento inapropiado puede tener consecuencias
+      graves, como el despido. Pero tambi\xE9n puede adoptar formas menos graves,
+      como advertencia por escrito, entrenamiento, coaching u otras medidas. <b>Las
+      consecuencias deben ser proporcionales al comportamiento.</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278283093671936
+    m_Localized: "Si Kai informa el comportamiento de Eva a un gerente, no necesariamente
+      tendr\xE1 consecuencias graves para Eva."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279466818535424
+    m_Localized: "Eva podr\xEDa meterse en un gran problema si \xE9l lo informa y
+      \xE9l no quiere eso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281393660821504
+    m_Localized: "Kai decide hablar con su gerente Dan, sobre la situaci\xF3n con
+      Eva."
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774230
+  - m_Id: 281832754118656
+    m_Localized: "[0.00-6.10]\nElla es excelente. Simplemente, no estoy interesado
+      y he tratado de dec\xEDrselo cada vez. \n[6.10-9.02]\nSimplemente, ya no quiero
+      que sea inc\xF3modo en el trabajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281861627707392
+    m_Localized: "Gracias por hac\xE9rmelo saber. Hablar\xE9 con ella tan pronto
+      como pueda."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281880820842496
+    m_Localized: "\xBFHay algo m\xE1s que deba hacer? \xBFNecesito hablar yo mismo
+      con ella?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282182995279872
+    m_Localized: "[0.00-2.11]\nNo tienes que hacer nada m\xE1s. \n[2.11-6.00]\nSi
+      decides que te gustar\xEDa hablar con ella directamente al respecto, depende
+      totalmente de ti. \n[6.00-7.68]\nPero no es necesario."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282196278640640
+    m_Localized: Gracias, Dan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8984898575351808
+    m_Localized: "\xA1Yo y mi futuro novio #sexy!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9079372215304192
+    m_Localized: 'Oh, se me hace tarde para volver al piso. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10069078382034944
+    m_Localized: "Est\xE1 llegando al punto en que ni siquiera quiero trabajar con
+      ella."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10070229630402560
+    m_Localized: "[0.00-3.00]\nNo puedo compartir contigo detalles sobre mi conversaci\xF3n
+      con ella, \n[3.00-5.80]\npero si sigue sucediendo, h\xE1zmelo saber."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12593492147388416
+    m_Localized: Kai encuentra a Dan en la sala de descanso.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33598141228072960
+    m_Localized: Selecciona una respuesta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33772351580528640
+    m_Localized: Kai y Eva parados en la sala de descanso de un restaurante McDonald's
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33772363660124160
+    m_Localized: Kai y Eva parados en una sala de estar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33773089228578816
+    m_Localized: Kai y Dan parados en la sala de descanso de un restaurante McDonald's
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2394929133959774230
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00402df3f20d0000000072e0d60e000000003211edff0000

@@ -1,0 +1,1579 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8021358906296575880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - c48069ba592dba34f9109387f7399f75
+  m_EditorClassIdentifier: 
+  m_Guid: c48069ba592dba34f9109387f7399f75
+  m_Edges:
+  - {fileID: 4420505815019799985}
+  m_OnEnterActions:
+  - rid: 8715519856034185265
+  - rid: 3140914969675563012
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 2451.8123, y: 334}
+  references:
+    version: 2
+    RefIds:
+    - rid: 3140914969675563012
+      type: {class: SetCharacterLookTarget, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_LookTarget: {fileID: 11400000, guid: 51eab4cc4fc6afe4c91043967c8d559f, type: 2}
+    - rid: 8715519856034185265
+      type: {class: PlayDialogueLineAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 5191355943ee0824aa1f7be6406aa74c, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: aca8304fc24d8af4c86b58b3350f9dc0, type: 2}
+        m_Clip: {fileID: 8300000, guid: 263d01be4f0aac34ba5d9d713b9ab656, type: 3}
+        m_CameraPosition: 13
+        m_Mood:
+          m_Mood: 5
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_SubtitleText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 4348598632448
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_IsLastDialogueNode: 0
+--- !u!114 &-7630169882710413786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 2b5164ffa6a5e8d4f8e634b0b76bfddf
+  m_EditorClassIdentifier: 
+  m_Guid: 2b5164ffa6a5e8d4f8e634b0b76bfddf
+  m_Edges:
+  - {fileID: 9033323715734644351}
+  m_OnEnterActions:
+  - rid: 8715519856034185240
+  - rid: 1470301477640601602
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 980.01263, y: 97.33331}
+  references:
+    version: 2
+    RefIds:
+    - rid: 1470301477640601602
+      type: {class: SetCharacterLookTarget, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_LookTarget: {fileID: 11400000, guid: dbff39958acb1cb45943799553dee3a6, type: 2}
+    - rid: 8715519856034185240
+      type: {class: PlayDialogueLineAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: 13e2773a645715544b45222e36e9bde2, type: 2}
+        m_Clip: {fileID: 8300000, guid: f56706e3617e42c438c510c56ac5dcff, type: 3}
+        m_CameraPosition: 10
+        m_Mood:
+          m_Mood: 1
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_SubtitleText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 4089659080704
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_IsLastDialogueNode: 0
+--- !u!114 &-7373070359172925408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - ca2b6f70bee8fcf4fa043dcbb25132ae to StateNode - 78fe5750bd583b142abb99f1ddb90970
+  m_EditorClassIdentifier: 
+  m_Guid: 581a83e2236267a44b882e0c08be616d
+  m_Condition:
+    rid: 8715519856034185229
+  m_From: {fileID: 2305328709819292948}
+  m_To: {fileID: -5148004596618070902}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185229
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185230
+    - rid: 8715519856034185230
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 5191355943ee0824aa1f7be6406aa74c, type: 2}
+--- !u!114 &-7152108483175550664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - f3c199cd5e47eee4a9be07fb35badff9
+  m_EditorClassIdentifier: 
+  m_Guid: f3c199cd5e47eee4a9be07fb35badff9
+  m_Edges:
+  - {fileID: 5521450158811694706}
+  m_OnEnterActions:
+  - rid: 8715519856034185251
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 1518.3999, y: 225.33337}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185251
+      type: {class: PlayDialogueLineAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: c5d54308c9802dd4a81e870ad0bb27f0, type: 2}
+        m_Clip: {fileID: 8300000, guid: 688f357db74c390428e58af6525feb7b, type: 3}
+        m_CameraPosition: 11
+        m_Mood:
+          m_Mood: 5
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_SubtitleText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 4170361683968
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_IsLastDialogueNode: 0
+--- !u!114 &-6975632756641461462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - aa47ac244c6f3f5478937d060a7a1f83
+  m_EditorClassIdentifier: 
+  m_Guid: aa47ac244c6f3f5478937d060a7a1f83
+  m_Edges:
+  - {fileID: -5267279292240994537}
+  m_OnEnterActions:
+  - rid: 8715519856034185275
+  - rid: 3140914969675563013
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 3018.6667, y: 333.99997}
+  references:
+    version: 2
+    RefIds:
+    - rid: 3140914969675563013
+      type: {class: SetCharacterLookTarget, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_LookTarget: {fileID: 11400000, guid: 51eab4cc4fc6afe4c91043967c8d559f, type: 2}
+    - rid: 8715519856034185275
+      type: {class: PlayDialogueLineAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 5191355943ee0824aa1f7be6406aa74c, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: 1445b61398774e04baa5bc8483eef85d, type: 2}
+        m_Clip: {fileID: 8300000, guid: 8936cfd39cefa0743ae205b95147f63f, type: 3}
+        m_CameraPosition: 13
+        m_Mood:
+          m_Mood: 5
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_SubtitleText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 4423588593664
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_IsLastDialogueNode: 0
+--- !u!114 &-5740131290654674274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - dd516dd45864c8e44ac9c310c5fd4d34 to StateNode - c48069ba592dba34f9109387f7399f75
+  m_EditorClassIdentifier: 
+  m_Guid: 8afc68f7c343d414781c3c041c57c57c
+  m_Condition:
+    rid: 8715519856034185266
+  m_From: {fileID: 3081139488793117464}
+  m_To: {fileID: -8021358906296575880}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185266
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185267
+    - rid: 8715519856034185267
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+--- !u!114 &-5267279292240994537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - aa47ac244c6f3f5478937d060a7a1f83 to StateNode - fc75a2ab80a2a664e974ce044b96ebd7
+  m_EditorClassIdentifier: 
+  m_Guid: 92c667427cfb31e43bcd06b385e1a483
+  m_Condition:
+    rid: 8715519856034185278
+  m_From: {fileID: -6975632756641461462}
+  m_To: {fileID: 2267748434272518632}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185278
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185279
+    - rid: 8715519856034185279
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 5191355943ee0824aa1f7be6406aa74c, type: 2}
+--- !u!114 &-5148004596618070902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 78fe5750bd583b142abb99f1ddb90970
+  m_EditorClassIdentifier: 
+  m_Guid: 78fe5750bd583b142abb99f1ddb90970
+  m_Edges:
+  - {fileID: -985143241182844861}
+  m_OnEnterActions:
+  - rid: 8715519856034185228
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 195.88896, y: 225.33339}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185228
+      type: {class: PlayDialogueLineAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: 59330b6f44d36d14b93fe3a47848a9a4, type: 2}
+        m_Clip: {fileID: 8300000, guid: cb37141d7c4e7e748b6fc1a7c5310e7f, type: 3}
+        m_CameraPosition: 15
+        m_Mood:
+          m_Mood: 1
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_SubtitleText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 3679691030528
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_IsLastDialogueNode: 0
+--- !u!114 &-4605013180995564038
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 9a8296f16b23ad34a874b7da56193291
+  m_EditorClassIdentifier: 
+  m_Guid: 9a8296f16b23ad34a874b7da56193291
+  m_Edges:
+  - {fileID: -2169368655109610306}
+  m_OnEnterActions:
+  - rid: 8715519856034185231
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 390.243, y: 334.00003}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185231
+      type: {class: PlayDialogueLineAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 5191355943ee0824aa1f7be6406aa74c, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: 3e536f4c9a96a0e49991f738e6c6fb2d, type: 2}
+        m_Clip: {fileID: 8300000, guid: 2345d91f5b788c24a8ee01a9d92158db, type: 3}
+        m_CameraPosition: 14
+        m_Mood:
+          m_Mood: 1
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_SubtitleText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 3751224885248
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_IsLastDialogueNode: 0
+--- !u!114 &-3886896123276637190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - fc75a2ab80a2a664e974ce044b96ebd7 to StateNode - 584b633741d186844984e47d7e3f34d0
+  m_EditorClassIdentifier: 
+  m_Guid: 09b52687987663245a1d387ca75ca936
+  m_Condition:
+    rid: 8715519856034185281
+  m_From: {fileID: 2267748434272518632}
+  m_To: {fileID: 8743301950614476823}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185281
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185282
+    - rid: 8715519856034185282
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+--- !u!114 &-3343343637053721306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 82910c5ae7e4097419288db6ab84f0b2 to StateNode - f3c199cd5e47eee4a9be07fb35badff9
+  m_EditorClassIdentifier: 
+  m_Guid: ab4bd756e1e34314fb4f82ea41a9ddde
+  m_Condition:
+    rid: 8715519856034185252
+  m_From: {fileID: 3878193235104436453}
+  m_To: {fileID: -7152108483175550664}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185252
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185253
+    - rid: 8715519856034185253
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+--- !u!114 &-3224842932713138840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 142405aabb8e6024286c1d52645effae
+  m_EditorClassIdentifier: 
+  m_Guid: 142405aabb8e6024286c1d52645effae
+  m_Edges:
+  - {fileID: 8269846458285344417}
+  m_OnEnterActions:
+  - rid: 8715519856034185224
+  - rid: 8715519856034185225
+  - rid: 8715519856034185226
+  - rid: 1470301478564659203
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: -178.39836, y: 225.62183}
+  references:
+    version: 2
+    RefIds:
+    - rid: 1470301478564659203
+      type: {class: PlayDialogueAnimationAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: 61d9bfdb75dc79547aab1000aece609f, type: 2}
+        m_CameraPosition: 2
+        m_Mood:
+          m_Mood: 0
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 0
+        m_IsLastDialogueNode: 0
+    - rid: 8715519856034185224
+      type: {class: PlayDialogueAnimationAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: c8a488df6bc753046a0622b8c29f0303, type: 2}
+        m_CameraPosition: 2
+        m_Mood:
+          m_Mood: 0
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 0
+        m_IsLastDialogueNode: 0
+    - rid: 8715519856034185225
+      type: {class: SetCharacterLookTarget, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+        m_LookTarget: {fileID: 11400000, guid: 51eab4cc4fc6afe4c91043967c8d559f, type: 2}
+    - rid: 8715519856034185226
+      type: {class: SetCharacterLookTarget, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 5191355943ee0824aa1f7be6406aa74c, type: 2}
+        m_LookTarget: {fileID: 11400000, guid: dbff39958acb1cb45943799553dee3a6, type: 2}
+--- !u!114 &-3201801682686339252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 48619501cd04cca45bee831032a5beea
+  m_EditorClassIdentifier: 
+  m_Guid: 48619501cd04cca45bee831032a5beea
+  m_Edges:
+  - {fileID: 7058247731650138840}
+  m_OnEnterActions:
+  - rid: 8715519856034185234
+  - rid: 1470301225876193284
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 605.0744, y: 97.65586}
+  references:
+    version: 2
+    RefIds:
+    - rid: 1470301225876193284
+      type: {class: SetCharacterLookTarget, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_LookTarget: {fileID: 11400000, guid: 51eab4cc4fc6afe4c91043967c8d559f, type: 2}
+    - rid: 8715519856034185234
+      type: {class: PlayDialogueAnimationAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: 3989df59080d07d4196fbe2353de90c9, type: 2}
+        m_CameraPosition: 16
+        m_Mood:
+          m_Mood: 1
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_IsLastDialogueNode: 0
+--- !u!114 &-3178934492319189396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 1e3ac9df050dfce40afc649cf02d933d
+  m_EditorClassIdentifier: 
+  m_Guid: 1e3ac9df050dfce40afc649cf02d933d
+  m_Edges:
+  - {fileID: -2176259371193551}
+  m_OnEnterActions:
+  - rid: 8715519856034185259
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 2092, y: 97.333374}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185259
+      type: {class: PlayDialogueLineAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: b56687e36fac72540bc225f305616c23, type: 2}
+        m_Clip: {fileID: 8300000, guid: e076184f0463abb4f88295f5c5697c3e, type: 3}
+        m_CameraPosition: 12
+        m_Mood:
+          m_Mood: 2
+          b_IsRandom: 0
+          b_IsEmphasis: 1
+          b_IsManual: 0
+        m_SubtitleText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 4248908414976
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_IsLastDialogueNode: 0
+--- !u!114 &-2710754586475770465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 65890b1cfbda0aa4aa71e809e8b10818 to StateNode - 1e3ac9df050dfce40afc649cf02d933d
+  m_EditorClassIdentifier: 
+  m_Guid: 8fd5e4e974bfdd24cb2fe3f2b440654e
+  m_Condition:
+    rid: 8715519856034185260
+  m_From: {fileID: 142305234174300271}
+  m_To: {fileID: -3178934492319189396}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185260
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185261
+    - rid: 8715519856034185261
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 5191355943ee0824aa1f7be6406aa74c, type: 2}
+--- !u!114 &-2553752609861113455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 6567c4da3f471c7448da1286e16c2a90
+  m_EditorClassIdentifier: 
+  m_Guid: 6567c4da3f471c7448da1286e16c2a90
+  m_Edges:
+  - {fileID: 7790051323721092641}
+  m_OnEnterActions:
+  - rid: 8715519856034185237
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 793, y: 225}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185237
+      type: {class: PlayDialogueLineAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: 6f7d9b68cf0bd584886c9be02c6063f4, type: 2}
+        m_Clip: {fileID: 8300000, guid: 39748910d7eb1f346b7fb204324e2cba, type: 3}
+        m_CameraPosition: 15
+        m_Mood:
+          m_Mood: 1
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_SubtitleText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 4055093821440
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_IsLastDialogueNode: 0
+--- !u!114 &-2169368655109610306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 9a8296f16b23ad34a874b7da56193291 to StateNode - 48619501cd04cca45bee831032a5beea
+  m_EditorClassIdentifier: 
+  m_Guid: bf1a81601c13f8e4c95398cc26af6741
+  m_Condition:
+    rid: 8715519856034185235
+  m_From: {fileID: -4605013180995564038}
+  m_To: {fileID: -3201801682686339252}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185235
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185236
+    - rid: 8715519856034185236
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 5191355943ee0824aa1f7be6406aa74c, type: 2}
+--- !u!114 &-1267384858796565492
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 8a0991af5b26f62469cab6cc88403e0d
+  m_EditorClassIdentifier: 
+  m_Guid: 8a0991af5b26f62469cab6cc88403e0d
+  m_Edges:
+  - {fileID: 2427743555361075768}
+  m_OnEnterActions:
+  - rid: 8715519856034185268
+  - rid: 8715519856034185271
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 2618.542, y: 222.66667}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185268
+      type: {class: PlayDialogueLineAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: 35f5a86e74fb8c24eb13113f4542e41b, type: 2}
+        m_Clip: {fileID: 8300000, guid: d24e9ad9caf6eb848b80b650bebe9bb4, type: 3}
+        m_CameraPosition: 11
+        m_Mood:
+          m_Mood: 5
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_SubtitleText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 4370207686656
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_IsLastDialogueNode: 0
+    - rid: 8715519856034185271
+      type: {class: SetCharacterLookTarget, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+        m_LookTarget: {fileID: 11400000, guid: 51eab4cc4fc6afe4c91043967c8d559f, type: 2}
+--- !u!114 &-985143241182844861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 78fe5750bd583b142abb99f1ddb90970 to StateNode - 9a8296f16b23ad34a874b7da56193291
+  m_EditorClassIdentifier: 
+  m_Guid: f9e8e756cf3b25743b97d7bcd02e34c6
+  m_Condition:
+    rid: 8715519856034185232
+  m_From: {fileID: -5148004596618070902}
+  m_To: {fileID: -4605013180995564038}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185232
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185233
+    - rid: 8715519856034185233
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+--- !u!114 &-2176259371193551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 1e3ac9df050dfce40afc649cf02d933d to StateNode - dd516dd45864c8e44ac9c310c5fd4d34
+  m_EditorClassIdentifier: 
+  m_Guid: 5f2565c7a800aee4f83de1dd9b65714d
+  m_Condition:
+    rid: 8715519856034185263
+  m_From: {fileID: -3178934492319189396}
+  m_To: {fileID: 3081139488793117464}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185263
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185264
+    - rid: 8715519856034185264
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 564efee4b15c44e09505c4385a6b42c9, type: 3}
+  m_Name: Scenario02_Dialogue01_FlowGraph
+  m_EditorClassIdentifier: 
+  b_Persist: 0
+  b_IsFlowGraph: 0
+  m_Root: {fileID: -3224842932713138840}
+  m_Nodes:
+  - {fileID: -3224842932713138840}
+  - {fileID: 2305328709819292948}
+  - {fileID: -5148004596618070902}
+  - {fileID: -4605013180995564038}
+  - {fileID: -3201801682686339252}
+  - {fileID: -2553752609861113455}
+  - {fileID: -7630169882710413786}
+  - {fileID: 245227145473466581}
+  - {fileID: 3878193235104436453}
+  - {fileID: -7152108483175550664}
+  - {fileID: 1186607096630071427}
+  - {fileID: 142305234174300271}
+  - {fileID: -3178934492319189396}
+  - {fileID: 3081139488793117464}
+  - {fileID: -8021358906296575880}
+  - {fileID: -1267384858796565492}
+  - {fileID: 3886504169599715282}
+  - {fileID: -6975632756641461462}
+  - {fileID: 2267748434272518632}
+  - {fileID: 8743301950614476823}
+  m_Edges:
+  - {fileID: 8269846458285344417}
+  - {fileID: -7373070359172925408}
+  - {fileID: -985143241182844861}
+  - {fileID: -2169368655109610306}
+  - {fileID: 7058247731650138840}
+  - {fileID: 7790051323721092641}
+  - {fileID: 9033323715734644351}
+  - {fileID: 2095614929199162153}
+  - {fileID: -3343343637053721306}
+  - {fileID: 5521450158811694706}
+  - {fileID: 6299145523132200238}
+  - {fileID: -2710754586475770465}
+  - {fileID: -2176259371193551}
+  - {fileID: -5740131290654674274}
+  - {fileID: 4420505815019799985}
+  - {fileID: 2427743555361075768}
+  - {fileID: 7548076822005956520}
+  - {fileID: -5267279292240994537}
+  - {fileID: -3886896123276637190}
+--- !u!114 &142305234174300271
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 65890b1cfbda0aa4aa71e809e8b10818
+  m_EditorClassIdentifier: 
+  m_Guid: 65890b1cfbda0aa4aa71e809e8b10818
+  m_Edges:
+  - {fileID: -2710754586475770465}
+  m_OnEnterActions:
+  - rid: 8715519856034185255
+  - rid: 8715519856034185256
+  - rid: 3140914969675563010
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 1898.6667, y: 334.00012}
+  references:
+    version: 2
+    RefIds:
+    - rid: 3140914969675563010
+      type: {class: SetCharacterLookTarget, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_LookTarget: {fileID: 11400000, guid: 51eab4cc4fc6afe4c91043967c8d559f, type: 2}
+    - rid: 8715519856034185255
+      type: {class: PlayDialogueLineAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 5191355943ee0824aa1f7be6406aa74c, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: 925899bb5205d9348ba2d489e6c264a3, type: 2}
+        m_Clip: {fileID: 8300000, guid: 432d18d487918b0489283635a7fd9d54, type: 3}
+        m_CameraPosition: 13
+        m_Mood:
+          m_Mood: 5
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_SubtitleText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 4219418263552
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_IsLastDialogueNode: 0
+    - rid: 8715519856034185256
+      type: {class: SetCharacterLookTarget, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 5191355943ee0824aa1f7be6406aa74c, type: 2}
+        m_LookTarget: {fileID: 11400000, guid: 415b38a0a63f4134fa9074b3741d8f6b, type: 2}
+--- !u!114 &245227145473466581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - b4abe87a77034304b8cd2a57f1b889f9
+  m_EditorClassIdentifier: 
+  m_Guid: b4abe87a77034304b8cd2a57f1b889f9
+  m_Edges:
+  - {fileID: 2095614929199162153}
+  m_OnEnterActions:
+  - rid: 8715519856034185244
+  - rid: 8715519856034185247
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 1158.2853, y: 225.33327}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185244
+      type: {class: PlayDialogueLineAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: caee0ddd9bacc504b8bcd6f9c39a3c8f, type: 2}
+        m_Clip: {fileID: 8300000, guid: e0109ecc4dc98ea42ba539fc3c146a9c, type: 3}
+        m_CameraPosition: 11
+        m_Mood:
+          m_Mood: 1
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_SubtitleText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 4122710196224
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_IsLastDialogueNode: 0
+    - rid: 8715519856034185247
+      type: {class: SetCharacterLookTarget, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+        m_LookTarget: {fileID: 11400000, guid: 415b38a0a63f4134fa9074b3741d8f6b, type: 2}
+--- !u!114 &1186607096630071427
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 26dfef881e30e63458b552cc9c0220ca
+  m_EditorClassIdentifier: 
+  m_Guid: 26dfef881e30e63458b552cc9c0220ca
+  m_Edges:
+  - {fileID: 6299145523132200238}
+  m_OnEnterActions:
+  - rid: 8715519856034185254
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 1686, y: 97.33331}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185254
+      type: {class: PlayDialogueLineAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: b260ff888d3ac7340bb225eb25e687c0, type: 2}
+        m_Clip: {fileID: 8300000, guid: ab1bb0abfe5186f4f83faff116ebbd1a, type: 3}
+        m_CameraPosition: 10
+        m_Mood:
+          m_Mood: 2
+          b_IsRandom: 0
+          b_IsEmphasis: 1
+          b_IsManual: 0
+        m_SubtitleText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 4193006731264
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_IsLastDialogueNode: 0
+--- !u!114 &2095614929199162153
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - b4abe87a77034304b8cd2a57f1b889f9 to StateNode - 82910c5ae7e4097419288db6ab84f0b2
+  m_EditorClassIdentifier: 
+  m_Guid: 9cdf6d0d4a3ea4a478166301b676dbe2
+  m_Condition:
+    rid: 8715519856034185249
+  m_From: {fileID: 245227145473466581}
+  m_To: {fileID: 3878193235104436453}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185249
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185250
+    - rid: 8715519856034185250
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+--- !u!114 &2267748434272518632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - fc75a2ab80a2a664e974ce044b96ebd7
+  m_EditorClassIdentifier: 
+  m_Guid: fc75a2ab80a2a664e974ce044b96ebd7
+  m_Edges:
+  - {fileID: -3886896123276637190}
+  m_OnEnterActions:
+  - rid: 8715519856034185280
+  - rid: 3140914969675563014
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 3198.1328, y: 97.333374}
+  references:
+    version: 2
+    RefIds:
+    - rid: 3140914969675563014
+      type: {class: SetCharacterLookTarget, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_LookTarget: {fileID: 11400000, guid: dbff39958acb1cb45943799553dee3a6, type: 2}
+    - rid: 8715519856034185280
+      type: {class: PlayDialogueAnimationAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: 7350181f5c8a24f48bb25576d8c14997, type: 2}
+        m_CameraPosition: 1
+        m_Mood:
+          m_Mood: 3
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_IsLastDialogueNode: 1
+--- !u!114 &2305328709819292948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - ca2b6f70bee8fcf4fa043dcbb25132ae
+  m_EditorClassIdentifier: 
+  m_Guid: ca2b6f70bee8fcf4fa043dcbb25132ae
+  m_Edges:
+  - {fileID: -7373070359172925408}
+  m_OnEnterActions:
+  - rid: 8715519856034185227
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: -0.00015068054, y: 333.7717}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185227
+      type: {class: PlayDialogueLineAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 5191355943ee0824aa1f7be6406aa74c, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: 2aece833016b82d4d99222dd237a8f76, type: 2}
+        m_Clip: {fileID: 8300000, guid: 93e577a51af297c4d9f6fb0ff97f7ab1, type: 3}
+        m_CameraPosition: 14
+        m_Mood:
+          m_Mood: 1
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_SubtitleText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 3452456222720
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_IsLastDialogueNode: 0
+--- !u!114 &2427743555361075768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 8a0991af5b26f62469cab6cc88403e0d to StateNode - 5914d06c0d4256f4bbea546833b3e630
+  m_EditorClassIdentifier: 
+  m_Guid: e040dd34bc2f3de4aa11b2d1211d5b68
+  m_Condition:
+    rid: 8715519856034185273
+  m_From: {fileID: -1267384858796565492}
+  m_To: {fileID: 3886504169599715282}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185273
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185274
+    - rid: 8715519856034185274
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+--- !u!114 &3081139488793117464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - dd516dd45864c8e44ac9c310c5fd4d34
+  m_EditorClassIdentifier: 
+  m_Guid: dd516dd45864c8e44ac9c310c5fd4d34
+  m_Edges:
+  - {fileID: -5740131290654674274}
+  m_OnEnterActions:
+  - rid: 8715519856034185262
+  - rid: 3140914969675563011
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 2271.3333, y: 222.33333}
+  references:
+    version: 2
+    RefIds:
+    - rid: 3140914969675563011
+      type: {class: SetCharacterLookTarget, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_LookTarget: {fileID: 11400000, guid: dbff39958acb1cb45943799553dee3a6, type: 2}
+    - rid: 8715519856034185262
+      type: {class: PlayDialogueLineAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: 3a8976ce249060943911b0fdfdcbea89, type: 2}
+        m_Clip: {fileID: 8300000, guid: ae6add9019aa2cd478bc308ceb400318, type: 3}
+        m_CameraPosition: 11
+        m_Mood:
+          m_Mood: 1
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_SubtitleText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 4300582240256
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_IsLastDialogueNode: 0
+--- !u!114 &3878193235104436453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 82910c5ae7e4097419288db6ab84f0b2
+  m_EditorClassIdentifier: 
+  m_Guid: 82910c5ae7e4097419288db6ab84f0b2
+  m_Edges:
+  - {fileID: -3343343637053721306}
+  m_OnEnterActions:
+  - rid: 8715519856034185248
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 1328.6837, y: 97.33332}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185248
+      type: {class: PlayDialogueLineAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: 89fe275facfad104ebc1186d42abc809, type: 2}
+        m_Clip: {fileID: 8300000, guid: 2f93a12cef0b529469fa419471a5cf85, type: 3}
+        m_CameraPosition: 10
+        m_Mood:
+          m_Mood: 2
+          b_IsRandom: 0
+          b_IsEmphasis: 1
+          b_IsManual: 0
+        m_SubtitleText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 4161067106304
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_IsLastDialogueNode: 0
+--- !u!114 &3886504169599715282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 5914d06c0d4256f4bbea546833b3e630
+  m_EditorClassIdentifier: 
+  m_Guid: 5914d06c0d4256f4bbea546833b3e630
+  m_Edges:
+  - {fileID: 7548076822005956520}
+  m_OnEnterActions:
+  - rid: 8715519856034185272
+  - rid: 1470301474687025156
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 2801.6006, y: 97.33325}
+  references:
+    version: 2
+    RefIds:
+    - rid: 1470301474687025156
+      type: {class: SetCharacterLookTarget, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_LookTarget: {fileID: 11400000, guid: dbff39958acb1cb45943799553dee3a6, type: 2}
+    - rid: 8715519856034185272
+      type: {class: PlayDialogueLineAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: 9393db79fe6278b4ab5c255a403e762c, type: 2}
+        m_Clip: {fileID: 8300000, guid: 33ee008097a757e46bdc8d936470b2b0, type: 3}
+        m_CameraPosition: 10
+        m_Mood:
+          m_Mood: 3
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_SubtitleText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 4395776163840
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_IsLastDialogueNode: 0
+--- !u!114 &4420505815019799985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - c48069ba592dba34f9109387f7399f75 to StateNode - 8a0991af5b26f62469cab6cc88403e0d
+  m_EditorClassIdentifier: 
+  m_Guid: 761db623c9746204fa40c5a460092b2e
+  m_Condition:
+    rid: 8715519856034185269
+  m_From: {fileID: -8021358906296575880}
+  m_To: {fileID: -1267384858796565492}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185269
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185270
+    - rid: 8715519856034185270
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 5191355943ee0824aa1f7be6406aa74c, type: 2}
+--- !u!114 &5521450158811694706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - f3c199cd5e47eee4a9be07fb35badff9 to StateNode - 26dfef881e30e63458b552cc9c0220ca
+  m_EditorClassIdentifier: 
+  m_Guid: 138e188bf0c2b1749b1080de9a4b13b5
+  m_Condition:
+    rid: 8715519883540168706
+  m_From: {fileID: -7152108483175550664}
+  m_To: {fileID: 1186607096630071427}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519883540168706
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519883540168707
+    - rid: 8715519883540168707
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+--- !u!114 &6299145523132200238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 26dfef881e30e63458b552cc9c0220ca to StateNode - 65890b1cfbda0aa4aa71e809e8b10818
+  m_EditorClassIdentifier: 
+  m_Guid: f76b049428a9d31499454bd4c1586007
+  m_Condition:
+    rid: 8715519856034185257
+  m_From: {fileID: 1186607096630071427}
+  m_To: {fileID: 142305234174300271}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185257
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185258
+    - rid: 8715519856034185258
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+--- !u!114 &7058247731650138840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 48619501cd04cca45bee831032a5beea to StateNode - 6567c4da3f471c7448da1286e16c2a90
+  m_EditorClassIdentifier: 
+  m_Guid: 80ca012e629e8f3489c39feb76d2c25d
+  m_Condition:
+    rid: 8715519856034185238
+  m_From: {fileID: -3201801682686339252}
+  m_To: {fileID: -2553752609861113455}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185238
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185239
+    - rid: 8715519856034185239
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+--- !u!114 &7548076822005956520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 5914d06c0d4256f4bbea546833b3e630 to StateNode - aa47ac244c6f3f5478937d060a7a1f83
+  m_EditorClassIdentifier: 
+  m_Guid: f5ce5136a322038428d1f9b2481cfe21
+  m_Condition:
+    rid: 8715519856034185276
+  m_From: {fileID: 3886504169599715282}
+  m_To: {fileID: -6975632756641461462}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185276
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185277
+    - rid: 8715519856034185277
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+--- !u!114 &7790051323721092641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 6567c4da3f471c7448da1286e16c2a90 to StateNode - 2b5164ffa6a5e8d4f8e634b0b76bfddf
+  m_EditorClassIdentifier: 
+  m_Guid: 097c43cb9b257bf4da549e4a80e5f516
+  m_Condition:
+    rid: 8715519856034185242
+  m_From: {fileID: -2553752609861113455}
+  m_To: {fileID: -7630169882710413786}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185242
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185243
+    - rid: 8715519856034185243
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+--- !u!114 &8269846458285344417
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 142405aabb8e6024286c1d52645effae to StateNode - ca2b6f70bee8fcf4fa043dcbb25132ae
+  m_EditorClassIdentifier: 
+  m_Guid: c5d1e33ceda547544b7ed27800c6b3c5
+  m_Condition:
+    rid: -2
+  m_From: {fileID: -3224842932713138840}
+  m_To: {fileID: 2305328709819292948}
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+--- !u!114 &8743301950614476823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 584b633741d186844984e47d7e3f34d0
+  m_EditorClassIdentifier: 
+  m_Guid: 584b633741d186844984e47d7e3f34d0
+  m_Edges: []
+  m_OnEnterActions: []
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 3598.934, y: 225.33325}
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &9033323715734644351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 2b5164ffa6a5e8d4f8e634b0b76bfddf to StateNode - b4abe87a77034304b8cd2a57f1b889f9
+  m_EditorClassIdentifier: 
+  m_Guid: cfb7d8fb2a5f05844b9032dd0773c743
+  m_Condition:
+    rid: 8715519856034185245
+  m_From: {fileID: -7630169882710413786}
+  m_To: {fileID: 245227145473466581}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185245
+      type: {class: NotCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data:
+        m_Condition:
+          rid: 8715519856034185246
+    - rid: 8715519856034185246
+      type: {class: IsCharacterTalkingCondition, ns: DialogueSystem, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}

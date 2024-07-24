@@ -1,0 +1,615 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario5_Table_nl-NL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl-NL
+  m_SharedData: {fileID: 11400000, guid: 5ec72a9f21754d44aa6e15b6101707c7, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2394929133959774244
+  m_TableData:
+  - m_Id: 466376015872
+    m_Localized: Seksuele intimidatie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 860133392384
+    m_Localized: 'Adam is sinds vier maanden manager, met in totaal twee jaar ervaring.
+
+
+      Sofia
+      is sinds twee maanden crewlid.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3261561176064
+    m_Localized: 'Ja, dat zou fijn zijn. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3269194809344
+    m_Localized: Bang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3274131505152
+    m_Localized: Bezorgd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276333514752
+    m_Localized: Ongemakkelijk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3278724268032
+    m_Localized: Opgelucht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3281622532096
+    m_Localized: Je hebt laten zien dat je betrouwbaar bent, hard werkt en dat je
+      snel leert. Je bent perfect voor die functie.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3297758019584
+    m_Localized: Geweldig, bedankt!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3316888240128
+    m_Localized: "[0.00-2.00]\nIk weet dat er ook anderen ge\xEFnteresseerd zijn.
+      \n[2.00-6.21]\nDus ik ben bereid je wat tips te geven over hoe je deze promotie
+      kunt krijgen. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3358533484544
+    m_Localized: "Ok\xE9\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3372223692800
+    m_Localized: 'Zullen we later deze week ergens een kop koffie drinken? Maar we
+      kunnen dat beter niet hier doen. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3381753151488
+    m_Localized: Nou... ik heb een heel drukke week ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393266515968
+    m_Localized: "[0.00-2.30]\nIk bied dit echt niet aan iedereen aan.\n[2.30-6.43]
+      \nAls we ergens priv\xE9 kunnen praten, garandeer ik dat je deze promotie krijgt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Localized: 'Het lijkt erop dat je op ijsbergsla bijna op is. Zorg ervoor dat
+      je de voorraad aanvult. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Localized: We kunnen niet het risico lopen dat we zonder komen te zitten tijdens
+      de middagrush.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Localized: Zal ik doen. Bedankt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Localized: Hoi, Sofia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Localized: "H\xE9, Aisha "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Localized: Gebeurt dat wel vaker?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Localized: 'Wat? '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Localized: 'Dat Adam zo dicht tegen je aanleunt. Zich tegen je aandrukt? '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Localized: '[0.00-5.40]
+
+      Eh... ja, soms wel. Doet hij dat niet bij iedereen,
+      dan?
+
+      [5.40-9.12]
+
+      Ik dacht dat het gebeurde omdat het hier zo
+      krap is. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4219418263552
+    m_Localized: Nee, dat doet hij bij mij nooit. Gaat het wel?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4248908414976
+    m_Localized: Nee, ik voel me hier heel ongemakkelijk bij. Ik vind het echt vervelend.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300582240256
+    m_Localized: 'Wil je er iets tegen hem over zeggen? '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348598632448
+    m_Localized: 'Ik zou niet weten wat ik moest zeggen. Ik zou niet eens weten hoe
+      je dat noemt... wat hij doet. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4370207686656
+    m_Localized: "[0.00-2.50]\nWe doen dit: waarom zorg ik er niet gewoon voor \n[2.50-5.56]\ndat
+      ik vaker bij je ben als we samenwerken totdat je wel iets durft te zeggen? "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4395776163840
+    m_Localized: Dat zou fijn zijn. Bedankt!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4423588593664
+    m_Localized: "[0.00-4.30]\nSofia, zou je ge\xEFnteresseerd zijn in een promotie?
+      \n[4.30-9.35]\nEr komt binnenkort een rol vrij. Meer verantwoordelijkheden,
+      maar ook meer loon. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Localized: Melding maken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Localized: Wanneer moet je je laten horen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Localized: "\\u2022 <indent=1em>Is wat ik meemaak beledigend of kwetsend voor
+      mij? \n</indent>\n\\u2022 <indent=1em>Vind ik deze situatie zorgwekkend? \n</indent>\n\\u2022
+      <indent=1em>Ziet die persoon er ongemakkelijk uit? \n</indent>\n\\u2022 <indent=1em>Voel
+      ik mij ongemakkelijk als ik hiernaar kijk? \n</indent>\n\nVoor Aisha is het
+      antwoord op deze vragen 'ja'. "
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774244
+  - m_Id: 6477430210560
+    m_Localized: "Soms kan het moeilijk zijn om te beslissen of je er iets van moet
+      zeggen als je een gespannen situatie op het werk ziet.\nStel jezelf deze vragen
+      als je twijfelt over een bepaalde situatie: \n<align=\"left\">\n\n\u2022 <indent=1em>Is
+      wat ik meemaak beledigend of kwetsend voor mij? \n</indent>\n\u2022 <indent=1em>Vind
+      ik deze situatie zorgwekkend? \n</indent>\n\u2022 <indent=1em>Ziet die persoon
+      er ongemakkelijk uit? \n</indent>\n\u2022 <indent=1em>Voel ik mij ongemakkelijk
+      als ik hiernaar kijk? \n</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774244
+  - m_Id: 6478696890368
+    m_Localized: 'Wil ik hier echt bij betrokken raken? Het zou de zaken erger kunnen
+      maken voor Sofia, maar ook voor mij. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Localized: Aisha maakt zich zorgen over de mogelijke consequenties als ze iets
+      zegt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Localized: 'Ik wil Sofia helpen, maar is dit het juiste moment om hier iets
+      van te zeggen? Ik weet het echt niet zeker. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Localized: Aisha twijfelt of ze op dit moment iets zou moeten zeggen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6598260031488
+    m_Localized: Machtsmisbruik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Localized: Ik vraag me af of Adam andere vrouwelijke crewleden op dezelfde
+      manier behandelt?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Localized: Mogelijk is Sofia niet het enige crewlid dat Adam op deze manier
+      behandelt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Localized: 'Ik voel me zo ongemakkelijk wanneer Adam helemaal tegen me aan
+      gaat staan. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Localized: Dit is niet de eerste keer dat Adam opzettelijk heel erg dicht bij
+      Sofia gaat staan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Localized: 'Ik zou iets kunnen zeggen, maar ik weet niet hoe hij zal reageren. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Localized: Sofia heeft niet voldoende zelfvertrouwen om er iets van te zeggen
+      tegen Adam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Localized: Misschien zoek ik er gewoon te veel achter. Het is hier nu eenmaal
+      zo'n nauwe ruimte.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Localized: Sofia twijfelt aan zichzelf en aan hoe ze zich voelt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Localized: Wat is seksuele intimidatie?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Localized: Seksuele intimidatie omvat allerlei verschillende soorten ongewenste
+      avances, zoals iemand op een seksuele manier aanraken, opmerkingen maken over
+      iemands lichaam, opzettelijk tegen iemand aanlopen of heel dicht bij de persoon
+      gaan staan, naar iemand staren op een manier die de persoon in kwestie een
+      ongemakkelijk gevoel geeft of foto's delen of grappen maken die seksueel van
+      aard zijn.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Localized: Wanneer Adam Sofia opzettelijk aanraakt op een manier die ongewenst
+      is, intimideert hij haar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Localized: Een andere vorm van seksuele intimidatie vindt plaats wanneer een
+      persoon met autoriteit (bijvoorbeeld een manager) een werkvoordeel belooft,
+      onthoudt of dreigt te ontnemen in ruil voor iets van een seksuele aard.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Localized: Er is sprake van intimidatie wanneer Adam druk op Sofia uitoefent
+      voor een ontmoeting buiten het werk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9254827327488
+    m_Localized: Ik weet dat ik nu echt iets moet zeggen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Localized: Wat moet {0} als volgende doen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11266293579776
+    m_Localized: Er verder niet op ingaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Localized: Er nu iets van zeggen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Localized: Ze wil niet dat Adam dit tegen haar zal gebruiken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Localized: Adam zou andere crewleden ook ongepast kunnen behandelen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Localized: Adam gebruikt zijn autoriteit om druk op Sofia uit te oefenen voor
+      een bijeenkomst alleen met hem.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Localized: Ze wil de zaken niet nog erger maken voor Sofia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Localized: Ze zou moeten wachten en meer voorbeelden verzamelen van ongepast
+      gedrag door Adam.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Localized: Sofia ziet er ongemakkelijk uit en Aisha voelt zich ook ongemakkelijk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Localized: Ze zou meer in de buurt van Sofia kunnen blijven om te voorkomen
+      dat Adam alleen met haar is.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Localized: "Haar eigen werk wordt al be\xEFnvloed door Adams ongepaste gedrag."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12206929477632
+    m_Localized: Goed werk!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13511391576064
+    m_Localized: Goed werk!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13702404374528
+    m_Localized: Wat als Sofia zelf iets tegen Adam had gezegd?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Localized: Ik ben van plan om dit te melden, maar ik wil Sofia nu helpen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Localized: Dat lijkt niet de allerbeste keuze.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Localized: "\\u2022 <indent=1em>Omdat Aisha optrad als bondgenoot voor Sofia,
+      voelde zowel Sofia als Aisha zich veiliger op het werk. </indent>\n\\u2022
+      <indent=1em>Er vond een onderzoek plaats naar het gedrag van Adam jegens Sofia
+      en Aisha. Aisha kreeg haar vaste diensten terug.</indent>\n\\u2022 <indent=1em>Een
+      onderzoek bracht bewijs aan het licht dat Adam meer dan \xE9\xE9n crewlid seksueel
+      heeft ge\xEFntimideerd. Als gevolg hiervan werd hij ontslagen.</indent>\n\nWat
+      zou er zijn gebeurd als Aisha anders had gehandeld?"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774244
+  - m_Id: 15515450687488
+    m_Localized: "\\u2022 <indent=1em>Adam zou zijn doorgegaan met het intimideren
+      van Sofia, waardoor ze zich ongemakkelijk en onveilig zou blijven voelen.</indent>\n\\u2022
+      <indent=1em>Sofia zou het zo zat kunnen worden dat ze zich altijd maar ongemakkelijk
+      voelt op het werk, dat ze zou besluiten om een nieuwe baan te zoeken.</indent>
+      \n\\u2022 <indent=1em>Aisha zou zich nog steeds ongemakkelijk voelen bij het
+      aanschouwen van Adams gedrag, wat een invloed zou kunnen hebben op haar eigen
+      werkprestaties en tevredenheid op het werk.</indent>\n\\u2022 <indent=1em>Adam
+      zou anderen op dezelfde manier kunnen behandelen als hij Sofia behandelde.</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774244
+  - m_Id: 16316051357696
+    m_Localized: '\u2022 <indent=1em>Sofia is niet verplicht om met Adam te praten,
+      vooral niet als ze zich daarbij niet veilig voelt. Als Sofia wel iets zou zeggen,
+      zou dit de situatie wel of niet kunnen verbeteren.</indent>
+
+      \u2022 <indent=1em>Wat
+      er ook gebeurt, Sofia moet melding maken van zijn gedrag omdat ze zich ongemakkelijk
+      voelt.</indent>  '
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774244
+  - m_Id: 16349987471360
+    m_Localized: Wat als Aisha zich niet als een bondgenoot had opgesteld?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16412994306048
+    m_Localized: Wat als Aisha Adams gedrag niet had gemeld?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16432816586752
+    m_Localized: "\\u2022 <indent=1em>Er zou geen onderzoek zijn uitgevoerd naar
+      het gedrag van Adam en er zouden geen offici\xEBle consequenties voor zijn
+      acties zijn geweest.</indent> \n\\u2022 <indent=1em>Adam kan Sofia en mogelijk
+      ook anderen seksueel blijven intimideren.</indent> \n\\u2022 <indent=1em>Mogelijk
+      krijgt Aisha haar normale werkuren niet terug.</indent>\n\nIn dit geval is
+      het uiterst belangrijk dat melding wordt gemaakt van Adams gedrag, zodat gepaste
+      stappen voor het oplossen de situatie worden genomen."
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774244
+  - m_Id: 16477708222464
+    m_Localized: "\\u2022 <indent=1em>McDonald's tolereert geen intimidatie van werknemers
+      door niet-werknemers (bijvoorbeeld klanten, verkopers of leveranciers).</indent>
+      \n\\u2022 <indent=1em>We voeren ook een nultolerantiebeleid voor werknemers
+      die niet-werknemers lastigvallen.</indent>  "
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774244
+  - m_Id: 16655802253312
+    m_Localized: Bij McDonald's zijn we partners wanneer we samenwerken, respecteren
+      we elkaar en zorgen we voor elkaar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Localized: 'Als jij of een andere collega zich ongemakkelijk voelt op het werk,
+      aarzel dan niet om van je te laten horen en melding te maken. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Localized: 'Onze waarden naleven betekent respect tonen voor je collega''s. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Localized: We doen dit allemaal samen. Door ons werk te allen tijde professioneel
+      te houden, kunnen we een cultuur bevorderen waarin iedereen kan gedijen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Localized: Adam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Localized: Aisha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17400073109504
+    m_Localized: Sofia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17453865369600
+    m_Localized: Wat als een gast gedrag aan de dag legt dat vergelijkbaar is met
+      dat van Adam?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Localized: Veilig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Localized: Respectvol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Localized: Inclusief
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37312208388096
+    m_Localized: Sofia is intelligent, ze kan deze situatie wel alleen te boven komen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275788460064768
+    m_Localized: Gefrustreerd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275823071461376
+    m_Localized: Bezorgd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275849965338624
+    m_Localized: Hoopvol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275876641112064
+    m_Localized: Onbezorgd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275917095174144
+    m_Localized: Bang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276018807046144
+    m_Localized: Bezorgd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276029716430848
+    m_Localized: Hoopvol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276038713212928
+    m_Localized: Opgelucht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281393660821504
+    m_Localized: '\u2022 <indent=1em>Kai besluit met zijn manager, Dan, te praten
+      over de situatie met Eva.
+
+      \u2022 <indent=1em>Kai vindt Dan in de pauzeruimte.'
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774244
+  - m_Id: 1010716877078528
+    m_Localized: <size=160%>Later die week.</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1013342070980608
+    m_Localized: "H\xE9 Soph, ze hebben je nodig bij de counter."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1013552289497088
+    m_Localized: Je bent elders nodig. Sofia, laat me maar even weten wanneer je
+      tijd hebt om onze bespreking af te ronden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1013645499514880
+    m_Localized: Dat zal ik doen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014349442138112
+    m_Localized: "[0.00-2.50]\nZe wil niet met je uitgaan, Adam. \n[2.50-5.56]\nJe
+      moet ook stoppen met haar aanraken met je lichaam als je langs haar loopt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014438495600640
+    m_Localized: "[0.00-4.00]\nIk weet niet wat je denkt te hebben gehoord, maar
+      ik help haar alleen met de voorbereidingen voor een promotie. \n[4.00-6.31]\nJe
+      zou je op je eigen werk moeten concentreren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014598713819136
+    m_Localized: 'Drie dagen later:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014795179212800
+    m_Localized: Kom je vandaag nog werken?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014875672100864
+    m_Localized: Nee. Ik werk niet langer op jouw dienst.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014910367383552
+    m_Localized: Wat?! Waarom?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014951878410240
+    m_Localized: Ik weet het niet echt zeker. Mijn diensten zijn allemaal veranderd
+      in tijden die me heel slecht uitkomen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014968517214208
+    m_Localized: Denk je dat Adam daarvoor verantwoordelijk is?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014993351688192
+    m_Localized: Dat zou best eens kunnen. Het gebeurde direct nadat ik met hem sprak.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015005393534976
+    m_Localized: Het spijt me zo voor je!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015020329451520
+    m_Localized: Je hoeft je niet te verontschuldigen, want het is niet jouw fout.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015033512148992
+    m_Localized: 'Ik heb melding gemaakt en ze hebben me verteld dat ze dit serieus
+      nemen en een onderzoek uitvoeren. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015049052045312
+    m_Localized: Bedankt dat je voor me bent opgekomen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015066638761984
+    m_Localized: Dat spreekt toch voor zich!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015080589017088
+    m_Localized: We verdienen het allebei om ons veilig te voelen op ons werk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22197009153777664
+    m_Localized: Aisha kijkt in de pauzeruimte naar sms'jes van Sofia op haar telefoon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22196967646945280
+    m_Localized: Sofia, Aisha en Adam werken in de keuken van een McDonald's-restaurant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22196944817348608
+    m_Localized: Sofia, Aisha en Adam werken in de keuken van een McDonald's-restaurant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22196915385917440
+    m_Localized: Sofia en Aisha werken in de keuken van een McDonald's-restaurant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22196894196293632
+    m_Localized: Adam en Sofia werken in de keuken van een McDonald's-restaurant
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2394929133959774244
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00003211edff0000000072e0d60e00000040ed781c0e000000003210f20e000000402df3f20d00000000f283fc0e00000040ed24e40500000040add0e3050000

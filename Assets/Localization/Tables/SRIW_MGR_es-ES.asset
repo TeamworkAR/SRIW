@@ -1,0 +1,828 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: SRIW_MGR_es-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: 30630d9d68e57f84bb4a6bc4784ad227, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 58963357696
+    m_Localized: <b>En McDonald's, fomentamos y mantenemos un lugar de trabajo inclusivo,
+      respetuoso y seguro para todos al:</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32415523106816
+    m_Localized: "El rol del gerente en la creaci\xF3n de un lugar de trabajo inclusivo,
+      respetuoso y seguro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280336076206080
+    m_Localized: "<size=+20><b>El rol del gerente en la creaci\xF3n de un lugar de
+      trabajo inclusivo, respetuoso y seguro</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 300762370240512
+    m_Localized: "Vivir y defender nuestros valores todos los d\xEDas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 301541340573696
+    m_Localized: Tratar a todos con respeto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 324650974146560
+    m_Localized: "Ser consciente y reflexionar sobre el impacto que nuestras palabras
+      y acciones tienen en los dem\xE1s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 328896373157888
+    m_Localized: Decir lo que se piensa cuando se presencie o se experimente un comportamiento
+      inapropiado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 329567763787776
+    m_Localized: "Recordar a todos, especialmente a los l\xEDderes, que desempe\xF1an
+      un papel fundamental en la creaci\xF3n de una cultura del respeto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2592079758446592
+    m_Localized: "Como gerente de otros, desempe\xF1as un rol fundamental en la creaci\xF3n
+      de un lugar de trabajo inclusivo, respetuoso y seguro.\n\n\xA1Se espera que
+      usted sea un modelo a seguir para su equipo y siempre d\xE9 el ejemplo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2592417236340736
+    m_Localized: <b>Los gerentes tienen responsabilidad cuando se trata de ser un
+      modelo a seguir, como, por ejemplo:</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2592760418488320
+    m_Localized: "Dar un ejemplo positivo garantizando que su conducta, incluidas
+      sus decisiones laborales y comportamientos en el lugar de trabajo, est\xE9n
+      libres de comportamientos inapropiados como acoso (f\xEDsico, psicol\xF3gico,
+      sexual), discriminaci\xF3n, intimidaci\xF3n y represalias/victimizaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2593642577088512
+    m_Localized: "Tomar medidas para eliminar todas las conductas inapropiadas como
+      el acoso (f\xEDsico, psicol\xF3gico o sexual), la discriminaci\xF3n, la intimidaci\xF3n
+      y las represalias o la victimizaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2594270552477696
+    m_Localized: "Escalar inmediatamente cuando se d\xE9 cuenta de cualquier conducta
+      inapropiada o si un empleado le brinda informaci\xF3n sobre un comportamiento
+      que podr\xEDa hacer que \xE9l u otros se sientan inc\xF3modos o inseguros."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2594492410187776
+    m_Localized: "Tener en cuenta las acusaciones o denuncias de todas las conductas
+      inapropiadas como el acoso (f\xEDsico, psicol\xF3gico o sexual), la discriminaci\xF3n,
+      la intimidaci\xF3n y las represalias o la victimizaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2595063053635584
+    m_Localized: "Colaborar con las personas adecuadas para investigar las denuncias
+      de forma r\xE1pida y exhaustiva."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2595208877002752
+    m_Localized: "Garantizar que tanto t\xFA como los miembros del equipo sab\xE9is
+      c\xF3mo y d\xF3nde decir lo que pens\xE1is si experiment\xE1is o reconoc\xE9is
+      un comportamiento inapropiado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2609365743521792
+    m_Localized: "<b>\xBFQu\xE9 crees que deber\xEDas hacer en esta situaci\xF3n?</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2609551664435200
+    m_Localized: "<b>Alguien ha acudido a ti con una posible queja.\n\xBFQu\xE9 crees
+      que deber\xEDas hacer en esta situaci\xF3n?</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2609684217024512
+    m_Localized: "Voltee las tarjetas para obtener m\xE1s contexto y luego seleccione
+      todas las que correspondan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610809649451008
+    m_Localized: Agradecer a la persona que se haya presentado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610878549282816
+    m_Localized: Tome la queja en serio.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610915408826368
+    m_Localized: Escuche, pero no tome partido ni saque conclusiones.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610968991059968
+    m_Localized: "Expl\xEDcale que alguien llevar\xE1 a cabo un seguimiento."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611299066007552
+    m_Localized: "Un joven empleado le ha contado que un proveedor le gui\xF1\xF3
+      un ojo y eso le hizo sentir inc\xF3modo.\n\n\xBFEs apropiada la siguiente respuesta
+      de un gerente?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611431417270272
+    m_Localized: Adam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611612242104320
+    m_Localized: "\"Ese proveedor gui\xF1a el ojo a todo el mundo, pero es inofensivo.\nSi
+      hacen algo m\xE1s serio, siempre puedes acudir a nosotros para informarnos\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611893193363456
+    m_Localized: "\xA1Correcto! Los gerentes siempre deben tomar en serio la conducta
+      potencialmente inapropiada. Esto significa informar el incidente inmediatamente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612031949328384
+    m_Localized: Incorrecto, los gerentes siempre deben tomar en serio las conductas
+      potencialmente inapropiadas. Esto significa informar el incidente inmediatamente.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612287864786944
+    m_Localized: "\xBFQu\xE9 debes hacer si un empleado te dice que ha presenciado
+      c\xF3mo un l\xEDder s\xE9nior ha utilizado un lenguaje inapropiado hacia los
+      empleados?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612453514629120
+    m_Localized: "Espere a observar si el comportamiento del l\xEDder superior se
+      repite."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612574507716608
+    m_Localized: Indica a los empleados que a veces puede suceder y que no hay que
+      darle mayor importancia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612620355653632
+    m_Localized: "Di que no se puede tolerar la conducta del l\xEDder s\xE9nior y
+      denunciarla."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612676479635456
+    m_Localized: "\xA1Correcto! Como gerente, tienes la facultad de poner fin a un
+      comportamiento inapropiado. Cualquier comportamiento inapropiado, incluido
+      el comportamiento del l\xEDder s\xE9nior,\_debe denunciarse y tomarse en serio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612770310410240
+    m_Localized: "Incorrecto, como gerente, usted tiene discreci\xF3n para detener
+      comportamientos inapropiados. Cualquier comportamiento inapropiado, incluido
+      el comportamiento del l\xEDder s\xE9nior, debe denunciarse y tomarse en serio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612922806915072
+    m_Localized: "Un empleado se queja de que un gerente le acos\xF3 porque regres\xF3
+      tarde de un descanso por segunda vez esta semana. El gerente lo llev\xF3 aparte
+      para hablar sobre el tema y para que se comprometiera a ser puntual.\n\_\n\xBFEs
+      esto acoso?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613051878232064
+    m_Localized: "\xA1Correcto! Comunicar las expectativas de McDonald's y apartar
+      a un empleado para hablar sobre un tema no es una forma de acoso. Sin embargo,
+      podr\xEDa considerarse acoso si la retroalimentaci\xF3n se realiz\xF3 de manera
+      contundente, hiriente, amenazante o intimidante. Si no est\xE1s seguro, debes
+      informarlo a trav\xE9s del canal adecuado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613344506433536
+    m_Localized: "Incorrecto, comunicar las expectativas de McDonald's y llevar a
+      un empleado aparte para discutir un tema no es una forma de acoso. Sin embargo,
+      podr\xEDa ser acoso si el feedback se proporciona de manera intimidante. Si
+      no est\xE1s seguro, debes informarlo a trav\xE9s del canal adecuado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613459648466944
+    m_Localized: "<b>Responsabilidades del gerente en torno a las represalias/victimizaci\xF3n</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613561855266816
+    m_Localized: "Las represalias o la victimizaci\xF3n se producen cuando se castiga
+      a alguien o este experimenta una acci\xF3n laboral o individual negativa porque
+      tiene la intenci\xF3n de presentar una queja, o ha presentado una queja, o
+      est\xE1 involucrado en una queja (como testigo) sobre un comportamiento en
+      el lugar de trabajo, como un posible acoso (f\xEDsico, psicol\xF3gico o sexual),
+      discriminaci\xF3n, intimidaci\xF3n o represalias o victimizaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613610907652096
+    m_Localized: "<b>Ejemplos de represalias/victimizaci\xF3n:</b>\n\n\u2022<indent=5%>Despido</indent>\_\n\u2022<indent=5%>Degradaci\xF3n\_</indent>\_\n\u2022<indent=5%>Revisi\xF3n
+      por desempe\xF1o deficiente\_\_</indent>\n\u2022<indent=5%>Cambios de turnos</indent>\n\u2022<indent=5%>Excluir
+      de equipos, eventos y reuniones\_</indent>\n\u2022<indent=5%>Tareas no deseadas\_\_</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613718365720576
+    m_Localized: "Como gerente, evita, det\xE9n o denuncia cualquier comportamiento
+      de represalia por parte de tu equipo. Si, como gerente, te acusan de represalias
+      o victimizaci\xF3n, contin\xFAa gestionando al empleado como un modelo a seguir.
+      Coopera completa y honestamente con los investigadores y deja que el proceso
+      siga su curso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613822434791424
+    m_Localized: Como gerente, evite, detenga e informe cualquier comportamiento
+      de represalia por parte de su equipo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613934519177216
+    m_Localized: "En el siguiente escenario, Samuel denunci\xF3 a su compa\xF1ero
+      de trabajo Miguel por comportamiento inapropiado. Ahora, algunos de los compa\xF1eros
+      de trabajo de Samuel no le hablan. Samuel los ha confrontado sobre por qu\xE9
+      tuvo que denunciar a Miguel, pero sus compa\xF1eros de trabajo todav\xEDa lo
+      ignoran.\_\_\n\_\nTras notar la tensi\xF3n, Anna, la gerente, se sienta a charlar
+      con Samuel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614011002310656
+    m_Localized: Anna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614046637117440
+    m_Localized: "Todos ustedes sol\xEDan ser amigos y el ambiente por aqu\xED era
+      fant\xE1stico."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614120544948224
+    m_Localized: Samuel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614198881964032
+    m_Localized: "S\xED, bueno, las cosas cambian."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614224014233600
+    m_Localized: "En esta situaci\xF3n, \xBFpuede Anna trasladar a Samuel a un nuevo
+      restaurante?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614313474543616
+    m_Localized: "\xA1Correcto!\_Est\xE1 claro que Anna quiere transferir a Samuel
+      a otro restaurante debido a las consecuencias de la queja de Samuel. Cambiar
+      la situaci\xF3n laboral de un empleado porque \xE9ste present\xF3 una queja
+      es extremadamente arriesgado, incluso si el gerente y el empleado lo consideran
+      una medida positiva.\n\_\nUna buena regla general es tratar a un empleado igual
+      que si nunca hubiera presentado una queja."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614433234505728
+    m_Localized: "Incorrecto, est\xE1 claro que Anna quiere transferir a Samuel a
+      otro restaurante debido a las consecuencias de la queja de Samuel. Cambiar
+      la situaci\xF3n laboral de un empleado porque \xE9ste present\xF3 una queja
+      es extremadamente arriesgado, incluso si el gerente y el empleado lo consideran
+      una medida positiva.\n\_\nUna buena regla general es tratar a un empleado igual
+      que si nunca hubiera presentado una queja."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614603657465856
+    m_Localized: "Puede resultar dif\xEDcil para las personas presentar una queja.
+      Reconozca esa dificultad agradeci\xE9ndoles."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2615178197422080
+    m_Localized: "Hay muchas razones por las que las personas podr\xEDan no denunciar
+      (por ejemplo, miedo a que su denuncia no se tome en serio)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2615219234492416
+    m_Localized: "Recopila \xFAnicamente la informaci\xF3n necesaria para presentar
+      la denuncia con compasi\xF3n y objetividad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2615270258200576
+    m_Localized: "Establecer expectativas durante el proceso de presentaci\xF3n de
+      informes es clave."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616712327024640
+    m_Localized: "Alguien que presenta una queja o est\xE1 involucrado en la investigaci\xF3n
+      de una queja suele sentirse inseguro e incluso amenazado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616952182493184
+    m_Localized: "Hablar unos por otros pone a las personas en primer lugar, crea
+      inclusi\xF3n y es lo correcto.\_\_"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616995702591488
+    m_Localized: "<b>Cu\xE1ndo hay que hacerse o\xEDr</b>\n\_\n\xBFNo est\xE1s seguro
+      de cu\xE1ndo es lo correcto?\_\n\_\nH\xE1gase estas preguntas sobre la situaci\xF3n:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617243074252800
+    m_Localized: "\xBFMe ofende lo que veo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617462226636800
+    m_Localized: "\xBFPodr\xEDa esto ir en contra de nuestros valores?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617526504345600
+    m_Localized: "\xBFAlguna persona parece inc\xF3moda?\_"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617569235914752
+    m_Localized: "\xBFPresenciar esto me genera incomodidad?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617613712314368
+    m_Localized: "Si su respuesta a cualquiera de estas preguntas es \"S\xED\", es
+      buena idea decir lo que piensas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617686349271040
+    m_Localized: "<b>Hay cuatro formas de decir lo que piensas. Cualquiera puede
+      utilizar estas cuatro formas seg\xFAn la situaci\xF3n y su nivel de comodidad.\n\nVoltee
+      cada tarjeta para obtener m\xE1s informaci\xF3n.</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617762022903808
+    m_Localized: "<b>S\xE9 directo:</b> \nIdentificar la acci\xF3n o comportamiento
+      correcto.\_"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617816230088704
+    m_Localized: "<b>Redirigir:</b> \nPlantea un nuevo tema y redirige la conversaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617852200439808
+    m_Localized: "<b>Posponer:</b>\nAborde el comportamiento o malestar en un momento
+      m\xE1s neutral."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617899503800320
+    m_Localized: "<b>Buscar ayuda:</b>\nComo gerente, puede buscar orientaci\xF3n.\_"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617962007318528
+    m_Localized: "<b>\xBFCu\xE1l de las siguientes opciones deber\xEDa hacer si es
+      testigo de cualquier forma de conducta inapropiada de un cliente hacia un empleado?</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618062515425280
+    m_Localized: "D\xEDgales a los clientes que \"apreciamos su visita, pero queremos
+      que sepan que aqu\xED no podemos usar lenguaje inapropiado\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618343659622400
+    m_Localized: "Aseg\xFArese de asumir la responsabilidad exclusiva de preparar
+      el pedido del cliente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618387137777664
+    m_Localized: "A la primera oportunidad, decirle a el empleado que la conducta
+      del cliente no se tolera aqu\xED y denunciarlo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618432058773504
+    m_Localized: "Espere a mencionar lo que observ\xF3 hasta que sea m\xE1s conveniente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618481622863872
+    m_Localized: Como gerente, tienes la facultad de poner fin a un comportamiento
+      inapropiado. Cualquier comportamiento inapropiado debe denunciarse y tratarse
+      con seriedad.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618524257964032
+    m_Localized: "Incorrecto, como gerente, usted tiene discreci\xF3n para detener
+      comportamientos inapropiados. Cualquier comportamiento inapropiado debe denunciarse
+      y tratarse con seriedad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618619523190784
+    m_Localized: "<b>\xBFPor qu\xE9 debemos hacernos o\xEDr?</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618729158103040
+    m_Localized: "Decir lo que se piensa se alinea con nuestros valores:\n\n\u2022<indent=5%>Pone
+      a las personas primero</indent>\n\u2022<indent=5%>Crea inclusi\xF3n</indent>\n\u2022<indent=5%>Fortalece
+      nuestra comunidad/familia laboral</indent>\n\nTambi\xE9n es lo correcto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618858913091584
+    m_Localized: "Recuerda, al decir lo que se piensa, debes:\_\n\n\u2022<indent=5%>Tome
+      el primer paso para detener cualquier comportamiento inapropiado</indent>\n\u2022<indent=5%>Actuar
+      como modelo a seguir de nuestros valores </indent>\n\u2022<indent=5%>Anima
+      a otros a presentar sus inquietudes.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2618964798296064
+    m_Localized: "Decir lo que se piensa para crear una cultura de pertenencia en
+      la que todos tienen voz, adem\xE1s de un aliado de confianza."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619046234902528
+    m_Localized: <b>Interactuar con los empleados</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619095698329600
+    m_Localized: "\u2022 Puede resultar riesgoso para los gerentes socializar con
+      los empleados fuera del lugar de trabajo. A menudo, socializar puede ser un
+      buen punto de partida, pero tener demasiada confianza puede afectar a tu juicio.\n\n\u2022
+      Si se tratan a las personas de manera diferente, se corre el riesgo de crear
+      un entorno que pueda percibirse como discriminatorio. Esto puede crear un entorno
+      laboral hostil para quienes no se sienten favorecidos.\n\_\n\u2022 El favoritismo
+      incluye dar un trato preferencial a uno o m\xE1s empleados, haciendo que otros
+      pierdan posibles ascensos laborales o beneficios como mejores turnos.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619130938871808
+    m_Localized: "Si tratas a las personas de manera diferente, corres el riesgo
+      de crear un entorno que pueda percibirse como discriminatorio. Esto puede crear
+      un entorno laboral hostil para quienes no se sienten favorecidos.\n\_\nEl favoritismo
+      incluye dar un trato preferencial a uno o m\xE1s empleados, haciendo que otros
+      pierdan posibles ascensos laborales o beneficios como mejores turnos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619167324459008
+    m_Localized: Sin embargo, ten siempre presente que las acciones y las palabras,
+      incluso fuera del trabajo, pueden afectar posteriormente al entorno laboral.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619225725947904
+    m_Localized: "\u2022  Sin embargo, ten siempre presente que las acciones y las
+      palabras, incluso fuera del trabajo, pueden afectar posteriormente al entorno
+      laboral.\n\n\u2022 Revisa y acepta la pol\xEDtica de tu lugar de trabajo con
+      respecto a la socializaci\xF3n de los gerentes con los empleados fuera del
+      trabajo.\n\n\u2022 Det\xE9ngase y piense antes de socializar fuera del trabajo
+      con otros empleados."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619266410696704
+    m_Localized: "Det\xE9ngase y piense antes de socializar fuera del trabajo con
+      otros empleados."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619331070087168
+    m_Localized: "Ten en cuenta los efectos al comunicarte con otros empleados a
+      trav\xE9s de mensajes de texto u otros canales de redes sociales."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619509646774272
+    m_Localized: "Cualquier interacci\xF3n con compa\xF1eros de trabajo a trav\xE9s
+      de mensajes de texto o redes sociales debe ser respetuosa y profesional."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619554618101760
+    m_Localized: Evite publicaciones que razonablemente puedan considerarse maliciosas,
+      obscenas, amenazantes o intimidantes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619588357083136
+    m_Localized: "No publiques ni apoyes ninguna publicaci\xF3n que incluya comentarios
+      o contenido discriminatorio, acoso (f\xEDsico, psicol\xF3gico o sexual), amenazas
+      de violencia o actuaciones ilegales o inapropiadas similares."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619636767739904
+    m_Localized: "Los gerentes deben actuar con cautela y buen juicio al interactuar
+      con los empleados a trav\xE9s de mensajes de texto o redes sociales."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619668753502208
+    m_Localized: Participar en dichos foros con subordinados puede aumentar el potencial
+      de violar nuestros valores. Piensa antes de publicar cualquier cosa y pide
+      siempre consentimiento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619733047988224
+    m_Localized: "Adem\xE1s, evite interactuar en las redes sociales con empleados
+      menores de 18 a\xF1os."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619797409583104
+    m_Localized: <b>Abuso de autoridad</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619884999233536
+    m_Localized: "\u2022 Un ejemplo de abuso de autoridad es la mala conducta que
+      involucra a una persona con autoridad (como un gerente, supervisor u otra figura
+      de autoridad) que hace promesas, niega o amenaza un beneficio laboral o toma
+      decisiones a cambio de favores sexuales.\n\n\u2022 Tales comportamientos violan
+      nuestros valores y causan un da\xF1o incre\xEDble a todos los involucrados."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619924635406336
+    m_Localized: "Tales comportamientos violan nuestros valores y causan un da\xF1o
+      incre\xEDble a todos los involucrados."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619964825227264
+    m_Localized: "\u2022 El abuso de autoridad no se limita al intercambio de favores
+      a cambio de sexo. Cualquier actividad prometida a cambio de un favor (como
+      una cita, un beso o un abrazo) es inapropiada y no tolerada por McDonald's.\n\n\u2022
+      el abuso de autoridad no se clasifica seg\xFAn el g\xE9nero del agresor o la
+      v\xEDctima. Independientemente de los g\xE9neros involucrados, es absolutamente
+      inaceptable acosar sexualmente a alguien o abusar de tu autoridad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620003890974720
+    m_Localized: "El abuso de autoridad no se clasifica seg\xFAn el g\xE9nero del
+      agresor o la v\xEDctima. Independientemente de los g\xE9neros involucrados,
+      es absolutamente inaceptable acosar sexualmente a alguien o abusar de tu autoridad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620054579138560
+    m_Localized: "<b>El abuso de autoridad tambi\xE9n incluye tratar a alguien de
+      manera menos favorable porque rechaza ofertas de contacto de tipo sexual o
+      favores sexuales.</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620149190053888
+    m_Localized: "<b>Amenazas</b>\n\n\u2022   Despido\n\u2022   Degradaci\xF3n\_\n\u2022
+      Revisi\xF3n de desempe\xF1o deficiente\_\n\u2022 Cambio de turnos\n\u2022  
+      Excluir de equipos, eventos y reuniones\n\u2022 Tareas no deseadas\n\u2022  
+      Asignar las mismas tareas (fregar, limpiar) \n<indent=5%>solo a ciertos empleados"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620257784778752
+    m_Localized: "<b>Promesas</b>\n\n\u2022   Renovaci\xF3n del contrato\_\n\u2022
+      Promoci\xF3n\_\n\u2022   Evaluaci\xF3n de desempe\xF1o positiva\_\n\u2022 Horas
+      extras adicionales"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620348922810368
+    m_Localized: "<b>Conclusi\xF3n\n\nEn tu rol, tienes la responsabilidad de:</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620484646293504
+    m_Localized: "\u2022<indent=5%>Reportar todo comportamiento inapropiado.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620514086113280
+    m_Localized: "\u2022<indent=5%>Decir lo que piensas cuando observes un comportamiento
+      inapropiado.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620555144155136
+    m_Localized: "\u2022<indent=5%>Animar a los miembros del equipo a decir lo que
+      piensan si presencian o experimentan un comportamiento inapropiado.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620572621819904
+    m_Localized: "\u2022<indent=5%>Prevenir o detener cualquier represalia/victimizaci\xF3n.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620609611386880
+    m_Localized: "\u2022<indent=5%>Pens\xE1rselo dos veces antes de socializar con
+      los empleados fuera del trabajo.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620668432306176
+    m_Localized: "\u2022<indent=5%>Tener en cuenta los efectos de tu impacto en el
+      entorno laboral y evitar el favoritismo.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620709704257536
+    m_Localized: "\u2022<indent=5%>Actuar con precauci\xF3n al comunicarte con tus
+      compa\xF1eros de trabajo a trav\xE9s de las redes sociales y mensajes de texto.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620743099305984
+    m_Localized: "\u2022<indent=5%>No abuses de tu autoridad.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2620798967435264
+    m_Localized: "<b>Recordatorio</b>\nSi tienes alguna pregunta sobre estos aspectos,
+      revisa las pol\xEDticas locales y solicita asesoramiento."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4631539316781056
+    m_Localized: "Expl\xEDcale que alguien llevar\xE1 a cabo un seguimiento."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4633439663648768
+    m_Localized: No prometas confidencialidad ni hagas promesas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4633509599473664
+    m_Localized: "Denuncia inmediatamente, busca consejo y s\xE9 discreto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4633596132159488
+    m_Localized: "Ofrezca su opini\xF3n personal sobre la situaci\xF3n para mostrar
+      empat\xEDa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4633979759980544
+    m_Localized: Establecer expectativas durante el proceso de denuncia es clave.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4634832814305280
+    m_Localized: "Si hay una investigaci\xF3n, se tomar\xE1n todas las medidas para
+      proteger la confidencialidad, pero se podr\xE1n proporcionar detalles a los
+      involucrados."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4635007720976384
+    m_Localized: "Lo que suceda a continuaci\xF3n variar\xE1 seg\xFAn la acusaci\xF3n
+      de comportamiento inapropiado y las pol\xEDticas y los procesos en el lugar
+      de trabajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4635145419976704
+    m_Localized: "\xC9sta no es una respuesta correcta porque dar una opini\xF3n
+      puede sesgar el proceso y socavar la objetividad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5044474736373760
+    m_Localized: "Lo que uno dice o hace, o lo que no se dice o hace, a menudo tiene
+      enormes implicaciones.\u202F\u202F\_\n\_\nAseg\xFArese de que la persona no
+      se sienta aislada de sus compa\xF1eros de trabajo o separada de sus oportunidades
+      y responsabilidades laborales."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5377724755308544
+    m_Localized: Decir lo que piensas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5377927554101248
+    m_Localized: "A veces, puede ser dif\xEDcil decir lo que se piensa cuando alguien
+      presencia una situaci\xF3n tensa en el trabajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5378092260225024
+    m_Localized: "Como gerente, debes decir lo que piensas y animar a otros a hacerlo.
+      Usted es un modelo a seguir de conducta alineada con los valores de McDonald's.
+      \_"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5479293621964800
+    m_Localized: <b>"Esos comentarios son inapropiados en el trabajo".</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5479429462888448
+    m_Localized: "<b>\"Ese tipo de comentarios podr\xEDan ofender a alguien y son
+      inapropiados aqu\xED. Volvamos al tema que nos ocupa.\"</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5479531518693376
+    m_Localized: "<b>\"Necesito hacerte saber que el comentario que hiciste antes
+      podr\xEDa ofender a alguien y no se alinea con nuestros valores\".</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5479641749196800
+    m_Localized: "<b>\"Necesito orientaci\xF3n sobre c\xF3mo manejar algo que sucedi\xF3
+      hoy\".</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5727196316266496
+    m_Localized: <b>A</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5727260262625280
+    m_Localized: <b>B</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5727327660896256
+    m_Localized: <b>C</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5727378479083520
+    m_Localized: <b>D</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5735202403778560
+    m_Localized: 'Ejemplos de abuso de autoridad:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5735498689413120
+    m_Localized: "Voltea la tarjeta para obtener m\xE1s informaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563320299212800
+    m_Localized: "Mira, sabes que no me gusta c\xF3mo te tratan, pero vamos\na ser
+      realistas, \xBFqu\xE9 pensaste que iba a pasar? \n\xBFTe iban a hacer una fiesta?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563519709007872
+    m_Localized: "Mira, a m\xED tampoco me gusta esta situaci\xF3n, pero no tuve
+      elecci\xF3n.\nSabes que ni siquiera puedo pensar en programar a Miguel \nHasta
+      que se complete la investigaci\xF3n. Pero lo que me preocupa\nes que nadie
+      habla, el trabajo se est\xE1 viendo afectado y no puedo \npermitir que pase
+      eso en mi restaurante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563633269788672
+    m_Localized: "No digo que lo sea. Pero tengo buenas noticias, hay una vacante.\nen
+      el restaurante de la avenida Washington. Est\xE1 m\xE1s cerca de tu casa, \xBFverdad?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563646171467776
+    m_Localized: "\xBFAdivina qui\xE9n pudo conseguirte una transferencia? No tienes
+      que agradecerme."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6564142617677824
+    m_Localized: "Qu\xE9 curioso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6564282116034560
+    m_Localized: "\xA1Pero eso no es mi culpa!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6564307944558592
+    m_Localized: "Aj\xE1..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6564322591068160
+    m_Localized: "\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7333489694953472
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7603158175666176
+    m_Localized: "Como l\xEDder, su funci\xF3n es mantener los est\xE1ndares y un
+      entorno de trabajo seguro. Constantemente se te desafiar\xE1 a ofrecer coaching
+      y dar feedback. Esto siempre debe hacerse de manera justa y respetuosa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8375492478193664
+    m_Localized: No prometas confidencialidad ni hagas promesas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8375577408655360
+    m_Localized: "Denuncia inmediatamente, busca consejo y s\xE9 discreto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8376570875695104
+    m_Localized: "Sugiera a la persona que espere unos d\xEDas para ver si el problema
+      se resuelve solo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8376643999191040
+    m_Localized: "Ofrezca su opini\xF3n personal sobre la situaci\xF3n para mostrar
+      empat\xEDa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377561062789120
+    m_Localized: "Si hay una investigaci\xF3n se tomar\xE1n todas las medidas para
+      proteger la confidencialidad de la persona o personas involucradas. Es posible
+      que se requieran algunos detalles para que se investigue el informe."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377673197506560
+    m_Localized: "Lo que suceda a continuaci\xF3n variar\xE1 seg\xFAn la acusaci\xF3n
+      de comportamiento inapropiado y las pol\xEDticas y los procesos en el lugar
+      de trabajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377809847930880
+    m_Localized: "Esta no es una respuesta correcta porque es importante abordar
+      las quejas con prontitud en lugar de retrasar la acci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377869428019200
+    m_Localized: "\xC9sta no es una respuesta correcta porque dar una opini\xF3n
+      puede sesgar el proceso y socavar la objetividad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11672892315750400
+    m_Localized: Eso no parece del todo correcto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684172002971648
+    m_Localized: "Deber\xEDa recapacitar m\xE1s sobre esto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12024615286820864
+    m_Localized: "Interacciones en las redes sociales de @McDonald's con compa\xF1eros
+      de trabajo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15218309350809600
+    m_Localized: "Dar una opini\xF3n puede ayudar a que el empleado se sienta m\xE1s
+      c\xF3modo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15219142033399808
+    m_Localized: "Estas situaciones suelen resolverse despu\xE9s de un per\xEDodo
+      de enfriamiento."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

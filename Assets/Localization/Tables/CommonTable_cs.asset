@@ -1,0 +1,477 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CommonTable_cs
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: cs
+  m_SharedData: {fileID: 11400000, guid: 16fc587a71cebcc4e837c1a6473dfb35, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6208095019008
+    m_Localized: "Na\u010D\xEDt\xE1 se\_sc\xE9n\xE1\u0159\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14475026259968
+    m_Localized: Vyberte emoci.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15104377380864
+    m_Localized: "Bli\u017E\u0161\xED pohled"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15149210296320
+    m_Localized: "Pod\xEDvejte se\_do\_se\u0161itu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15485530562560
+    m_Localized: "V\xE1\u0161 se\u0161it"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15683854032896
+    m_Localized: "Na\_t\u011Bchto str\xE1nk\xE1ch si\_m\u016F\u017Eete proj\xEDt,
+      co\_jste se\_dozv\u011Bd\u011Bli."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15782223044608
+    m_Localized: "My\u0161lenky"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15843124338688
+    m_Localized: Zdroje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15904717692928
+    m_Localized: "Zjistit my\u0161lenky"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16087207665664
+    m_Localized: "Vyberte si\_postavu a\_p\u0159e\u010Dt\u011Bte si, na\_co\_mysl\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16260667301888
+    m_Localized: "Dal\u0161\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16354351276032
+    m_Localized: Poslouchejte.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16579337936896
+    m_Localized: "Projd\u011Bte si\_zdroje."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16795206180864
+    m_Localized: "K\_dispozici m\xE1te i\_kr\xE1tk\xFD zdroj, kter\xFD\_v\xE1m pom\u016F\u017Ee
+      to promyslet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16936046714880
+    m_Localized: "Indicie k\_z\xE1sad\xE1m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16998114025472
+    m_Localized: "Kdy\u017E se\_vr\xE1t\xEDte, m\u016F\u017Eete odemknout v\xEDce
+      z\xE1sad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17254121758720
+    m_Localized: "Rozhodn\u011Bte se, co\_d\xE1l"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17420975366144
+    m_Localized: "Zkontrolovat rozhodnut\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17492572135424
+    m_Localized: "Zvolte, co\_by\_postava m\u011Bla ud\u011Blat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17583991185408
+    m_Localized: "Zvolte, pro\u010D by\_to m\u011Bla ud\u011Blat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17679877169152
+    m_Localized: "T\xEDmto tla\u010D\xEDtkem potvrd\xEDte sv\xE9\_volby."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18239523151872
+    m_Localized: "Co kdy\u017E?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18363125096448
+    m_Localized: "Pod\xEDvat se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18561876385792
+    m_Localized: "Blahop\u0159ejeme!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18600375902208
+    m_Localized: "Dokon\u010Dili jste tento modul!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18661440774144
+    m_Localized: Konec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305594607886336
+    m_Localized: "Jak se m\u016F\u017Ee {0} c\xEDtit?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305854730231808
+    m_Localized: "Seznamte se\_s\_my\u0161lenkami postavy, dozv\xEDte se\_v\xEDce."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 306062570577920
+    m_Localized: "Na\_co\_mysl\xED {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 307880474206208
+    m_Localized: "Co m\xE1 {0} ud\u011Blat d\xE1le?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308115871129600
+    m_Localized: "Co m\xE1m d\u011Blat?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308521586155520
+    m_Localized: "Co m\xE1 {0} ud\u011Blat?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308574623129600
+    m_Localized: "Pro\u010D to m\xE1 {0} ud\u011Blat?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4962361918963712
+    m_Localized: "2\_d\u016Fvody"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604280591466496
+    m_Localized: "Te\u010F u\u017E\_v\xEDte, na\_co\_{0} mysl\xED. Najdete to v\_se\u0161itu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7607020013043712
+    m_Localized: "Jak\xFD\_vtip si\_vyslechne {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7619134266097664
+    m_Localized: "My\u0161lenky"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7885533161013248
+    m_Localized: Ozvat se
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7885667890446336
+    m_Localized: "Nahl\xE1sit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7885684868988928
+    m_Localized: "Nechat to b\xFDt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10068604280795136
+    m_Localized: "Z\xE1stupn\xFD symbol pro\_angli\u010Dtinu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12209512372113408
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14483484056883200
+    m_Localized: "Kdy\u017E se\_vr\xE1t\xEDte, m\u016F\u017Eete odemknout v\xEDce
+      my\u0161lenek."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352422563782656
+    m_Localized: Akce A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352543686893568
+    m_Localized: Akce B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352583197237248
+    m_Localized: "D\u016Fvod A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352637421199360
+    m_Localized: "D\u016Fvod B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352671336341504
+    m_Localized: "D\u016Fvod C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352695961100288
+    m_Localized: "D\u016Fvod D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352764743491584
+    m_Localized: "Pomozte postav\u011B rozhodnout, co\_by\_m\u011Bla ud\u011Blat
+      a\_pro\u010D."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352880455950336
+    m_Localized: "Te\u010F to zkuste vy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43586336613982208
+    m_Localized: "V\xFDb\u011Br jazyka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43606493818249216
+    m_Localized: "Tla\u010D\xEDtko Pokra\u010Dovat"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43881920319184896
+    m_Localized: "Tla\u010D\xEDtko pro\_n\xE1vrat sc\xE9n\xE1\u0159e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43882092331786240
+    m_Localized: "Tla\u010D\xEDtko pro\_otev\u0159en\xED knihy indici\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43883160138670080
+    m_Localized: "Tla\u010D\xEDtko ztlumen\xED zvuku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43902784624386048
+    m_Localized: "Tla\u010D\xEDtko titulk\u016F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43915910031859712
+    m_Localized: "Ovl\xE1d\xE1n\xED sc\xE9n\xE1\u0159e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43916426069663744
+    m_Localized: "Obrazovka v\xFDb\u011Bru jazyka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43930121575325696
+    m_Localized: "Kontext sc\xE9n\xE1\u0159e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43938901818073088
+    m_Localized: "Rozhodnut\xED ve\_sc\xE9n\xE1\u0159i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43947730123350016
+    m_Localized: "Hodnocen\xED n\xE1lady"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43953185537122304
+    m_Localized: "Vyberte odpov\u011B\u010F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966374580150272
+    m_Localized: "Zjistit z\xE1sady"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966547372892160
+    m_Localized: "Zjistit my\u0161lenky"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44967107740295168
+    m_Localized: "Z\xEDskan\xE9 indicie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44968492443623424
+    m_Localized: "Dal\u0161\xED z\xE1sady"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44969933178658816
+    m_Localized: "P\u0159edchoz\xED z\xE1sady"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45301409422237696
+    m_Localized: "P\u0159edchoz\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45301481098698752
+    m_Localized: "Dal\u0161\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45302496162209792
+    m_Localized: "Kniha indici\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45312246765576192
+    m_Localized: "P\u0159ehr\xE1t my\u0161lenku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45313241272803328
+    m_Localized: "Zp\u011Bt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45314184118788096
+    m_Localized: "Zav\u0159\xEDt knihu indici\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45377977502916608
+    m_Localized: "P\u0159edchoz\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45378019005554688
+    m_Localized: "Dal\u0161\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45378309117173760
+    m_Localized: "Pou\u010Den\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45378851340017664
+    m_Localized: "Z\xE1v\u011Bry"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45379467311308800
+    m_Localized: Konec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46123280967393280
+    m_Localized: "P\u0159\xEDstupnost povolena. K navigaci pou\u017Eijte kl\xE1vesy
+      se \u0161ipkami a kl\xE1vesu Enter."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46123565072769024
+    m_Localized: "P\u0159\xEDstupnost zak\xE1z\xE1na."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46124492450160640
+    m_Localized: "Prvek zak\xE1z\xE1n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127565390209024
+    m_Localized: "Tla\u010D\xEDtko"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127604380459008
+    m_Localized: "Posuvn\xEDk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127822517821440
+    m_Localized: "P\u0159epnout"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127860144922624
+    m_Localized: "Textov\xE9 pole"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127911416094720
+    m_Localized: "Rozev\xEDrac\xED nab\xEDdka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127952037928960
+    m_Localized: "Pro\_v\xFDb\u011Br stiskn\u011Bte Return."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128060410355712
+    m_Localized: "Pro\_v\xFDb\u011Br dvakr\xE1t klepn\u011Bte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128236222996480
+    m_Localized: "Pro\_zm\u011Bnu stiskn\u011Bte Enter."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128306674720768
+    m_Localized: "Pro\_zm\u011Bnu dvakr\xE1t klepn\u011Bte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128328283774976
+    m_Localized: "TT vybr\xE1no"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128344960327680
+    m_Localized: "Polo\u017Eka XX z YY"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46141420694659072
+    m_Localized: "Spr\xE1vn\u011B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46141496884191232
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48971575213416448
+    m_Localized: Pauza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48974385543897088
+    m_Localized: "Hr\xE1t si"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50463397114798080
+    m_Localized: "P\u0159epnout \u010Dte\u010Dku obrazovky"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49947109173940224
+    m_Localized: "my\u0161lenky u\u017Eivatele {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49947225825923072
+    m_Localized: "Post\u0159ehy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50493918238728192
+    m_Localized: "P\u0159edchoz\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51137395486089216
+    m_Localized: "dal\u0161\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51340606229630976
+    m_Localized: "N\xED\u017Ee vyberte akci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54968277945733120
+    m_Localized: "N\xED\u017Ee prove\u010Fte v\xFDb\u011Br."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53135351207522304
+    m_Localized: Vybrat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53253607381626880
+    m_Localized: "Vyhrazen\xE9 m\xEDsto mezi\_obrazovkami, bude odebr\xE1no"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53884971725950976
+    m_Localized: Ano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885464065937408
+    m_Localized: Ne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885695662821376
+    m_Localized: "To z\xE1le\u017E\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53943372556341248
+    m_Localized: "Nespr\xE1vn\xE1 odpov\u011B\u010F, zkuste to znovu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890102246363136
+    m_Localized: "Dal\u0161\xED strana"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890169237786624
+    m_Localized: "P\u0159edchoz\xED str\xE1nka"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

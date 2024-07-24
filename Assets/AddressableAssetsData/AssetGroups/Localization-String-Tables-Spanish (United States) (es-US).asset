@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Spanish (United States) (es-US)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Spanish (United States) (es-US)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 638b971299bd01741b3e4fc3787e7bf4
+  m_SerializeEntries:
+  - m_GUID: e5398bb4bd96efc429cb627766ac4f75
+    m_Address: CommonTable_es-US
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-US
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78c0a1155f97ac54eafdfe7680d6cbd7
+    m_Address: Scenario1_Table_es-US
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-US
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53f07d3dad144ed4ab1cbd084e05506e
+    m_Address: Scenario2_Table_es-US
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-US
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b32f724fa7ed9664ba0af0dad066a543
+    m_Address: Scenario5_Table_es-US
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-US
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcb67581e63bb9c4cb7dec3c1a6f3e34
+    m_Address: Scenario4_Table_es-US
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-US
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a317ebcb9bf0af4eac1bb11c1820790
+    m_Address: Scenario3_Table_es-US
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-US
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b130d77993c13546a725788412ecb1d
+    m_Address: SRIW_MGR_es-US
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-US
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 2d72e871c656bcd49bcfc065e13eed24, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6719f747701de8843b0fe098ad47d480, type: 2}
+    - {fileID: 11400000, guid: d382ffeaaa3c3f447bb44223c5fd2efe, type: 2}

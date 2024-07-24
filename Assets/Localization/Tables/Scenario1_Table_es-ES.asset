@@ -1,0 +1,467 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario1_Table_es-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: a58a75991ac08d149a2124682c3949cb, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 36428341248
+    m_Localized: Entorno laboral hostil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411606405120
+    m_Localized: Ha formado parte del personal de equipo durante un mes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508306083840
+    m_Localized: Ha formado parte del personal de equipo durante tres meses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1620579213312
+    m_Localized: Han coincidido en los mismos turnos de trabajo en varias ocasiones
+      y han disfrutado de trabajar juntos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2411931131904
+    m_Localized: "\xBFTienes hermanos o hermanas?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272907587313664
+    m_Localized: "S\xED, tengo hermanos menores. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272979058253824
+    m_Localized: "\xA1Lo sab\xEDa! \xA1Se nota que eres el mayor!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273020137267200
+    m_Localized: "\xBFY eso por qu\xE9?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273053385515008
+    m_Localized: "Porque crees que siempre tienes raz\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273093751496704
+    m_Localized: "\u2026 es que... siempre <i>tengo</i> raz\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273163750236160
+    m_Localized: (Risas)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273241915285504
+    m_Localized: "T\xFA eres el peque\xF1o, \xBFverdad?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273274916069376
+    m_Localized: "S\xED\u2026 \xBFC\xF3mo lo has sabido?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273312195043328
+    m_Localized: Selecciona una broma para {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273481917554688
+    m_Localized: Nunca dejas de hablar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273518680629248
+    m_Localized: "Tus chistes son mal\xEDsimos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273544324603904
+    m_Localized: "Siempre tienes la \xFAltima palabra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273563354161152
+    m_Localized: "Adem\xE1s, cuando estamos en el mismo turno, termino haciendo la
+      mayor parte del trabajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274315288010752
+    m_Localized: "Bueno, \xA1es imposible seguirle el ritmo a un extranjero tan trabajador!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274368794746880
+    m_Localized: Oye, si no puedes, es tu problema.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274933650055168
+    m_Localized: Preocupado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275049173770240
+    m_Localized: Tranquilo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275076474494976
+    m_Localized: Feliz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275097773170688
+    m_Localized: Alegre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275111236886528
+    m_Localized: Enfadado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275124285366272
+    m_Localized: Confundido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275137623252992
+    m_Localized: Tranquilo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275158263422976
+    m_Localized: Feliz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275879419469824
+    m_Localized: "Este trabajo se lleva mucho mejor cuando est\xE1 Ravi. Entre risas,
+      el tiempo pasa m\xE1s r\xE1pido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276721195311104
+    m_Localized: "A Jake le gusta trabajar y re\xEDrse con Ravi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276788484530176
+    m_Localized: "Est\xE1 aprendiendo r\xE1pido. Parece imposible que lleve aqu\xED
+      s\xF3lo unas semanas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276839353049088
+    m_Localized: Jake cree que Ravi es bueno en  su trabajo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276939483668480
+    m_Localized: 'Es la tercera vez que Jake bromea acerca de que soy extranjero '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277366186991616
+    m_Localized: "Jake ha hecho varias bromas sobre que Ravi es de otro pa\xEDs."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277367822770176
+    m_Localized: Siento que debo decirle algo. Pero es una persona con la que me
+      gusta trabajar, no quiero estropear el buen ambiente.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277369299165184
+    m_Localized: "Ravi duda de si deber\xEDa decirle algo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277370909777920
+    m_Localized: "Quiz\xE1s deber\xEDa relajarme. En realidad no creo que tenga ning\xFAn
+      problema con las personas extranjeras."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277559338885120
+    m_Localized: "Ravi se pregunta si est\xE1 exagerando."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277569124196352
+    m_Localized: "No creo que estas bromas vayan a parar. Y no s\xE9 cu\xE1ntas m\xE1s
+      voy a aguantar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277570382487552
+    m_Localized: "Ravi se pregunta si las bromas ir\xE1n a peor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277571863076864
+    m_Localized: "Me preocupa que alguien pueda o\xEDr a Jake hablar de esa manera.
+      Podr\xEDa tener problemas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277573184282624
+    m_Localized: Ravi no quiere que Jake se meta en problemas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278077507395584
+    m_Localized: Seguridad para todos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278203915329536
+    m_Localized: "Todas las personas que trabajan en McDonald's tienen derecho a
+      hacerlo en un entorno libre de violencia, acoso, discriminaci\xF3n, y victimizaci\xF3n
+      o represalias.\n\nNo se tolera el acoso a otras personas debido a su g\xE9nero,
+      raza, edad, creencias religiosas, discapacidad u otros factores."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278576247889920
+    m_Localized: "Las bromas de Jake sobre la condici\xF3n de Ravi como persona migrante
+      podr\xEDan generar un entorno laboral hostil."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278616114749440
+    m_Localized: "<b>Aunque la intenci\xF3n no fuera ofender</b>, podr\xEDa considerarse
+      acoso y generar un entorno laboral hostil."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278774059655168
+    m_Localized: "Aunque Jake no tuviese la intenci\xF3n de ofender a Ravi, sus bromas
+      podr\xEDan considerarse acoso. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278872999092224
+    m_Localized: "\xBFQu\xE9 deber\xEDa hacer {0} a continuaci\xF3n?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280045575495680
+    m_Localized: Dejarlo pasar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280162160369664
+    m_Localized: Decir lo que piensa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280367333138432
+    m_Localized: "No sabe qu\xE9 decir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280430620991488
+    m_Localized: "Le preocupa que las bromas contin\xFAen o vayan a m\xE1s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280433020133376
+    m_Localized: Puede simplemente seguir centrado en su trabajo y no dejar que interfieran
+      los asuntos personales.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280434999844864
+    m_Localized: Siente malestar cuando se hacen bromas porque es extranjero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280437172494336
+    m_Localized: "Deber\xEDa relajarse. No quiere que cambie su amistad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280439210926080
+    m_Localized: No quiere que Jake haga este tipo de bromas con ninguna otra persona
+      extranjera en el restaurante.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280445540130816
+    m_Localized: "Cree que Jake es una gran persona y le gustar\xEDa saber por qu\xE9
+      hace bromas ofensivas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280479383969792
+    m_Localized: "Jake no ten\xEDa intenci\xF3n de ofender a Ravi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281021090914304
+    m_Localized: No del todo, puede que no lo haya pensado bien.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281095795662848
+    m_Localized: "No creo que est\xE9 bien, \xBFqu\xE9 opinas?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281627281088512
+    m_Localized: "[0.00-5.00]\nA ver... s\xE9 que hemos estado bromeando y no estoy
+      muy seguro de c\xF3mo decirte esto,\n[5.00-8.00]\npero me molestan las bromas
+      sobre personas extranjeras.\n[8.00-10.89]\nSon estereotipos que ya se han utilizado
+      contra mi familia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281630267432960
+    m_Localized: "\xBFEn serio? Rav, lo siento. No lo sab\xEDa.\nEn absoluto quer\xEDa
+      hacerte sentir inferior."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281632377167872
+    m_Localized: Gracias por entenderlo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281634356879360
+    m_Localized: "Por supuesto. Gracias por dec\xEDrmelo. Tendr\xE9 m\xE1s cuidado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281636558888960
+    m_Localized: "Espero que no haya sonado mucho a serm\xF3n de hermano mayor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281638601515008
+    m_Localized: "\xA1No te preocupes, ya estoy acostumbrado!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281640837079040
+    m_Localized: "Jake y Ravi, felices, vuelven a preparar s\xE1ndwiches."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282218757644288
+    m_Localized: "Ravi decidi\xF3 actuar en el momento. Al hacerlo, ayud\xF3 a generar
+      un entorno laboral m\xE1s seguro para s\xED mismo y posiblemente para el resto.
+      \n\n\xBFQu\xE9 hubiera pasado si Ravi hubiese actuado de otra forma?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283547773198336
+    m_Localized: "\xBFY si Ravi lo hubiera dejado pasar?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283750395830272
+    m_Localized: "\u2022 <indent=2%>Las bromas podr\xEDan empeorar o ser m\xE1s frecuentes.\n</indent>\n\u2022
+      <indent=2%>Podr\xEDa haber sido incluso m\xE1s dif\xEDcil decir lo que piensa
+      la pr\xF3xima vez que se compartiesen bromas ofensivas.</indent>\n\u2022 <indent=2%>Otras
+      personas podr\xEDan escuchar las bromas y tambi\xE9n sentirse heridas.</indent>\n\u2022
+      <indent=2%>La capacidad de Ravi para hacer bien su trabajo podr\xEDa verse
+      afectada si no se encuentra en un entorno seguro y de respeto.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283898056302592
+    m_Localized: "\xBFQu\xE9 pasar\xEDa si Ravi hablase m\xE1s tarde?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283999382298624
+    m_Localized: "Hay muchas razones por las que alguien podr\xEDa dudar en decir
+      lo que piensa en el momento. Es posible que la persona se sienta insegura o
+      inc\xF3moda al decir lo que piensa, o que simplemente necesite tiempo para
+      pensar en lo que quiere decir. \n\nSi Ravi hubiera decidido esperar para decir
+      lo que pensaba: \n\u2022 <indent=2%>Podr\xEDa haber desviado la conversaci\xF3n
+      y sacar otro tema.\n\n</indent>\n\u2022 <indent=2%>Podr\xEDa haber buscado
+      un momento m\xE1s neutral para hablar sobre ese comportamiento o su malestar.\n\n</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284148749852672
+    m_Localized: "\xBFQu\xE9 pasar\xEDa si Ravi informase a su gerente?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284166646947840
+    m_Localized: "No toleramos el acoso ni la intimidaci\xF3n bajo ninguna circunstancia,
+      y cualquiera que sea objeto de este tipo de comportamiento puede denunciarlo.
+      En este caso, a Ravi podr\xEDa preocuparle meter a Jake en problemas. Es importante
+      recordar que no todas las denuncias tienen consecuencias graves. \n\nSi Ravi
+      hubiera informado a su gerente sobre los comentarios de Jake, esto es lo que
+      podr\xEDa haber sucedido:\n\u2022 <indent=2%>Su gerente podr\xEDa haber hablado
+      con Jake sobre sus comentarios.\n</indent>\n\u2022 <indent=2%>Jake podr\xEDa
+      haber recibido feedback sobre su comportamiento y conocer con perspectiva el
+      motivo por el cual se pas\xF3 con sus bromas.\n</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284400093519872
+    m_Localized: "Ya sea con compa\xF1eros o clientes, de todas formas puedes ayudar
+      a crear una cultura de <b>seguridad, respeto e inclusi\xF3n</b> para todos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284575386066944
+    m_Localized: "Aunque no haya mala intenci\xF3n y todo el mundo se r\xEDa, las
+      bromas que mencionan cualquier aspecto protegido por nuestra pol\xEDtica va
+      en contra de ella. Todo el mundo tiene derecho a un lugar de trabajo seguro."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284655421775872
+    m_Localized: "Si alguna vez has dicho o hecho algo que ha faltado el respeto
+      a un compa\xF1ero o compa\xF1era de trabajo, disc\xFAlpate e intenta hacerlo
+      mejor. Todos contribuimos a la cultura del respeto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284665953673216
+    m_Localized: "Puedes comprender mejor a tus compa\xF1eros de trabajo si conoces
+      sus experiencias. Dedica tiempo a escucharles. Establece relaciones laborales
+      s\xF3lidas para cultivar un entorno inclusivo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048439436861440
+    m_Localized: Ravi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048523280998400
+    m_Localized: Jake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7204747913334784
+    m_Localized: Seguro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7204889949245440
+    m_Localized: Respetuoso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7205035462234112
+    m_Localized: Inclusivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7238201412632576
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7241701743869952
+    m_Localized: "[0.00-3.00]\nDeber\xEDa haber sabido que vendr\xEDas y me quitar\xEDas
+      el trabajo.\n[3.00-5.00]\nTe vigilar\xE9 de cerca a partir de ahora."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078710535225344
+    m_Localized: "\xBFQu\xE9 debo hacer?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078863094644736
+    m_Localized: "No quiero posponer esto m\xE1s.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078930916540416
+    m_Localized: 'No del todo, puede que no lo haya pensado bien.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078943189073920
+    m_Localized: "Sigo pensando que no est\xE1 bien, \xBFqu\xE9 opinas?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078954572414976
+    m_Localized: "A ver... Quiz\xE1s deber\xEDa decir lo que pienso. \xBFTengo buenas
+      razones para hacerlo?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078965364359168
+    m_Localized: "S\xED, creo que es lo correcto, voy a hacerlo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13293897244295168
+    m_Localized: '"Solo era una broma"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303657540698112
+    m_Localized: "Decir lo que piensas significa dar tu opini\xF3n sobre algo inapropiado,
+      ya sean comportamientos o palabras, tanto si van dirigidos a ti como otras
+      personas.\n\n<b>Puedes decir lo que piensas en el momento o m\xE1s tarde</b>.
+      Informar es otra forma de hacerse o\xEDr."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303725081575424
+    m_Localized: "Decir lo que piensas es hacerte o\xEDr."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303761957896192
+    m_Localized: "Di lo que piensas ahora o m\xE1s tarde"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45693008257998848
+    m_Localized: Ravi y Jake parados en la cocina de un restaurante McDonald's
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45694103168475136
+    m_Localized: Ravi y Jake parados en la cocina de un restaurante McDonald's
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

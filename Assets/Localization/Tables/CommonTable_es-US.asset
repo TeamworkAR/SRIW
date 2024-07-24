@@ -1,0 +1,474 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CommonTable_es-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-US
+  m_SharedData: {fileID: 11400000, guid: 16fc587a71cebcc4e837c1a6473dfb35, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6208095019008
+    m_Localized: Cargando escenario...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14475026259968
+    m_Localized: "Selecciona una emoci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15104377380864
+    m_Localized: "Analiza m\xE1s en profundidad"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15149210296320
+    m_Localized: Consulta el cuaderno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15485530562560
+    m_Localized: Tu cuaderno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15683854032896
+    m_Localized: "Revise lo que ha descubierto en estas p\xE1ginas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15782223044608
+    m_Localized: Pensamientos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15843124338688
+    m_Localized: Recursos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15904717692928
+    m_Localized: Ordenar pensamientos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16087207665664
+    m_Localized: Selecciona cada personaje para leer sus pensamientos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16260667301888
+    m_Localized: Siguiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16354351276032
+    m_Localized: Escuchar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16579337936896
+    m_Localized: Revisar recursos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16795206180864
+    m_Localized: "Tambi\xE9n tienes un breve recurso que te ayudar\xE1 a pensar en
+      ello."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16936046714880
+    m_Localized: "Pistas de las pol\xEDticas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16998114025472
+    m_Localized: "Regresar para desbloquear m\xE1s pol\xEDticas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17254121758720
+    m_Localized: "Decide qu\xE9 hacer a continuaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17420975366144
+    m_Localized: "Verificar decisi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17492572135424
+    m_Localized: Elige lo que debe hacer el personaje.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17583991185408
+    m_Localized: "Elige por qu\xE9 deber\xEDan hacerlo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17679877169152
+    m_Localized: "Confirma tus elecciones con este bot\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18239523151872
+    m_Localized: "\xBFY si?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18363125096448
+    m_Localized: Echa un vistazo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18561876385792
+    m_Localized: "\xA1Felicidades!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18600375902208
+    m_Localized: "\xA1Has completado este m\xF3dulo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18661440774144
+    m_Localized: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305594607886336
+    m_Localized: "\xBFC\xF3mo podr\xEDa sentirse {0}?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305854730231808
+    m_Localized: "Explora los pensamientos de los personajes para aprender m\xE1s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 306062570577920
+    m_Localized: Pensamientos de {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 307880474206208
+    m_Localized: "\xBFQu\xE9 deber\xEDa hacer {0} a continuaci\xF3n?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308115871129600
+    m_Localized: "\xBFQu\xE9 tengo que hacer?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308521586155520
+    m_Localized: "\xBFQu\xE9 deber\xEDa hacer {0}?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308574623129600
+    m_Localized: "\xBFPor qu\xE9 {0} deber\xEDa hacerlo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4962361918963712
+    m_Localized: 2 razones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604280591466496
+    m_Localized: Has capturado los pensamientos de {0}. Puedes encontrarlos en el
+      cuaderno.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7607020013043712
+    m_Localized: Selecciona una broma para {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7619134266097664
+    m_Localized: Pensamientos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7885533161013248
+    m_Localized: Di lo que piensas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7885667890446336
+    m_Localized: Informe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7885684868988928
+    m_Localized: "D\xE9jalo pasar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10068604280795136
+    m_Localized: "Marcador de posici\xF3n Ingl\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12209512372113408
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14483484056883200
+    m_Localized: "Regresa para desbloquear m\xE1s pensamientos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352422563782656
+    m_Localized: "Acci\xF3n A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352543686893568
+    m_Localized: "Acci\xF3n B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352583197237248
+    m_Localized: "Raz\xF3n A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352637421199360
+    m_Localized: "Raz\xF3n B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352671336341504
+    m_Localized: "Raz\xF3n C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352695961100288
+    m_Localized: "Raz\xF3n D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352764743491584
+    m_Localized: "Ayuda al personaje a decidir qu\xE9 hacer y por qu\xE9 hacerlo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352880455950336
+    m_Localized: "Ahora int\xE9ntalo t\xFA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43586336613982208
+    m_Localized: "Selecci\xF3n de idioma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43606493818249216
+    m_Localized: "Bot\xF3n de continuar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43881920319184896
+    m_Localized: "Bot\xF3n de retroceder situaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43882092331786240
+    m_Localized: "Bot\xF3n de abrir libro de pistas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43883160138670080
+    m_Localized: "Bot\xF3n de silenciar audio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43902784624386048
+    m_Localized: "Bot\xF3n de subt\xEDtulos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43915910031859712
+    m_Localized: "Controles de situaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43916426069663744
+    m_Localized: "Pantalla de selecci\xF3n de idioma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43930121575325696
+    m_Localized: "Contexto de la situaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43938901818073088
+    m_Localized: "Decisi\xF3n de situaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43947730123350016
+    m_Localized: "Evaluaci\xF3n del estado de \xE1nimo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43953185537122304
+    m_Localized: Seleccionar respuesta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966374580150272
+    m_Localized: "Recoger pol\xEDticas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966547372892160
+    m_Localized: Ordenar pensamientos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44967107740295168
+    m_Localized: Recoger pistas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44968492443623424
+    m_Localized: "Siguiente pol\xEDtica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44969933178658816
+    m_Localized: "Pol\xEDtica anterior"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45301409422237696
+    m_Localized: Anterior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45301481098698752
+    m_Localized: Siguiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45302496162209792
+    m_Localized: Libro de pistas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45312246765576192
+    m_Localized: Reproducir pensamiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45313241272803328
+    m_Localized: "Atr\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45314184118788096
+    m_Localized: Cerrar libro de pistas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45377977502916608
+    m_Localized: Anterior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45378019005554688
+    m_Localized: Siguiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45378309117173760
+    m_Localized: Aprendizajes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45378851340017664
+    m_Localized: Conclusiones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45379467311308800
+    m_Localized: Fin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46123280967393280
+    m_Localized: Accesibilidad habilitada. Utilice las teclas de flecha y la tecla
+      Intro para navegar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46123565072769024
+    m_Localized: Accesibilidad deshabilitada.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46124492450160640
+    m_Localized: Elemento deshabilitado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127565390209024
+    m_Localized: "Bot\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127604380459008
+    m_Localized: Control deslizante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127822517821440
+    m_Localized: "Bot\xF3n de alternancia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127860144922624
+    m_Localized: Campo de texto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127911416094720
+    m_Localized: Desplegable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127952037928960
+    m_Localized: Presiona volver para seleccionar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128060410355712
+    m_Localized: Toca dos veces para seleccionar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128236222996480
+    m_Localized: Presiona volver para cambiar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128306674720768
+    m_Localized: Toca dos veces para cambiar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128328283774976
+    m_Localized: TT seleccionada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128344960327680
+    m_Localized: "Art\xEDculo XX de YY"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46141420694659072
+    m_Localized: Correcto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46141496884191232
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48971575213416448
+    m_Localized: Pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48974385543897088
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50463397114798080
+    m_Localized: Alternar lector de pantalla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49947109173940224
+    m_Localized: Los pensamientos de {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49947225825923072
+    m_Localized: Perspectivas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50493918238728192
+    m_Localized: Anterior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51137395486089216
+    m_Localized: "Pr\xF3ximo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51340606229630976
+    m_Localized: "Elija una acci\xF3n a continuaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54968277945733120
+    m_Localized: "Haga una selecci\xF3n a continuaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53135351207522304
+    m_Localized: Seleccionar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53253607381626880
+    m_Localized: "El marcador de posici\xF3n entre las pantallas se eliminar\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53884971725950976
+    m_Localized: "S\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885464065937408
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885695662821376
+    m_Localized: Depende
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53943372556341248
+    m_Localized: "Respuesta incorrecta, int\xE9ntalo de nuevo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890102246363136
+    m_Localized: "Siguiente p\xE1gina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890169237786624
+    m_Localized: "P\xE1gina anterior"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

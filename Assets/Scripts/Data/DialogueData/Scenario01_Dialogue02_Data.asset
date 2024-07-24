@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d5224ca61aa403fa22ffec5afcffb8d, type: 3}
+  m_Name: Scenario01_Dialogue02_Data
+  m_EditorClassIdentifier: 
+  m_DialogueGraph: {fileID: 11400000, guid: c601cc0c15459314f96b07f849974a77, type: 2}
+  m_Characters:
+  - {fileID: 11400000, guid: 2829e6ec1d98fcd43a1ea3e5ec996997, type: 2}
+  - {fileID: 11400000, guid: 9797a5723f6f62941bb2af5cd9520de0, type: 2}
+  m_AccessibilityDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:a58a75991ac08d149a2124682c3949cb
+    m_TableEntryReference:
+      m_KeyId: 45694103168475136
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []

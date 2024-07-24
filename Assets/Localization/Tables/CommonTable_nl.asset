@@ -1,0 +1,438 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CommonTable_nl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl
+  m_SharedData: {fileID: 11400000, guid: 16fc587a71cebcc4e837c1a6473dfb35, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6208095019008
+    m_Localized: Scenario laden...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14475026259968
+    m_Localized: Selecteer een emotie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15104377380864
+    m_Localized: Bekijk het eens wat beter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15149210296320
+    m_Localized: Raadpleeg het notitieboek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15485530562560
+    m_Localized: Je notitieboek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15683854032896
+    m_Localized: Bekijk wat je hebt ontdekt op deze pagina's
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15782223044608
+    m_Localized: Gedachten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15843124338688
+    m_Localized: Bronnen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15904717692928
+    m_Localized: Gedachten verzamelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16087207665664
+    m_Localized: Selecteer elk personage om hun gedachten te lezen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16260667301888
+    m_Localized: Volgende
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16354351276032
+    m_Localized: Luisteren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16579337936896
+    m_Localized: Bronnen bekijken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16795206180864
+    m_Localized: Je beschikt bovendien over een beknopte bron die je kan helpen om
+      hierover na te denken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16936046714880
+    m_Localized: Beleidshints
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16998114025472
+    m_Localized: Ga terug om meer beleid te ontgrendelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17254121758720
+    m_Localized: Besluit wat de volgende stap is
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17420975366144
+    m_Localized: Beslissing controleren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17492572135424
+    m_Localized: Kies wat het personage moet doen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17583991185408
+    m_Localized: Kies waarom het personage dit zou moeten doen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17679877169152
+    m_Localized: Bevestig je keuzes met deze knop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18239523151872
+    m_Localized: Wat als?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18363125096448
+    m_Localized: Neem een kijkje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18561876385792
+    m_Localized: Gefeliciteerd!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18600375902208
+    m_Localized: Je hebt deze module voltooid!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18661440774144
+    m_Localized: Afsluiten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305594607886336
+    m_Localized: Hoe zou {0} zich kunnen voelen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305854730231808
+    m_Localized: Verken de gedachten van de personages voor meer informatie.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 306062570577920
+    m_Localized: De gedachten van {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 307880474206208
+    m_Localized: Wat moet {0} als volgende doen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308115871129600
+    m_Localized: Wat moet ik doen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308521586155520
+    m_Localized: Wat moet {0} doen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308574623129600
+    m_Localized: Waarom zou {0} dit moeten doen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4962361918963712
+    m_Localized: 2 redenen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604280591466496
+    m_Localized: Je hebt de gedachten van {0} vastgelegd. Je kunt ze in het notitieboek
+      vinden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7607020013043712
+    m_Localized: Selecteer een grap voor {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7619134266097664
+    m_Localized: Gedachten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7885533161013248
+    m_Localized: Kaart het aan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7885667890446336
+    m_Localized: Meld het
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7885684868988928
+    m_Localized: Laat het gaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10068604280795136
+    m_Localized: Tijdelijke aanduiding Engels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12209512372113408
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14483484056883200
+    m_Localized: Ga terug om meer gedachten te ontgrendelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352422563782656
+    m_Localized: Actie A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352543686893568
+    m_Localized: Actie B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352583197237248
+    m_Localized: Reden A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352637421199360
+    m_Localized: Reden B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352671336341504
+    m_Localized: Reden C
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352695961100288
+    m_Localized: Reden D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352764743491584
+    m_Localized: Help het personage bepalen wat te doen en waarom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352880455950336
+    m_Localized: Probeer het nu zelf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43586336613982208
+    m_Localized: Taal selecteren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43606493818249216
+    m_Localized: Knop Doorgaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43881920319184896
+    m_Localized: Scenario-terugknop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43882092331786240
+    m_Localized: Knop open boek met aanwijzingen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43883160138670080
+    m_Localized: Knop audio dempen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43902784624386048
+    m_Localized: Ondertitelingsknop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43915910031859712
+    m_Localized: Scenariobesturing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43916426069663744
+    m_Localized: Taalkeuzescherm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43930121575325696
+    m_Localized: Scenariocontext
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43938901818073088
+    m_Localized: Scenariobesluit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43947730123350016
+    m_Localized: Stemmingsevaluatie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43953185537122304
+    m_Localized: Reactie selecteren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966374580150272
+    m_Localized: Beleid verzamelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966547372892160
+    m_Localized: Gedachten verzamelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44967107740295168
+    m_Localized: Aanwijzingen verzamelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44968492443623424
+    m_Localized: Volgend beleid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44969933178658816
+    m_Localized: Vorig beleid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45301409422237696
+    m_Localized: Vorige
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45301481098698752
+    m_Localized: Volgende
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45302496162209792
+    m_Localized: Boek met aanwijzingen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45312246765576192
+    m_Localized: Gedachte afspelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45313241272803328
+    m_Localized: Terug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45314184118788096
+    m_Localized: Boek met aanwijzingen sluiten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45377977502916608
+    m_Localized: Vorige
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45378019005554688
+    m_Localized: Volgende
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45378309117173760
+    m_Localized: Leerpunten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45378851340017664
+    m_Localized: Conclusies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45379467311308800
+    m_Localized: Einde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46123280967393280
+    m_Localized: Toegankelijkheid ingeschakeld. Gebruik de pijltjestoetsen en de
+      Enter-toets om te navigeren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46123565072769024
+    m_Localized: Toegankelijkheid uitgeschakeld.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46124492450160640
+    m_Localized: Element uitgeschakeld
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127565390209024
+    m_Localized: Knop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127604380459008
+    m_Localized: Schuifknop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127822517821440
+    m_Localized: Schakelaar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127860144922624
+    m_Localized: Tekstveld
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127911416094720
+    m_Localized: Vervolgkeuzemenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127952037928960
+    m_Localized: Druk op Return om te selecteren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128060410355712
+    m_Localized: Dubbeltik om te selecteren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128236222996480
+    m_Localized: Druk op Return om te wijzigen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128306674720768
+    m_Localized: Dubbeltik om te wijzigen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128328283774976
+    m_Localized: TT geselecteerd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128344960327680
+    m_Localized: Item XX van YY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46141420694659072
+    m_Localized: Juist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46141496884191232
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53135351207522304
+    m_Localized: Selecteer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53253607381626880
+    m_Localized: Tijdelijke aanduiding tussen schermen, wordt verwijderd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53884971725950976
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885464065937408
+    m_Localized: Nee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885695662821376
+    m_Localized: Het hangt er van af
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53943372556341248
+    m_Localized: Onjuist antwoord. Probeer het opnieuw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890102246363136
+    m_Localized: Volgende pagina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890169237786624
+    m_Localized: Vorige pagina
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

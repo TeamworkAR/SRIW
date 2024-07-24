@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8307181018493254810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 6edc6f90ced1ece4daebc4d2403e9c5b
+  m_EditorClassIdentifier: 
+  m_Guid: 6edc6f90ced1ece4daebc4d2403e9c5b
+  m_Edges: []
+  m_OnEnterActions:
+  - rid: 8755670748163211272
+  - rid: 8755670748163211273
+  - rid: 8755670748163211274
+  - rid: 8755670748163211275
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 1.149991, y: 38.499996}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8755670748163211272
+      type: {class: StartDialogueAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Dialogue: {fileID: 11400000, guid: ace91dc443a85ca4cbec432103139464, type: 2}
+    - rid: 8755670748163211273
+      type: {class: LoadEnvironmentAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Scene:
+          m_SceneAsset: {fileID: 102900000, guid: 4a8d609d6fbb38043a670307d18d8f93, type: 3}
+          m_IsDirty: 0
+          m_ScenePath: Assets/Scenes/Kitchen & BreakRoom_Scenario01.unity
+    - rid: 8755670748163211274
+      type: {class: SetMainCameraRenderAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_mask:
+          serializedVersion: 2
+          m_Bits: 1
+    - rid: 8755670748163211275
+      type: {class: SetBackgroundAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_BackgroundTexture: {fileID: 0}
+        show: 0
+--- !u!114 &-5511680621144087786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 82469e28481c2094c9562bc65ef74756
+  m_EditorClassIdentifier: 
+  m_Guid: 82469e28481c2094c9562bc65ef74756
+  m_Edges: []
+  m_OnEnterActions:
+  - rid: 8755670767467233304
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 39.542778, y: 170.338}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8755670767467233304
+      type: {class: ShowSmartPhoneUIAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Chain:
+          m_Entries:
+          - rid: 8755670767467233305
+          - rid: 8755670767467233306
+    - rid: 8755670767467233305
+      type: {class: TextSmartPhoneChainEntry, ns: UI.Smartphone, asm: Assembly-CSharp}
+      data:
+        m_Sfx: {fileID: 8300000, guid: c61b346462b0752489c72a69b3937815, type: 3}
+        m_Template: {fileID: 7135073738481043505, guid: 931013693aec5d34ebd70ff237fcb8d0, type: 3}
+        m_Character: {fileID: 11400000, guid: b994f201cb219b9499172b5b1bb15662, type: 2}
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:3128b122f6c54c34d95ab826ae1f6533
+          m_TableEntryReference:
+            m_KeyId: 2619331070087168
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+    - rid: 8755670767467233306
+      type: {class: TextSmartPhoneChainEntry, ns: UI.Smartphone, asm: Assembly-CSharp}
+      data:
+        m_Sfx: {fileID: 8300000, guid: c61b346462b0752489c72a69b3937815, type: 3}
+        m_Template: {fileID: 7135073738481043505, guid: 931013693aec5d34ebd70ff237fcb8d0, type: 3}
+        m_Character: {fileID: 11400000, guid: b994f201cb219b9499172b5b1bb15662, type: 2}
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:3128b122f6c54c34d95ab826ae1f6533
+          m_TableEntryReference:
+            m_KeyId: 2619509646774272
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 564efee4b15c44e09505c4385a6b42c9, type: 3}
+  m_Name: Steps_Testing_Gomes
+  m_EditorClassIdentifier: 
+  b_Persist: 1
+  b_IsFlowGraph: 1
+  m_Root: {fileID: -5511680621144087786}
+  m_Nodes:
+  - {fileID: -8307181018493254810}
+  - {fileID: -5511680621144087786}
+  m_Edges: []

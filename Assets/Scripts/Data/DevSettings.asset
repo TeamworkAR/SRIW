@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79cbc34f223d45248a931db7c58e6abf, type: 3}
+  m_Name: DevSettings
+  m_EditorClassIdentifier: 
+  m_FoundationalGold: {r: 1, g: 0.7372549, b: 0.050980393, a: 1}
+  m_CorrectAnswerColor: {r: 0.02745098, g: 0.59607846, b: 0.3019608, a: 1}
+  m_WrongAnswerColor: {r: 1, g: 0, b: 0, a: 1}
+  m_UIGreen: {r: 0.02745098, g: 0.59607846, b: 0.3019608, a: 1}
+  m_CarouselCounterSelected: {r: 0.9450981, g: 0.34117648, b: 0.10980393, a: 1}
+  m_CarouselCounterUnselected: {r: 0.54901963, g: 0.54901963, b: 0.54901963, a: 1}
+  m_PoliciesFixedReadTime: 4
+  m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+  m_SelectedColor: {r: 1, g: 0.7372549, b: 0.050980393, a: 1}
+  m_DisabledColor: {r: 0.2830189, g: 0.2830189, b: 0.2830189, a: 1}
+  m_ChevronsNormalColor: {r: 0, g: 0, b: 0, a: 1}
+  m_ChevronsDisabledColor: {r: 0.28235295, g: 0.28235295, b: 0.28235295, a: 0.49019608}
+  m_MessagesWaitTime: 8
+  m_DecisionMakingTutorial:
+    m_Chatacter: {fileID: 0}
+    m_Tiles:
+    - m_Entries:
+      - b_IsRightEntry: 0
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:16fc587a71cebcc4e837c1a6473dfb35
+          m_TableEntryReference:
+            m_KeyId: 22352422563782656
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_AttemptClipOverride:
+          m_AudioClip: {fileID: 0}
+          m_SubTitles:
+            m_TableReference:
+              m_TableCollectionName: 
+            m_TableEntryReference:
+              m_KeyId: 0
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+        m_Sprite: {fileID: 21300000, guid: b2c8de8c71d08a945851f2a5f46f862f, type: 3}
+      - b_IsRightEntry: 0
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:16fc587a71cebcc4e837c1a6473dfb35
+          m_TableEntryReference:
+            m_KeyId: 22352543686893568
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_AttemptClipOverride:
+          m_AudioClip: {fileID: 0}
+          m_SubTitles:
+            m_TableReference:
+              m_TableCollectionName: 
+            m_TableEntryReference:
+              m_KeyId: 0
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+        m_Sprite: {fileID: 21300000, guid: 9ae906138e1378d4b87a73bc841707ad, type: 3}
+    - m_Entries:
+      - b_IsRightEntry: 0
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:16fc587a71cebcc4e837c1a6473dfb35
+          m_TableEntryReference:
+            m_KeyId: 22352583197237248
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_AttemptClipOverride:
+          m_AudioClip: {fileID: 0}
+          m_SubTitles:
+            m_TableReference:
+              m_TableCollectionName: 
+            m_TableEntryReference:
+              m_KeyId: 0
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+        m_Sprite: {fileID: 0}
+      - b_IsRightEntry: 0
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:16fc587a71cebcc4e837c1a6473dfb35
+          m_TableEntryReference:
+            m_KeyId: 22352637421199360
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_AttemptClipOverride:
+          m_AudioClip: {fileID: 0}
+          m_SubTitles:
+            m_TableReference:
+              m_TableCollectionName: 
+            m_TableEntryReference:
+              m_KeyId: 0
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+        m_Sprite: {fileID: 0}
+    - m_Entries:
+      - b_IsRightEntry: 0
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:16fc587a71cebcc4e837c1a6473dfb35
+          m_TableEntryReference:
+            m_KeyId: 22352671336341504
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_AttemptClipOverride:
+          m_AudioClip: {fileID: 0}
+          m_SubTitles:
+            m_TableReference:
+              m_TableCollectionName: 
+            m_TableEntryReference:
+              m_KeyId: 0
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+        m_Sprite: {fileID: 0}
+      - b_IsRightEntry: 0
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:16fc587a71cebcc4e837c1a6473dfb35
+          m_TableEntryReference:
+            m_KeyId: 22352695961100288
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_AttemptClipOverride:
+          m_AudioClip: {fileID: 0}
+          m_SubTitles:
+            m_TableReference:
+              m_TableCollectionName: 
+            m_TableEntryReference:
+              m_KeyId: 0
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+        m_Sprite: {fileID: 0}
+    m_WrongAttemptClips: []
+    m_RightAttemptClip:
+      m_AudioClip: {fileID: 0}
+      m_SubTitles:
+        m_TableReference:
+          m_TableCollectionName: 
+        m_TableEntryReference:
+          m_KeyId: 0
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+  m_BaseFadeDuration: 0.5
+  m_CharacterDisplayFadeDuration: 1
+  references:
+    version: 2
+    RefIds: []

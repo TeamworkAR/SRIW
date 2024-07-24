@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d35bd9d9cde486ea63879af13039245, type: 3}
+  m_Name: CharacterData_Scenario_01_Ravi
+  m_EditorClassIdentifier: 
+  m_ShowcaseTemplate: {fileID: 2681460190480089102, guid: 4329e9c8ea8d7ed428ea1aea063ec7ae, type: 3}
+  m_DialogueTemplate: {fileID: 2424220335540036067, guid: f4d555e6c757be54b92f2e2cd56afc43, type: 3}
+  characterName:
+    m_TableReference:
+      m_TableCollectionName: GUID:a58a75991ac08d149a2124682c3949cb
+    m_TableEntryReference:
+      m_KeyId: 2048439436861440
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  characterInfo:
+    m_TableReference:
+      m_TableCollectionName: GUID:a58a75991ac08d149a2124682c3949cb
+    m_TableEntryReference:
+      m_KeyId: 1411606405120
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []

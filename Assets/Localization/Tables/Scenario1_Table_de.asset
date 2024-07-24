@@ -1,0 +1,484 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario1_Table_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: a58a75991ac08d149a2124682c3949cb, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 36428341248
+    m_Localized: Feindseliges Arbeitsumfeld
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411606405120
+    m_Localized: Ist seit einem Monat ein Crew-Mitglied
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508306083840
+    m_Localized: Ist seit drei Monaten ein Crew-Mitglied
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1620579213312
+    m_Localized: "Sie waren schon einige Male f\xFCr dieselben Schichten eingeteilt
+      und haben gerne zusammengearbeitet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2411931131904
+    m_Localized: Hast du noch Geschwister?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272907587313664
+    m_Localized: "Ja\_\u2013 ich habe j\xFCngere Br\xFCder. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272979058253824
+    m_Localized: "Oh, ich wusste, dass du das \xE4lteste Kind bist!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273020137267200
+    m_Localized: "Oh\_... Warum denn das?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273053385515008
+    m_Localized: Weil du denkst, dass du immer Recht hast.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273093751496704
+    m_Localized: "...\_aber, ich <i>habe</i> immer Recht."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273163750236160
+    m_Localized: (lacht)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273241915285504
+    m_Localized: "Du bist der J\xFCngste, nicht wahr?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273274916069376
+    m_Localized: "Ja\_... Woher wei\xDFt du das?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273312195043328
+    m_Localized: "W\xE4hle einen Scherz f\xFCr {0} aus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273481917554688
+    m_Localized: "Du h\xF6rst nie auf zu reden"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273518680629248
+    m_Localized: Deine Witze sind schrecklich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273544324603904
+    m_Localized: Du hast immer das letzte Wort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273563354161152
+    m_Localized: "Und wenn wir dieselbe Schicht haben, \xFCbernehme ich den Gro\xDFteil
+      der Arbeit."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274315288010752
+    m_Localized: "Wie soll ich mit einem flei\xDFigen Ausl\xE4nder mithalten?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274368794746880
+    m_Localized: Hey, wenn du nicht mithalten kannst, ist das nicht mein Problem.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274933650055168
+    m_Localized: Besorgt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275049173770240
+    m_Localized: Unbesorgt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275076474494976
+    m_Localized: "Gl\xFCcklich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275097773170688
+    m_Localized: "Fr\xF6hlich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275111236886528
+    m_Localized: "Ver\xE4rgert"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275124285366272
+    m_Localized: Irritiert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275137623252992
+    m_Localized: Unbesorgt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275158263422976
+    m_Localized: "Gl\xFCcklich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275879419469824
+    m_Localized: Dieser Job ist so viel besser, wenn Ravi dabei ist. Die Zeit vergeht
+      bei der Arbeit wie im Flug, wenn man lachen kann.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276721195311104
+    m_Localized: "Jake genie\xDFt es, mit Ravi zu arbeiten und zu lachen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276788484530176
+    m_Localized: Er lernt wirklich schnell. Kaum zu glauben, dass er erst seit ein
+      paar Wochen hier ist.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276839353049088
+    m_Localized: Jake glaubt, dass Ravi gut in seinem Job ist.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276939483668480
+    m_Localized: "Das ist das dritte Mal, dass Jake sich dar\xFCber lustig gemacht
+      hat, dass ich ein Ausl\xE4nder bin. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277366186991616
+    m_Localized: "Jake hat mehrfach Witze dar\xFCber gemacht, dass Ravi ein Ausl\xE4nder
+      ist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277367822770176
+    m_Localized: "Ich m\xF6chte gerne etwas sagen. Aber ich arbeite gerne mit ihm
+      zusammen und m\xF6chte nicht, dass es unangenehm wird."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277369299165184
+    m_Localized: Ravi ist sich nicht sicher, ob er etwas sagen soll.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277370909777920
+    m_Localized: "Vielleicht sollte ich mich einfach entspannen. Er hat nicht wirklich
+      ein Problem mit Ausl\xE4ndern\_... Das glaube ich zumindest nicht."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277559338885120
+    m_Localized: "Ravi fragt sich, ob er \xFCberreagiert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277569124196352
+    m_Localized: "Ich glaube nicht, dass diese Witze aufh\xF6ren werden. Und ich
+      wei\xDF nicht, wie viele ich noch h\xF6ren will."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277570382487552
+    m_Localized: Ravi fragt sich, ob die Scherze noch schlimmer werden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277571863076864
+    m_Localized: "Ich mache mir Sorgen, dass jemand zuf\xE4llig h\xF6ren k\xF6nnte,
+      wenn Jake so spricht. Er k\xF6nnte in Schwierigkeiten geraten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277573184282624
+    m_Localized: "Ravi will nicht, dass Jake in Schwierigkeiten ger\xE4t."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278077507395584
+    m_Localized: "Sicherheit f\xFCr alle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278203915329536
+    m_Localized: "Jeder, der bei McDonald\u2019s besch\xE4ftigt ist, hat das Recht,
+      in einem Umfeld zu arbeiten, das frei von Gewalt, Schikane, Bel\xE4stigung,
+      Diskriminierung und ungerechter Behandlung/Vergeltung ist.\n\nDie Bel\xE4stigung
+      anderer aufgrund ihres Geschlechts, ihrer Rasse, ihres Alters, ihrer religi\xF6sen
+      \xDCberzeugungen, einer Behinderung oder anderer Faktoren wird nicht toleriert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278576247889920
+    m_Localized: "Jakes Witze dar\xFCber, dass Ravi ein Einwanderer ist, k\xF6nnten
+      ein feindseliges Arbeitsumfeld schaffen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278616114749440
+    m_Localized: "<b>Auch wenn das Verhalten nicht als Beleidigung gedacht war,</b>
+      kann es als Bel\xE4stigung angesehen werden und ein feindliches Arbeitsumfeld
+      schaffen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278774059655168
+    m_Localized: "Selbst wenn Jake Ravi nicht beleidigen wollte, k\xF6nnen seine
+      Witze als Schikane oder Bel\xE4stigung angesehen werden. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278872999092224
+    m_Localized: "Was sollte ich {0} als N\xE4chstes tun?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280045575495680
+    m_Localized: Lass es auf sich beruhen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280162160369664
+    m_Localized: "\xC4u\xDFere dich offen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280367333138432
+    m_Localized: "Er wei\xDF nicht, was er sagen soll."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280430620991488
+    m_Localized: Er ist besorgt, dass die Scherze weitergehen oder noch zunehmen
+      werden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280433020133376
+    m_Localized: "Er kann sich einfach auf die Arbeit konzentrieren und sich nicht
+      von pers\xF6nlichen Dingen st\xF6ren lassen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280434999844864
+    m_Localized: "Er f\xFChlt sich unwohl, wenn Witze dar\xFCber gemacht werden,
+      dass er Ausl\xE4nder ist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280437172494336
+    m_Localized: "Er sollte sich entspannen. Er m\xF6chte nicht, dass sich ihre Freundschaft
+      \xE4ndert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280439210926080
+    m_Localized: "Er m\xF6chte nicht, dass Jake dieselbe Art von Witz mit anderen
+      Ausl\xE4ndern im Restaurant teilt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280445540130816
+    m_Localized: "Er findet, dass Jake ein toller Kerl ist, und w\xFCrde gerne wissen,
+      warum der Scherz beleidigend ist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280479383969792
+    m_Localized: Jake wollte Ravi nicht beleidigen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281021090914304
+    m_Localized: Nicht ganz, vielleicht habe ich das nicht richtig durchdacht.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281095795662848
+    m_Localized: "Ich glaube nicht, dass das richtig ist. Wie w\xE4re es damit?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281627281088512
+    m_Localized: "[0.00-5.00]\nHmm\_\u2026 Ich wei\xDF, wir haben Witze gemacht,
+      und ich wei\xDF nicht genau, wie ich es sagen soll,\n[5.00-8.00]\naber Witze
+      \xFCber Ausl\xE4nder sind f\xFCr mich schwer zu ertragen.\n[8.00-10.89]\nIch
+      habe geh\xF6rt, wie diese Klischees gegen meine Familie verwendet wurden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281630267432960
+    m_Localized: "Wirklich? Rav, das tut mir leid. Das wusste ich nicht.\nIch wollte
+      auf keinen Fall, dass du dich weniger wert f\xFChlst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281632377167872
+    m_Localized: "Vielen Dank f\xFCr dein Verst\xE4ndnis."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281634356879360
+    m_Localized: "Nat\xFCrlich. Danke f\xFCr den Hinweis. Ich werde vorsichtiger
+      sein."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281636558888960
+    m_Localized: "Ich hoffe, ich habe mich jetzt nicht zu sehr angeh\xF6rt wie ein
+      \xE4lteres Geschwisterteil."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281638601515008
+    m_Localized: "Keine Sorge, ich bin daran gew\xF6hnt!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281640837079040
+    m_Localized: "Jake und Ravi bereiten wieder fr\xF6hlich ihre Sandwiches zu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282218757644288
+    m_Localized: "Ravi hat sich entschieden, im richtigen Moment zu handeln. Damit
+      hat er dazu beigetragen, die Arbeitsumgebung f\xFCr sich selbst und m\xF6glicherweise
+      auch f\xFCr andere sicherer zu gestalten. \n\nWas w\xE4re, wenn Ravi anders
+      gehandelt h\xE4tte?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283547773198336
+    m_Localized: "Was w\xE4re, wenn Ravi es sein gelassen h\xE4tte?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283750395830272
+    m_Localized: "\u2022 <indent=2%>Die Witze k\xF6nnten noch schlimmer werden oder
+      sich h\xE4ufen.</indent>\n\u2022 <indent=2%>Es k\xF6nnte noch schwieriger sein,
+      sich offen zu \xE4u\xDFern, wenn das n\xE4chste Mal anst\xF6\xDFige Witze erz\xE4hlt
+      werden.</indent>\n\u2022 <indent=2%>Andere Menschen k\xF6nnten die Witze h\xF6ren
+      und auch verletzt werden.</indent>\n\u2022 <indent=2%>Ravis F\xE4higkeit, seine
+      Arbeit gut zu machen, k\xF6nnte beeintr\xE4chtigt werden, wenn er sich nicht
+      sicher oder respektiert f\xFChlt.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283898056302592
+    m_Localized: "Was w\xE4re, wenn Ravi sich sp\xE4ter offen \xE4u\xDFern w\xFCrde?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283999382298624
+    m_Localized: "Es gibt viele Gr\xFCnde, warum jemand im richtigen Moment z\xF6gern
+      k\xF6nnte, sich offen zu \xE4u\xDFern. Vielleicht f\xFChlt er bzw. sie sich
+      nicht sicher oder wohl dabei, sich offen zu \xE4u\xDFern, oder er bzw. sie
+      braucht einfach Zeit, um dar\xFCber nachzudenken, was er bzw. sie sagen m\xF6chte.
+      \n\nWenn Ravi sich dazu entschlossen hat, zu warten, bis er sich offen \xE4u\xDFert:
+      \n\u2022 <indent=2%>H\xE4tte er das Gespr\xE4ch umlenken und ein neues Thema
+      anschneiden k\xF6nnen.</indent>\n\u2022 <indent=2%>Er h\xE4tte einen neutraleren
+      Zeitpunkt finden k\xF6nnen, um das Verhalten oder sein Unbehagen anzusprechen.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284148749852672
+    m_Localized: "Was w\xE4re, wenn Ravi es seinem Manager melden w\xFCrde?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284166646947840
+    m_Localized: "Wir dulden keinerlei Schikane, Einsch\xFCchterung oder Bel\xE4stigung,
+      und jeder, dem ein solches Verhalten widerf\xE4hrt, kann dies melden. In diesem
+      Fall war Ravi vielleicht besorgt, Jake in Schwierigkeiten zu bringen. Es ist
+      wichtig, daran zu denken, dass nicht jede Meldung ernsthafte Konsequenzen hat.
+      \n\nWenn Ravi seinem Manager von Jakes Kommentaren berichtet h\xE4tte, w\xE4re
+      m\xF6glicherweise Folgendes geschehen:\n\u2022 <indent=2%>Der Manager k\xF6nnte
+      mit Jake \xFCber seine Kommentare sprechen.</indent>\n\u2022 <indent=2%>Jake
+      k\xF6nnte eine R\xFCckmeldung \xFCber sein Verhalten erhalten und eine Perspektive
+      daf\xFCr bekommen, warum seine Scherze zu weit gingen.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284400093519872
+    m_Localized: "Ob du mit deinen Kollegen oder G\xE4sten sprichst, du kannst dazu
+      beitragen, eine <b>sichere, respektvolle und integrative</b> Kultur f\xFCr
+      alle zu schaffen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284575386066944
+    m_Localized: "Selbst wenn du es nicht b\xF6se gemeint hast und alle gelacht haben,
+      entsprechen Witze \xFCber gesch\xFCtzte Diskriminierungsmerkmale nicht unserer
+      Richtlinie. Jeder hat ein Recht auf einen sicheres Arbeitsplatz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284655421775872
+    m_Localized: "Wenn du jemals etwas gesagt oder getan hast, das einem Kollegen
+      gegen\xFCber respektlos war, solltest du dich entschuldigen und es in Zukunft
+      besser machen. Jeder tr\xE4gt zu einer respektvollen Unternehmenskultur bei."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284665953673216
+    m_Localized: "Du kannst besser verstehen, wer deine Kollegen sind, wenn du wei\xDFt,
+      welche Erfahrungen sie gemacht haben. Nimm dir die Zeit, ihnen zuzuh\xF6ren.
+      Schaffe gute Arbeitsbeziehungen, um ein inklusives Umfeld zu kultivieren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048439436861440
+    m_Localized: Ravi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048523280998400
+    m_Localized: Jake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7204747913334784
+    m_Localized: Sicher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7204889949245440
+    m_Localized: Respektvoll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7205035462234112
+    m_Localized: Integrativ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7238201412632576
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7241701743869952
+    m_Localized: "[0.00-3.00]\nIch h\xE4tte wissen m\xFCssen, dass du versuchen w\xFCrdest,
+      mir den Job wegzunehmen.\n[3.00-5.00]\nIch werde mich jetzt vorsehen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078710535225344
+    m_Localized: 'Was sollte ich tun?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078863094644736
+    m_Localized: "Ich will das nicht l\xE4nger hinausz\xF6gern.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078930916540416
+    m_Localized: 'Nicht ganz, vielleicht habe ich das nicht richtig durchdacht.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078943189073920
+    m_Localized: "Ich glaube immer noch nicht, dass das richtig ist, wie w\xE4re
+      es damit?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078954572414976
+    m_Localized: "Hmm\_... Vielleicht sollte ich es offen ansprechen\_... Habe ich
+      gute Gr\xFCnde, es zu tun?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078965364359168
+    m_Localized: "Ja, das f\xFChlt sich f\xFCr mich richtig an, ich werde es tun."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13293897244295168
+    m_Localized: "\u201EEs war nur ein Scherz\u201C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303657540698112
+    m_Localized: "Sich offen zu \xE4u\xDFern, bedeutet, etwas gegen unangemessenes
+      Verhalten oder unangemessene Worte zu sagen, unabh\xE4ngig davon, ob diese
+      an dich oder an andere gerichtet sind.\n\n<b>Man kann sich im richtigen Moment
+      oder sp\xE4ter offen \xE4u\xDFern</b>. Etwas zu melden, ist eine weitere Art,
+      offen zu sprechen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303725081575424
+    m_Localized: "Sich offen zu \xE4u\xDFern, bedeutet, etwas zu sagen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303761957896192
+    m_Localized: "\xC4u\xDFere dich jetzt oder sp\xE4ter offen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45693008257998848
+    m_Localized: "Ravi und Jake stehen in der K\xFCche eines McDonald's-Restaurants"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45694103168475136
+    m_Localized: "Ravi und Jake stehen in der K\xFCche eines McDonald's-Restaurants"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

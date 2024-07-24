@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65e62e7948a44d979767558c41145eb6, type: 3}
+  m_Name: Scenario05_SofiaThoughts
+  m_EditorClassIdentifier: 
+  m_Wrapper:
+    m_LayoutPosition: 3
+    m_Owner: {fileID: 11400000, guid: e0707cf241f8b534286e316cba59dcc2, type: 2}
+    m_Thoughts:
+    - m_Text:
+        m_TableReference:
+          m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+        m_TableEntryReference:
+          m_KeyId: 7926205726720
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      m_ClueText:
+        m_TableReference:
+          m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+        m_TableEntryReference:
+          m_KeyId: 7929728942080
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      m_ThoughtAudioClip: {fileID: 8300000, guid: 056b256da8886494eb789e33cf5ac281, type: 3}
+    - m_Text:
+        m_TableReference:
+          m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+        m_TableEntryReference:
+          m_KeyId: 7930332921856
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      m_ClueText:
+        m_TableReference:
+          m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+        m_TableEntryReference:
+          m_KeyId: 7930903347200
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      m_ThoughtAudioClip: {fileID: 8300000, guid: 2ba68fe92f676044faca58641c5d3009, type: 3}
+    - m_Text:
+        m_TableReference:
+          m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+        m_TableEntryReference:
+          m_KeyId: 8272390995968
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      m_ClueText:
+        m_TableReference:
+          m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+        m_TableEntryReference:
+          m_KeyId: 8432110092288
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      m_ThoughtAudioClip: {fileID: 8300000, guid: 5cc70fb84ab35174c9977567320b7e8e, type: 3}
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,474 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CommonTable_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 16fc587a71cebcc4e837c1a6473dfb35, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6208095019008
+    m_Localized: "Szenario wird geladen\_..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14475026259968
+    m_Localized: "W\xE4hle eine Emotion aus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15104377380864
+    m_Localized: Sieh es dir genauer an
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15149210296320
+    m_Localized: Sieh dir das Notizbuch an
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15485530562560
+    m_Localized: Dein Notizbuch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15683854032896
+    m_Localized: Gehe noch einmal durch, was du auf diesen Seiten entdeckt hast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15782223044608
+    m_Localized: Gedanken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15843124338688
+    m_Localized: Ressourcen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15904717692928
+    m_Localized: Sammle Gedanken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16087207665664
+    m_Localized: "W\xE4hle die einzelnen Personen aus, um zu erfahren, was sie denken"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16260667301888
+    m_Localized: Weiter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16354351276032
+    m_Localized: "Zuh\xF6ren"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16579337936896
+    m_Localized: Gehe die Ressourcen durch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16795206180864
+    m_Localized: Du hast auch eine Ressource, die dir beim Nachdenken hilft.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16936046714880
+    m_Localized: Hinweise zu Richtlinien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16998114025472
+    m_Localized: "Gehe zur\xFCck, um weitere Richtlinien freizuschalten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17254121758720
+    m_Localized: "Entscheide, was als N\xE4chstes ansteht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17420975366144
+    m_Localized: "\xDCberpr\xFCfe die Entscheidung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17492572135424
+    m_Localized: "W\xE4hle aus, was die Person tun sollte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17583991185408
+    m_Localized: "W\xE4hle aus, warum sie es tun sollten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17679877169152
+    m_Localized: "Best\xE4tige deine Auswahl mit dieser Schaltfl\xE4che"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18239523151872
+    m_Localized: "Was w\xE4re, wenn?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18363125096448
+    m_Localized: Sieh es dir an
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18561876385792
+    m_Localized: "Herzlichen Gl\xFCckwunsch!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18600375902208
+    m_Localized: Sie haben dieses Modul abgeschlossen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18661440774144
+    m_Localized: Beenden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305594607886336
+    m_Localized: "Wie k\xF6nnte {0} sich f\xFChlen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305854730231808
+    m_Localized: Setzen Sie sich mit den Gedanken der Charaktere auseinander, um
+      mehr zu erfahren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 306062570577920
+    m_Localized: '{0}s Gedanken'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 307880474206208
+    m_Localized: "Was sollte {0} als N\xE4chstes tun?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308115871129600
+    m_Localized: Was sollte ich tun?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308521586155520
+    m_Localized: Was sollten {0} tun?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308574623129600
+    m_Localized: Warum sollte {0} das tun?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4962361918963712
+    m_Localized: "2\_Gr\xFCnde"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604280591466496
+    m_Localized: Du hast die Gedanken von {0} erfasst. Du findest sie im Notizbuch.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7607020013043712
+    m_Localized: "W\xE4hle einen Scherz f\xFCr {0} aus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7619134266097664
+    m_Localized: Gedanken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7885533161013248
+    m_Localized: "\xC4u\xDFere dich offen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7885667890446336
+    m_Localized: Bericht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7885684868988928
+    m_Localized: Auf geht's!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10068604280795136
+    m_Localized: Platzhalter Englisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12209512372113408
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14483484056883200
+    m_Localized: "Gehe zur\xFCck, um weitere Gedanken freizuschalten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352422563782656
+    m_Localized: "Ma\xDFnahme\_A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352543686893568
+    m_Localized: "Ma\xDFnahme\_B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352583197237248
+    m_Localized: "Grund\_A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352637421199360
+    m_Localized: "Grund\_B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352671336341504
+    m_Localized: "Grund\_C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352695961100288
+    m_Localized: "Grund\_D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352764743491584
+    m_Localized: Hilf der Person, zu entscheiden, was sie tun soll und warum sie
+      es tun soll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352880455950336
+    m_Localized: Jetzt versuche du es!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43586336613982208
+    m_Localized: Auswahl der Sprache
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43606493818249216
+    m_Localized: "Schaltfl\xE4che \u201EWeiter\u201C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43881920319184896
+    m_Localized: "Schaltfl\xE4che \u201ESzenario zur\xFCck\u201C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43882092331786240
+    m_Localized: "Schaltfl\xE4che \u201EHinweisbuch \xF6ffnen\u201C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43883160138670080
+    m_Localized: "Stummschalttaste f\xFCr Audio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43902784624386048
+    m_Localized: "Schaltfl\xE4che \u201EUntertitel\u201C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43915910031859712
+    m_Localized: Szenario-Kontrollen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43916426069663744
+    m_Localized: Bildschirm zur Sprachauswahl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43930121575325696
+    m_Localized: Kontext des Szenarios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43938901818073088
+    m_Localized: Szenario-Entscheidung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43947730123350016
+    m_Localized: Stimmungsbewertung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43953185537122304
+    m_Localized: "Antwort ausw\xE4hlen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966374580150272
+    m_Localized: Richtlinien sammeln
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966547372892160
+    m_Localized: Sammle Gedanken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44967107740295168
+    m_Localized: Sammlung von Hinweisen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44968492443623424
+    m_Localized: "N\xE4chste Richtlinie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44969933178658816
+    m_Localized: "Fr\xFChere Richtlinie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45301409422237696
+    m_Localized: Vorherige
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45301481098698752
+    m_Localized: Weiter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45302496162209792
+    m_Localized: Hinweisbuch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45312246765576192
+    m_Localized: Gedankenspiel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45313241272803328
+    m_Localized: "Zur\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45314184118788096
+    m_Localized: "Cluebook schlie\xDFen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45377977502916608
+    m_Localized: Vorherige
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45378019005554688
+    m_Localized: Weiter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45378309117173760
+    m_Localized: Lernerfahrungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45378851340017664
+    m_Localized: Schlussfolgerungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45379467311308800
+    m_Localized: Ende
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46123280967393280
+    m_Localized: "Zug\xE4nglichkeit aktiviert. Verwenden Sie zum Navigieren die Pfeiltasten
+      und die Eingabetaste."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46123565072769024
+    m_Localized: "Deaktivierte Zug\xE4nglichkeit."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46124492450160640
+    m_Localized: Element deaktiviert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127565390209024
+    m_Localized: "Schaltfl\xE4che"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127604380459008
+    m_Localized: Schieberegler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127822517821440
+    m_Localized: Umschalten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127860144922624
+    m_Localized: Textfeld
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127911416094720
+    m_Localized: "Dropdown-Men\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127952037928960
+    m_Localized: "Eingabetaste zur Auswahl dr\xFCcken"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128060410355712
+    m_Localized: "Doppeltippen zum Ausw\xE4hlen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128236222996480
+    m_Localized: "Dr\xFCcken Sie die Eingabetaste, um zu \xE4ndern"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128306674720768
+    m_Localized: "Doppeltippen zum \xC4ndern"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128328283774976
+    m_Localized: "TT ausgew\xE4hlt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128344960327680
+    m_Localized: Element XX von YY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46141420694659072
+    m_Localized: Richtig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46141496884191232
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48971575213416448
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48974385543897088
+    m_Localized: Spielen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50463397114798080
+    m_Localized: Bildschirmleser umschalten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49947109173940224
+    m_Localized: '{0}s Gedanken'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49947225825923072
+    m_Localized: Einblicke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50493918238728192
+    m_Localized: Vorherige
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51137395486089216
+    m_Localized: "N\xE4chste"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51340606229630976
+    m_Localized: "W\xE4hlen Sie unten eine Aktion aus."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54968277945733120
+    m_Localized: Treffen Sie unten eine Auswahl.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53135351207522304
+    m_Localized: "Ausw\xE4hlen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53253607381626880
+    m_Localized: Platzhalter zwischen den Bildschirmen, wird entfernt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53884971725950976
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885464065937408
+    m_Localized: Nein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885695662821376
+    m_Localized: Es kommt darauf an
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53943372556341248
+    m_Localized: Falsche Antwort, versuchen Sie es erneut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890102246363136
+    m_Localized: "N\xE4chste Seite"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890169237786624
+    m_Localized: Vorherige Seite
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

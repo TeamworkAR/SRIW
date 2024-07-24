@@ -1,0 +1,617 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario4_Table_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: cf2d1ef1053fd584cb0013e6eed1a750, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2394929133959774238
+  m_TableData:
+  - m_Id: 466376015872
+    m_Localized: Dyskryminacja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 860133392384
+    m_Localized: "Cz\u0119sto wsp\xF3\u0142pracuj\u0105 i lubi\u0105 razem pracowa\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 944228876288
+    m_Localized: "Pracownik z 3-miesi\u0119cznym sta\u017Cem pracy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3102777409536
+    m_Localized: Speszenie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3249083121664
+    m_Localized: "Z\u0142o\u015B\u0107\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3257173934080
+    m_Localized: "Spok\xF3j"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3259564687360
+    m_Localized: Zadowolenie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3269194809344
+    m_Localized: Zmartwienie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3274131505152
+    m_Localized: Poirytowanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276333514752
+    m_Localized: "Spok\xF3j"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3278724268032
+    m_Localized: Zadowolenie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3284759871488
+    m_Localized: Speszenie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3288031428608
+    m_Localized: Poirytowanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3290644480000
+    m_Localized: "Spok\xF3j"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3292976513024
+    m_Localized: Zadowolenie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Localized: Hej, Jake, gdzie dzisiaj pracujesz?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Localized: "Cze\u015B\u0107, Maria. Hej, Samuel. Zaczynam na kasie. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Localized: "[0.00-3.50]\nOch, to dobrze. \n[3.50-8.44]\nMy\u015Bl\u0119, \u017Ce
+      Alan te\u017C tam b\u0119dzie, wi\u0119c mu pomo\u017Cesz. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Localized: "Co rozumiesz przez \"pomo\u017Cesz mu\"?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Localized: "No wiesz. Nie potrafi nawet nawi\u0105zywa\u0107 kontaktu wzrokowego
+      z lud\u017Ami. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Localized: "Ale za to wylicza dok\u0142adn\u0105 reszt\u0119 szybciej ni\u017C
+      POS!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Localized: "[0.00-4.00]\nTo chyba prawda. Ale to nie zmienia faktu, \u017Ce
+      jest dziwny. \n[4.00-8.80]\nNie potrafi nawet zamieni\u0107 kilku s\u0142\xF3w.
+      Za\u0142o\u017C\u0119 si\u0119, \u017Ce go\u015Bcie go nie lubi\u0105.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Localized: "[0.00-3.40]\nDaj spok\xF3j, Maria. Alan potrafi by\u0107 \u015Bwietny.
+      \n[3.40-8.00]\nTo, \u017Ce ma pewne trudno\u015Bci z komunikacj\u0105, nie
+      oznacza, \u017Ce \u200B\u200Bnie potrafi wykonywa\u0107 swojej pracy. \n[8.00-10.05]\nZ
+      wieloma rzeczami radzi sobie lepiej ni\u017C ja."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Localized: "Przesta\u0144, Jake."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Localized: "Zg\u0142o\u015B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Localized: "Oka\u017C solidarno\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Localized: "Jake zbudowa\u0142 z Alanem relacje w pracy, co pomaga mu by\u0107
+      solidarnym. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6477430210560
+    m_Localized: "Je\u015Bli jeste\u015B \u015Bwiadkiem zdarzenia, kt\xF3re nie wpisuje
+      si\u0119 w warto\u015Bci firmy McDonald's, masz okazj\u0119, by okaza\u0107
+      solidarno\u015B\u0107.  \nOsoba solidarna staje w obronie innych poprzez:\n<align=\"left\">\n\u2022
+      <indent=1em>S\u0142uchanie ich i budowanie silnych relacji w pracy\n</indent>\n\u2022
+      <indent=1em>Modelowanie pozytywnych zachowa\u0144\n</indent>\n\u2022 <indent=1em>Wykorzystywanie
+      swojego wp\u0142ywu do pomagania innym\n</indent>\n"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774238
+  - m_Id: 6478696890368
+    m_Localized: "Pozna\u0142em troch\u0119 Alana. Gdyby us\u0142ysza\u0142, co m\xF3wi\u0105
+      Maria i Samuel, by\u0142by zdruzgotany."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Localized: "Jake rozumie, jak bolesne mog\u0105 by\u0107 te komentarze dla
+      Alana. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Localized: "Maria zawsze obgaduje kogo\u015B za jego plecami. Zastanawiam si\u0119,
+      co ona m\xF3wi o mnie, kiedy nie ma mnie w pobli\u017Cu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Localized: "Komentarze Marii na temat innych sprawiaj\u0105, \u017Ce Jake czuje
+      si\u0119 w pracy ma\u0142o bezpiecznie i ma wra\u017Cenie, \u017Ce nie jest
+      w niej mile widziany."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6598260031488
+    m_Localized: "Obra\u017Aliwe \u017Carty s\u0105 niew\u0142a\u015Bciwe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Localized: "Maria ma tu wielu przyjaci\xF3\u0142. Je\u015Bli powiem co\u015B
+      Marii lub to zg\u0142osz\u0119, to ona mo\u017Ce obr\xF3ci\u0107 innych przeciwko
+      mnie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Localized: "Jake boi si\u0119 konsekwencji zabierania g\u0142osu lub zg\u0142aszania."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Localized: "Oczywi\u015Bcie nigdy nie powiedzia\u0142abym czego\u015B o Alanie
+      bezpo\u015Brednio przy nim. Nie jestem taka wredna."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Localized: "Maria uwa\u017Ca, \u017Ce \u200B\u200Bjej komentarze na temat Alana
+      s\u0105 w porz\u0105dku, poniewa\u017C nie powiedzia\u0142a ich bezpo\u015Brednio
+      Alanowi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Localized: "Nie ma nic z\u0142ego w tym, co powiedzia\u0142am, jest po prostu
+      inny... I nie wiem, czy ma to, czego potrzeba, aby wykona\u0107 t\u0119 prac\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Localized: "Maria uwa\u017Ca, \u017Ce \u200B\u200Bwyg\u0142aszanie obra\u017Aliwych
+      komentarzy na temat r\xF3\u017Cnic mi\u0119dzy lud\u017Ami jest w porz\u0105dku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7931473772544
+    m_Localized: "Lubi\u0119 si\u0119 po\u015Bmia\u0107 w pracy. Samuel jest wyrozumia\u0142y.
+      Je\u015Bli Jake'owi si\u0119 to nie podoba, to jego problem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8271615049728
+    m_Localized: "Maria w dalszym ci\u0105gu wyg\u0142asza podobne komentarze na
+      temat Alana."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Localized: "Mo\u017Ce Jake ma racj\u0119. Nie powinni\u015Bmy tak m\xF3wi\u0107
+      o Alanie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Localized: "Samuel nie chce na\u015Bmiewa\u0107 si\u0119 z Alana."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8462938226688
+    m_Localized: "Przynajmniej powiedzia\u0142em co\u015B mi\u0142ego o Alanie. Mam
+      nadziej\u0119, \u017Ce Jake nie pomy\u015Bli, \u017Ce jestem pod\u0142y."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8464821469184
+    m_Localized: "Samuel uwa\u017Ca, \u017Ce \u200B\u200Bjego komentarze s\u0105
+      w porz\u0105dku, poniewa\u017C powiedzia\u0142 co\u015B mi\u0142ego o Alanie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Localized: Nie plotkuj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Localized: "Plotki na temat innych, zw\u0142aszcza z u\u017Cyciem obra\u017Aliwego
+      lub agresywnego j\u0119zyka, mog\u0105 zaszkodzi\u0107 osobie, o kt\xF3rej
+      si\u0119 rozmawia. Mo\u017Ce to by\u0107 r\xF3wnie\u017C szkodliwe dla ludzi,
+      kt\xF3ry pods\u0142uchuj\u0105 rozmow\u0119 i kt\xF3rzy mog\u0105 czu\u0107
+      si\u0119 zastraszeni lub n\u0119kani."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Localized: "Komentarze Marii i Samuela mog\u0105 rani\u0107 Alana, nawet je\u015Bli
+      ich nie us\u0142ysza\u0142. Sprawiaj\u0105 te\u017C, \u017Ce Jake mo\u017Ce
+      czu\u0107 si\u0119 mniej bezpiecznie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Localized: "Ostrze\u017Cenie, \u017Ce zaraz powiesz co\u015B obra\u017Aliwego,
+      nie sprawi, \u017Ce b\u0119dzie to w porz\u0105dku. Stwierdzenie \u201Etylko
+      \u017Cartowa\u0142em(-am)\u201D lub \u201Enie chcia\u0142em(-am) zrobi\u0107
+      nic z\u0142ego\u201D po tym, jak sko\u0144czysz co\u015B m\xF3wi\u0107, r\xF3wnie\u017C
+      nie sprawi, \u017Ce wszystko b\u0119dzie w porz\u0105dku. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8776731197440
+    m_Localized: "Skoro Alan tego nie us\u0142ysza\u0142, tym razem m\xF3g\u0142
+      po prostu odpu\u015Bci\u0107. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Localized: "To, \u017Ce Maria m\xF3wi, \u017Ce \u017Cartuje, nie oznacza, \u017Ce
+      \u200B\u200Bjej komentarze na temat Alana s\u0105 w porz\u0105dku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9254827327488
+    m_Localized: "To nie jest do ko\u0144ca w porz\u0105dku. Chc\u0119 si\u0119 upewni\u0107,
+      \u017Ce Alan nie czuje si\u0119 zraniony, \u017Ceby wygl\u0105da\u0142o to
+      lepiej."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10970805174272
+    m_Localized: "[0.00-4.00]\nTraktuj\u0119 to powa\u017Cnie, poniewa\u017C sp\u0119dzi\u0142em
+      troch\u0119 czasu na poznawaniu go. \n[4.00-7.05]\nNaprawd\u0119 stara si\u0119
+      by\u0107 przyjacielski w stosunku do ludzi, mimo \u017Ce nie jest towarzyski."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Localized: "Co {0} powinien/powinna zrobi\u0107 w nast\u0119pnej kolejno\u015Bci?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10985120333824
+    m_Localized: "Najwyra\u017Aniej nie stara si\u0119 wystarczaj\u0105co mocno. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11151973941248
+    m_Localized: "Trzeba spr\xF3bowa\u0107 z nim porozmawia\u0107. Wie du\u017Co
+      o wy\u015Bcigach Formu\u0142y 1. Uwielbiasz Formu\u0142\u0119 1, prawda?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11153991401472
+    m_Localized: "[0.00-2.00]\nNie chc\u0119 rozmawia\u0107 z Alanem. \n[2.00-5.88]\nJest
+      dziwny. Je\u015Bli chcesz, id\u017A i zosta\u0144 jego najlepszym przyjacielem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11266293579776
+    m_Localized: "Odpu\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Localized: "Zabierz g\u0142os"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Localized: "Nie chce zrani\u0107 uczu\u0107 Marii. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11664132014080
+    m_Localized: "Jake zdecydowa\u0142 si\u0119 od razu zabra\u0107 g\u0142os i porozmawia\u0107
+      szczerze z Mari\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Localized: "Powiedzenie czego\u015B mo\u017Ce tylko pogorszy\u0107 sytuacj\u0119 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Localized: "Nie chce ryzykowa\u0107, \u017Ce Alan us\u0142yszy o komentarzach
+      Marii. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Localized: "Mo\u017Ce poczeka\u0107 z zabraniem g\u0142osu/zg\u0142oszeniem
+      do chwili, gdy Maria ponownie powie co\u015B obra\u017Aliwego na temat Alana. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Localized: "Lubi Alana i nie podoba mu si\u0119 spos\xF3b, w jaki Maria o nim
+      m\xF3wi. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Localized: "Ju\u017C raz wypowiedzia\u0142 si\u0119 w obronie Alana, co powinno
+      wystarczy\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11795438895104
+    m_Localized: "W tym przypadku zabranie g\u0142osu w tej chwili nie przekona\u0142o
+      Marii do zmiany zachowania. Nie oznacza to, \u017Ce Jake pope\u0142ni\u0142
+      b\u0142\u0105d, pr\xF3buj\u0105c zabra\u0107 g\u0142os."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11797074673664
+    m_Localized: "Samuel postanowi\u0142 dowiedzie\u0107 si\u0119 czego\u015B wi\u0119cej
+      o Alanie i przesta\u0142 \u017Cartowa\u0107 za jego plecami."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Localized: "Uwa\u017Ca, \u017Ce \u200B\u200Bnikt nie zas\u0142uguje na to,
+      aby si\u0119 z niego na\u015Bmiewa\u0107, zw\u0142aszcza tylko z powodu tego,
+      kim jest.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Localized: "Wie, \u017Ce dokuczanie mo\u017Ce si\u0119 nasili\u0107, je\u015Bli
+      nie zrobi czego\u015B jeszcze. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11852275908608
+    m_Localized: "Mimo \u017Ce Jake nie zmieni\u0142 zachowania Marii, to po\u015Brednio
+      poprawi\u0142 \u015Brodowisko pracy, wp\u0142ywaj\u0105c na Samuela."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12206929477632
+    m_Localized: "\u015Awietna robota!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12335631695872
+    m_Localized: "Jake m\xF3g\u0142by te\u017C zg\u0142osi\u0107 komentarze Marii
+      swojemu menad\u017Cerowi. Dowiedz si\u0119, jak mog\u0142aby potoczy\u0107
+      si\u0119 ta rozmowa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12464291971072
+    m_Localized: "Hej, Dan, mo\u017Cesz teraz rozmawia\u0107?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12788276789248
+    m_Localized: Jasne, Jake.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12831557812224
+    m_Localized: "Chcia\u0142em z Tob\u0105 pogada\u0107 o rozmowie, kt\xF3r\u0105
+      niedawno odby\u0142em z Mari\u0105. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12835018113024
+    m_Localized: Czy Alan wie?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12838633603072
+    m_Localized: "Raczej nie. Nie chcia\u0142bym, \u017Ceby si\u0119 o tym dowiedzia\u0142. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12842815324160
+    m_Localized: "Dzi\u0119ki, \u017Ce da\u0142e\u015B mi zna\u0107. Porozmawiam
+      z ni\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12846002995200
+    m_Localized: "[0.00-4.00]\nNie chc\u0119, \u017Ceby by\u0142a na mnie z\u0142a,
+      ale chc\u0119, \u017Ceby Alan czu\u0142 si\u0119 w pracy bezpiecznie. \n[4.00-7.05]\nOpowiedzia\u0142
+      mi kilka rzeczy o sobie i poprosi\u0142, abym nikomu nie m\xF3wi\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12848926425088
+    m_Localized: "Porozmawiam z Mari\u0105 o tym, jak traktuje wsp\xF3\u0142pracownik\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12852130873344
+    m_Localized: "Dzi\u0119ki, Dan. Naprawd\u0119 to doceniam."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12856035770368
+    m_Localized: "[0.00-2.00]\nDzi\u0119kuj\u0119, \u017Ce stan\u0105\u0142e\u015B
+      w obronie Alana. \n[2.00-4.53]\nCi\u0119\u017Cko pracuje i cieszy si\u0119
+      z bycia cz\u0119\u015Bci\u0105 zespo\u0142u.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13400527732736
+    m_Localized: "Dan porozmawia\u0142 z Mari\u0105. By\u0142a zaskoczona i niezadowolona,
+      \u200B\u200B\u017Ce \u200B\u200Bjej komentarze zosta\u0142y zauwa\u017Cone,
+      ale przesta\u0142a \u017Cartowa\u0107 z Alana. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13507302129664
+    m_Localized: "Alan nigdy nie dowiedzia\u0142 si\u0119 o komentarzach Marii. Nadal
+      lubi swoj\u0105 prac\u0119 i rozwija umiej\u0119tno\u015Bci. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13509281841152
+    m_Localized: "Jake i Maria nie rozmawiali zbyt wiele po tym zg\u0142oszeniu,
+      ale dalej ze sob\u0105 wsp\xF3\u0142pracowali. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13511391576064
+    m_Localized: "\u015Awietna robota!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13700575657984
+    m_Localized: "Jake m\xF3g\u0142 tak\u017Ce porozmawia\u0107 bezpo\u015Brednio
+      z Mari\u0105. Dowiedz si\u0119, jak mog\u0142aby potoczy\u0107 si\u0119 ta
+      rozmowa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13702404374528
+    m_Localized: "Co by by\u0142o, gdyby Jake odpu\u015Bci\u0142? "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Localized: "Naprawd\u0119 nie chc\u0119, \u017Ceby cokolwiek dotar\u0142o do
+      Alana."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Localized: "Mo\u017Ce musz\u0119 to jeszcze raz przemy\u015Ble\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Localized: "Zar\xF3wno zabranie g\u0142osu w danej chwili, jak i zg\u0142oszenie,
+      albo jedno i drugie, pomo\u017Ce Alanowi unikn\u0105\u0107 n\u0119kania w pracy.\n\u017Badne
+      z dzia\u0142a\u0144 nie by\u0142o dla Jake\u2019a \u0142atwe. Okazanie solidarno\u015Bci
+      nie zawsze jest \u0142atwe, pomaganie wszystkim \u017Cy\u0107 zgodnie z warto\u015Bciami
+      firmy McDonald's jest jednak wa\u017Cn\u0105 cz\u0119\u015Bci\u0105 Twojej
+      pracy. \n\nCo by by\u0142o, gdyby Jake zachowa\u0142 si\u0119 inaczej?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15515450687488
+    m_Localized: "Je\u015Bli Maria \u017Ale potraktowa\u0142aby Jake'a po tym, jak
+      zg\u0142osi\u0142 jej zachowanie, zosta\u0142oby to uznane za dzia\u0142ania
+      odwetowe (lub wiktymizacj\u0119). Nigdy nie jest w porz\u0105dku podejmowa\u0107
+      dzia\u0142ania odwetowe przeciwko komu\u015B, kto zg\u0142osi\u0142 nieodpowiednie
+      zachowanie.  \nJe\u015Bli Jake kiedykolwiek poczu\u0142by, \u017Ce Maria bierze
+      na nim odwet, powinien zg\u0142osi\u0107 r\xF3wnie\u017C takie zachowanie.\n\nDzia\u0142ania
+      odwetowe mog\u0105 przybiera\u0107 r\xF3\u017Cne formy:\n\\u2022<indent=1em>Plotkowanie,
+      poni\u017Canie lub niesprawiedliwe krytykowanie\n </indent>\n\\u2022<indent=1em>Zwolnienie
+      z pracy\n</indent>\n\\u2022<indent=1em>Obni\u017Cenie wynagrodzenia lub godzin
+      pracy, degradacja lub przeniesienie\n</indent>\n"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774238
+  - m_Id: 16316051357696
+    m_Localized: "\\u2022<indent=1em>Maria i Samuel mog\u0105 w dalszym ci\u0105gu
+      wyg\u0142asza\u0107 z\u0142o\u015Bliwe lub pogardliwe uwagi na temat Alana,
+      co mo\u017Ce zach\u0119ci\u0107 innych do wyg\u0142aszania podobnych komentarzy.
+      \n</indent>\n\\u2022<indent=1em>Alan m\xF3g\u0142by w ko\u0144cu dowiedzie\u0107
+      si\u0119 o tych komentarzach. M\xF3g\u0142by czu\u0107 si\u0119 ma\u0142o bezpiecznie
+      w pracy, mog\u0142aby ucierpie\u0107 jego zdolno\u015B\u0107 do wykonywania
+      pracy lub m\xF3g\u0142by w ko\u0144cu zrezygnowa\u0107. \n</indent>\n"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774238
+  - m_Id: 16349987471360
+    m_Localized: "A co je\u015Bli Maria zem\u015Bci\u0142aby si\u0119 na Jake'u?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16412994306048
+    m_Localized: "A gdyby\u015Bmy znali my\u015Bli Alana?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16432816586752
+    m_Localized: "\\u2022 <indent=1em>Naprawd\u0119 staram si\u0119 by\u0107 tak
+      przyjacielski jak wszyscy inni. Jestem w tym o wiele lepszy ni\u017C kiedy\u015B.
+      </indent>\n\n\\u2022<indent=1em>Chcia\u0142bym, aby ludzie docenili moje mocne
+      strony, a nie tylko widzieli obszary, w kt\xF3rych musz\u0119 si\u0119 poprawi\u0107.
+      \n</indent>\n\\u2022 <indent=1em>Dan wie, \u017Ce stoj\u0105 przede mn\u0105
+      wyzwania, kt\xF3re wp\u0142ywaj\u0105 na moj\u0105 prac\u0119. Wprowadzi\u0142
+      zmiany, kt\xF3re mi pomagaj\u0105, na przyk\u0142ad pozwalaj\u0105c na dodatkow\u0105
+      przerw\u0119, kiedy jej potrzebuj\u0119. Ale wol\u0119 zachowa\u0107 to wszystko
+      dla siebie.\n</indent>\n\\u2022 <indent=1em>Kiedy s\u0142ysz\u0119, jak kto\u015B
+      si\u0119 ze mnie na\u015Bmiewa (zw\u0142aszcza gdy wydaje mu si\u0119, \u017Ce
+      mog\u0119 tego nie s\u0142ysze\u0107), czuj\u0119 si\u0119 okropnie. \n</indent>\n\nCo
+      jeszcze trzeba wiedzie\u0107?\n\\u2022 <indent=1em>McDonald\u2019s stara si\u0119
+      tworzy\u0107 przestrze\u0144 dla ludzi z r\xF3\u017Cnymi niepe\u0142nosprawno\u015Bciami,
+      w kt\xF3rej mog\u0105 czu\u0107 si\u0119 cz\u0119\u015Bci\u0105 spo\u0142eczno\u015Bci
+      McDonald\u2019s. \n</indent>\n\\u2022<indent=1em>McDonald\u2019s zapewnia odpowiednie
+      u\u0142atwienia dla wykwalifikowanych os\xF3b z niepe\u0142nosprawno\u015Bci\u0105
+      w ramach procesu aplikowania lub rekrutacji na wolne stanowiska lub w zwi\u0105zku
+      z wykonywaniem przez nie pracy.\n</indent>\n\\u2022<indent=1em>Mo\u017Cesz
+      by\u0107 osob\u0105 solidaryzuj\u0105c\u0105 si\u0119 ze wsp\xF3\u0142pracownikami
+      z niepe\u0142nosprawno\u015Bci\u0105. W tym celu poznawaj r\xF3\u017Cne rodzaje
+      niepe\u0142nosprawno\u015Bci oraz promuj dost\u0119pno\u015B\u0107 i otwarto\u015B\u0107.\n</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774238
+  - m_Id: 16655802253312
+    m_Localized: "McDonald\u2019s stara si\u0119 by\u0107 satysfakcjonuj\u0105cym
+      i przyjemnym miejscem pracy i rozwoju dla ka\u017Cdego."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Localized: "Bycie osob\u0105 solidarn\u0105 pokazuje, \u017Ce przyczyniasz
+      si\u0119 do budowy bezpiecznego \u015Brodowiska dla wszystkich wsp\xF3\u0142pracownik\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Localized: "Mo\u017Cesz pomaga\u0107 tworzy\u0107 kultur\u0119 wzajemnego szacunku,
+      staj\u0105c w obronie swoich wsp\xF3\u0142pracownik\xF3w.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Localized: "Pami\u0119taj, \u017Ce nie znasz historii stoj\u0105cej za ka\u017Cdym
+      ze wsp\xF3\u0142pracownik\xF3w. Twoim obowi\u0105zkiem jest sprawi\u0107, aby
+      wszyscy czuli si\u0119 mile widziani w McDonald\u2019s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Localized: Maria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Localized: Samuel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17400073109504
+    m_Localized: Jake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Localized: "Bezpiecze\u0144stwo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Localized: Wzajemny szacunek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Localized: "Otwarto\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100570604847104
+    m_Localized: Alan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1126879934103552
+    m_Localized: "[0.00-4.20]\n\u017Bartuj\u0119, nie powiedzia\u0142abym mu nic
+      w twarz. \n[4.20-8.85]\nNie zawsze musisz wszystko bra\u0107 na powa\u017Cnie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1198907840086016
+    m_Localized: Dan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1575028882804736
+    m_Localized: " Po prostu nie podoba mi si\u0119, \u017Ce mo\u017Ce poczu\u0107
+      si\u0119 zraniony, je\u015Bli us\u0142yszy, co m\xF3wi Maria."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4014003593547776
+    m_Localized: "[0.00-4.60]\nNa\u015Bmiewa si\u0119 z Alana za jego plecami, m\xF3wi\u0105c
+      o jego interakcjach z lud\u017Ami.\n[4.60-6.06]\nMartwi\u0119 si\u0119, \u017Ce
+      b\u0119dzie to robi\u0107 dalej."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34956696487976960
+    m_Localized: Samuel, Jake i Maria w pokoju socjalnym restauracji McDonald's
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34956705736417280
+    m_Localized: "Jake i Dan stoj\u0105 w pokoju socjalnym restauracji McDonald's"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34957367509508096
+    m_Localized: Jake, Maria i Samuel w pokoju socjalnym restauracji McDonald's
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2394929133959774238
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 000072e0d60e00000040ed781c0e000000003210f20e00000040ed24e4050000

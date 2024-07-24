@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d35bd9d9cde486ea63879af13039245, type: 3}
+  m_Name: CharacterData_Scenario_05_Sofia_Outcome
+  m_EditorClassIdentifier: 
+  m_ShowcaseTemplate: {fileID: 4180086515651808831, guid: ea78daf6795d58e438b295910f3bf317, type: 3}
+  m_DialogueTemplate: {fileID: 7120318949008123865, guid: b29690198ee602540964ae3a388ff143, type: 3}
+  characterName:
+    m_TableReference:
+      m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+    m_TableEntryReference:
+      m_KeyId: 17400073109504
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  characterInfo:
+    m_TableReference:
+      m_TableCollectionName: GUID:16fc587a71cebcc4e837c1a6473dfb35
+    m_TableEntryReference:
+      m_KeyId: 12209512372113408
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []

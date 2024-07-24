@@ -1,0 +1,461 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario2_Table_sk-SK
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sk-SK
+  m_SharedData: {fileID: 11400000, guid: 546bd2c46a601bb499bd0cdab1e7328e, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2394929133959774218
+  m_TableData:
+  - m_Id: 466376015872
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 944228876288
+    m_Localized: "Je \u010Dlenom t\xEDmu 1 rok."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166791229440
+    m_Localized: "Je \u010Dlenkou t\xEDmu 8 mesiacov."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1222629998592
+    m_Localized: "Je \u010Dlenkou t\xEDmu 6 mesiacov."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2493600579584
+    m_Localized: "S\xFA \u010Dlenmi t\xEDmu, ktor\xED \u010Dasto pracuj\xFA spolu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Localized: "\u010Eakujem za odpor\xFA\u010Danie tohto seri\xE1lu, v\u010Dera
+      ve\u010Der som ho dopozerala. Bolo to super!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Localized: "Vedel som, \u017Ee sa ti to bude p\xE1\u010Di\u0165!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Localized: "Minul\xFD t\xFD\u017Ede\u0148 som o \u0148om povedala Liamovi.
+      Aj on sa na to namotal."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Localized: "Liam nebude ma\u0165 ve\u013Ea \u010Dasu pozera\u0165 telku, ke\u010F
+      ho pov\xFD\u0161ia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Localized: "Liama id\xFA pov\xFD\u0161i\u0165?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Localized: "E\u0161te nie. Ale je takmer jasn\xE9, \u017Ee dostane vo\u013En\xFA
+      poz\xEDciu ved\xFAceho zmeny."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Localized: "[0.00-6.10]\nAch, chcela som sa o \u0148u uch\xE1dza\u0165. M\xF4\u017Ee
+      to by\u0165 skvel\xE1 pr\xEDle\u017Eitos\u0165. \n[6.10-8.00]\nIde sa niekto
+      z v\xE1s prihl\xE1si\u0165?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Localized: "[0.00-3.60]\nNie, nem\xF4\u017Eem. Moja dc\xE9ra m\xE1 to\u013Eko
+      aktiv\xEDt.\n[3.60-6.91]  \nM\xE1me toho ve\u013Ea. Rodi\u010Dov nepovy\u0161uj\xFA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Localized: "To mysl\xED\u0161 v\xE1\u017Ene?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4219418263552
+    m_Localized: "Nie, ale je to ak\xE9si \u201Enep\xEDsan\xE9 pravidlo\u201C. M\xE1\u0161
+      deti?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4248908414976
+    m_Localized: "\xC1no. Ale len jedno."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300582240256
+    m_Localized: "[0.00-3.00]\nPotom proti Liamovi nem\xE1\u0161 \u0161ancu. \n[3.00-5.80]\nNem\xE1
+      \u017Eiadne deti ani in\xE9 z\xE1v\xE4zky, ktor\xE9 by ho odv\xE1dzali od pr\xE1ce."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348598632448
+    m_Localized: "[0.00-4.50]\nTo je d\xF4vod, pre\u010Do na ved\xFAceho zmeny oby\u010Dajne
+      pov\xFD\u0161ia niekoho, kto nem\xE1 deti. \n[4.50-6.98]\nStav\xEDm sa, \u017Ee
+      Anna predpoklad\xE1, \u017Ee sa bud\xFA viac venova\u0165 pr\xE1ci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4370207686656
+    m_Localized: "[0.00-1.89]\nNie som si \xFAplne ist\xFD. \n[1.89-4.40]\nAle posledn\xED
+      dvaja ved\xFAci zmeny boli slobodn\xED mu\u017Ei, \n[4.40-6.24]\nbez rodinn\xFDch
+      z\xE1v\xE4zkov."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4395776163840
+    m_Localized: "Zd\xE1 sa mi to nespravodliv\xE9, ak je to tak."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4423588593664
+    m_Localized: "[0.00-4.10]\nNikdy som to nepo\u010Dula Annu poveda\u0165, ale
+      Miguel m\xE1 pravdu. \n[4.10-7.15]\nNem\xE1rni \u010Das, Aisha. Nikdy to nedostane\u0161."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Localized: "[0.00-3.40]\nAhoj Anna, m\xE1\u0161 chv\xED\u013Eku na rozhovor?
+      \n[3.40-6.04]\nM\xE1m p\xE1r ot\xE1zok oh\u013Eadom poz\xEDcie ved\xFAceho
+      zmeny."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Localized: "Ahoj Aisha, samozrejme. M\xF4\u017Eem aj teraz, \u010Do by si chcela
+      prebra\u0165?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Localized: "[0.00-3.00]\nPr\xE1ca ma bav\xED a chcela by som sa pos\xFAva\u0165
+      \u010Falej.  \n[3.00-6.00]\nMysl\xEDm, \u017Ee by bola pre m\u0148a vhodn\xE1
+      poz\xEDcia ved\xFAcej zmeny."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6477430210560
+    m_Localized: "[0.00-1.78]\nTo rada po\u010Dujem, Aisha. \n[1.78-5.80]\nDobre
+      vych\xE1dza\u0161 s \u013Eu\u010Fmi a v\u0161imla som si, \u017Ee si \u0165a
+      tvoji spolupracovn\xEDci naozaj v\xE1\u017Eia. \n[5.80-9.33]\nSom rada, \u017Ee
+      uva\u017Euje\u0161 o poz\xEDcii ved\xFAcej zmeny."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478063550464
+    m_Localized: "[0.00-4.00]\nLen som si nie celkom ist\xE1, \u010Di sa na t\xFA
+      pr\xE1cu hod\xEDm. \n[4.00-7.05]\nMusela by som ma\u0165 ve\u013Ea poobedn\xFDch
+      zmien, keby som to miesto dostala?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478696890368
+    m_Localized: "[0.00-2.30]\nNie nevyhnutne. \n[2.30-5.80]\nNov\xFDm ved\xFAcim
+      odpor\xFA\u010Dam pracova\u0165 na r\xF4znych zmen\xE1ch,\n[5.80-8.06]\naby
+      porozumeli v\u0161etk\xFDm aspektom pr\xE1ce. \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Localized: "[0.00-2.70]\nTo rada po\u010Dujem. \n[2.70-5.00]\nViete, niektor\xED
+      moji kolegovia si myslia, \u017Ee povy\u0161ujete\n[5.00-8.06]\nlen t\xFDch,
+      ktor\xED nemaj\xFA deti ani in\xE9 rodinn\xE9 z\xE1v\xE4zky. \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Localized: "[0.00-3.20]\nNaozaj? To je mi \u013E\xFAto. \n[3.20-8.68]\nNikdy
+      by som pov\xFD\u0161enie neobmedzila na z\xE1klade toho, ak\xE9 m\xE1 niekto
+      pohlavie alebo rodinn\xE9 z\xE1v\xE4zky."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Localized: "\u010Eakujem! Ve\u013Emi sa te\u0161\xEDm, \u017Ee sa m\xF4\u017Eem
+      prihl\xE1si\u0165."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Localized: "Ke\u010F\u017Ee Aisha m\xE1 die\u0165a, nem\xE1 \u0161ancu na pov\xFD\u0161enie
+      oproti niekomu, ako je Liam."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Localized: "Miguel sa domnieva, \u017Ee Aisha by nemohla by\u0165 pov\xFD\u0161en\xE1
+      pre jej pohlavie/rodinn\xFD stav."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Localized: "Viem, \u017Ee m\xE1m na to, aby som bola ved\xFAcou zmeny, ale
+      nikdy by ma nepov\xFD\u0161ili pre moje rodinn\xE9 z\xE1v\xE4zky."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Localized: "Miguel sa domnieva, \u017Ee by ho nikdy nepov\xFD\u0161ili pre
+      jeho rodinn\xFD stav."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Localized: "To je \u0161koda. Aisha by bola skvel\xE1 ved\xFAca zmeny, ale
+      Miguel m\xE1 pravdu. V\xE4\u010D\u0161ina ved\xFAcich zmeny nem\xE1 deti ani
+      ve\u013Ea povinnost\xED mimo pr\xE1ce. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Localized: "Mira si mysl\xED, \u017Ee Aisha m\xE1 predpoklady sta\u0165 sa
+      ved\xFAcou zmeny, ale ob\xE1va sa, \u017Ee ju nepov\xFD\u0161ia, preto\u017Ee
+      m\xE1 die\u0165a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7931473772544
+    m_Localized: "Mo\u017Eno maj\xFA Miguel a Mira pravdu. Nemala by som sa v\xF4bec
+      uch\xE1dza\u0165 o miesto ved\xFAcej zmeny."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8271615049728
+    m_Localized: "Aisha sa mo\u017Eno nebude uch\xE1dza\u0165 o toto miesto, aj ke\u010F
+      by chcela, pre to, \u010Do jej povedali Miguel a Mira."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Localized: "Ak nem\xE1m \u0161ancu na pov\xFD\u0161enie, nie som si ist\xE1,
+      \u010Di tu chcem zosta\u0165. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Localized: "Aisha zva\u017Euje odchod zo spolo\u010Dnosti McDonald\u2019s pre
+      to, \u010Do po\u010Dula."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8462938226688
+    m_Localized: "Mohla by som sa op\xFDta\u0165 Anny, ako postupuje pri pov\xFD\u0161en\xED.
+      Ale nechcem, aby to vyznelo tak, \u017Ee ju z nie\u010Doho obvi\u0148ujem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8464821469184
+    m_Localized: "Aisha chce hovori\u0165 s Annou, ale nie je si ist\xE1, \u010Do
+      m\xE1 poveda\u0165."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Localized: "Prostredie bez diskrimin\xE1cie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Localized: "Diskrimin\xE1cia je nespravodliv\xE9 zaobch\xE1dzanie so zamestnancom
+      na z\xE1klade charakterist\xEDk, ako je rasa, zdravotn\xE9 postihnutie, n\xE1bo\u017Eenstvo,
+      pohlavie alebo rodinn\xFD stav (okrem in\xE9ho). \nAk m\xE1te pocit, \u017Ee
+      va\u0161e<b> pracovn\xE9 postavenie je ohrozen\xE9</b> na z\xE1klade v\xE1\u0161ho
+      pohlavia alebo rodinn\xFDch z\xE1v\xE4zkov, pr\xEDpadne predpokladov zalo\u017Een\xFDch
+      na nich,\_nahl\xE1ste to."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Localized: "Aishino pohlavie alebo rozhodnutie ma\u0165 deti by nemali by\u0165
+      faktorom pri rozhodovan\xED o jej zamestnan\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Localized: "\u0160\xEDrenie domnienok alebo nespr\xE1vneho vn\xEDmania (aj
+      ke\u010F <b>nie so z\xE1merom ohov\xE1ra\u0165 alebo zastra\u0161ova\u0165</b>)
+      m\xF4\u017Ee ostatn\xFDch odradi\u0165 od toho, aby \u010Do najlep\u0161ie
+      vykon\xE1vali svoju pr\xE1cu alebo aby vyu\u017Eili svoj potenci\xE1l."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Localized: "Pozn\xE1mky Miguela a Miry by mohli Aishu zastra\u0161i\u0165,
+      aby nepo\u017Eiadala o pov\xFD\u0161enie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Localized: "\u010Co m\xE1 {0} urobi\u0165 \u010Falej?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11266293579776
+    m_Localized: "Necha\u0165 to tak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Localized: "Nahl\xE1si\u0165 to"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Localized: "Predt\xFDm, ako p\xF4jde za Annou, potrebuje d\xF4kaz, \u017Ee
+      povy\u0161uje iba slobodn\xFDch mu\u017Eov. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Localized: "Mala by sa op\xFDta\u0165 Anny, \u010Do o\u010Dak\xE1va od nov\xE9ho
+      ved\xFAceho zmeny, namiesto spoliehania sa na domnienky ostatn\xFDch."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Localized: "Miguel a Mira maj\xFA viac sk\xFAsenost\xED, preto by sa mala riadi\u0165
+      ich radami."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Localized: "Svoje obavy v s\xFAvislosti s procesom pov\xFD\u0161enia by mohla
+      vyjadri\u0165 prostredn\xEDctvom pr\xEDslu\u0161n\xFDch kan\xE1lov."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Localized: "Mala by si h\u013Eada\u0165 \u013Eah\u0161iu pr\xE1cu a vyh\xFDba\u0165
+      sa akejko\u013Evek konfront\xE1cii."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Localized: "Svoju pr\xE1cu m\xE1 rada a d\xFAfa, \u017Ee v spolo\u010Dnosti
+      McDonald\u2019s bude ma\u0165 bud\xFAcnos\u0165. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Localized: "Jej pohlavie alebo rodinn\xE9 z\xE1v\xE4zky by nemali ma\u0165
+      \u017Eiadny vplyv na rozhodnutia o jej kari\xE9re."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Localized: "Nechcela by riskova\u0165, \u017Ee Annu nahnev\xE1."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Localized: "Mala by som sa nad t\xFDm lep\u0161ie zamyslie\u0165."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Localized: "E\u0161te st\xE1le to nie je celkom spr\xE1vne. Toto bude lep\u0161ie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Localized: "\\u2022 <indent=1em>Ke\u010F Aisha vyjadrila svoje obavy Anne,
+      Anna takisto vyu\u017Eila pr\xEDle\u017Eitos\u0165 a objasnila o\u010Dak\xE1vania
+      t\xFDkaj\xFAce sa tejto poz\xEDcie cel\xE9mu t\xEDmu, v\u010Faka \u010Domu
+      sa ostatn\xED c\xEDtili viac zapojen\xED a v\xEDtan\xED, aby sa prihl\xE1sili.</indent>\n\\u2022
+      <indent=1em>V d\xF4sledku toho sa Miguel rozhodol uch\xE1dza\u0165 o t\xFAto
+      poz\xEDciu.</indent>\n\n\u010Co keby bola b\xFDvala Aisha konala inak?"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774218
+  - m_Id: 15426061680640
+    m_Localized: "\u010Co keby Aisha s Annou nebola b\xFDvala hovorila?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15471767011328
+    m_Localized: "\\u2022 <indent=1em>Mohol by ju mrzie\u0165 predpokladan\xFD nedostatok
+      pr\xEDle\u017Eitost\xED a pr\xE1ca by ju tak prestala bavi\u0165.</indent>\n\\u2022
+      <indent=1em>Nikdy by v skuto\u010Dnosti nezistila, ako mohla v spolo\u010Dnosti
+      McDonald\u2019s kari\xE9rne r\xE1s\u0165.</indent>\n\\u2022 <indent=1em>Mo\u017Eno
+      by si za\u010Dala h\u013Eada\u0165 nov\xFA pr\xE1cu mimo spolo\u010Dnosti McDonald\u2019s.
+      </indent>\n\\u2022 <indent=1em>Ak by sa o poz\xEDciu uch\xE1dzala a nez\xEDskala
+      by ju, mohla by za\u010Da\u0165 veri\u0165 domnienkam, ktor\xE9 po\u010Dula
+      od Miguela a Miry. </indent>\n\\u2022 <indent=1em>Miguel a Mira by mohli \u010Falej
+      zastra\u0161ova\u0165 ostatn\xFDch.</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774218
+  - m_Id: 15505216585728
+    m_Localized: "\u010Co keby Anna skuto\u010Dne diskriminovala?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15515450687488
+    m_Localized: "Keby mal niektor\xFD z \u010Dlenov t\xEDmu obavy t\xFDkaj\xFAce
+      sa procesu pov\xFD\u0161enia, mohol by ich nahl\xE1si\u0165 prostredn\xEDctvom
+      vhodn\xFDch kontaktn\xFDch os\xF4b. \n\nPo vyjadren\xED jej ob\xE1v by sa podnikli
+      pr\xEDslu\u0161n\xE9 kroky s cie\u013Eom zisti\u0165, \u010Di Anna diskriminuje
+      zamestnancov na z\xE1klade ich pohlavia alebo rodinn\xFDch z\xE1v\xE4zkov. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16655802253312
+    m_Localized: "Zachov\xE1van\xEDm z\xE1kladn\xFDch hodn\xF4t spolo\u010Dnosti
+      McDonald\u2019s m\xF4\u017Eete vo svojej re\u0161taur\xE1cii pom\xF4c\u0165
+      budova\u0165 <b>bezpe\u010Dn\xFA, re\u0161pektuj\xFAcu a inkluz\xEDvnu kult\xFAru</b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Localized: "\u013Dudia, ktor\xED sa na pracovisku c\xEDtia bezpe\u010Dne, maj\xFA
+      v\xE4\u010D\u0161iu tendenciu zosta\u0165 a kari\xE9rne r\xE1s\u0165 a vykazuj\xFA
+      vy\u0161\u0161iu mieru spokojnosti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Localized: "Podnikanie spr\xE1vnych krokov, napr\xEDklad nahl\xE1senie nevhodn\xFDch
+      pozn\xE1mok, m\xF4\u017Ee ma\u0165 domino efekt, v\u010Faka ktor\xE9mu sa aj
+      ostatn\xED bud\xFA c\xEDti\u0165 viac re\u0161pektovan\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Localized: "V\u0161etky rozhodnutia t\xFDkaj\xFAce sa zamestnania (vr\xE1tane
+      pov\xFD\u0161enia) musia by\u0165 zalo\u017Een\xE9 na kvalifik\xE1cii a nie
+      na osobn\xFDch charakteristik\xE1ch, ako je pohlavie, vek alebo rodinn\xE9
+      z\xE1v\xE4zky."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Localized: Miguel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Localized: Mira
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17400073109504
+    m_Localized: Aisha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Localized: "Bezpe\u010Dn\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Localized: "Re\u0161pektuj\xFAce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Localized: "Inkluz\xEDvne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296104909160448
+    m_Localized: "Zd\xE1 sa mi to spr\xE1vne, idem do toho."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303875540992000
+    m_Localized: Anna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113546642558976
+    m_Localized: "Va\u0161e slov\xE1 ovplyv\u0148uj\xFA ostatn\xFDch"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344469507850240
+    m_Localized: "[0.00-3.40]\nNieko\u013Eko posledn\xFDch ved\xFAcich si p\xFDtalo
+      viac poobedn\xFDch zmien. \n[3.40-7.56]\nM\xF4\u017Eeme v\u0161ak napl\xE1nova\u0165
+      rozpis pod\u013Ea toho, \u010Do by ti najlep\u0161ie vyhovovalo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1345536433930240
+    m_Localized: "Dokonca spomenuli, \u017Ee \u010Dasto povy\u0161uje\u0161 slobodn\xFDch
+      mu\u017Eov."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1345861337300992
+    m_Localized: "[0.00-2.10]\n\u010Eakujem, \u017Ee si mi to povedala. \n[2.10-4.40]\nUr\u010Dite
+      v\u0161etk\xFDm ozn\xE1mim, \u017Ee s\xFA v\xEDtan\xED\n[4.40-7.56]\nsa uch\xE1dza\u0165
+      o vy\u0161\u0161ie poz\xEDcie a lep\u0161ie na\u010Drtnem svoje o\u010Dak\xE1vania."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7901011161989120
+    m_Localized: "Aisha to nahlasuje Anne, svojej mana\u017E\xE9rke."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36295452922994688
+    m_Localized: "Miguel, Mira a Aisha stojaci v oddychovej miestnosti re\u0161taur\xE1cie
+      McDonald's"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36295544098775040
+    m_Localized: "Aisha a Anna sedia v oddychovej miestnosti re\u0161taur\xE1cie
+      McDonald's"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2394929133959774218
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00402df3f20d000000402d4d120e0000

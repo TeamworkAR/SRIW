@@ -1,0 +1,602 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario4_Table_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: cf2d1ef1053fd584cb0013e6eed1a750, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2394929133959774236
+  m_TableData:
+  - m_Id: 466376015872
+    m_Localized: Diskriminierung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 860133392384
+    m_Localized: Sie arbeiten oft und gerne zusammen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 944228876288
+    m_Localized: "Ist seit 3\_Monaten ein Crew-Mitglied"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3102777409536
+    m_Localized: "Nerv\xF6s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3249083121664
+    m_Localized: "W\xFCtend\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3257173934080
+    m_Localized: Unbesorgt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3259564687360
+    m_Localized: "Gl\xFCcklich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3269194809344
+    m_Localized: Besorgt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3274131505152
+    m_Localized: "Ver\xE4rgert"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276333514752
+    m_Localized: Unbesorgt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3278724268032
+    m_Localized: "Gl\xFCcklich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3284759871488
+    m_Localized: "Nerv\xF6s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3288031428608
+    m_Localized: "Ver\xE4rgert"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3290644480000
+    m_Localized: Unbesorgt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3292976513024
+    m_Localized: "Gl\xFCcklich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Localized: Hey Jake, wo arbeitest du heute?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Localized: 'Hallo Maria. Hallo Samuel. Ich beginne an der Theke. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Localized: "[0.00-3.50]\nOh, dann sollte das kein Problem sein. \n[3.50-8.44]\nIch
+      glaube, Alan wird auch da sein. Du kannst ihm also helfen. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Localized: "Was meinst du mit \u201Eihm helfen\u201C?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Localized: "Ach, du wei\xDFt schon. Er kann anderen nicht einmal in die Augen
+      schauen. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Localized: Aber er kann das exakte Wechselgeld schneller berechnen als die
+      POS (Point of Sale)!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Localized: "[0.00-4.00]\nDas ist wohl wahr. Aber das macht nicht wett, wie
+      unbeholfen er ist. \n[4.00-8.80]\nIch meine, er kann nicht einmal Smalltalk
+      halten. Ich wette, die Kunden m\xF6gen ihn nicht.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Localized: "[0.00-3.40]\nKomm schon, Maria. Alan kann wirklich cool sein. \n[3.40-8.00]\nNur
+      weil er einige soziale Herausforderungen hat - hei\xDFt das nicht, dass er
+      seine Arbeit nicht machen kann. \n[8.00-10.05]\nEr kann hier einiges viel besser
+      als ich."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Localized: Komm schon, Jake.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Localized: Melden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Localized: "Sei ein Verb\xFCndeter"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Localized: "Jake hat eine Arbeitsbeziehung zu Alan aufgebaut, die ihm hilft,
+      ein Verb\xFCndeter zu sein. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6477430210560
+    m_Localized: "Wenn du Zeuge einer Erfahrung wirst, die nicht den Werten von McDonalds
+      entspricht, hast du die M\xF6glichkeit, dich wie ein Verb\xFCndeter zu verhalten. 
+      \nEin Verb\xFCndeter setzt sich f\xFCr andere ein, indem er:\n<align=\"left\">\n\u2022
+      <indent=1em>ihnen zuh\xF6rt und starke Arbeitsbeziehungen aufbaut\n</indent>\n-
+      <indent=1em>positive Verhaltensweisen vorlebt\n</indent>\n\u2022 <indent=1em>du
+      deinen Einfluss nutzt, um anderen zu helfen\n</indent>\n"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774236
+  - m_Id: 6478696890368
+    m_Localized: "Ich habe Alan ein wenig kennengelernt \u2013 wenn er h\xF6ren w\xFCrde,
+      was Maria und Samuel sagen, w\xE4re er am Boden zerst\xF6rt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Localized: "Jake versteht, wie verletzend diese Kommentare f\xFCr Alan sein
+      k\xF6nnen. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Localized: "Maria redet immer hinter dem R\xFCcken anderer. Da frage ich mich,
+      was sie \xFCber mich sagt, wenn ich nicht da bin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Localized: "Durch Marias Kommentare \xFCber andere f\xFChlt sich Jake bei der
+      Arbeit unsicher und unerw\xFCnscht."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6598260031488
+    m_Localized: Beleidigende Witze sind unangemessen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Localized: "Maria hat hier viele Freunde. Wenn ich Maria etwas sage oder es
+      melde, k\xF6nnte sie auch andere gegen mich aufbringen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Localized: "Jake f\xFCrchtet die Konsequenzen, wenn er sich \xE4u\xDFert oder
+      es meldet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Localized: "Nat\xFCrlich w\xFCrde ich ihm das nie ins Gesicht sagen. Ich bin
+      kein Dummkopf."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Localized: "Maria meint, ihre Bemerkungen \xFCber Alan seien in Ordnung, da
+      sie es ihm nicht direkt gesagt hat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Localized: "An dem, was ich gesagt habe, ist nichts falsch, er ist nur anders\_...\_und
+      ich wei\xDF nicht, ob er das Zeug dazu hat, die Arbeit zu erledigen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Localized: "Maria findet es in Ordnung, beleidigende Kommentare \xFCber die
+      Unterschiede zwischen Menschen abzugeben."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7931473772544
+    m_Localized: "Ich mag es, bei der Arbeit lachen zu k\xF6nnen. Samuel versteht
+      das. Wenn es Jake nicht gef\xE4llt, ist das sein Problem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8271615049728
+    m_Localized: "Maria wird weiterhin Kommentare wie die \xFCber Alan abgeben."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Localized: "Vielleicht hat Jake recht. Wir sollten nicht so \xFCber Alan reden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Localized: "Samuel m\xF6chte sich nicht \xFCber Alan lustig machen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8462938226688
+    m_Localized: "Wenigstens habe ich etwas Nettes \xFCber Alan gesagt. Ich hoffe,
+      Jake h\xE4lt mich nicht f\xFCr gemein."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8464821469184
+    m_Localized: "Samuel glaubt, dass seine Kommentare in Ordnung sind, weil er etwas
+      Nettes \xFCber Alan gesagt hat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Localized: Tratsche nicht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Localized: "Klatsch und Tratsch \xFCber andere, insbesondere beleidigende oder
+      anst\xF6\xDFige Ausdr\xFCcke, k\xF6nnen f\xFCr die Personen, \xFCber die gesprochen
+      wird, nachteilig sein. Es kann auch f\xFCr die Personen, die das Gespr\xE4ch
+      mitbekommen, nachteilig sein, denn sie k\xF6nnten sich verunsichert oder schikaniert
+      f\xFChlen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Localized: "Die Kommentare von Maria und Samuel k\xF6nnen Alan verletzen, auch
+      wenn er sie nicht geh\xF6rt hat. Sie k\xF6nnen auch dazu f\xFChren, dass Jake
+      sich unsicherer f\xFChlt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Localized: "Jemanden zu warnen, dass er im Begriff ist, etwas Beleidigendes
+      sagen, bedeutet nicht, dass es in Ordnung ist. Zu sagen \u201EIch habe nur
+      Spa\xDF gemacht\u201C oder \u201EIch habe es nicht b\xF6se gemeint\u201C, nachdem
+      man etwas gesagt hat, macht es auch nicht besser. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8776731197440
+    m_Localized: "Da Alan es nicht geh\xF6rt hat, k\xF6nnte er es auf sich beruhen
+      lassen. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Localized: "Nur weil Maria sagt, dass sie nur scherzt, sind ihre Bemerkungen
+      \xFCber Alan nicht in Ordnung."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9254827327488
+    m_Localized: "Das ist nicht ganz richtig. Ich m\xF6chte sichergehen, dass Alan
+      nicht verletzt ist, damit es besser aussieht."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10970805174272
+    m_Localized: "[0.00-4.00]\nIch nehme es ernst, weil ich Zeit damit verbracht
+      habe, ihn kennen zu lernen. \n[4.00-7.05]\nEr versucht wirklich, freundlich
+      zu den Menschen zu sein, obwohl er nicht gesellig ist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Localized: "Was sollte er {0} als N\xE4chstes tun?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10985120333824
+    m_Localized: "Er gibt sich offensichtlich nicht genug M\xFChe. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11151973941248
+    m_Localized: "Du solltest versuchen, mit ihm zu reden. Er wei\xDF eine Menge
+      \xFCber die Formel 1. Du liebst die Formel 1, nicht wahr?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11153991401472
+    m_Localized: "[0.00-2.00]\nIch m\xF6chte nicht mit Alan sprechen. \n[2.00-5.88]\nEr
+      ist seltsam. Geh und sei mit ihm befreundet, wenn du willst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11266293579776
+    m_Localized: Lass es auf sich beruhen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Localized: "\xC4u\xDFere dich offen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Localized: "Er m\xF6chte Marias Gef\xFChle nicht verletzen. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11664132014080
+    m_Localized: Jake hat sich entschieden, Maria im richtigen Moment direkt und
+      offen anzusprechen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Localized: "Etwas zu sagen, k\xF6nnte die Situation nur noch schlimmer machen "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Localized: "Er will nicht riskieren, dass Alan von Marias Bemerkungen erf\xE4hrt. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Localized: "Er kann mit seiner \xC4u\xDFerung/Meldung warten, bis Maria das
+      n\xE4chste Mal etwas Beleidigendes \xFCber Alan sagt. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Localized: "Er mag Alan, und es gef\xE4llt ihm nicht, wie Maria \xFCber ihn
+      spricht. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Localized: "Er hat sich bereits einmal offen ge\xE4u\xDFert, um Alan zu verteidigen,
+      das sollte gen\xFCgen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11795438895104
+    m_Localized: "Das Wort im richtigen Moment zu ergreifen, hat Maria in diesem
+      Fall nicht davon \xFCberzeugt, ihr Verhalten zu \xE4ndern. Das bedeutet aber
+      nicht, dass es falsch war, dass Jake versucht hat, den Mund aufzumachen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11797074673664
+    m_Localized: "Samuel beschloss, mehr \xFCber Alan zu erfahren, und h\xF6rte auf,
+      hinter seinem R\xFCcken Witze zu machen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Localized: 'Er ist der Meinung, dass niemand es verdient hat, verspottet zu
+      werden, vor allem nicht, weil er so ist, wie er ist.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Localized: "Er wei\xDF, dass die H\xE4nseleien noch schlimmer werden k\xF6nnten,
+      wenn er nichts weiter unternimmt. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11852275908608
+    m_Localized: "Auch wenn Jake Marias Verhalten nicht ver\xE4ndert hat, hat er
+      das Arbeitsumfeld doch indirekt verbessert, indem er Samuel beeinflusst hat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12206929477632
+    m_Localized: Gute Arbeit!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12335631695872
+    m_Localized: "Jake h\xE4tte Marias Kommentare auch seinem Manager melden k\xF6nnen.
+      Finde heraus, wie dieses Gespr\xE4ch h\xE4tte verlaufen sein k\xF6nnen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12464291971072
+    m_Localized: Hey Dan, kannst du jetzt reden?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12788276789248
+    m_Localized: Sicher, Jake.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12831557812224
+    m_Localized: "Ich wollte mit dir \xFCber eine Unterhaltung sprechen, die ich
+      k\xFCrzlich mit Maria gef\xFChrt habe. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12835018113024
+    m_Localized: "Wei\xDF Alan davon?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12838633603072
+    m_Localized: "Ich glaube nicht. Ich w\xFCrde nicht wollen, dass er davon erf\xE4hrt. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12842815324160
+    m_Localized: "Danke f\xFCr den Hinweis. Ich werde Zeit finden, um mit ihr zu
+      sprechen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12846002995200
+    m_Localized: "[0.00-4.00]\nIch m\xF6chte nicht, dass sie sauer auf mich ist,
+      aber ich m\xF6chte, dass Alan sich bei der Arbeit sicher f\xFChlt. \n[4.00-7.05]\nEr
+      hat mir ein paar Dinge \xFCber sich erz\xE4hlt und mich gebeten, es nicht weiterzusagen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12848926425088
+    m_Localized: "Ich werde mit Maria \xFCber ihren Umgang mit Kollegen sprechen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12852130873344
+    m_Localized: "Danke, Dan. Ich sch\xE4tze das wirklich sehr."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12856035770368
+    m_Localized: "[0.00-2.00]\nDanke, dass du dich f\xFCr Alan eingesetzt hast. \n[2.00-4.53]\nEr
+      arbeitet hart und genie\xDFt es, Teil des Teams zu sein.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13400527732736
+    m_Localized: "Dan sprach anschlie\xDFend mit Maria. Sie war \xFCberrascht und
+      ungl\xFCcklich dar\xFCber, dass ihre \xC4u\xDFerungen gemeldet wurden, aber
+      sie h\xF6rte auf, Witze \xFCber Alan zu machen. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13507302129664
+    m_Localized: "Alan hat nie etwas von Marias Bemerkungen erfahren. Er hatte weiterhin
+      Spa\xDF an seiner Arbeit und hat seine F\xE4higkeiten weiterentwickelt. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13509281841152
+    m_Localized: 'Jake und Maria haben nach dieser Meldung nicht viel miteinander
+      gesprochen, aber sie konnten weiterhin zusammenarbeiten. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13511391576064
+    m_Localized: Gute Arbeit!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13700575657984
+    m_Localized: "Jake h\xE4tte sich auch direkt an Maria wenden k\xF6nnen. Finden
+      Sie heraus, wie dieses Gespr\xE4ch verlaufen sein k\xF6nnte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13702404374528
+    m_Localized: "Was w\xE4re, wenn Jake es auf sich h\xE4tte beruhen lassen? "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Localized: "Ich m\xF6chte wirklich nicht, dass etwas auf Alan zur\xFCckf\xE4llt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Localized: "Vielleicht muss ich das noch einmal \xFCberdenken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Localized: "Entweder ergreift er im richtigen Moment das Wort und/oder er meldet
+      es, um Alan davor zu bewahren, am Arbeitsplatz gemobbt zu werden.\nBeide Aktionen
+      waren f\xFCr Jake nicht einfach. Es ist nicht immer einfach, ein Verb\xFCndeter
+      zu sein, aber es ist ein wichtiger Teil deines Jobs, allen dabei zu helfen,
+      die Werte von McDonalds zu leben. \n\nWas w\xE4re, wenn Jake anders gehandelt
+      h\xE4tte?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15515450687488
+    m_Localized: "Wenn Jake Marias Verhalten gemeldet und sie ihn daraufhin schlecht
+      behandelt h\xE4tte, w\xFCrde dies als Vergeltung (oder Schikane) betrachtet
+      werden. Es ist niemals in Ordnung, sich an einer Person zu rechen, weil sie
+      ein unangemessenes Verhalten gemeldet hat.  \nSollte Jake jemals das Gef\xFChl
+      haben, dass Maria Vergeltung an ihm \xFCbt, sollte er dieses Verhalten ebenfalls
+      melden.\n\nVergeltung kann viele Formen annehmen:\n\\u2022<indent=1em>Klatsch,
+      Herabsetzung oder ungerechtfertigte Kritik an einer Person\n </indent>\n\\u2022<indent=1em>Entlassung
+      einer Person\n</indent>\n\\u2022<indent=1em>K\xFCrzung des Gehalts oder der
+      Arbeitszeit, Degradierung oder Versetzung\n</indent>\n"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774236
+  - m_Id: 16316051357696
+    m_Localized: "\\u2022<indent=1em>Maria und Samuel k\xF6nnten weiterhin gemeine
+      oder abf\xE4llige Bemerkungen \xFCber Alan machen, was andere dazu ermutigen
+      k\xF6nnte, \xE4hnliche Bemerkungen zu machen. \n</indent>\n\\u2022<indent=1em>Alan
+      k\xF6nnte eventuell von diesen Kommentaren erfahren. Er k\xF6nnte sich am Arbeitsplatz
+      unsicher f\xFChlen, seine F\xE4higkeit, seine Arbeit zu erledigen, k\xF6nnte
+      darunter leiden, oder er k\xF6nnte schlie\xDFlich k\xFCndigen. \n</indent>\n"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774236
+  - m_Id: 16349987471360
+    m_Localized: "Was w\xE4re, wenn Maria sich an Jake r\xE4chen w\xFCrde?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16412994306048
+    m_Localized: "Was w\xE4re, wenn wir Alans Gedanken kennen w\xFCrden?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16432816586752
+    m_Localized: "\\u2022 <indent=1em>Ich versuche wirklich, genauso freundlich zu
+      sein wie alle anderen. Ich habe mich gegen\xFCber fr\xFCher sehr verbessert.
+      </indent>\n\n\\u2022<indent=1em>Ich m\xF6chte, dass die Mitarbeiter meine St\xE4rken
+      anerkennen und nicht nur die Bereiche sehen, in denen ich mich verbessern muss.
+      \n</indent>\n\\u2022 <indent=1em>Dan wei\xDF, dass ich Probleme habe, die meine
+      Arbeit beeinflussen. Er hat Anpassungen vorgenommen, um mir zu helfen, z.\_B.
+      eine zus\xE4tzliche Pause zu machen, wenn ich sie brauche. Aber ich m\xF6chte
+      das alles f\xFCr mich behalten.\n</indent>\n\\u2022 <indent=1em>Wenn ich h\xF6re,
+      dass sich jemand \xFCber mich lustig macht (besonders wenn diese Person glaubt,
+      es k\xF6nnte mir nicht zu Ohren kommen), f\xFChle ich mich schrecklich. \n</indent>\n\nWas
+      sollte ich sonst noch wissen?\n\\u2022 <indent=1em>McDonald's ist bestrebt,
+      innerhalb der McDonald's Gemeinschaft R\xE4ume der Repr\xE4sentation und Zugeh\xF6rigkeit
+      f\xFCr Menschen mit Behinderungen zu schaffen. \n</indent>\n\\u2022<indent=1em>McDonald\u2019s
+      bietet qualifizierten Personen mit Behinderungen angemessene Anpassungen als
+      Teil des Bewerbungs- oder Einstellungsprozesses oder zur Erf\xFCllung der wesentlichen
+      Funktionen ihrer Arbeit.\n</indent>\n\\u2022<indent=1em>Du kannst ein Verb\xFCndeter
+      f\xFCr Mitarbeiter mit Behinderungen sein, indem du dich \xFCber die verschiedenen
+      Arten von Behinderungen informierst und Barrierefreiheit und Integration f\xF6rderst.\n</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774236
+  - m_Id: 16655802253312
+    m_Localized: "McDonald\u2019s ist bestrebt, ein lohnender und angenehmer Arbeitsplatz
+      zu sein, an dem alle Mitarbeiter sich weiterentwickeln k\xF6nnen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Localized: "Wenn du als ein Verb\xFCndeter handelst, zeigst du, dass du dich
+      f\xFCr ein sicheres Umfeld f\xFCr alle Kollegen einsetzt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Localized: "Du kannst zur Schaffung einer respektvollen Unternehmenskultur
+      beitragen, indem du dich f\xFCr deine Kollegen einsetzt.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Localized: "Denke daran, dass du nicht die Umst\xE4nde jedes einzelnen Kollegen
+      kennst. Deine Aufgabe besteht darin, daf\xFCr zu sorgen, dass sich jeder bei
+      McDonald\u2019s willkommen f\xFChlt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Localized: Maria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Localized: Samuel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17400073109504
+    m_Localized: Jake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Localized: Sicher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Localized: Respektvoll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Localized: Integrativ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100570604847104
+    m_Localized: Alan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1126879934103552
+    m_Localized: "[0.00-4.20]\nIch scherze nur, ich w\xFCrde ihm nichts ins Gesicht
+      sagen. \n[4.20-8.85]\nMan muss nicht immer alles so ernst nehmen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1198907840086016
+    m_Localized: Dan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1575028882804736
+    m_Localized: " Ich mag nur nicht, dass es ihn verletzen k\xF6nnte, wenn er h\xF6rt,
+      was Maria gesagt hat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4014003593547776
+    m_Localized: "[0.00-4.60]\nSie macht sich hinter seinem R\xFCcken dar\xFCber
+      lustig, wie Alan mit anderen interagiert.\n[4.60-6.06]\nIch mache mir Sorgen,
+      dass sie so weitermachen wird."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34956696487976960
+    m_Localized: Samuel, Jake und Maria im Pausenraum eines McDonald's-Restaurants
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34956705736417280
+    m_Localized: Jake und Dan stehen im Pausenraum eines McDonald's-Restaurants
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34957367509508096
+    m_Localized: Jake, Maria und Samuel im Pausenraum eines McDonald's-Restaurants
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2394929133959774236
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 000072e0d60e00000040ed781c0e000000003210f20e00000040ed24e4050000

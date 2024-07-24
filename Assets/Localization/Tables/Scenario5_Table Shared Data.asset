@@ -1,0 +1,516 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Scenario5_Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Scenario5_Table
+  m_TableCollectionNameGuidString: 5ec72a9f21754d44aa6e15b6101707c7
+  m_Entries:
+  - m_Id: 11266293579776
+    m_Key: k_LOC_ACTION1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Key: 'k_LOC_ACTION2
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Key: k_LOC_ACTION3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Key: k_LOC_CAPTIONS_DECISION_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Key: k_LOC_CAPTIONS_DECISION_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9254827327488
+    m_Key: k_LOC_CAPTIONS_DECISION_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Key: k_LOC_NAME_CHARACTER_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Key: k_LOC_NAME_CHARACTER_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17400073109504
+    m_Key: k_LOC_NAME_CHARACTER_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12206929477632
+    m_Key: k_LOC_OUTCOME1_FINALPAGE_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281393660821504
+    m_Key: k_LOC_OUTCOME1_INTRO_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13511391576064
+    m_Key: k_LOC_OUTCOME2_FINALPAGE_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Key: k_LOC_REASON1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Key: k_LOC_REASON2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Key: 'k_LOC_REASON3
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Key: k_LOC_REASON4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Key: k_LOC_REASON5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Key: k_LOC_REASON6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Key: k_LOC_REASON7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Key: k_LOC_REASON8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478696890368
+    m_Key: k_LOC_THOUGHT_AISHA_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Key: k_LOC_THOUGHT_AISHA_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Key: k_LOC_THOUGHT_AISHA_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Key: k_LOC_THOUGHT_AISHA_CLUE_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Key: k_LOC_THOUGHT_AISHA_CLUE_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Key: k_LOC_THOUGHT_AISHA_CLUE_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Key: k_LOC_THOUGHT_SOFIA_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Key: k_LOC_THOUGHT_SOFIA_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Key: k_LOC_THOUGHT_SOFIA_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Key: k_LOC_THOUGHT_SOFIA_CLUE_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Key: k_LOC_THOUGHT_SOFIA_CLUE_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Key: k_LOC_THOUGHT_SOFIA_CLUE_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Key: k_LOC_UI_CAPTIONS_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4219418263552
+    m_Key: k_LOC_UI_CAPTIONS_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4248908414976
+    m_Key: k_LOC_UI_CAPTIONS_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300582240256
+    m_Key: k_LOC_UI_CAPTIONS_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348598632448
+    m_Key: k_LOC_UI_CAPTIONS_13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4370207686656
+    m_Key: k_LOC_UI_CAPTIONS_14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4395776163840
+    m_Key: k_LOC_UI_CAPTIONS_15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4423588593664
+    m_Key: k_LOC_UI_CAPTIONS_16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3261561176064
+    m_Key: k_LOC_UI_CAPTIONS_17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3281622532096
+    m_Key: k_LOC_UI_CAPTIONS_18
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3297758019584
+    m_Key: k_LOC_UI_CAPTIONS_19
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Key: k_LOC_UI_CAPTIONS_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3316888240128
+    m_Key: k_LOC_UI_CAPTIONS_20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3358533484544
+    m_Key: k_LOC_UI_CAPTIONS_21
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3372223692800
+    m_Key: k_LOC_UI_CAPTIONS_22
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3381753151488
+    m_Key: k_LOC_UI_CAPTIONS_23
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393266515968
+    m_Key: k_LOC_UI_CAPTIONS_24
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Key: k_LOC_UI_CAPTIONS_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Key: k_LOC_UI_CAPTIONS_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Key: k_LOC_UI_CAPTIONS_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Key: k_LOC_UI_CAPTIONS_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Key: k_LOC_UI_CAPTIONS_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Key: k_LOC_UI_CAPTIONS_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Key: k_LOC_UI_CAPTIONS_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Key: k_LOC_UI_CONCLUSIONS_1_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Key: k_LOC_UI_CONCLUSIONS_1_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Key: k_LOC_UI_CONCLUSIONS_2_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Key: k_LOC_UI_CONCLUSIONS_2_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Key: k_LOC_UI_CONCLUSIONS_3_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Key: k_LOC_UI_CONCLUSIONS_3_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16655802253312
+    m_Key: k_LOC_UI_CONCLUSIONS_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 860133392384
+    m_Key: k_LOC_UI_CONTEXT_GROUP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Key: k_LOC_UI_DECISION_SUBTITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13702404374528
+    m_Key: k_LOC_UI_LEARNING_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16316051357696
+    m_Key: k_LOC_UI_LEARNING_1s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16349987471360
+    m_Key: k_LOC_UI_LEARNING_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15515450687488
+    m_Key: k_LOC_UI_LEARNING_2s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16412994306048
+    m_Key: k_LOC_UI_LEARNING_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16432816586752
+    m_Key: k_LOC_UI_LEARNING_3s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17453865369600
+    m_Key: k_LOC_UI_LEARNING_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16477708222464
+    m_Key: k_LOC_UI_LEARNING_4s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Key: k_LOC_UI_LEARNINGS_SUBTITLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 466376015872
+    m_Key: k_LOC_UI_LOADING_SUBTITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3269194809344
+    m_Key: k_LOC_UI_MOOD_SOFIA_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3274131505152
+    m_Key: k_LOC_UI_MOOD_SOFIA_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276333514752
+    m_Key: k_LOC_UI_MOOD_SOFIA_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3278724268032
+    m_Key: k_LOC_UI_MOOD_SOFIA_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275788460064768
+    m_Key: k_LOC_UI_MOOD2_AISHA_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275823071461376
+    m_Key: k_LOC_UI_MOOD2_AISHA_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275849965338624
+    m_Key: k_LOC_UI_MOOD2_AISHA_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275876641112064
+    m_Key: k_LOC_UI_MOOD2_AISHA_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275917095174144
+    m_Key: k_LOC_UI_MOOD2_SOFIA_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276018807046144
+    m_Key: k_LOC_UI_MOOD2_SOFIA_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276029716430848
+    m_Key: k_LOC_UI_MOOD2_SOFIA_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276038713212928
+    m_Key: k_LOC_UI_MOOD2_SOFIA_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Key: k_LOC_UI_POLICY_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Key: k_LOC_UI_POLICY_1s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Key: k_LOC_UI_POLICY_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Key: k_LOC_UI_POLICY_2s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6477430210560
+    m_Key: k_LOC_UI_POLICY_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Key: k_LOC_UI_POLICY_3s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Key: k_LOC_UI_POLICY_TITLE1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6598260031488
+    m_Key: k_LOC_UI_POLICY_TITLE2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Key: k_LOC_UI_POLICY_TITLE3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37312208388096
+    m_Key: k_LOC_REASON9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1010716877078528
+    m_Key: k_LOC_UI_POSTDIALOGUE1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1013342070980608
+    m_Key: k_LOC_UI_CAPTIONS_25
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1013552289497088
+    m_Key: k_LOC_UI_CAPTIONS_26
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1013645499514880
+    m_Key: k_LOC_UI_CAPTIONS_27
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014349442138112
+    m_Key: k_LOC_UI_CAPTIONS_28
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014438495600640
+    m_Key: k_LOC_UI_CAPTIONS_29
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014598713819136
+    m_Key: k_LOC_UI_POSTDIALOGUE2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014795179212800
+    m_Key: k_LOC_UI_SMARTPHONE_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014875672100864
+    m_Key: k_LOC_UI_SMARTPHONE_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014910367383552
+    m_Key: k_LOC_UI_SMARTPHONE_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014951878410240
+    m_Key: k_LOC_UI_SMARTPHONE_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014968517214208
+    m_Key: k_LOC_UI_SMARTPHONE_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014993351688192
+    m_Key: k_LOC_UI_SMARTPHONE_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015005393534976
+    m_Key: k_LOC_UI_SMARTPHONE_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015020329451520
+    m_Key: k_LOC_UI_SMARTPHONE_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015033512148992
+    m_Key: k_LOC_UI_SMARTPHONE_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015049052045312
+    m_Key: k_LOC_UI_SMARTPHONE_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015066638761984
+    m_Key: k_LOC_UI_SMARTPHONE_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015080589017088
+    m_Key: k_LOC_UI_SMARTPHONE_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22196894196293632
+    m_Key: k_LOC_UI_DESCRIPTION1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22196915385917440
+    m_Key: k_LOC_UI_DESCRIPTION2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22196944817348608
+    m_Key: k_LOC_UI_DESCRIPTION3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22196967646945280
+    m_Key: k_LOC_UI_DESCRIPTION_OUTCOME_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22197009153777664
+    m_Key: k_LOC_UI_DESCRIPTION_OUTCOME_2
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1173395863167565824
+  references:
+    version: 2
+    RefIds:
+    - rid: 1173395863167565824
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1710509633877

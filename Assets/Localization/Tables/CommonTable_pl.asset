@@ -1,0 +1,438 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CommonTable_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 16fc587a71cebcc4e837c1a6473dfb35, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6208095019008
+    m_Localized: "\u0141adowanie scenariusza..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14475026259968
+    m_Localized: "Wybierz emocj\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15104377380864
+    m_Localized: "Przyjrzyj si\u0119 bli\u017Cej"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15149210296320
+    m_Localized: "Sprawd\u017A notatnik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15485530562560
+    m_Localized: "Tw\xF3j notatnik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15683854032896
+    m_Localized: "Przejrzyj, co uda\u0142o Ci si\u0119 odkry\u0107 na tych stronach"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15782223044608
+    m_Localized: "Przemy\u015Blenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15843124338688
+    m_Localized: Zasoby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15904717692928
+    m_Localized: "Zebrane przemy\u015Blenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16087207665664
+    m_Localized: "Wybierz ka\u017Cd\u0105 posta\u0107, aby przeczyta\u0107 jej przemy\u015Blenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16260667301888
+    m_Localized: Dalej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16354351276032
+    m_Localized: "Pos\u0142uchaj"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16579337936896
+    m_Localized: "Przejrzyj materia\u0142y"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16795206180864
+    m_Localized: "Masz te\u017C do dyspozycji kr\xF3tki materia\u0142, kt\xF3ry pomo\u017Ce
+      Ci to przemy\u015Ble\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16936046714880
+    m_Localized: "Wskaz\xF3wki dotycz\u0105ce zasad"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16998114025472
+    m_Localized: "Wr\xF3\u0107, aby odblokowa\u0107 wi\u0119cej zasad"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17254121758720
+    m_Localized: Zdecyduj, co dalej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17420975366144
+    m_Localized: "Sprawd\u017A decyzj\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17492572135424
+    m_Localized: "Wybierz, co posta\u0107 powinna zrobi\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17583991185408
+    m_Localized: "Wybierz, dlaczego ta posta\u0107 powinna to zrobi\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17679877169152
+    m_Localized: "Potwierd\u017A sw\xF3j wyb\xF3r za pomoc\u0105 tego przycisku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18239523151872
+    m_Localized: "Co by by\u0142o, gdyby?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18363125096448
+    m_Localized: "Sp\xF3jrz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18561876385792
+    m_Localized: Gratulacje!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18600375902208
+    m_Localized: "Uko\u0144czy\u0142e\u015B ten modu\u0142!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18661440774144
+    m_Localized: Zamknij
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305594607886336
+    m_Localized: "Jak {0} mo\u017Ce si\u0119 czu\u0107?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305854730231808
+    m_Localized: "Poznaj my\u015Bli bohater\xF3w, aby dowiedzie\u0107 si\u0119 wi\u0119cej."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 306062570577920
+    m_Localized: "Przemy\u015Blenia {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 307880474206208
+    m_Localized: "Co {0} powinien/powinna zrobi\u0107 w nast\u0119pnej kolejno\u015Bci?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308115871129600
+    m_Localized: "Co ja powinienem/powinnam zrobi\u0107?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308521586155520
+    m_Localized: "Co {0} powinien/powinna zrobi\u0107?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308574623129600
+    m_Localized: "Dlaczego {0} powinien/powinna to zrobi\u0107?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4962361918963712
+    m_Localized: 2 powody
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604280591466496
+    m_Localized: "Uda\u0142o Ci si\u0119 uchwyci\u0107 my\u015Bli, kt\xF3re ma {0}.
+      Mo\u017Cesz je znale\u017A\u0107 w notatniku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7607020013043712
+    m_Localized: "Wybierz \u017Cart, kt\xF3ry ma rzuci\u0107 {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7619134266097664
+    m_Localized: "Przemy\u015Blenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7885533161013248
+    m_Localized: "Zabierz g\u0142os"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7885667890446336
+    m_Localized: "Zg\u0142o\u015B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7885684868988928
+    m_Localized: "Odpu\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10068604280795136
+    m_Localized: "Symbol zast\u0119pczy, j\u0119zyk polski"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12209512372113408
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14483484056883200
+    m_Localized: "Wr\xF3\u0107, aby odblokowa\u0107 wi\u0119cej przemy\u015Ble\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352422563782656
+    m_Localized: "Dzia\u0142anie A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352543686893568
+    m_Localized: "Dzia\u0142anie B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352583197237248
+    m_Localized: "Pow\xF3d A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352637421199360
+    m_Localized: "Pow\xF3d B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352671336341504
+    m_Localized: "Pow\xF3d C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352695961100288
+    m_Localized: "Pow\xF3d D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352764743491584
+    m_Localized: "Pom\xF3\u017C postaci zdecydowa\u0107, co ma zrobi\u0107 i dlaczego"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22352880455950336
+    m_Localized: "Teraz Ty spr\xF3buj"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43586336613982208
+    m_Localized: "Wyb\xF3r j\u0119zyka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43606493818249216
+    m_Localized: Przycisk Kontynuuj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43881920319184896
+    m_Localized: "Scenariusz \u2013 przycisk Wstecz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43882092331786240
+    m_Localized: "Przycisk Otw\xF3rz ksi\u0119g\u0119 wskaz\xF3wek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43883160138670080
+    m_Localized: "Przycisk wyciszania d\u017Awi\u0119ku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43902784624386048
+    m_Localized: "Przycisk napis\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43915910031859712
+    m_Localized: "Scenariusz \u2013 elementy steruj\u0105ce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43916426069663744
+    m_Localized: "Ekran wyboru j\u0119zyka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43930121575325696
+    m_Localized: Kontekst scenariusza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43938901818073088
+    m_Localized: "Decyzja dotycz\u0105ca scenariusza"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43947730123350016
+    m_Localized: Ocena nastroju
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43953185537122304
+    m_Localized: "Wybierz odpowied\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966374580150272
+    m_Localized: Zebrane zasady
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44966547372892160
+    m_Localized: "Zebrane przemy\u015Blenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44967107740295168
+    m_Localized: "Kolekcja wskaz\xF3wek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44968492443623424
+    m_Localized: "Nast\u0119pna zasada"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44969933178658816
+    m_Localized: Poprzednia zasada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45301409422237696
+    m_Localized: Poprzedni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45301481098698752
+    m_Localized: Dalej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45302496162209792
+    m_Localized: "Ksi\u0119ga wskaz\xF3wek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45312246765576192
+    m_Localized: "Do przemy\u015Blenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45313241272803328
+    m_Localized: Wstecz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45314184118788096
+    m_Localized: "Zamknij Ksi\u0119g\u0119 wskaz\xF3wek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45377977502916608
+    m_Localized: Poprzedni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45378019005554688
+    m_Localized: Dalej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45378309117173760
+    m_Localized: "Spostrze\u017Cenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45378851340017664
+    m_Localized: Wnioski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45379467311308800
+    m_Localized: Koniec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46123280967393280
+    m_Localized: "W\u0142\u0105czono dost\u0119pno\u015B\u0107. Aby nawigowa\u0107,
+      u\u017Cyj klawiszy strza\u0142ek i klawisza Enter."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46123565072769024
+    m_Localized: "Dost\u0119pno\u015B\u0107 dla os\xF3b niepe\u0142nosprawnych."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46124492450160640
+    m_Localized: Element zablokowany
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127565390209024
+    m_Localized: Przycisk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127604380459008
+    m_Localized: Suwak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127822517821440
+    m_Localized: "Prze\u0142\u0105cznik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127860144922624
+    m_Localized: Pole tekstowe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127911416094720
+    m_Localized: Menu rozwijane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46127952037928960
+    m_Localized: "Naci\u015Bnij przycisk powrotu, aby wybra\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128060410355712
+    m_Localized: "Kliknij dwukrotnie, aby wybra\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128236222996480
+    m_Localized: "Naci\u015Bnij przycisk powrotu aby zmieni\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128306674720768
+    m_Localized: "Kliknij dwukrotnie, aby zmieni\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128328283774976
+    m_Localized: Wybrano TT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128344960327680
+    m_Localized: Pozycja XX z YY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46141420694659072
+    m_Localized: "Zgadza si\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46141496884191232
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53135351207522304
+    m_Localized: Wybierz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53253607381626880
+    m_Localized: "Element zast\u0119pczy mi\u0119dzy ekranami zostanie usuni\u0119ty"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53884971725950976
+    m_Localized: Tak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885464065937408
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885695662821376
+    m_Localized: "To zale\u017Cy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53943372556341248
+    m_Localized: "Niepoprawna odpowied\u017A. Spr\xF3buj ponownie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890102246363136
+    m_Localized: "Nast\u0119pna strona"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890169237786624
+    m_Localized: Poprzednia strona
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

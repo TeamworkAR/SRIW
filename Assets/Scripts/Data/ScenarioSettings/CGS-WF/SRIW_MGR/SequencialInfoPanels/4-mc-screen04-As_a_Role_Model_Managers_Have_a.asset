@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad6a9442fb82df04eab7b1a24c134a9f, type: 3}
+  m_Name: 4-mc-screen04-As_a_Role_Model_Managers_Have_a
+  m_EditorClassIdentifier: Assembly-CSharp:Data.ScenarioSettings:SequencialInfoCardDataWrapper
+  sequencialInfoCardData:
+    persistentTitleCard:
+      m_TableReference:
+        m_TableCollectionName: GUID:30630d9d68e57f84bb4a6bc4784ad227
+      m_TableEntryReference:
+        m_KeyId: 2592417236340736
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    owner: {fileID: 11400000, guid: f0e5c067ede22504aa083d3d055aef2e, type: 2}
+    cards:
+    - infoString:
+        m_TableReference:
+          m_TableCollectionName: GUID:30630d9d68e57f84bb4a6bc4784ad227
+        m_TableEntryReference:
+          m_KeyId: 2592760418488320
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      infoVoiceOver: {fileID: 0}
+      isCorrectAwnser: 0
+    - infoString:
+        m_TableReference:
+          m_TableCollectionName: GUID:30630d9d68e57f84bb4a6bc4784ad227
+        m_TableEntryReference:
+          m_KeyId: 2593642577088512
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      infoVoiceOver: {fileID: 0}
+      isCorrectAwnser: 0
+    - infoString:
+        m_TableReference:
+          m_TableCollectionName: GUID:30630d9d68e57f84bb4a6bc4784ad227
+        m_TableEntryReference:
+          m_KeyId: 2594270552477696
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      infoVoiceOver: {fileID: 0}
+      isCorrectAwnser: 0
+    - infoString:
+        m_TableReference:
+          m_TableCollectionName: GUID:30630d9d68e57f84bb4a6bc4784ad227
+        m_TableEntryReference:
+          m_KeyId: 2594492410187776
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      infoVoiceOver: {fileID: 0}
+      isCorrectAwnser: 0
+    - infoString:
+        m_TableReference:
+          m_TableCollectionName: GUID:30630d9d68e57f84bb4a6bc4784ad227
+        m_TableEntryReference:
+          m_KeyId: 2595063053635584
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      infoVoiceOver: {fileID: 0}
+      isCorrectAwnser: 0
+    - infoString:
+        m_TableReference:
+          m_TableCollectionName: GUID:30630d9d68e57f84bb4a6bc4784ad227
+        m_TableEntryReference:
+          m_KeyId: 2595208877002752
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      infoVoiceOver: {fileID: 0}
+      isCorrectAwnser: 0
+  references:
+    version: 2
+    RefIds: []

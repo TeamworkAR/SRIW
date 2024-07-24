@@ -1,0 +1,513 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9fc1d892f3642e5883a058497708671, type: 3}
+  m_Name: Scenario02_Settings
+  m_EditorClassIdentifier: 
+  m_ScenarionExtension:
+  - rid: 8715519856034185218
+  - rid: 8715519856034185219
+  - rid: 8715519856034185220
+  - rid: 8715519856034185221
+  - rid: 8715519856034185222
+  - rid: 8715519856034185223
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519856034185218
+      type: {class: ScenarioSettings/ContextSettingsExtension, ns: Data.ScenarioSettings, asm: Assembly-CSharp}
+      data:
+        m_LeftCharacters:
+        - {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+        - {fileID: 11400000, guid: 5191355943ee0824aa1f7be6406aa74c, type: 2}
+        m_RightCharacters:
+        - {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_RecapText:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 2493600579584
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+    - rid: 8715519856034185219
+      type: {class: ScenarioSettings/LearningsExtension, ns: Data.ScenarioSettings, asm: Assembly-CSharp}
+      data:
+        m_LearningsCharacter: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_LearningsIntro:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 15337113075712
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_Entries:
+        - m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+          m_Title:
+            m_TableReference:
+              m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+            m_TableEntryReference:
+              m_KeyId: 15426061680640
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+          m_Content:
+            m_TableReference:
+              m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+            m_TableEntryReference:
+              m_KeyId: 15471767011328
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+        - m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+          m_Title:
+            m_TableReference:
+              m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+            m_TableEntryReference:
+              m_KeyId: 15505216585728
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+          m_Content:
+            m_TableReference:
+              m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+            m_TableEntryReference:
+              m_KeyId: 15515450687488
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+    - rid: 8715519856034185220
+      type: {class: ScenarioSettings/DecisionMakingExtension, ns: Data.ScenarioSettings, asm: Assembly-CSharp}
+      data:
+        m_Chatacter: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_Tiles:
+        - m_Entries:
+          - b_IsRightEntry: 0
+            m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 11266293579776
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_Sprite: {fileID: 21300000, guid: a0d02a5f096f06d4aa995e71701050a2, type: 3}
+          - b_IsRightEntry: 1
+            m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 11310073724928
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_Sprite: {fileID: 21300000, guid: 9ae906138e1378d4b87a73bc841707ad, type: 3}
+        - m_Entries:
+          - b_IsRightEntry: 0
+            m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 11333758959616
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_Sprite: {fileID: 0}
+          - b_IsRightEntry: 1
+            m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 11711648972800
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_Sprite: {fileID: 0}
+          - b_IsRightEntry: 0
+            m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 11714236858368
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_Sprite: {fileID: 0}
+          - b_IsRightEntry: 1
+            m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 11718938673152
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_Sprite: {fileID: 0}
+        - m_Entries:
+          - b_IsRightEntry: 0
+            m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 11778460041216
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_Sprite: {fileID: 0}
+          - b_IsRightEntry: 1
+            m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 11793089773568
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_Sprite: {fileID: 0}
+          - b_IsRightEntry: 1
+            m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 11813625085952
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_Sprite: {fileID: 0}
+          - b_IsRightEntry: 0
+            m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 11825599823872
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_Sprite: {fileID: 0}
+        m_WrongAttemptClips:
+        - m_AudioClip: {fileID: 8300000, guid: e4081b95d26098b4492fb0531f5e7046, type: 3}
+          m_SubTitles:
+            m_TableReference:
+              m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+            m_TableEntryReference:
+              m_KeyId: 14798828683264
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+        - m_AudioClip: {fileID: 8300000, guid: aa5c309143fa87646a0c8d93b74751ee, type: 3}
+          m_SubTitles:
+            m_TableReference:
+              m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+            m_TableEntryReference:
+              m_KeyId: 14975257886720
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+        m_RightAttemptClip:
+          m_AudioClip: {fileID: 0}
+          m_SubTitles:
+            m_TableReference:
+              m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+            m_TableEntryReference:
+              m_KeyId: 296104909160448
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+    - rid: 8715519856034185221
+      type: {class: ScenarioSettings/ClueCollectionExtension, ns: Data.ScenarioSettings, asm: Assembly-CSharp}
+      data:
+        m_LeftGroupCharacters:
+        - {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+        - {fileID: 11400000, guid: 5191355943ee0824aa1f7be6406aa74c, type: 2}
+        m_RightGroupCharacters:
+        - {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_PolicyWrappers:
+        - m_LayoutPosition: 1
+          m_Policies:
+          - m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 8582467502080
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_Title:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 8580655562752
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_ClueText:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 8583440580608
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+          policyImage: {fileID: 2800000, guid: 8a9d10e48434d6849b5b682631c9c696, type: 3}
+        - m_LayoutPosition: 2
+          m_Policies:
+          - m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 8584073920512
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_Title:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 1113546642558976
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_ClueText:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 9103198732288
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+          policyImage: {fileID: 2800000, guid: a932fc3d10920db43aa8bb584659dd87, type: 3}
+        m_ThoughtWrappers:
+        - m_LayoutPosition: 1
+          m_Owner: {fileID: 11400000, guid: ca73779495c7c6940935fd38854cc1a4, type: 2}
+          m_Thoughts:
+          - m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 7352831787008
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_ClueText:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 7803799158784
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_ThoughtAudioClip: {fileID: 8300000, guid: 5e4e69d2958614c4ca986bec1aa1963c, type: 3}
+          - m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 7926205726720
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_ClueText:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 7929728942080
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_ThoughtAudioClip: {fileID: 8300000, guid: a7123e3c781295741a3180c964489d5c, type: 3}
+        - m_LayoutPosition: 2
+          m_Owner: {fileID: 11400000, guid: 5191355943ee0824aa1f7be6406aa74c, type: 2}
+          m_Thoughts:
+          - m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 7930332921856
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_ClueText:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 7930903347200
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_ThoughtAudioClip: {fileID: 8300000, guid: 2cc472ebbf7e7894fbc6874115c3b9aa, type: 3}
+        - m_LayoutPosition: 3
+          m_Owner: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+          m_Thoughts:
+          - m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 7931473772544
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_ClueText:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 8271615049728
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_ThoughtAudioClip: {fileID: 8300000, guid: d6c3a25a7320d494da7ca3dfa4dfa964, type: 3}
+          - m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 8272390995968
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_ClueText:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 8432110092288
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_ThoughtAudioClip: {fileID: 8300000, guid: f4f8047ca4415ef43a88519a43fa9597, type: 3}
+          - m_Text:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 8462938226688
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_ClueText:
+              m_TableReference:
+                m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+              m_TableEntryReference:
+                m_KeyId: 8464821469184
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            m_ThoughtAudioClip: {fileID: 8300000, guid: 38f8b995190aa504f893f06b7ffb4fa7, type: 3}
+        m_MainPolicyImage: {fileID: 21300000, guid: 8a9d10e48434d6849b5b682631c9c696, type: 3}
+        m_PolicyTitle:
+          m_TableReference:
+            m_TableCollectionName: 
+          m_TableEntryReference:
+            m_KeyId: 0
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+    - rid: 8715519856034185222
+      type: {class: ConclusionUIExtenstion, ns: Data.ScenarioSettings, asm: Assembly-CSharp}
+      data:
+        m_ConclusionTitle:
+          m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 16655802253312
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_TileTitles:
+        - m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 17464262737920
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        - m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 17491945144320
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        - m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 17507375988736
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        m_TileTexts:
+        - m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 16719018803200
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        - m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 16754452283392
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        - m_TableReference:
+            m_TableCollectionName: GUID:546bd2c46a601bb499bd0cdab1e7328e
+          m_TableEntryReference:
+            m_KeyId: 16775625129984
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+    - rid: 8715519856034185223
+      type: {class: EndPageExtension, ns: Data.ScenarioSettings, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: 2ea0739de193456429bf877e0f5a8f2b, type: 2}
+        m_Mood: 1

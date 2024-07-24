@@ -1,0 +1,445 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario2_Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 546bd2c46a601bb499bd0cdab1e7328e, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8715519923738640386
+  m_TableData:
+  - m_Id: 944228876288
+    m_Localized: Has been a crew member for 1 year.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166791229440
+    m_Localized: Has been a crew member for 8 months.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1222629998592
+    m_Localized: Has been a crew member for 6 months.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2493600579584
+    m_Localized: They are crew members that often work together.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Localized: Thanks for recommending that show, I finished it last night. I loved
+      it!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Localized: I knew you would!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Localized: "I told Liam about it last week. He\u2019s hooked on it, too."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Localized: "Liam won\u2019t have much time to watch TV when he gets promoted."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Localized: "Liam\u2019s getting promoted?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Localized: "Not yet. But it\u2019s pretty obvious he\u2019ll get the open Shift
+      Leader role."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Localized: "[0.00-6.10]\nOh, I thought I might apply for that. It could be
+      a great opportunity. \n[6.10-8.00]\nAre either of you going for it?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Localized: "[0.00-3.60]\nNo, I can\u2019t. My daughter has so many activities.\n[3.60-6.91] 
+      \nWe have a lot going on. Parents don\u2019t get promoted."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Localized: Is that really true?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4219418263552
+    m_Localized: "No, but it\u2019s kind of an \u201Cunwritten rule.\u201D Do you
+      have kids?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4248908414976
+    m_Localized: Yes. But just one.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300582240256
+    m_Localized: "[0.00-3.00]\nThen you don\u2019t stand a chance against Liam. \n[3.00-5.80]\nHe
+      doesn\u2019t have any kids or other distractions outside of work."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348598632448
+    m_Localized: "[0.00-4.50]\nThat\u2019s why people with no kids typically get
+      promoted to shift leader. \n[4.50-6.98]\nI bet Anna assumes they\u2019ll be
+      more committed."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4370207686656
+    m_Localized: "[0.00-1.89]\nI don\u2019t know that for sure. \n[1.89-4.40]\nBut
+      the last two shift leaders have been single men, \n[4.40-6.24]\nwith no family
+      responsibilities."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4395776163840
+    m_Localized: "That seems unfair if it\u2019s true."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4423588593664
+    m_Localized: "[0.00-4.10]\nI\u2019ve never heard Anna say that, but Miguel has
+      a point. \n[4.10-7.15]\nDon\u2019t waste your time, Aisha. You\u2019ll never
+      get it."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Localized: "[0.00-3.40]\nHi Anna, do you have a moment to talk? \n[3.40-6.04]\nI
+      have a couple of questions about the shift leader position."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Localized: "Hi Aisha, of course. I can talk now, what\u2019s on your mind?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Localized: "[0.00-3.00]\nI\u2019m enjoying work, and I\u2019d like to keep
+      growing.  \n[3.00-6.00]\nThe shift leader position seems like it could be a
+      good fit for me."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6477430210560
+    m_Localized: "[0.00-1.78]\nThat\u2019s good to hear, Aisha. \n[1.78-5.80]\nYou\u2019re
+      great with people and I\u2019ve noticed your co-workers really respect you.
+      \n[5.80-9.33]\nI\u2019m glad to hear you are thinking about the shift leader
+      position."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478063550464
+    m_Localized: "[0.00-4.00]\nI\u2019m just not sure I\u2019m the right fit for
+      the role, \n[4.00-7.05]\nwould I need to work a lot of evening shifts if I
+      got the position?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478696890368
+    m_Localized: "[0.00-2.30]\nNot necessarily. \n[2.30-5.80]\nI recommend new shift
+      leaders work different shifts\n[5.80-8.06]\nto make sure they understand all
+      aspects of the job. \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Localized: "[0.00-2.70]\nThat is good to hear. \n[2.70-5.00]\nYou know, some
+      of my co-workers think you only promote\n[5.00-8.06]\npeople who don\u2019t
+      have kids or other family responsibilities. \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Localized: "[0.00-3.20]\nReally? I\u2019m sorry to hear that. \n[3.20-8.68]\nI
+      would never restrict promotions based on someone\u2019s gender or family responsibilities."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Localized: "Thank you! I\u2019m excited about applying."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Localized: "Since Aisha has a child, she doesn\u2019t have a chance at the
+      promotion over someone like Liam."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Localized: "Miguel assumes Aisha couldn\u2019t get the promotion because of
+      her gender/marital status."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Localized: "I know I have what it takes to be a Shift Leader, but they\u2019d
+      never promote me because of my family responsibilities."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Localized: Miguel assumes he would never be promoted because of his family
+      status.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Localized: "It\u2019s too bad. Aisha would make a great Shift Leader, but Miguel\u2019s
+      right. Most of the Shift Leaders don\u2019t have kids or a lot of outside commitments. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Localized: "Mira believes Aisha has the ability to be a Shift Leader, but suspects
+      she won\u2019t get promoted because she has a child."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7931473772544
+    m_Localized: "Maybe Miguel and Mira are right. I shouldn\u2019t bother applying
+      for the Shift Leader role."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8271615049728
+    m_Localized: Aisha might not apply for the role, even though she wants to, because
+      of what Miguel and Mira have told her.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Localized: "If there isn\u2019t any chance of getting promoted, I\u2019m not
+      sure I want to stay. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Localized: "Aisha is considering leaving McDonald\u2019s because of what she\u2019s
+      heard."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8462938226688
+    m_Localized: "I could ask Anna how she handles promotions. But, I don\u2019t
+      want to sound like I\u2019m accusing her of anything."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8464821469184
+    m_Localized: "Aisha wants to talk to Anna, but isn\u2019t sure what to say."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Localized: A discrimination-free environment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Localized: "Discrimination is the unfair treatment of an employee based on
+      characteristics like race, disability, religion, gender, or marital status
+      (among others). \nIf you feel that your<b> job status is ever in jeopardy</b>
+      based on your gender or family responsibilities, or assumptions based on those,\_you
+      should report your experience."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Localized: "Aisha\u2019s gender or decision to have children should not be
+      a factor in decisions made about her employment."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Localized: Sharing assumptions or wrong perceptions (even if <b>the intent
+      isn't to gossip or intimidate</b>) can discourage others from doing their best
+      work or reaching their potential.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Localized: "Miguel\u2019s and Mira\u2019s comments could intimidate Aisha into
+      not applying for the promotion."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Localized: What should {0} do next?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11266293579776
+    m_Localized: Let it go
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Localized: Report
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Localized: 'She needs proof that Anna is only promoting single men before talking
+      to her. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Localized: "She should ask Anna what she\u2019s looking for in the new Shift
+      Leader instead of relying on others\u2019 assumptions."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Localized: Miguel and Mira have more experience so she should follow their
+      advice.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Localized: She could raise her concerns about the promotion process in the
+      appropriate channels.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Localized: She should just look for an easier job and avoid any confrontation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Localized: "She likes her job and hopes there is a future for her at McDonald\u2019s. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Localized: Her gender or family responsibilities should not have any impact
+      on decisions made about her career.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Localized: "She wouldn\u2019t want to risk upsetting Anna."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Localized: I should think through this more.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Localized: "That still isn\u2019t quite right. This is going to be better."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Localized: '\u2022 <indent=1em>Because Aisha raised her concerns to Anna, Anna
+      also took the opportunity to clarify expectations about the role with the whole
+      team, which made others feel more included and welcome to apply.</indent>
+
+      \u2022
+      <indent=1em>As a result, Miguel also decided to apply for the role.</indent>
+
+
+      What
+      if Aisha had acted differently?'
+    m_Metadata:
+      m_Items:
+      - rid: 8715519923738640386
+  - m_Id: 15426061680640
+    m_Localized: What if Aisha had not spoken to Anna?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15505216585728
+    m_Localized: What if Anna really was discriminating?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15471767011328
+    m_Localized: "\\u2022 <indent=1em>She may resent the assumed lack of opportunity
+      and start to enjoy work less.</indent>\n\\u2022 <indent=1em>She would never
+      know for sure how she could have grown her career at McDonald\u2019s.</indent>\n\\u2022
+      <indent=1em>She might start to look for a new job outside of McDonald\u2019s.
+      </indent>\n\\u2022 <indent=1em>If she applied for the role and didn\u2019t
+      get it, she may start to believe the assumptions she heard from Miguel and
+      Mira. </indent>\n\\u2022 <indent=1em>Miguel and Mira might continue intimidating
+      others.</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 8715519923738640386
+  - m_Id: 15515450687488
+    m_Localized: "If any of the crew members had concerns about the promotions process,
+      they could report their concerns through the appropriate channels. \n\nAfter
+      raising her concerns, appropriate action would be taken to determine if Anna
+      was discriminating against employees because of their gender or if they had
+      family responsibilities. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16655802253312
+    m_Localized: "By upholding McDonald\u2019s core values, you can help build a
+      <b>safe, respectful, and inclusive culture</b> in your restaurant."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Localized: People who feel safe in the workplace are more likely to stay and
+      grow their career and have better satisfaction levels.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Localized: Taking the right action, like reporting inappropriate comments,
+      can have a ripple effect that helps others feel more respected.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Localized: All employment decisions (including promotions) have to be based
+      on qualifications and not on personal characteristics like gender, age, or
+      family responsibilities.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Localized: Miguel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Localized: Mira
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17400073109504
+    m_Localized: Aisha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Localized: Safe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Localized: Respectful
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Localized: Inclusive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296104909160448
+    m_Localized: This feels right to me, I'm going to do it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303875540992000
+    m_Localized: Anna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113546642558976
+    m_Localized: Your words influence others
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344469507850240
+    m_Localized: "[0.00-3.40]\nThe last few shift leaders requested more evening
+      shifts. \n[3.40-7.56]\nBut, we can work through scheduling depending on what
+      would work best for you."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1345536433930240
+    m_Localized: They even mentioned that you often promote single men.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1345861337300992
+    m_Localized: "[0.00-2.10]\nThank you for letting me know. \n[2.10-4.40]\nI\u2019ll
+      be sure to let everyone know they\u2019re welcome\n[4.40-7.56]\nto apply and
+      do a better job of outlining expectations."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7901011161989120
+    m_Localized: Aisha reports to Anna, her manager.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36295452922994688
+    m_Localized: Miguel, Mira, and Aisha standing in the break room of a McDonald's
+      Restaurant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36295544098775040
+    m_Localized: Aisha and Anna sitting in the break room of a McDonald's Restaurant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 466376015872
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8715519923738640386
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00402d4d120e000000402df3f20d0000

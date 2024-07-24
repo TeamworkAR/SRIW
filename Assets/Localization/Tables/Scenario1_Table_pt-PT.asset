@@ -1,0 +1,481 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario1_Table_pt-PT
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-PT
+  m_SharedData: {fileID: 11400000, guid: a58a75991ac08d149a2124682c3949cb, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 36428341248
+    m_Localized: Ambiente de trabalho hostil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411606405120
+    m_Localized: "\xC9 funcion\xE1rio h\xE1 um m\xEAs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508306083840
+    m_Localized: "\xC9 funcion\xE1rio h\xE1 tr\xEAs meses"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1620579213312
+    m_Localized: "Foram escalados para os mesmos turnos em v\xE1rias ocasi\xF5es
+      e gostaram de trabalhar em conjunto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2411931131904
+    m_Localized: "Tens irm\xE3os?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272907587313664
+    m_Localized: "Sim, tenho irm\xE3os mais novos. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272979058253824
+    m_Localized: "Eu sabia que eras o irm\xE3o mais velho!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273020137267200
+    m_Localized: Porque dizes isso?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273053385515008
+    m_Localized: "Porque achas que tens sempre raz\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273093751496704
+    m_Localized: "... mas eu <i>tenho</i> sempre raz\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273163750236160
+    m_Localized: '[risos]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273241915285504
+    m_Localized: "Tu \xE9s o mais novo, certo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273274916069376
+    m_Localized: "Sim! Como \xE9 que sabias?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273312195043328
+    m_Localized: Seleciona uma piada para o {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273481917554688
+    m_Localized: Nunca paras de falar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273518680629248
+    m_Localized: "As tuas piadas s\xE3o p\xE9ssimas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273544324603904
+    m_Localized: "Tens sempre a \xFAltima palavra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273563354161152
+    m_Localized: "Al\xE9m disso, quando estamos no mesmo turno, acabo por fazer a
+      maior parte do trabalho."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274315288010752
+    m_Localized: "Bom, e como \xE9 suposto conseguir acompanhar um estrangeiro que
+      \xE9 muito trabalhador?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274368794746880
+    m_Localized: "Se n\xE3o consegues acompanhar, o problema n\xE3o \xE9 meu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274933650055168
+    m_Localized: Preocupado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275049173770240
+    m_Localized: Tranquilo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275076474494976
+    m_Localized: Feliz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275097773170688
+    m_Localized: Alegre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275111236886528
+    m_Localized: Aborrecido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275124285366272
+    m_Localized: Confuso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275137623252992
+    m_Localized: Tranquilo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275158263422976
+    m_Localized: Feliz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275879419469824
+    m_Localized: "Este trabalho \xE9 muito melhor quando o Ravi est\xE1 por perto.
+      O tempo voa no trabalho quando rimos um bocado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276721195311104
+    m_Localized: O Jake gosta de trabalhar e de se rir com o Ravi.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276788484530176
+    m_Localized: "Ele est\xE1 a aprender muito depressa. \xC9 dif\xEDcil de acreditar
+      que ele s\xF3 c\xE1 est\xE1 h\xE1 algumas semanas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276839353049088
+    m_Localized: "O Jake acredita que o Ravi \xE9 bom no seu trabalho."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276939483668480
+    m_Localized: "\xC9 a terceira vez que o Jake brinca com o facto de eu ser estrangeiro. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277366186991616
+    m_Localized: "O Jake j\xE1 fez v\xE1rias piadas sobre o facto de o Ravi ser estrangeiro."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277367822770176
+    m_Localized: "Apetece-me dizer qualquer coisa. Mas gosto de trabalhar com ele
+      e n\xE3o quero criar desconforto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277369299165184
+    m_Localized: "O Ravi n\xE3o tem a certeza se deve dizer alguma coisa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277370909777920
+    m_Localized: "Se calhar, \xE9 melhor descontrair. Ele n\xE3o tem mesmo problemas
+      com estrangeiros... acho eu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277559338885120
+    m_Localized: "O Ravi pergunta-se se n\xE3o estar\xE1 a exagerar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277569124196352
+    m_Localized: "Acho que estas piadas n\xE3o v\xE3o parar. E n\xE3o sei quantas
+      mais quero ouvir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277570382487552
+    m_Localized: "O Ravi pergunta-se se a brincadeira ir\xE1 piorar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277571863076864
+    m_Localized: "Preocupo-me que algu\xE9m possa ouvir o Jake a falar assim. Ele
+      pode meter-se em sarilhos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277573184282624
+    m_Localized: "O Ravi n\xE3o quer que o Jake se meta em sarilhos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278077507395584
+    m_Localized: "Seguran\xE7a para todos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278203915329536
+    m_Localized: "Todas as pessoas que trabalham na McDonald's t\xEAm direito a trabalhar
+      num ambiente livre de viol\xEAncia, bullying, ass\xE9dio, discrimina\xE7\xE3o
+      e vitimiza\xE7\xE3o/retalia\xE7\xE3o.\n\nN\xE3o \xE9 tolerado o ass\xE9dio
+      a outras pessoas com base no seu g\xE9nero, etnia, idade, cren\xE7as religiosas,
+      incapacidade ou outros fatores."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278576247889920
+    m_Localized: As piadas de Jake sobre o facto de Ravi ser um imigrante podem criar
+      um ambiente de trabalho hostil.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278616114749440
+    m_Localized: "<b>Mesmo que o comportamento n\xE3o pretendesse ser ofensivo,</b>
+      podia ter sido considerado ass\xE9dio e criar um ambiente de trabalho hostil."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278774059655168
+    m_Localized: "Mesmo que o Jake n\xE3o tenha tido a inten\xE7\xE3o de ofender
+      o Ravi, as suas piadas podem ser consideradas bullying ou ass\xE9dio. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278872999092224
+    m_Localized: O que deve o {0} fazer a seguir?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280045575495680
+    m_Localized: "N\xE3o fazer nada"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280162160369664
+    m_Localized: Fazer-se ouvir agora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280367333138432
+    m_Localized: "Ele n\xE3o sabe o que dizer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280430620991488
+    m_Localized: Ele receia que as piadas continuem ou aumentem.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280433020133376
+    m_Localized: "Ele pode simplesmente concentrar-se no trabalho e n\xE3o deixar
+      que as coisas pessoais o incomodem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280434999844864
+    m_Localized: "Ele sente-se desconfort\xE1vel com piadas sobre o seu estatuto
+      de estrangeiro."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280437172494336
+    m_Localized: "Ele devia descontrair-se. Ele n\xE3o quer que a amizade deles mude."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280439210926080
+    m_Localized: "Ele n\xE3o quer que o Jake comente o mesmo tipo de piada com outros
+      estrangeiros no restaurante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280445540130816
+    m_Localized: "Ele acredita que o Jake \xE9 bom tipo e que quisesse saber porque
+      \xE9 que a piada \xE9 ofensiva."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280479383969792
+    m_Localized: "O Jake n\xE3o queria ofender o Ravi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281021090914304
+    m_Localized: "N\xE3o \xE9 bem assim, talvez n\xE3o tenha pensado bem nisto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281095795662848
+    m_Localized: "N\xE3o me parece que isso seja correto, que tal isto?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281627281088512
+    m_Localized: "[0.00-5.00]\n... Eu sei que est\xE1vamos a brincar e n\xE3o sei
+      bem como dizer isto,\n[5.00-8.00]\nmas as piadas sobre estrangeiros s\xE3o-me
+      dif\xEDceis de ouvir.\n[8.00-10.89]\nJ\xE1 ouvi esses estere\xF3tipos serem
+      usados contra a minha fam\xEDlia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281630267432960
+    m_Localized: "A s\xE9rio? Rav, desculpa. N\xE3o sabia.\nN\xE3o queria nada fazer-te
+      sentir inferior."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281632377167872
+    m_Localized: "Obrigado pela compreens\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281634356879360
+    m_Localized: Claro! Obrigado por me avisares. Vou ter mais cuidado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281636558888960
+    m_Localized: "Espero n\xE3o ter soado demasiado a um irm\xE3o mais velho!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281638601515008
+    m_Localized: "N\xE3o te preocupes, j\xE1 estou habituado!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281640837079040
+    m_Localized: "O Jake e o Ravi voltam a fazer sandu\xEDches alegremente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282218757644288
+    m_Localized: "O Ravi escolheu agir no momento. No processo, ajudou a criar um
+      ambiente de trabalho mais seguro para si pr\xF3prio e, possivelmente, para
+      outros. \n\nE se o Ravi tivesse agido de forma diferente?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283547773198336
+    m_Localized: "E se o Ravi n\xE3o tivesse feito nada?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283750395830272
+    m_Localized: "\u2022 <indent=2%>As piadas podem piorar ou tornar-se mais frequentes.</indent>\n\u2022
+      <indent=2%>Poder\xE1 ser ainda mais dif\xEDcil fazeres-te ouvir da pr\xF3xima
+      vez que forem ditas piadas ofensivas.</indent>\n\u2022 <indent=2%>Outras pessoas
+      podem ouvir e sentirem-se tamb\xE9m magoadas com as piadas.</indent>\n\u2022
+      <indent=2%>A capacidade do Ravi fazer bem o seu trabalho pode ser afetada se
+      ele n\xE3o se sentir seguro ou respeitado.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283898056302592
+    m_Localized: E se o Ravi tivesse decidido fazer-se ouvir mais tarde?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283999382298624
+    m_Localized: "H\xE1 muitas raz\xF5es pelas quais algu\xE9m pode hesitar em fazer-se
+      ouvir no momento. Pode ser por n\xE3o se sentirem seguros ou confort\xE1veis
+      para falar, ou podem apenas precisar de tempo para pensar no que querem dizer.
+      \n\nSe o Ravi tivesse decidido esperar para se fazer ouvir: \n\u2022 <indent=2%>Podia
+      ter redirecionado a conversa e iniciado um t\xF3pico novo.</indent>\n\u2022
+      <indent=2%>Podia ter encontrado um momento mais neutro para abordar o comportamento
+      ou o seu desconforto.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284148749852672
+    m_Localized: "E se o Ravi tivesse denunciado a situa\xE7\xE3o ao seu gerente?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284166646947840
+    m_Localized: "A McDonald's n\xE3o tolera bullying, intimida\xE7\xE3o ou ass\xE9dio
+      sob forma alguma, e qualquer pessoa que receba este tipo de comportamento pode
+      denunciar a situa\xE7\xE3o. Neste caso, o Ravi pode ter ficado preocupado por
+      meter o Jake em sarilhos. \xC9 importante relembrar que nem todas as den\xFAncias
+      levam a consequ\xEAncias graves. \n\nSe o Ravi tivesse denunciado os coment\xE1rios
+      do Jake ao seu gerente, eis o que poderia ter acontecido:\n- <indent=2%>O gerente
+      poderia ter falado com o Jake sobre os seus coment\xE1rios.</indent>\n\u2022
+      <indent=2%>O Jake poderia ter recebido feedback sobre o seu comportamento e
+      obter alguma perspetiva sobre o motivo pelo qual a sua brincadeira foi longe
+      demais.</indent>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284400093519872
+    m_Localized: Quer seja em conversa com os teus colegas de trabalho ou clientes,
+      podes ajudar a construir uma cultura <b>segura, respeitosa e inclusiva</b>
+      para todos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284575386066944
+    m_Localized: "Ainda que n\xE3o tenhas tido inten\xE7\xE3o de ferir suscetibilidades
+      e todos se tenham rido, as piadas que tocam em caracter\xEDsticas protegidas
+      s\xE3o uma viola\xE7\xE3o da nossa pol\xEDtica. Toda a gente tem direito a
+      um local de trabalho seguro."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284655421775872
+    m_Localized: "Se alguma vez disseste ou fizeste algo que desrespeitasse um colega
+      de trabalho, \xE9 bom pedir desculpa e agir melhor. Todos contribuem para uma
+      cultura respeitadora."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 284665953673216
+    m_Localized: "Podes compreender melhor quem s\xE3o os teus colegas de trabalho
+      se souberes mais das respetivas experi\xEAncias. Reserva algum tempo para os
+      ouvir. Constr\xF3i rela\xE7\xF5es de trabalho s\xF3lidas para cultivar um ambiente
+      inclusivo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048439436861440
+    m_Localized: Ravi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048523280998400
+    m_Localized: Jake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7204747913334784
+    m_Localized: Seguro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7204889949245440
+    m_Localized: Respeitador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7205035462234112
+    m_Localized: Inclusivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7238201412632576
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7241701743869952
+    m_Localized: '[0.00-3.00]
+
+      Devia ter adivinhado que ias tentar roubar-me
+      o emprego.
+
+      [3.00-5.00]
+
+      A partir de agora, vou ter mais cuidado
+      contigo!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078710535225344
+    m_Localized: 'O que devo fazer?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078863094644736
+    m_Localized: "N\xE3o quero adiar mais isto.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078930916540416
+    m_Localized: "N\xE3o \xE9 bem assim, talvez n\xE3o tenha pensado bem nisto.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078943189073920
+    m_Localized: "Ainda n\xE3o me parece que isso seja correto, que tal isto?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078954572414976
+    m_Localized: "Hmm... Se calhar devia fazer-me ouvir... Tenho boas raz\xF5es para
+      faz\xEA-lo?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8078965364359168
+    m_Localized: "Sim, isto parece-me correto, vou faz\xEA-lo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13293897244295168
+    m_Localized: '"Foi apenas uma piada"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303657540698112
+    m_Localized: "Fazermo-nos ouvir significa dizer algo sobre comportamentos ou
+      palavras inapropriados, quer te sejam dirigidos a ti ou a outros.\n\n<b>Fazermo-nos
+      ouvir pode ser feito no momento ou mais tarde</b>. A den\xFAncia \xE9 outra
+      forma de nos fazermos ouvir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303725081575424
+    m_Localized: Fazermo-nos ouvir significa dizer alguma coisa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13303761957896192
+    m_Localized: Fazer-se ouvir agora ou mais tarde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45693008257998848
+    m_Localized: Ravi e Jake na cozinha de um restaurante McDonald's
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45694103168475136
+    m_Localized: Ravi e Jake na cozinha de um restaurante McDonald's
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

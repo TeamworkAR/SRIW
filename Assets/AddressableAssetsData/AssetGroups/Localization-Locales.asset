@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Locales
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Locales
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 24b9d89234ccac94ba115c8038941e68
+  m_SerializeEntries:
+  - m_GUID: fea156e85c2cd594baa34d26ac1d1839
+    m_Address: English (en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a6eea506e16a9947889ca0207f66690
+    m_Address: Slovak (Slovakia) (sk-SK)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b0472ce720d14f40bd2336c608f4279
+    m_Address: Italian (it)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88dafc015502f864a8da870286ce29a4
+    m_Address: French (Canada) (fr-CA)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d49070986d651b4bb20a6f1c136f990
+    m_Address: French (France) (fr-FR)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e4c1264e2621b6418370d3e1e274bac
+    m_Address: Dutch (Netherlands) (nl-NL)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0db40ae6e34e0fb44814582069fb94c6
+    m_Address: Portuguese (Portugal) (pt-PT)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bd151292b42c6e45b5e17ef1fc180d1
+    m_Address: Czech (cs)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8e3c29a04a00e44cb0ad8d4ef749d66
+    m_Address: German (de)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec3115f7f2a26f64c91d9705338818d9
+    m_Address: Ukrainian (Ukraine) (uk-UA)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af3461d7c7a167e409edfb2f0d9986c4
+    m_Address: Spanish (United States) (es-US)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79f45e5031e205143954ad2ee0724995
+    m_Address: Polish (Poland) (pl-PL)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8bd2dd0421c547cb9286aea45507afc
+    m_Address: Spanish (Spain) (es-ES)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e077704deb06124eaf9cdca4594432d
+    m_Address: French (fr)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d61062f37b220545b7f13d24f63e938
+    m_Address: Dutch (nl)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f31d533901626842b7328a4d4fa832a
+    m_Address: Polish (pl)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd3a673bf24ad6b4bbaed2ace74d2e71
+    m_Address: Portuguese (pt)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39eee2c7c18ff234db07c2c1f8cb82ae
+    m_Address: Slovak (sk)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 548ecdb4ddac6c44d8b387e860232ae7
+    m_Address: Spanish (es)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 2d72e871c656bcd49bcfc065e13eed24, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fc65934f717abf54e8508b988f6239f4, type: 2}
+    - {fileID: 11400000, guid: 8ca09fe1e2c538445a653c876067d4b6, type: 2}

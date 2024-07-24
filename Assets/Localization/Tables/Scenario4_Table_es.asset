@@ -1,0 +1,600 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario4_Table_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-US
+  m_SharedData: {fileID: 11400000, guid: cf2d1ef1053fd584cb0013e6eed1a750, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2394929133959774241
+  m_TableData:
+  - m_Id: 466376015872
+    m_Localized: "Discriminaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 860133392384
+    m_Localized: A menudo trabajan juntos y lo disfrutan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 944228876288
+    m_Localized: Ha sido empleado durante 3 meses.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3102777409536
+    m_Localized: Nerviosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3249083121664
+    m_Localized: 'Enojada
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3257173934080
+    m_Localized: Tranquila
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3259564687360
+    m_Localized: Feliz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3269194809344
+    m_Localized: Preocupado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3274131505152
+    m_Localized: Enojado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276333514752
+    m_Localized: Tranquilo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3278724268032
+    m_Localized: Feliz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3284759871488
+    m_Localized: Nervioso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3288031428608
+    m_Localized: Enojado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3290644480000
+    m_Localized: Tranquilo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3292976513024
+    m_Localized: Feliz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Localized: "Hola Jake, \xBFd\xF3nde trabajas hoy?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Localized: "Hola Mar\xEDa. Hola, Samuel. Empiezo en el mostrador. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Localized: "[0.00-3.50]\nOh, eso deber\xEDa estar bien entonces. \n[3.50-8.44]\nCreo
+      que Alan tambi\xE9n estar\xE1 all\xED, as\xED que podr\xE1s ayudarlo. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Localized: "\xBFQu\xE9 quieres decir con ayudarlo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Localized: "Oh, t\xFA sabes. Ni siquiera puede \"hacer contacto visual\" con
+      las personas. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Localized: "\xA1Pero puede calcular el cambio exacto m\xE1s r\xE1pido que el
+      POS!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Localized: "[0.00-4.00]\nEso es cierto, supongo. Pero eso no compensa lo raro
+      que es. \n[4.00-8.80]\nQuiero decir, ni siquiera puede entablar una peque\xF1a
+      charla. Apuesto a que a los clientes no les agrada.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Localized: "[0.00-3.40]\nVamos, Mar\xEDa. Alan puede ser realmente genial.
+      \n[3.40-8.00]\nEl hecho de que sea una persona con un poco de discapacidad
+      social no significa que no pueda hacer el trabajo. \n[8.00-10.05]\n\xC9l es
+      mejor que yo en muchas cosas aqu\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Localized: Vamos, Jake.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Localized: Informarlo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Localized: "S\xE9 un aliado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Localized: "Jake ha creado una relaci\xF3n de trabajo con Alan, lo que lo ayuda
+      a ser un aliado. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6477430210560
+    m_Localized: "Si eres testigo de una experiencia que no se alinea con los valores
+      de McDonald's, tienes la oportunidad de ser un aliado.  \nUn aliado defiende
+      a los dem\xE1s al:\n<align=\"left\">\n\u2022 <indent=1em>Escucharlos y desarrollar
+      relaciones de trabajo s\xF3lidas.\n</indent>\n\u2022 <indent=1em>Modelar comportamientos
+      positivos.\n</indent>\n\u2022 <indent=1em>Utilizar tu influencia para ayudar
+      a otros.\n</indent>\n"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774241
+  - m_Id: 6478696890368
+    m_Localized: "He llegado a conocer un poco a Alan; si escuchara lo que dicen
+      Mar\xEDa y Samuel, quedar\xEDa devastado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Localized: "Jake comprende lo dolorosos que podr\xEDan ser estos comentarios
+      para Alan. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Localized: "Mar\xEDa siempre est\xE1 hablando de alguien a sus espaldas. Me
+      pregunto qu\xE9 dice de m\xED cuando no estoy cerca."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Localized: "Los comentarios de Mar\xEDa sobre los dem\xE1s hacen que Jake se
+      sienta inseguro y no bienvenido en el trabajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6598260031488
+    m_Localized: Las bromas ofensivas son inapropiadas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Localized: "Mar\xEDa tiene muchos amigos aqu\xED. Si le digo algo a Mar\xEDa
+      o lo informo, es posible que ella tambi\xE9n ponga a otros en mi contra."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Localized: Jake teme las consecuencias de decir lo que piensa o de hacer un
+      informe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Localized: "Por supuesto, nunca dir\xEDa nada de Alan en su cara. No soy una
+      idiota."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Localized: "Mar\xEDa piensa que sus comentarios sobre Alan est\xE1n bien porque
+      no se los dijo directamente a Alan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Localized: "No hay nada de malo en lo que dije, simplemente es diferente...
+      y no s\xE9 si tiene lo necesario para hacer el trabajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Localized: "Mar\xEDa piensa que est\xE1 bien hacer comentarios ofensivos sobre
+      las diferencias de las personas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7931473772544
+    m_Localized: "Me gusta poder re\xEDrme en el trabajo. Samuel lo entiende. Si
+      a Jake no le gusta, ese es su problema."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8271615049728
+    m_Localized: "Mar\xEDa seguir\xE1 haciendo comentarios como los que hizo sobre
+      Alan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Localized: "Quiz\xE1s Jake tenga raz\xF3n. No deber\xEDamos hablar as\xED de
+      Alan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Localized: Samuel no quiere burlarse de Alan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8462938226688
+    m_Localized: Al menos dije algo agradable sobre Alan. Espero que Jake no piense
+      que estoy siendo malo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8464821469184
+    m_Localized: "Samuel cree que sus comentarios est\xE1n bien porque dijo algo
+      bueno sobre Alan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Localized: No crees chismes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Localized: "Chismear sobre los dem\xE1s, especialmente con un lenguaje insultante
+      u ofensivo, puede ser perjudicial para las personas de las que se habla. Tambi\xE9n
+      puede ser perjudicial para las personas que escuchan la conversaci\xF3n, quienes
+      podr\xEDan sentirse intimidadas o que les hacen bullying."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Localized: "Los comentarios de Mar\xEDa y Samuel pueden herir a Alan, incluso
+      si \xE9l no los escucha. Tambi\xE9n pueden hacer que Jake se sienta menos seguro."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Localized: "Dar una advertencia de que est\xE1s a punto de decir algo ofensivo
+      no significa que est\xE9 bien. Decir \"Solo estaba bromeando\" o \"No quise
+      hacer ning\xFAn da\xF1o\" despu\xE9s de terminar de decir algo tampoco significa
+      que est\xE9 bien. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8776731197440
+    m_Localized: "Como Alan no escuch\xF3, esta vez pudo dejarlo pasar. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Localized: "El hecho de que Mar\xEDa diga que est\xE1 haciendo una broma no
+      significa que sus comentarios sobre Alan est\xE9n bien."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9254827327488
+    m_Localized: "Eso no est\xE1 del todo bien. Quiero asegurarme de que Alan no
+      se sienta herido para que esto se vea mejor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10970805174272
+    m_Localized: "[0.00-4.00]\nLo estoy tomando en serio porque pas\xE9 tiempo conoci\xE9ndolo.
+      \n[4.00-7.05]\nRealmente trata de ser amigable con las personas a pesar de
+      que no es sociable."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Localized: "\xBFQu\xE9 deber\xEDa hacer {0} a continuaci\xF3n?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10985120333824
+    m_Localized: "Obviamente, no se est\xE1 esforzando lo suficiente. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11151973941248
+    m_Localized: "Deber\xEDas intentar hablar con \xE9l. Sabe mucho sobre las carreras
+      de F1. Te encanta la F1, \xBFverdad?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11153991401472
+    m_Localized: "[0.00-2.00]\nNo quiero hablar con Alan. \n[2.00-5.88]\n\xC9l es
+      raro. Tu ve y sean mejores amigos si quieres."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11266293579776
+    m_Localized: Dejarlo pasar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Localized: Di lo que piensas ahora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Localized: "No quiere herir los sentimientos de Mar\xEDa. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11664132014080
+    m_Localized: "Jake decidi\xF3 decir lo que pensaba en el momento y ser directo
+      con Mar\xEDa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Localized: "Decir algo podr\xEDa empeorar la situaci\xF3n "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Localized: "No quiere correr el riesgo de que Alan se entere de los comentarios
+      de Mar\xEDa. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Localized: "Puede esperar para decir lo que piensa/informarlo hasta la pr\xF3xima
+      vez que Mar\xEDa diga algo ofensivo sobre Alan. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Localized: "\xC9l aprecia a Alan y no le gusta c\xF3mo Mar\xEDa habla de \xE9l. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Localized: "Ya habl\xF3 una vez para defender a Alan, lo cual deber\xEDa ser
+      suficiente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11795438895104
+    m_Localized: "En este caso, decir lo que pensaba en el momento no convenci\xF3
+      a Mar\xEDa de cambiar su comportamiento; eso no significa que estuvo mal que
+      Jake intentara contarlo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11797074673664
+    m_Localized: "Samuel decidi\xF3 intentar aprender m\xE1s sobre Alan y dej\xF3
+      de hacer bromas a sus espaldas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Localized: "No cree que ninguna persona merezca que se burlen de ella, especialmente
+      por qui\xE9n es.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Localized: "Sabe que las burlas podr\xEDan empeorar si no hace algo m\xE1s. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11852275908608
+    m_Localized: "Aunque Jake no cambi\xF3 el comportamiento de Mar\xEDa, aun as\xED
+      mejor\xF3 indirectamente el ambiente de trabajo al influir en Samuel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12206929477632
+    m_Localized: "\xA1Buen trabajo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12335631695872
+    m_Localized: "Jake tambi\xE9n podr\xEDa haber informado de los comentarios de
+      Mar\xEDa a su gerente. Descubre c\xF3mo podr\xEDa haber sido esa conversaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12464291971072
+    m_Localized: "Hola, Dan, \xBFpuedes hablar ahora?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12788276789248
+    m_Localized: Claro, Jake.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12831557812224
+    m_Localized: "Quer\xEDa hablarte sobre una conversaci\xF3n que tuve con Mar\xEDa
+      recientemente. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12835018113024
+    m_Localized: "\xBFAlan lo sabe?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12838633603072
+    m_Localized: "No lo creo. No quisiera que \xE9l lo supiera. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12842815324160
+    m_Localized: "Gracias por hac\xE9rmelo saber. Encontrar\xE9 tiempo para hablar
+      con ella."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12846002995200
+    m_Localized: "[0.00-4.00]\nNo quiero que se enoje conmigo, pero quiero que Alan
+      se sienta seguro en el trabajo. \n[4.00-7.05]\nMe cont\xF3 algunas cosas sobre
+      s\xED mismo y me pidi\xF3 que no se las dijera a nadie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12848926425088
+    m_Localized: "Hablar\xE9 con Mar\xEDa sobre c\xF3mo trata a sus compa\xF1eros
+      y compa\xF1eras de trabajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12852130873344
+    m_Localized: Gracias, Dan. Realmente lo aprecio.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12856035770368
+    m_Localized: "[0.00-2.00]\nGracias por defender a Alan. \n[2.00-4.53]\nTrabaja
+      duro y disfruta ser parte del equipo.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13400527732736
+    m_Localized: "Dan hizo un seguimiento a Mar\xEDa. Se sinti\xF3 sorprendida y
+      triste de que se informaran sus comentarios, pero dej\xF3 de hacer bromas sobre
+      Alan. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13507302129664
+    m_Localized: "Alan nunca se enter\xF3 de los comentarios de Mar\xEDa. Sigui\xF3
+      disfrutando de su trabajo y desarrollando sus destrezas. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13509281841152
+    m_Localized: "Jake y Mar\xEDa no hablaron mucho despu\xE9s de este informe, pero
+      pudieron seguir trabajando juntos. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13511391576064
+    m_Localized: "\xA1Buen trabajo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13700575657984
+    m_Localized: "Jake tambi\xE9n podr\xEDa haber hablado directamente con Mar\xEDa.
+      Descubre c\xF3mo podr\xEDa haber sido esa conversaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13702404374528
+    m_Localized: "\xBFY si Jake lo hubiera dejado pasar? "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Localized: Realmente no quiero que Alan sepa nada de nada.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Localized: "Quiz\xE1s necesito volver a pensar esto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Localized: "Decir lo que piensa en el momento, o hacer un informe, o ambas
+      cosas, ayudar\xEDa a Alan a evitar el acoso en el trabajo.\nNinguna acci\xF3n
+      fue f\xE1cil para Jake. Ser un aliado no siempre es f\xE1cil, pero ayudar a
+      todos a vivir seg\xFAn los valores de McDonald's es una parte importante de
+      tu trabajo. \n\n\xBFY si Jake hubiera actuado de manera diferente?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15515450687488
+    m_Localized: "Si Mar\xEDa trat\xF3 mal a Jake despu\xE9s de que \xE9l informara
+      su comportamiento, se considerar\xEDa represalias (o victimizaci\xF3n). Nunca
+      est\xE1 bien tomar represalias contra alguien porque inform\xF3 sobre un comportamiento
+      inapropiado.  \nSi Jake alguna vez sinti\xF3 que Mar\xEDa estaba tomando represalias
+      contra \xE9l, tambi\xE9n deber\xEDa informar de ese comportamiento.\n\nLas
+      represalias pueden adoptar muchas formas:\n\\u2022<indent=1em>Chismear, menospreciar
+      o criticar injustamente a alguien\n </indent>\n\\u2022<indent=1em>Despedir
+      a alguien\n</indent>\n\\u2022<indent=1em>Reducir su salario u horas, degradarlos
+      o transferirlos\n</indent>\n"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774241
+  - m_Id: 16316051357696
+    m_Localized: "\\u2022<indent=1em>Mar\xEDa y Samuel podr\xEDan seguir haciendo
+      comentarios malos o despectivos sobre Alan, lo que podr\xEDa animar a otras
+      personas a hacer comentarios similares. \n</indent>\n\\u2022<indent=1em>Alan
+      eventualmente podr\xEDa enterarse de estos comentarios. Podr\xEDa sentirse
+      inseguro en el trabajo, su capacidad para hacer su trabajo podr\xEDa verse
+      afectada o eventualmente podr\xEDa renunciar. \n</indent>\n"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774241
+  - m_Id: 16349987471360
+    m_Localized: "\xBFQu\xE9 pasar\xEDa si Mar\xEDa tomara represalias contra Jake?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16412994306048
+    m_Localized: "\xBFY si supi\xE9ramos los pensamientos de Alan?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16432816586752
+    m_Localized: "\\u2022 <indent=1em>Realmente trato de ser tan amigable como todos
+      los dem\xE1s. Soy mucho mejor de lo que sol\xEDa ser. </indent>\n\n\\u2022<indent=1em>Me
+      gustar\xEDa que las personas reconocieran mis fortalezas y no solo las \xE1reas
+      en las que necesito mejorar. \n</indent>\n\\u2022 <indent=1em>Dan sabe que
+      tengo desaf\xEDos que afectan mi trabajo. Ha hecho ajustes para ayudarme, como
+      tomar un descanso adicional cuando lo necesito. Pero me gusta mantener todo
+      eso en privado.\n</indent>\n\\u2022 <indent=1em>Cuando escucho a alguien burlarse
+      de m\xED (especialmente cuando creen que no puedo o\xEDrlo), siento horrible.
+      \n</indent>\n\n\xBFQu\xE9 m\xE1s debo saber?\n\\u2022 <indent=1em>McDonald's
+      se esfuerza por crear espacios de representaci\xF3n y pertenencia dentro de
+      la comunidad de McDonald's para personas con discapacidades. \n</indent>\n\\u2022<indent=1em>McDonald's
+      proporciona ajustes razonables a personas calificadas con discapacidades como
+      parte del proceso de solicitud o contrataci\xF3n o para realizar las funciones
+      esenciales de su trabajo.\n</indent>\n\\u2022<indent=1em>Puedes ser un aliado
+      de los compa\xF1eros y las compa\xF1eras de trabajo con discapacidades, aprendiendo
+      sobre los diferentes tipos de discapacidad y promoviendo la accesibilidad y
+      la inclusi\xF3n.\n</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774241
+  - m_Id: 16655802253312
+    m_Localized: McDonald's se esfuerza por ser un lugar de trabajo gratificante
+      y agradable y de crecimiento para todas las personas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Localized: "Ser un aliado demuestra que est\xE1s trabajando para lograr un
+      ambiente seguro para todos los compa\xF1eros y las compa\xF1eras de trabajo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Localized: "Puedes ayudar a crear una cultura respetuosa defendiendo a tus
+      compa\xF1eros y compa\xF1eras de trabajo.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Localized: "Ten en cuenta que no conoces las circunstancias de cada compa\xF1ero
+      y compa\xF1era de trabajo. Tu responsabilidad es hacer que todas las personas
+      se sientan bienvenidas en McDonald's."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Localized: "Mar\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Localized: Samuel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17400073109504
+    m_Localized: Jake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Localized: Seguro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Localized: Respetuoso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Localized: Inclusivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100570604847104
+    m_Localized: Alan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1126879934103552
+    m_Localized: "[0.00-4.20]\nSolo estoy bromeando, no le dir\xEDa nada en la cara.
+      \n[4.20-8.85]\nNo siempre hay que tomarse todo tan en serio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1198907840086016
+    m_Localized: Dan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1575028882804736
+    m_Localized: " Simplemente, no me gusta que pueda salir lastimado si escucha
+      lo que Mar\xEDa ha estado diciendo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4014003593547776
+    m_Localized: "[0.00-4.60]\nElla se burla de Alan a sus espaldas por c\xF3mo interact\xFAa
+      con la gente.\n[4.60-6.06]\nMe preocupa que ella siga haci\xE9ndolo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34956696487976960
+    m_Localized: "Samuel, Jake y Mar\xEDa en la sala de descanso de un restaurante
+      McDonald's"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34956705736417280
+    m_Localized: Jake y Dan parados en la sala de descanso de un restaurante McDonald's
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34957367509508096
+    m_Localized: "Jake, Mar\xEDa y Samuel en la sala de descanso de un restaurante
+      McDonald's"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2394929133959774241
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 000072e0d60e00000040ed781c0e000000003210f20e00000040ed24e4050000

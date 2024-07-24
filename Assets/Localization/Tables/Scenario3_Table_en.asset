@@ -1,0 +1,633 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario3_Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1cdae39b5d7e86340b581f14ac86265f, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 3140914559595315233
+  m_TableData:
+  - m_Id: 11266293579776
+    m_Localized: Let it Go
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Localized: Speak up now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Localized: Report
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Localized: "I\u2019ve tried telling her before, I just don\u2019t think she
+      is going to stop."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Localized: I need to think this through more.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9254827327488
+    m_Localized: "I still don\u2019t think that's quite right. I think this is going
+      to be better."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Localized: Kai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Localized: Eva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10970805174272
+    m_Localized: Hey Dan, do you have time to talk about something?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10985120333824
+    m_Localized: "Of course. I have a few minutes right now. What\u2019s up?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11151973941248
+    m_Localized: "[0.00-4.00]\nWell, I thought you might be able to help me. \n[4.00-7.80]\nI
+      don\u2019t want Eva to get in trouble, but she has asked me out a few times,
+      \n[7.80-10.60]\nand I\u2019m not sure how to get her to stop asking. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11153991401472
+    m_Localized: 'Ah, I see. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12206929477632
+    m_Localized: Great Job!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13511391576064
+    m_Localized: Great Job!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Localized: "He doesn\u2019t want to hurt Eva\u2019s feelings. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Localized: "What Eva\u2019s doing to him is harassment. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Localized: "He can just keep putting her off. She\u2019ll get the idea at some
+      point. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Localized: 'Maybe she will lose interest if he ignores her advances. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Localized: "He\u2019s entitled to keep his private life private. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Localized: 'He could stop following her on social media in the hopes she gets
+      the hint '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Localized: "He\u2019s already said no, but it\u2019s not stopping Eva. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Localized: "He doesn\u2019t think Eva means any harm, but he feels uncomfortable
+      with the attention she is giving him. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8776731197440
+    m_Localized: 'Eva is always nice to everyone, so maybe he is reading too much
+      into her offers. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478696890368
+    m_Localized: "This is getting annoying. If it doesn\u2019t stop, I might have
+      to try and switch shifts to avoid her.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Localized: "I\u2019m actually not dating anyone else. But that\u2019s nobody
+      else\u2019s business. I shouldn\u2019t have to explain why I don\u2019t want
+      to spend time alone with her."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Localized: 'I know we would never work out, but I almost feel I have to say
+      yes to get her to stop. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Localized: Kai wants Eva to stop.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Localized: Kai wants to keep his private life private.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Localized: 'Kai feels pressured into going on a date with Eva. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Localized: "I didn\u2019t think Kai would be able to resist a spy movie. I\u2019ll
+      have to find some other way."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Localized: "Maybe he\u2019s not actually dating anyone else right now? I\u2019ll
+      ask around and see if anyone knows for sure."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278207336153088
+    m_Localized: "Everyone working at McDonald\u2019s is entitled to <b>privacy at
+      work.</b> No one is entitled to details about someone else\u2019s personal
+      life. \n<b>Sharing emails, texts, or pictures</b> that make someone uncomfortable,
+      even if the content is not sexual in nature, is offensive behavior.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Localized: 'Eva intends to ask Kai out again. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Localized: "Eva intends to ask others about Kai\u2019s personal life."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278173962076160
+    m_Localized: Be careful with social media
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Localized: "I could say something to the Manager. But I like working with Eva.
+      And I don\u2019t want her to lose her job."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278249522462720
+    m_Localized: Reporting and its consequences
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Localized: "Kai doesn\u2019t want to get Eva into trouble. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278228601274368
+    m_Localized: "Kai doesn\u2019t need to tell Eva whether he\u2019s dating someone,
+      and Eva\u2019s social media post could be considered harassment.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Localized: "Hey Kai, I\u2019m done for the day. You here tomorrow?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Localized: "No, I\u2019m not back until next week."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Localized: What am I going to do without my Drive-Thru buddy?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Localized: "Get those cars through a lot faster, probably. Oh, are you going
+      to Amal\u2019s party this weekend?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Localized: "Party? I guess\u2026 I guess I wasn\u2019t invited."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Localized: "What? Oh, I\u2019m sorry, I\u2014"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Localized: "Just kidding! I\u2019ll be there."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Localized: (Sighs, laughs)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Localized: Wow, I got you good.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Localized: 'People will feel safer at work when you honor their boundaries,
+      especially if someone says no to a personal invitation. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Localized: Safe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Localized: Pause before you post. Be very thoughtful of how you engage with
+      co-workers on social media, through text messages, or email.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Localized: Respectful
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Localized: "McDonald\u2019s policy ensures all employees, no matter who they
+      are, are able to do their jobs. They are also entitled to privacy in regards
+      to their personal lives.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Localized: Inclusive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16655802253312
+    m_Localized: "Whether you are at work or interacting with co-workers outside
+      of work, you agree to live the McDonald\u2019s values."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 860133392384
+    m_Localized: They enjoy working together and have mutual friends at the restaurant
+      who often socialize outside of work
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Localized: What should {0} do next?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13702404374528
+    m_Localized: What if Kai had let it go?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16316051357696
+    m_Localized: "\\u2022 <indent=1em>He might feel pressured to share details about
+      his personal life that he doesn\u2019t want to share at work</indent>\n\\u2022
+      <indent=1em>His job performance might suffer because he feels uncomfortable
+      working with Eva\u2014he might even decide to quit</indent>\n\\u2022 <indent=1em>Eva
+      might not ever understand that her behavior is inappropriate</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 3140914559595315233
+  - m_Id: 16349987471360
+    m_Localized: What if Kai told Eva to stop?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15515450687488
+    m_Localized: "In this case, Kai tried to act in the moment and say something
+      to Eva by expressing his preference for \u201Cgroup hangouts\u201D only. \nShe
+      didn't listen.\nAs a reminder, no one is obligated to speak up in the moment,
+      especially if they don\u2019t feel comfortable doing so.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16412994306048
+    m_Localized: What if Kai went on a date with Eva?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16432816586752
+    m_Localized: Kai clearly does not want to go on a date with Eva. No one should
+      go on a date with a co-worker because they feel pressured or coerced. Agreeing
+      to go on a date with Eva would not make Kai feel any safer at work.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Localized: 'In this scenario, Kai chose to report to his manager: </indent>
+
+      \u2022
+      <indent=1em>Dan had a conversation with Eva. As a result, Eva stopped asking
+      Kai out.</indent>
+
+      \u2022 <indent=1em>Eva and Kai were able to keep working
+      together and remain friends.</indent>
+
+      \u2022 <indent=1em>Going forward,
+      Eva was more thoughtful about her behavior at work, including how she used
+      social media when co-workers were involved.</indent>
+
+
+      What if Kai had
+      acted differently?'
+    m_Metadata:
+      m_Items:
+      - rid: 3140914559595315233
+  - m_Id: 466376015872
+    m_Localized: Workplace Harassment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3269194809344
+    m_Localized: Worried
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3274131505152
+    m_Localized: Untroubled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276333514752
+    m_Localized: Happy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3278724268032
+    m_Localized: Excited
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3102777409536
+    m_Localized: Irritated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3249083121664
+    m_Localized: Worried
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3257173934080
+    m_Localized: Uncomfortable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3259564687360
+    m_Localized: Happy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Localized: "If someone says \u201Cno\u201D when asked out, their decision MUST
+      be respected. <b>Sexual harassment includes unwelcome advances or flirtations,
+      </b>like asking someone out after they\u2019ve declined."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Localized: "Eva\u2019s continued unwelcome advances could be considered harassment."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Localized: 'How we treat our co-worker <b>outside the restaurant or office,
+      like in social settings,</b> can have an impact in the workplace as well. Treat
+      everyone with respect at all times and in all places.  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Localized: Even though Eva and Kai were outside of work when Eva asked Kai
+      out again, it could still impact their workplace.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6477430210560
+    m_Localized: Even if comments or questions are not intended to offend or make
+      someone uncomfortable, <b>the intent does not</b> excuse unwelcome behavior.
+      What matters is if the person experiencing the conduct feels that it is offensive
+      or unwelcome.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Localized: "Eva\u2019s intent doesn\u2019t matter if her actions are causing
+      Kai discomfort.  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Localized: "Respect \u201Cno\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6598260031488
+    m_Localized: "Treat co-workers with \nrespect outside of work"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Localized: Intent is not an excuse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4219418263552
+    m_Localized: "You did indeed. Well, I\u2019ll see you there. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4248908414976
+    m_Localized: "[0.00-3.80]\nI\u2019m glad you\u2019re going. It\u2019ll be a lot
+      more fun. \n[3.80-8.56]\nActually, I was thinking, it would be fun to get together
+      sometime, just the two of us. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300582240256
+    m_Localized: "I don\u2019t think that would be\u2026 um, I think we should just
+      stick to group hangouts."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348598632448
+    m_Localized: Okay, but maybe just think about it!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274034335023104
+    m_Localized: <size=200%><b>The Party</b></size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274469670223872
+    m_Localized: Hi Kai!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274496694124544
+    m_Localized: Hey Eva. Did you just get here?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274532735778816
+    m_Localized: Yeah, how is it so far?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274544693739520
+    m_Localized: 'Amal always throws a great party. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274558790795264
+    m_Localized: "[0.00-3.00]\nYou know, on the way here, I passed the cinema. \n[3.00-7.05]\nThey\u2019re
+      having a spy movie marathon. You like spy movies, right?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274602323476480
+    m_Localized: I do. You have a good memory.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274614969303040
+    m_Localized: "I\u2019m happy to get us tickets if you are interested? It could
+      be fun."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274838349545472
+    m_Localized: "I\u2019m not sure that\u2019s a good idea\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274890853842944
+    m_Localized: "Actually, I said we should stick to group hangouts\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274906112720896
+    m_Localized: "Eva, it\u2019s a cool idea, but I\u2019m not interested\u2026 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275035020460032
+    m_Localized: "Look, I get it, you don\u2019t have to explain. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275074438529024
+    m_Localized: "You\u2019re obviously seeing someone else.   "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275087587672064
+    m_Localized: "That\u2019s not it\u2014"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275097968574464
+    m_Localized: Hey Eva, come here!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275126250766336
+    m_Localized: "[0.00-3.50]\nI really need to talk to her. I\u2019ll find you later. 
+      \n[3.50-5.68]\nBut, real quick, smile!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275137957068800
+    m_Localized: (Phone buzzes)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275547438579712
+    m_Localized: Me and my future boyfriend #sexy!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275788460064768
+    m_Localized: Angry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275823071461376
+    m_Localized: Frustrated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275849965338624
+    m_Localized: Uncomfortable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275876641112064
+    m_Localized: Untroubled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275917095174144
+    m_Localized: Annoyed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276018807046144
+    m_Localized: Untroubled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276029716430848
+    m_Localized: Excited
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276038713212928
+    m_Localized: Hopeful
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278268526854144
+    m_Localized: In some cases, inappropriate behavior can lead to serious consequences,
+      like termination. But it can also take less severe forms, like a written warning,
+      training, coaching, or other measures. <b>Consequences are meant to be proportionate
+      to the behavior.</b>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278283093671936
+    m_Localized: "If Kai reports Eva\u2019s behavior to a manager, it won\u2019t
+      necessarily result in severe consequences for Eva."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279466818535424
+    m_Localized: "Eva could get into big trouble if he reports, and he doesn\u2019t
+      want that."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281393660821504
+    m_Localized: Kai decides to talk to his manager Dan, about the situation with
+      Eva.
+    m_Metadata:
+      m_Items:
+      - rid: 3140914559595315233
+  - m_Id: 281832754118656
+    m_Localized: "[0.00-6.10]\nShe\u2019s great. I\u2019m just not interested, and
+      I\u2019ve tried to tell her that each time. \n[6.10-9.02]\nI just don\u2019t
+      want it to be awkward at work anymore."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281861627707392
+    m_Localized: "Thanks for letting me know. I\u2019ll speak with her as soon as
+      I can."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281880820842496
+    m_Localized: Is there anything else I need to do? Do I need to talk to her myself?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282182995279872
+    m_Localized: "[0.00-2.11]\nYou don\u2019t have to do anything more. \n[2.11-6.00]\nIf
+      you decide you\u2019d like to speak with her about it directly, that\u2019s
+      totally up to you. \n[6.00-7.68]\nBut you don\u2019t have to."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282196278640640
+    m_Localized: Thanks, Dan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8984898575351808
+    m_Localized: Me and my future boyfriend #sexy!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9079372215304192
+    m_Localized: "Oh, I\u2019m late getting back to the floor. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10069078382034944
+    m_Localized: "It\u2019s getting to the point where I don\u2019t even want to
+      work with her."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10070229630402560
+    m_Localized: "[0.00-3.00]\nI can\u2019t share details with you about my conversation
+      with her, \n[3.00-5.80]\nbut if it keeps happening, please let me know."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12593492147388416
+    m_Localized: Kai finds Dan in the breakroom.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 944228876288
+    m_Localized: Has been a crew member for 6 months
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33598141228072960
+    m_Localized: Select a response
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33772351580528640
+    m_Localized: Kai and Eva standing in the break room of a McDonald's Restaurant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33772363660124160
+    m_Localized: Kai and Eva standing in a living room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33773089228578816
+    m_Localized: Kai and Dan standing in the break room of a McDonald's Restaurant
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 3140914559595315233
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00402df3f20d0000000072e0d60e000000003211edff0000

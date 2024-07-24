@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad6a9442fb82df04eab7b1a24c134a9f, type: 3}
+  m_Name: 16-mc-screen10b-e-Speak_Up
+  m_EditorClassIdentifier: 
+  sequencialInfoCardData:
+    persistentTitleCard:
+      m_TableReference:
+        m_TableCollectionName: GUID:30630d9d68e57f84bb4a6bc4784ad227
+      m_TableEntryReference:
+        m_KeyId: 5377724755308544
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    owner: {fileID: 11400000, guid: f9e9a60286763844ab2877bf0e65cb84, type: 2}
+    cards:
+    - infoString:
+        m_TableReference:
+          m_TableCollectionName: GUID:30630d9d68e57f84bb4a6bc4784ad227
+        m_TableEntryReference:
+          m_KeyId: 2616952182493184
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      infoVoiceOver: {fileID: 0}
+      isCorrectAwnser: 0
+    - infoString:
+        m_TableReference:
+          m_TableCollectionName: GUID:30630d9d68e57f84bb4a6bc4784ad227
+        m_TableEntryReference:
+          m_KeyId: 5377927554101248
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      infoVoiceOver: {fileID: 0}
+      isCorrectAwnser: 0
+    - infoString:
+        m_TableReference:
+          m_TableCollectionName: GUID:30630d9d68e57f84bb4a6bc4784ad227
+        m_TableEntryReference:
+          m_KeyId: 5378092260225024
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      infoVoiceOver: {fileID: 0}
+      isCorrectAwnser: 0
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,273 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9017861039550358657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 996bb2effcfb5b641855605f694d01e7 to StateNode - dae3c6c9fbc86124e84b2abe7ee738fc
+  m_EditorClassIdentifier: 
+  m_Guid: 461c68024f87dde4ba24e8d80779431f
+  m_Condition:
+    rid: 2770246125329580035
+  m_From: {fileID: 4335556516118949218}
+  m_To: {fileID: 3263163669722793026}
+  references:
+    version: 2
+    RefIds:
+    - rid: 2770246125329580035
+      type: {class: Flip4CardsWithDoubleSideTextCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data: 
+--- !u!114 &-8500560287355487152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - e7567d6e530c2554d85070c55745c8d9 to StateNode - a5f0167129b07614c8ad961837ce9a22
+  m_EditorClassIdentifier: 
+  m_Guid: a32e793925900cf409f5e4dbe152fa9e
+  m_Condition:
+    rid: 2770246107683094529
+  m_From: {fileID: 1499608574097595738}
+  m_To: {fileID: 5428093474021326697}
+  references:
+    version: 2
+    RefIds:
+    - rid: 2770246107683094529
+      type: {class: QuestionWith3OptionsEndCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data: 
+--- !u!114 &-5415715436877738315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 10bb30b08f7d85944992dd5283163edb
+  m_EditorClassIdentifier: 
+  m_Guid: 10bb30b08f7d85944992dd5283163edb
+  m_Edges:
+  - {fileID: 5423894924597950500}
+  m_OnEnterActions:
+  - rid: 2770246085678727170
+  - rid: 2770246103299784715
+  - rid: 2770246103299784716
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 161, y: 89}
+  references:
+    version: 2
+    RefIds:
+    - rid: 2770246085678727170
+      type: {class: ShowQuestionWith3OptionsAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        infoPanelData: {fileID: 11400000, guid: cfe4b4a3ba9b15045b98193d88610e13, type: 2}
+    - rid: 2770246103299784715
+      type: {class: SetBackgroundAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_BackgroundTexture: {fileID: 2800000, guid: af8775e0175c9e443b101de51b1ed2f5, type: 3}
+        show: 1
+    - rid: 2770246103299784716
+      type: {class: DeactivateYellowBackground, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 564efee4b15c44e09505c4385a6b42c9, type: 3}
+  m_Name: TestingGraph
+  m_EditorClassIdentifier: 
+  b_Persist: 1
+  b_IsFlowGraph: 1
+  m_Root: {fileID: 4335556516118949218}
+  m_Nodes:
+  - {fileID: -5415715436877738315}
+  - {fileID: 1499608574097595738}
+  - {fileID: 5428093474021326697}
+  - {fileID: 4335556516118949218}
+  - {fileID: 3263163669722793026}
+  m_Edges:
+  - {fileID: 5423894924597950500}
+  - {fileID: -8500560287355487152}
+  - {fileID: 88095450137374813}
+  - {fileID: -9017861039550358657}
+--- !u!114 &88095450137374813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - a5f0167129b07614c8ad961837ce9a22 to StateNode - 996bb2effcfb5b641855605f694d01e7
+  m_EditorClassIdentifier: 
+  m_Guid: dfed2f1c5dca47e43bfda0b856df381d
+  m_Condition:
+    rid: -2
+  m_From: {fileID: 5428093474021326697}
+  m_To: {fileID: 4335556516118949218}
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+--- !u!114 &1499608574097595738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - e7567d6e530c2554d85070c55745c8d9
+  m_EditorClassIdentifier: 
+  m_Guid: e7567d6e530c2554d85070c55745c8d9
+  m_Edges:
+  - {fileID: -8500560287355487152}
+  m_OnEnterActions:
+  - rid: 2770246106631897088
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 376, y: 88.999985}
+  references:
+    version: 2
+    RefIds:
+    - rid: 2770246106631897088
+      type: {class: ShowQuestionWith3OptionsAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        infoPanelData: {fileID: 11400000, guid: 0b67f91519f3e3849bbd5c67ad65fcbe, type: 2}
+--- !u!114 &3263163669722793026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - dae3c6c9fbc86124e84b2abe7ee738fc
+  m_EditorClassIdentifier: 
+  m_Guid: dae3c6c9fbc86124e84b2abe7ee738fc
+  m_Edges: []
+  m_OnEnterActions:
+  - rid: 2770246125329580034
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 1030.7925, y: 88.99996}
+  references:
+    version: 2
+    RefIds:
+    - rid: 2770246125329580034
+      type: {class: ShowReminderAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        infoPanelData: {fileID: 11400000, guid: 175d1d2ff6aa4c041b20a1a58a7be3cd, type: 2}
+--- !u!114 &4335556516118949218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 996bb2effcfb5b641855605f694d01e7
+  m_EditorClassIdentifier: 
+  m_Guid: 996bb2effcfb5b641855605f694d01e7
+  m_Edges:
+  - {fileID: -9017861039550358657}
+  m_OnEnterActions:
+  - rid: 2770246108532178955
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 812.6, y: 89}
+  references:
+    version: 2
+    RefIds:
+    - rid: 2770246108532178955
+      type: {class: ShowFlip4CardsWithDoubleSideTextAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        infoPanelData: {fileID: 11400000, guid: 0973fc28a146a3d4792887b44142e618, type: 2}
+--- !u!114 &5423894924597950500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 10bb30b08f7d85944992dd5283163edb to StateNode - e7567d6e530c2554d85070c55745c8d9
+  m_EditorClassIdentifier: 
+  m_Guid: af5e82a5e3f21d04eb80199fd21ed0ad
+  m_Condition:
+    rid: 2770246106631897092
+  m_From: {fileID: -5415715436877738315}
+  m_To: {fileID: 1499608574097595738}
+  references:
+    version: 2
+    RefIds:
+    - rid: 2770246106631897092
+      type: {class: QuestionWith3OptionsEndCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data: 
+--- !u!114 &5428093474021326697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - a5f0167129b07614c8ad961837ce9a22
+  m_EditorClassIdentifier: 
+  m_Guid: a5f0167129b07614c8ad961837ce9a22
+  m_Edges:
+  - {fileID: 88095450137374813}
+  m_OnEnterActions:
+  - rid: 2770246107683094528
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: 594.84, y: 89}
+  references:
+    version: 2
+    RefIds:
+    - rid: 2770246107683094528
+      type: {class: ShowQuestionWith3OptionsAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        infoPanelData: {fileID: 11400000, guid: 91b8557a07033c44ba0ff1eb4ccd96b7, type: 2}

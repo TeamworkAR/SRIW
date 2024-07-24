@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d35bd9d9cde486ea63879af13039245, type: 3}
+  m_Name: CharacterData_Scenario_03_Kai_Party_Smartphone
+  m_EditorClassIdentifier: 
+  m_ShowcaseTemplate: {fileID: 6749847156691125657, guid: f1d7759ec725f0246baaddca0450cd3a, type: 3}
+  m_DialogueTemplate: {fileID: 5339809789956895601, guid: ec6e9d2cd772d0b46aa011438573cf81, type: 3}
+  characterName:
+    m_TableReference:
+      m_TableCollectionName: GUID:1cdae39b5d7e86340b581f14ac86265f
+    m_TableEntryReference:
+      m_KeyId: 16794717601792
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  characterInfo:
+    m_TableReference:
+      m_TableCollectionName: GUID:16fc587a71cebcc4e837c1a6473dfb35
+    m_TableEntryReference:
+      m_KeyId: 12209512372113408
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []

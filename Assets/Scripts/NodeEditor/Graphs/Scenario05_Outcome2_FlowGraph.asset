@@ -1,0 +1,374 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4481014338318630321
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 87da53fa9a87c1741ab37abd7e59e3c1 to StateNode - 864ea1a8a807dcf448f4de07e29dd8c4
+  m_EditorClassIdentifier: 
+  m_Guid: 8e2a12f26f743ce4985f661b8fb2b3eb
+  m_Condition:
+    rid: -2
+  m_From: {fileID: 2312845501086533818}
+  m_To: {fileID: 7144094036114455489}
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+--- !u!114 &-3965329262966379053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 864ea1a8a807dcf448f4de07e29dd8c4 to StateNode - 244e6647e7c2839459cc3f8269748945
+  m_EditorClassIdentifier: 
+  m_Guid: f580347850d025143a954c77873642e2
+  m_Condition:
+    rid: 5850379765742567427
+  m_From: {fileID: 7144094036114455489}
+  m_To: {fileID: 5584931914214149205}
+  references:
+    version: 2
+    RefIds:
+    - rid: 5850379765742567427
+      type: {class: SmartPhoneUIDoneCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 564efee4b15c44e09505c4385a6b42c9, type: 3}
+  m_Name: Scenario05_Outcome2_FlowGraph
+  m_EditorClassIdentifier: 
+  b_Persist: 0
+  b_IsFlowGraph: 0
+  m_Root: {fileID: 2312845501086533818}
+  m_Nodes:
+  - {fileID: 2312845501086533818}
+  - {fileID: 7144094036114455489}
+  - {fileID: 5584931914214149205}
+  m_Edges:
+  - {fileID: -4481014338318630321}
+  - {fileID: -3965329262966379053}
+--- !u!114 &2312845501086533818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 87da53fa9a87c1741ab37abd7e59e3c1
+  m_EditorClassIdentifier: 
+  m_Guid: 87da53fa9a87c1741ab37abd7e59e3c1
+  m_Edges:
+  - {fileID: -4481014338318630321}
+  m_OnEnterActions:
+  - rid: 3140914857955295235
+  - rid: 3140914857955295237
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: -220.37474, y: 124.17945}
+  references:
+    version: 2
+    RefIds:
+    - rid: 3140914857955295235
+      type: {class: PlayDialogueAnimationAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: d10d34b7ec6a2024ab09f967e8863149, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: 91a0250835b7b5244bdd731bfd69e02d, type: 2}
+        m_CameraPosition: 31
+        m_Mood:
+          m_Mood: 5
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_IsLastDialogueNode: 0
+    - rid: 3140914857955295237
+      type: {class: SetCharacterLookTarget, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: d10d34b7ec6a2024ab09f967e8863149, type: 2}
+        m_LookTarget: {fileID: 11400000, guid: a2dd6a6fa72809f49a0e2711d18cb5c9, type: 2}
+--- !u!114 &5584931914214149205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 244e6647e7c2839459cc3f8269748945
+  m_EditorClassIdentifier: 
+  m_Guid: 244e6647e7c2839459cc3f8269748945
+  m_Edges: []
+  m_OnEnterActions: []
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions: []
+  m_OnRestoreActions: []
+  _position: {x: -220.79999, y: 299.8}
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &7144094036114455489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 864ea1a8a807dcf448f4de07e29dd8c4
+  m_EditorClassIdentifier: 
+  m_Guid: 864ea1a8a807dcf448f4de07e29dd8c4
+  m_Edges:
+  - {fileID: -3965329262966379053}
+  m_OnEnterActions:
+  - rid: 5850379765742567426
+  - rid: 3140915020614336514
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions:
+  - rid: 3140914854310707213
+  m_OnRestoreActions: []
+  _position: {x: 0.00004051094, y: 124.00006}
+  references:
+    version: 2
+    RefIds:
+    - rid: 3140914854310707213
+      type: {class: HideSmartPhoneUIAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data: 
+    - rid: 3140915020614336514
+      type: {class: PlayDialogueAnimationAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Character: {fileID: 11400000, guid: d10d34b7ec6a2024ab09f967e8863149, type: 2}
+        m_ControllerOverride: {fileID: 22100000, guid: 91a0250835b7b5244bdd731bfd69e02d, type: 2}
+        m_CameraPosition: 31
+        m_Mood:
+          m_Mood: 5
+          b_IsRandom: 0
+          b_IsEmphasis: 0
+          b_IsManual: 1
+        m_IsLastDialogueNode: 1
+    - rid: 5850379765742567426
+      type: {class: ShowSmartPhoneUIAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_Chain:
+          m_Entries:
+          - rid: 5850379765742567428
+          - rid: 5850379765742567429
+          - rid: 5850379765742567430
+          - rid: 5850379765742567431
+          - rid: 5850379765742567432
+          - rid: 5850379765742567433
+          - rid: 5850379765742567438
+          - rid: 5850379765742567439
+          - rid: 5850379765742567440
+          - rid: 5850379765742567441
+          - rid: 5850379765742567442
+          - rid: 5850379765742567443
+    - rid: 5850379765742567428
+      type: {class: TextSmartPhoneChainEntry, ns: UI.Smartphone, asm: Assembly-CSharp}
+      data:
+        m_Sfx: {fileID: 8300000, guid: a0ea81f3bf9131c48994a31d432a3eff, type: 3}
+        m_Template: {fileID: 1138296528507903186, guid: 72d513036f357e74ebf95ea05dc2b659, type: 3}
+        m_Character: {fileID: 11400000, guid: e0707cf241f8b534286e316cba59dcc2, type: 2}
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+          m_TableEntryReference:
+            m_KeyId: 1014795179212800
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+    - rid: 5850379765742567429
+      type: {class: TextSmartPhoneChainEntry, ns: UI.Smartphone, asm: Assembly-CSharp}
+      data:
+        m_Sfx: {fileID: 8300000, guid: c61b346462b0752489c72a69b3937815, type: 3}
+        m_Template: {fileID: 7135073738481043505, guid: 931013693aec5d34ebd70ff237fcb8d0, type: 3}
+        m_Character: {fileID: 11400000, guid: 4606c1b7ff1c3554799a0f3283201efd, type: 2}
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+          m_TableEntryReference:
+            m_KeyId: 1014875672100864
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+    - rid: 5850379765742567430
+      type: {class: TextSmartPhoneChainEntry, ns: UI.Smartphone, asm: Assembly-CSharp}
+      data:
+        m_Sfx: {fileID: 8300000, guid: a0ea81f3bf9131c48994a31d432a3eff, type: 3}
+        m_Template: {fileID: 1138296528507903186, guid: 72d513036f357e74ebf95ea05dc2b659, type: 3}
+        m_Character: {fileID: 11400000, guid: e0707cf241f8b534286e316cba59dcc2, type: 2}
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+          m_TableEntryReference:
+            m_KeyId: 1014910367383552
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+    - rid: 5850379765742567431
+      type: {class: TextSmartPhoneChainEntry, ns: UI.Smartphone, asm: Assembly-CSharp}
+      data:
+        m_Sfx: {fileID: 8300000, guid: c61b346462b0752489c72a69b3937815, type: 3}
+        m_Template: {fileID: 7135073738481043505, guid: 931013693aec5d34ebd70ff237fcb8d0, type: 3}
+        m_Character: {fileID: 11400000, guid: 4606c1b7ff1c3554799a0f3283201efd, type: 2}
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+          m_TableEntryReference:
+            m_KeyId: 1014951878410240
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+    - rid: 5850379765742567432
+      type: {class: TextSmartPhoneChainEntry, ns: UI.Smartphone, asm: Assembly-CSharp}
+      data:
+        m_Sfx: {fileID: 8300000, guid: a0ea81f3bf9131c48994a31d432a3eff, type: 3}
+        m_Template: {fileID: 1138296528507903186, guid: 72d513036f357e74ebf95ea05dc2b659, type: 3}
+        m_Character: {fileID: 11400000, guid: e0707cf241f8b534286e316cba59dcc2, type: 2}
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+          m_TableEntryReference:
+            m_KeyId: 1014968517214208
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+    - rid: 5850379765742567433
+      type: {class: TextSmartPhoneChainEntry, ns: UI.Smartphone, asm: Assembly-CSharp}
+      data:
+        m_Sfx: {fileID: 8300000, guid: c61b346462b0752489c72a69b3937815, type: 3}
+        m_Template: {fileID: 7135073738481043505, guid: 931013693aec5d34ebd70ff237fcb8d0, type: 3}
+        m_Character: {fileID: 11400000, guid: 4606c1b7ff1c3554799a0f3283201efd, type: 2}
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+          m_TableEntryReference:
+            m_KeyId: 1014993351688192
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+    - rid: 5850379765742567438
+      type: {class: TextSmartPhoneChainEntry, ns: UI.Smartphone, asm: Assembly-CSharp}
+      data:
+        m_Sfx: {fileID: 8300000, guid: a0ea81f3bf9131c48994a31d432a3eff, type: 3}
+        m_Template: {fileID: 1138296528507903186, guid: 72d513036f357e74ebf95ea05dc2b659, type: 3}
+        m_Character: {fileID: 11400000, guid: e0707cf241f8b534286e316cba59dcc2, type: 2}
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+          m_TableEntryReference:
+            m_KeyId: 1015005393534976
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+    - rid: 5850379765742567439
+      type: {class: TextSmartPhoneChainEntry, ns: UI.Smartphone, asm: Assembly-CSharp}
+      data:
+        m_Sfx: {fileID: 8300000, guid: c61b346462b0752489c72a69b3937815, type: 3}
+        m_Template: {fileID: 7135073738481043505, guid: 931013693aec5d34ebd70ff237fcb8d0, type: 3}
+        m_Character: {fileID: 11400000, guid: 4606c1b7ff1c3554799a0f3283201efd, type: 2}
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+          m_TableEntryReference:
+            m_KeyId: 1015020329451520
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+    - rid: 5850379765742567440
+      type: {class: TextSmartPhoneChainEntry, ns: UI.Smartphone, asm: Assembly-CSharp}
+      data:
+        m_Sfx: {fileID: 8300000, guid: c61b346462b0752489c72a69b3937815, type: 3}
+        m_Template: {fileID: 7135073738481043505, guid: 931013693aec5d34ebd70ff237fcb8d0, type: 3}
+        m_Character: {fileID: 11400000, guid: 4606c1b7ff1c3554799a0f3283201efd, type: 2}
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+          m_TableEntryReference:
+            m_KeyId: 1015033512148992
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+    - rid: 5850379765742567441
+      type: {class: TextSmartPhoneChainEntry, ns: UI.Smartphone, asm: Assembly-CSharp}
+      data:
+        m_Sfx: {fileID: 8300000, guid: a0ea81f3bf9131c48994a31d432a3eff, type: 3}
+        m_Template: {fileID: 1138296528507903186, guid: 72d513036f357e74ebf95ea05dc2b659, type: 3}
+        m_Character: {fileID: 11400000, guid: e0707cf241f8b534286e316cba59dcc2, type: 2}
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+          m_TableEntryReference:
+            m_KeyId: 1015049052045312
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+    - rid: 5850379765742567442
+      type: {class: TextSmartPhoneChainEntry, ns: UI.Smartphone, asm: Assembly-CSharp}
+      data:
+        m_Sfx: {fileID: 8300000, guid: c61b346462b0752489c72a69b3937815, type: 3}
+        m_Template: {fileID: 7135073738481043505, guid: 931013693aec5d34ebd70ff237fcb8d0, type: 3}
+        m_Character: {fileID: 11400000, guid: 4606c1b7ff1c3554799a0f3283201efd, type: 2}
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+          m_TableEntryReference:
+            m_KeyId: 1015066638761984
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+    - rid: 5850379765742567443
+      type: {class: TextSmartPhoneChainEntry, ns: UI.Smartphone, asm: Assembly-CSharp}
+      data:
+        m_Sfx: {fileID: 8300000, guid: c61b346462b0752489c72a69b3937815, type: 3}
+        m_Template: {fileID: 7135073738481043505, guid: 931013693aec5d34ebd70ff237fcb8d0, type: 3}
+        m_Character: {fileID: 11400000, guid: 4606c1b7ff1c3554799a0f3283201efd, type: 2}
+        m_Text:
+          m_TableReference:
+            m_TableCollectionName: GUID:5ec72a9f21754d44aa6e15b6101707c7
+          m_TableEntryReference:
+            m_KeyId: 1015080589017088
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []

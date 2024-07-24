@@ -1,0 +1,17 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <uie:Toolbar>
+        <uie:ToolbarMenu tabindex="-1" parse-escape-sequences="true" display-tooltip-when-elided="true" text="Assets" />
+    </uie:Toolbar>
+    <NodeEditor.Editor.SplitView fixed-pane-initial-dimension="202" style="height: 1000000px; width: 100%;">
+        <ui:VisualElement name="LeftPanel" style="flex-grow: 1; height: 100%;">
+            <ui:ScrollView style="flex-grow: 1;">
+                <ui:Label tabindex="-1" text="Inspector" parse-escape-sequences="true" display-tooltip-when-elided="true" />
+                <NodeEditor.Editor.InspectorView />
+            </ui:ScrollView>
+        </ui:VisualElement>
+        <ui:VisualElement name="RightPanel" style="flex-grow: 1;">
+            <ui:Label tabindex="-1" text="Graph" parse-escape-sequences="true" display-tooltip-when-elided="true" />
+            <NodeEditor.Editor.GraphEditorGraphView focusable="true" style="height: 100%;" />
+        </ui:VisualElement>
+    </NodeEditor.Editor.SplitView>
+</ui:UXML>

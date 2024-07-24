@@ -1,0 +1,615 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenario5_Table_sk-SK
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sk-SK
+  m_SharedData: {fileID: 11400000, guid: 5ec72a9f21754d44aa6e15b6101707c7, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2394929133959774251
+  m_TableData:
+  - m_Id: 466376015872
+    m_Localized: "Sexu\xE1lne ob\u0165a\u017Eovanie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 860133392384
+    m_Localized: "Adam je mana\u017E\xE9rom 4 mesiace, s celkovou praxou 2 roky.\n\nSofia
+      je \u010Dlenkou t\xEDmu 2 mesiace."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3261561176064
+    m_Localized: "Iste, predpoklad\xE1m. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3269194809344
+    m_Localized: "Vystra\u0161en\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3274131505152
+    m_Localized: "Znepokojen\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276333514752
+    m_Localized: "Nepr\xEDjemne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3278724268032
+    m_Localized: "Upokojen\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3281622532096
+    m_Localized: "Uk\xE1zala si, \u017Ee si spo\u013Eahliv\xE1 a pracovit\xE1 a r\xFDchlo
+      sa u\u010D\xED\u0161. Skvele by si sa na to hodila."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3297758019584
+    m_Localized: "Ach, v\u010Faka!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3316888240128
+    m_Localized: "[0.00-2.00]\nViem, \u017Ee maj\xFA z\xE1ujem aj in\xED. \n[2.00-6.21]\nSom
+      ochotn\xFD da\u0165 ti nieko\u013Eko tipov, ako m\xF4\u017Ee\u0161 toto pov\xFD\u0161enie
+      z\xEDska\u0165. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3358533484544
+    m_Localized: "Dobre\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3372223692800
+    m_Localized: "\u010Co keby sme sa koncom t\xFD\u017Ed\u0148a stretli na k\xE1ve?
+      Ale tu to nerozoberajme. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3381753151488
+    m_Localized: "Och, no\u2026 m\xE1m ru\u0161n\xFD t\xFD\u017Ede\u0148\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393266515968
+    m_Localized: "[0.00-2.30]\nTak\xE9to ponuky ned\xE1vam ka\u017Ed\xE9mu.\n[2.30-6.43]
+      \nKeby sme si sadli a porozpr\xE1vali sa v s\xFAkrom\xED, garantujem ti, \u017Ee
+      to pov\xFD\u0161enie dostane\u0161."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3452456222720
+    m_Localized: "Zd\xE1 sa, \u017Ee ti doch\xE1dza \u0161al\xE1t. Mus\xEDme prinies\u0165
+      nejak\xE9 z\xE1soby. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3679691030528
+    m_Localized: "Nechceme, aby n\xE1m nie\u010Do ch\xFDbalo uprostred obed\u0148aj\u0161ieho
+      zhonu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3751224885248
+    m_Localized: "\xC1no. \u010Eakujem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055093821440
+    m_Localized: Ahoj, Sofia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4089659080704
+    m_Localized: 'Ahoj, Aisha. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710196224
+    m_Localized: "St\xE1va sa to \u010Dasto?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4161067106304
+    m_Localized: "\u010Co? "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4170361683968
+    m_Localized: "\u017De sa k tebe Adam takto nakl\xE1\u0148a. Tla\u010D\xED sa
+      na teba. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193006731264
+    m_Localized: "[0.00-5.40]\nHm\u2026 \xE1no, ob\u010Das. Nerob\xED to ka\u017Ed\xE9mu?\n[5.40-9.12]\nMyslela
+      som si, \u017Ee sa to st\xE1va, odkedy je to tu tak\xE9 tesn\xE9. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4219418263552
+    m_Localized: "Nie, mne to nikdy nerob\xED. Si v poriadku?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4248908414976
+    m_Localized: "Nie, c\xEDtim sa preto ve\u013Emi nepr\xEDjemne. V\xF4bec sa mi
+      to nep\xE1\u010Di."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300582240256
+    m_Localized: "Chce\u0161 mu o tom nie\u010Do poveda\u0165? "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348598632448
+    m_Localized: "Neviem, \u010Do m\xE1m poveda\u0165. Ani neviem, ako to nazva\u0165\u2026
+      \u010Do to vlastne rob\xED. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4370207686656
+    m_Localized: "[0.00-2.50]\nK\xFDm sa nebude\u0161 chcie\u0165 o tom rozpr\xE1va\u0165,
+      \n[2.50-5.56]\n\u010Do keby som d\xE1vala pozor a pok\xFAsila sa by\u0165 ti
+      viac na bl\xEDzku, ke\u010F budeme pracova\u0165 spolu? "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4395776163840
+    m_Localized: "To by bolo skvel\xE9. \u010Eakujem!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4423588593664
+    m_Localized: "[0.00-4.30]\nSofia, mala by si z\xE1ujem o pov\xFD\u0161enie? \n[4.30-9.35]\n\u010Coskoro
+      sa otv\xE1ra nov\xE1 poz\xEDcia. Viac povinnost\xED, ale aj vy\u0161\u0161\xED
+      plat. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4449899462656
+    m_Localized: "Nahl\xE1si\u0165 to"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473797943296
+    m_Localized: "Kedy prehovori\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6476016730112
+    m_Localized: "\\u2022 <indent=1em>Ur\xE1\u017Ea ma to, \u010Do vid\xEDm? \n</indent>\n\\u2022
+      <indent=1em>Znepokojuje ma t\xE1to situ\xE1cia? \n</indent>\n\\u2022 <indent=1em>Zd\xE1
+      sa, \u017Ee sa t\xE1to osoba c\xEDti nepr\xEDjemne? \n</indent>\n\\u2022 <indent=1em>C\xEDtim
+      sa nepr\xEDjemne, ke\u010F sa na to pozer\xE1m? \n</indent>\n\nAisha odpovedala
+      na tieto ot\xE1zky \u201E\xE1no\u201C. "
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774251
+  - m_Id: 6477430210560
+    m_Localized: "Niekedy m\xF4\u017Ee by\u0165 \u0165a\u017Ek\xE9 rozhodn\xFA\u0165
+      sa ozva\u0165, ke\u010F v pr\xE1ci vid\xEDte nap\xE4t\xFA situ\xE1ciu.\nKe\u010F
+      sa v nejakej situ\xE1cii c\xEDtite nerozhodne, polo\u017Ete si tieto ot\xE1zky:
+      \n<align=\"left\">\n\n\u2022 <indent=1em>Ur\xE1\u017Ea ma to, \u010Do vid\xEDm?
+      \n</indent>\n\u2022 <indent=1em>Znepokojuje ma t\xE1to situ\xE1cia? \n</indent>\n\u2022
+      <indent=1em>Zd\xE1 sa mi, \u017Ee sa t\xE1to osoba c\xEDti nepr\xEDjemne? \n</indent>\n\u2022
+      <indent=1em>C\xEDtim sa nepr\xEDjemne, ke\u010F sa na to pozer\xE1m? \n</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774251
+  - m_Id: 6478696890368
+    m_Localized: "Naozaj sa chcem do toho mie\u0161a\u0165? Mohlo by to pre Sofiu,
+      alebo aj pre m\u0148a, skon\u010Di\u0165 e\u0161te hor\u0161ie. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6479338618880
+    m_Localized: "Aisha sa ob\xE1va mo\u017En\xFDch n\xE1sledkov toho, \u017Ee sa
+      ozve."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480013901824
+    m_Localized: "Chcem Sofii pom\xF4c\u0165, ale je teraz ten spr\xE1vny \u010Das
+      ozva\u0165 sa? Nie som si ist\xE1. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6480479469568
+    m_Localized: "Aisha v\xE1ha, \u010Di m\xE1 v tomto momente prehovori\u0165."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6598260031488
+    m_Localized: "Zneu\u017Eitie moci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352831787008
+    m_Localized: "Zauj\xEDmalo by ma, \u010Di sa Adam spr\xE1va k ostatn\xFDm \u010Dlenk\xE1m
+      t\xEDmu rovnako."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7803799158784
+    m_Localized: "Sofia nemus\xED by\u0165 jedinou \u010Dlenkou t\xEDmu, ku ktorej
+      sa Adam takto spr\xE1va."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926205726720
+    m_Localized: "C\xEDtim sa tak nepr\xEDjemne v\u017Edy, ke\u010F sa Adam o m\u0148a
+      obtrie. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7929728942080
+    m_Localized: "Nie je to prv\xFDkr\xE1t, \u010Do sa Adam \xFAmyselne obtrel o
+      Sofiu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930332921856
+    m_Localized: "Mohla by som nie\u010Do poveda\u0165, ale neviem, ako zareaguje. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7930903347200
+    m_Localized: "Sofia si netr\xFAfa poveda\u0165 to Adamovi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8272390995968
+    m_Localized: "Asi si to beriem pr\xEDli\u0161 osobne. Nie je tu ve\u013Ea miesta
+      na pohyb."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8432110092288
+    m_Localized: "Sofia pochybuje o sebe a o tom, ako sa c\xEDti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8580655562752
+    m_Localized: "\u010Co je sexu\xE1lne ob\u0165a\u017Eovanie?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8582467502080
+    m_Localized: "Sexu\xE1lne ob\u0165a\u017Eovanie zah\u0155\u0148a mnoho r\xF4znych
+      druhov ne\u017Eiaduceho spr\xE1vania, ako napr\xEDklad dot\xFDka\u0165 sa niekoho
+      erotick\xFDm sp\xF4sobom, komentova\u0165 nie\u010Die telo, \xFAmyselne sa
+      o niekoho obtiera\u0165, h\u013Eadie\u0165 na niekoho tak\xFDm sp\xF4sobom,
+      \u017Ee sa c\xEDti nepr\xEDjemne, alebo ukazova\u0165 obr\xE1zky \u010Di hovori\u0165
+      vtipy sexu\xE1lnej povahy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8583440580608
+    m_Localized: "Ke\u010F sa Adam \xFAmyselne dotkne Sofie ne\u017Eiaducim sp\xF4sobom,
+      ob\u0165a\u017Euje ju."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8584073920512
+    m_Localized: "\u010Eal\u0161ia forma sexu\xE1lneho ob\u0165a\u017Eovania zah\u0155\u0148a
+      osobu s autoritou (napr\xEDklad mana\u017E\xE9r), ktor\xE1 s\u013Eubuje, odmieta
+      alebo sa ohrozuje ur\u010Dit\xE9 pracovn\xE9 v\xFDhody v\xFDmenou za nie\u010Do
+      sexu\xE1lneho charakteru."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9103198732288
+    m_Localized: "Ke\u010F Adam tla\u010D\xED na Sofiu, aby sa s n\xEDm stretla mimo
+      pr\xE1ce, je to ob\u0165a\u017Eovanie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9254827327488
+    m_Localized: "Viem, \u017Ee mus\xEDm nie\u010Do poveda\u0165 hne\u010F teraz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10972449030144
+    m_Localized: "\u010Co m\xE1 {0} urobi\u0165 \u010Falej?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11266293579776
+    m_Localized: "Necha\u0165 to tak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11310073724928
+    m_Localized: "Ihne\u010F sa ozva\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11333758959616
+    m_Localized: "Nechce, aby na nej Adam vyv\u0155\u0161il."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11711648972800
+    m_Localized: "Adam sa mohol spr\xE1va\u0165 nevhodne aj k ostatn\xFDm \u010Dlenom
+      t\xEDmu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11714236858368
+    m_Localized: "Adam vyu\u017E\xEDva svoju autoritu na n\xE1tlak na Sofiu, aby
+      s n\xEDm str\xE1vila \u010Das osamote."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11718938673152
+    m_Localized: "Nechce Sofii situ\xE1ciu e\u0161te zhor\u0161i\u0165."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11778460041216
+    m_Localized: "Mala by po\u010Dka\u0165 na \u010Fal\u0161ie pr\xEDklady toho,
+      \u017Ee sa Adam spr\xE1va zle."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11793089773568
+    m_Localized: "Sofia vyzer\xE1 nepohodlne a Aisha sa tie\u017E c\xEDti nepr\xEDjemne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11813625085952
+    m_Localized: "M\xF4\u017Ee by\u0165 viac pri Sofii, aby nezostala sama s Adamom."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11825599823872
+    m_Localized: "Adamovo nevhodn\xE9 spr\xE1vanie u\u017E ovplyvnilo jej pr\xE1cu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12206929477632
+    m_Localized: "V\xFDborne!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13511391576064
+    m_Localized: "V\xFDborne!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13702404374528
+    m_Localized: "\u010Co keby sa s Adamom porozpr\xE1vala sama Sofia?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14798828683264
+    m_Localized: "Pl\xE1nujem to nahl\xE1si\u0165, ale chcem pom\xF4c\u0165 Sofii
+      ihne\u010F."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975257886720
+    m_Localized: "To sa nezd\xE1 celkom spr\xE1vne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15337113075712
+    m_Localized: "\\u2022 <indent=1em>Ke\u010F\u017Ee Aisha konala ako spojenec Sofie,
+      Sofia aj Aisha sa c\xEDtili v pr\xE1ci bezpe\u010Dnej\u0161ie. </indent>\n\\u2022
+      <indent=1em>Prebehlo vy\u0161etrovanie Adamovho spr\xE1vania vo\u010Di Sofii
+      a Aishi. Aisha z\xEDskala sp\xE4\u0165 svoje pravideln\xE9 zmeny.</indent>\n\\u2022
+      <indent=1em>Vy\u0161etrovanie odhalilo d\xF4kaz, \u017Ee Adam sexu\xE1lne ob\u0165a\u017Eoval
+      viac ne\u017E jednu \u010Dlenku t\xEDmu. V d\xF4sledku toho bol prepusten\xFD.</indent>\n\n\u010Co
+      keby bola b\xFDvala Aisha konala inak?"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774251
+  - m_Id: 15515450687488
+    m_Localized: "\\u2022 <indent=1em>Adam by aj na\u010Falej ob\u0165a\u017Eoval
+      Sofiu a t\xE1 by sa c\xEDtila nepr\xEDjemne a nie v bezpe\u010D\xED.</indent>\n\\u2022
+      <indent=1em>Sofia by mohla by\u0165 unaven\xE1 z toho, \u017Ee sa v pr\xE1ci
+      nec\xEDti dobre, a za\u010Dala by si h\u013Eada\u0165 nov\xE9 miesto.</indent>
+      \n\\u2022 <indent=1em>Aisha by sa pri pozorovan\xED Adamovho spr\xE1vania na\u010Falej
+      c\xEDtila nepr\xEDjemne, \u010Do by mohlo ovplyvni\u0165 jej vlastn\xFD pracovn\xFD
+      v\xFDkon a spokojnos\u0165.</indent>\n\\u2022 <indent=1em>Adam by sa mohol
+      spr\xE1va\u0165 aj k ostatn\xFDm tak, ako sa spr\xE1val k Sofii.</indent>"
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774251
+  - m_Id: 16316051357696
+    m_Localized: "\\u2022 <indent=1em>Sofia nie je povinn\xE1 poveda\u0165 to Adamovi,
+      najm\xE4 ak sa nec\xEDti bezpe\u010Dne. Ak by sa Sofia ozvala, mohlo by to
+      situ\xE1ciu zlep\u0161i\u0165, ale aj nemuselo.</indent>\n\\u2022 <indent=1em>Bez
+      oh\u013Eadu na to by Sofia mala jeho spr\xE1vanie nahl\xE1si\u0165, preto\u017Ee
+      sa c\xEDti nepr\xEDjemne.</indent>  "
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774251
+  - m_Id: 16349987471360
+    m_Localized: "\u010Co keby Aisha nebola b\xFDvala konala ako spojenec?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16412994306048
+    m_Localized: "\u010Co keby Aisha nebola b\xFDvala nahl\xE1sila Adamovo spr\xE1vanie?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16432816586752
+    m_Localized: "\\u2022 <indent=1em>Vy\u0161etrovanie Adamovho spr\xE1vania by
+      sa nekonalo a za jeho \u010Diny by neboli vyvoden\xE9 \u017Eiadne ofici\xE1lne
+      d\xF4sledky.</indent> \n\\u2022 <indent=1em>Adam by mohol na\u010Falej sexu\xE1lne
+      ob\u0165a\u017Eova\u0165 Sofiu a potenci\xE1lne aj \u010Fal\u0161\xEDch.</indent>
+      \n\\u2022 <indent=1em>Aisha by mo\u017Eno nez\xEDskala sp\xE4\u0165 svoj be\u017En\xFD
+      pracovn\xFD \u010Das.</indent>\n\nV tomto pr\xEDpade je mimoriadne d\xF4le\u017Eit\xE9,
+      aby bolo Adamovo spr\xE1vanie nahl\xE1sen\xE9, aby sa podnikli pr\xEDslu\u0161n\xE9
+      kroky na vyrie\u0161enie situ\xE1cie."
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774251
+  - m_Id: 16477708222464
+    m_Localized: "\\u2022 <indent=1em>Spolo\u010Dnos\u0165 McDonald\u2019s netoleruje
+      ob\u0165a\u017Eovanie zamestnancov zo strany os\xF4b, ktor\xE9 nie s\xFA zamestnancami
+      (napr\xEDklad z\xE1kazn\xEDkov, predajcov alebo dod\xE1vate\u013Eov).</indent>
+      \n\\u2022 <indent=1em>Rovnako plat\xED nulov\xE1 tolerancia vo\u010Di ob\u0165a\u017Eovaniu
+      os\xF4b, ktor\xE9 nie s\xFA zamestnancami, zo strany zamestnancov.</indent>  "
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774251
+  - m_Id: 16655802253312
+    m_Localized: "V spolo\u010Dnosti McDonald\u2019s sme rodina, ke\u010F spolo\u010Dne
+      pracujeme, re\u0161pektujeme sa a d\xE1vame na seba pozor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16719018803200
+    m_Localized: "Ak sa vy alebo ktor\xFDko\u013Evek in\xFD kolega c\xEDtite v pr\xE1ci
+      nepr\xEDjemne, nev\xE1hajte sa ozva\u0165 a nahl\xE1si\u0165 to. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16754452283392
+    m_Localized: "Zachov\xE1va\u0165 na\u0161e hodnoty znamen\xE1 prejavova\u0165
+      \xFActu svojim spolupracovn\xEDkom. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16775625129984
+    m_Localized: "Sme v tom v\u0161etci spolu. Zachovan\xEDm profesion\xE1lneho pr\xEDstupu
+      za ka\u017Ed\xFDch okolnost\xED m\xF4\u017Eete podpori\u0165 kult\xFAru, v
+      ktorej m\xF4\u017Ee ka\u017Ed\xFD napredova\u0165."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16794717601792
+    m_Localized: Adam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16881418059776
+    m_Localized: Aisha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17400073109504
+    m_Localized: Sofia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17453865369600
+    m_Localized: "\u010Co ak sa z\xE1kazn\xEDk spr\xE1va podobne ako Adam?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17464262737920
+    m_Localized: "Bezpe\u010Dne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17491945144320
+    m_Localized: "Re\u0161pektuj\xFAco"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17507375988736
+    m_Localized: "Inkluz\xEDvne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37312208388096
+    m_Localized: "Sofia je \u0161ikovn\xE1, dostane sa z tejto situ\xE1cie sama."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275788460064768
+    m_Localized: "Frustrovan\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275823071461376
+    m_Localized: "Znepokojen\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275849965338624
+    m_Localized: "N\xE1dejn\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275876641112064
+    m_Localized: "Bezstarostn\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275917095174144
+    m_Localized: "Vystra\u0161en\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276018807046144
+    m_Localized: "Znepokojen\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276029716430848
+    m_Localized: "Pln\xE1 n\xE1deje"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276038713212928
+    m_Localized: "Upokojen\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281393660821504
+    m_Localized: "\\u2022 <indent=1em>Kai sa rozhodne o situ\xE1cii s Evou porozpr\xE1va\u0165
+      so svoj\xEDm mana\u017E\xE9rom Danom.\n\\u2022 <indent=1em>Kai n\xE1jde Dana
+      v crew roome."
+    m_Metadata:
+      m_Items:
+      - rid: 2394929133959774251
+  - m_Id: 1010716877078528
+    m_Localized: "<size=160%>Nesk\xF4r v dan\xFD t\xFD\u017Ede\u0148.</size>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1013342070980608
+    m_Localized: "Hej, Soph, potrebuj\xFA \u0165a vpredu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1013552289497088
+    m_Localized: "No, pust\xEDm \u0165a tam. Sofia, len mi daj vedie\u0165, kedy
+      bude\u0161 ma\u0165 \u010Das dokon\u010Di\u0165 n\xE1\u0161 rozhovor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1013645499514880
+    m_Localized: Dobre.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014349442138112
+    m_Localized: "[0.00-2.50]\nNechce s tebou \xEDs\u0165 von, Adam. \n[2.50-5.56]\nMus\xED\u0161
+      sa tie\u017E presta\u0165 na \u0148u tla\u010Di\u0165, ke\u010F prech\xE1dza\u0161
+      okolo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014438495600640
+    m_Localized: "[0.00-4.00]\nNeviem, \u010Do si po\u010Dula, ale ja jej len pom\xE1ham
+      pripravi\u0165 sa na pov\xFD\u0161enie. \n[4.00-6.31]\nMala by si sa rad\u0161ej
+      s\xFAstredi\u0165 na svoju pr\xE1cu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014598713819136
+    m_Localized: "O 3 dni nesk\xF4r:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014795179212800
+    m_Localized: "Pr\xEDde\u0161 dnes?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014875672100864
+    m_Localized: "Nie. U\u017E nie som na tvojej zmene."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014910367383552
+    m_Localized: "\u010Co\u017Ee?! Pre\u010Do?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014951878410240
+    m_Localized: "V\xF4bec neviem. V\u0161etky moje zmeny mi zmenili na pre m\u0148a
+      nevhodn\xE9 \u010Dasy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014968517214208
+    m_Localized: "Mysl\xED\u0161, \u017Ee to urobil Adam?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1014993351688192
+    m_Localized: "Nedala by som za neho ruku do oh\u0148a. Stalo sa to hne\u010F
+      po tom, \u010Do som s n\xEDm hovorila."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015005393534976
+    m_Localized: "To ma mrz\xED!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015020329451520
+    m_Localized: "Neospravedl\u0148uj sa, nie je to tvoja chyba."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015033512148992
+    m_Localized: "Nahl\xE1sila som to a povedali, \u017Ee to ber\xFA v\xE1\u017Ene
+      a vy\u0161etruj\xFA to. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015049052045312
+    m_Localized: "\u010Eakujem, \u017Ee si sa ma zastala."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015066638761984
+    m_Localized: "To je samozrejm\xE9!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015080589017088
+    m_Localized: "Obe si zasl\xFA\u017Eime, aby sme sa v pr\xE1ci c\xEDtili bezpe\u010Dne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22197009153777664
+    m_Localized: "Aisha si v oddychovej miestnosti prezer\xE1 spr\xE1vy od Sofie
+      na svojom telef\xF3ne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22196967646945280
+    m_Localized: "Sofia, Aisha a Adam pracuj\xFAci v kuchyni re\u0161taur\xE1cie
+      McDonald's"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22196944817348608
+    m_Localized: "Sofia, Aisha a Adam pracuj\xFAci v kuchyni re\u0161taur\xE1cie
+      McDonald's"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22196915385917440
+    m_Localized: "Sofia a Aisha pracuj\xFA v kuchyni re\u0161taur\xE1cie McDonald's"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22196894196293632
+    m_Localized: "Adam a Sofia pracuj\xFAci v kuchyni re\u0161taur\xE1cie McDonald's"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2394929133959774251
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00003211edff0000000072e0d60e00000040ed781c0e000000003210f20e00000000f283fc0e000000402df3f20d00000040ed24e40500000040add0e3050000

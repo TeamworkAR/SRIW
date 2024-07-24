@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d35bd9d9cde486ea63879af13039245, type: 3}
+  m_Name: CharacterData_Scenario_03_Eva_Party
+  m_EditorClassIdentifier: 
+  m_ShowcaseTemplate: {fileID: 834936418461394111, guid: 65ba08a4aca9d744f99d6ee9796afc35, type: 3}
+  m_DialogueTemplate: {fileID: 6205183598294387035, guid: 5c236fc1b799da8498581dd05d95accb, type: 3}
+  characterName:
+    m_TableReference:
+      m_TableCollectionName: GUID:1cdae39b5d7e86340b581f14ac86265f
+    m_TableEntryReference:
+      m_KeyId: 16881418059776
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  characterInfo:
+    m_TableReference:
+      m_TableCollectionName: GUID:16fc587a71cebcc4e837c1a6473dfb35
+    m_TableEntryReference:
+      m_KeyId: 12209512372113408
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []
