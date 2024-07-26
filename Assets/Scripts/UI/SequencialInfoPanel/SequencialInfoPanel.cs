@@ -13,7 +13,7 @@ using UnityEngine.UI;
 
 public class SequencialInfoPanel : BaseUICanvas
 {
-    [SerializeField] private RawImage characterDisplay = null;
+    //[SerializeField] private RawImage characterDisplay = null;
     [SerializeField] private GameObject infoCardContainer = null;
     [SerializeField] private GameObject nextButton = null; // Button to proceed to the next module or section
     [SerializeField] private GameObject loadNextButton = null; // Button for loading the next set of post-its
@@ -26,7 +26,7 @@ public class SequencialInfoPanel : BaseUICanvas
     [SerializeField] private int postItsPerPage = 3; // Number of post-its to display per page
 
     private List<SequencialInfoCard> spawnedSequencialInfoCards = new List<SequencialInfoCard>(0);
-    private CharacterData m_CharacterData = null;
+    //private CharacterData m_CharacterData = null;
     private Coroutine m_Running = null;
     private ScenarioSettings.ClueCollectionExtension m_Extension = null;
     private bool b_NextPressed = false;
@@ -46,7 +46,7 @@ public class SequencialInfoPanel : BaseUICanvas
     {
         base.Show();
 
-        m_CharacterData = wrapper.SequencialInfoCardData.Owner;
+        //m_CharacterData = wrapper.SequencialInfoCardData.Owner;
         b_NextPressed = false;
 
         infoCardContainer.SetActive(true);
@@ -55,9 +55,13 @@ public class SequencialInfoPanel : BaseUICanvas
         loadPreviousButton.SetActive(false);
         carouselCounterContainer.Dispose(); // Clear any existing dots
 
-        CharacterShowcase characterShowcase = m_CharacterData.ShowcaseTemplate.GetInstance(this, CharacterShowcase.CameraPositions.CloseUp);
-        characterShowcase.GetComponent<ThoughtCollectionAnimations>().HandleThoughtCollection();
-        characterDisplay.texture = characterShowcase.ImageTexture;
+        //if (m_CharacterData != null)
+        //{
+        //    CharacterShowcase characterShowcase = m_CharacterData.ShowcaseTemplate.GetInstance(this, CharacterShowcase.CameraPositions.CloseUp);
+        //    characterShowcase.GetComponent<ThoughtCollectionAnimations>().HandleThoughtCollection();
+        //    characterDisplay.texture = characterShowcase.ImageTexture;
+        //}
+
 
         foreach (var card in wrapper.SequencialInfoCardData.Cards)
         {
@@ -290,7 +294,7 @@ public class SequencialInfoPanel : BaseUICanvas
             return;
         }
 
-        m_CharacterData = data;
+        //m_CharacterData = data;
         Show();
     }
 

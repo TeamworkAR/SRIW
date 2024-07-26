@@ -22,7 +22,7 @@ MonoBehaviour:
       m_FallbackState: 0
       m_WaitForCompletion: 0
       m_LocalVariables: []
-    owner: {fileID: 11400000, guid: f9e9a60286763844ab2877bf0e65cb84, type: 2}
+    owner: {fileID: 0}
     cards:
     - infoString:
         m_TableReference:
