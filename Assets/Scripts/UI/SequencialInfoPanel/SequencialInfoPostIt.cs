@@ -14,7 +14,7 @@ using UnityEngine.UI;
 
 public class SequencialInfoPostIt : BaseUICanvas
 {
-    [SerializeField] private RawImage characterDisplay = null; // Reference to the character display image
+    //[SerializeField] private RawImage characterDisplay = null; // Reference to the character display image
     [SerializeField] private GameObject infoCardContainer = null; // Container for info cards
     [SerializeField] private GameObject nextButton = null; // Button to go to the next set of post-its
     [SerializeField] private GameObject previousButton = null; // Button for loading previous set of post-its
@@ -27,7 +27,7 @@ public class SequencialInfoPostIt : BaseUICanvas
     [SerializeField] private int postItsPerPage = 2; // Number of post-its to display per page
 
     private List<SequencialInfoCard> spawnedSequencialInfoCards = new List<SequencialInfoCard>(0); // List to store spawned info cards
-    private CharacterData m_CharacterData = null; // Current character data
+    //private CharacterData m_CharacterData = null; // Current character data
     private Coroutine m_Running = null; // Reference to the running coroutine
     private ScenarioSettings.ClueCollectionExtension m_Extension = null; // Clue collection extension settings
     private bool b_NextPressed = false; // Flag to indicate if next button was pressed
@@ -45,7 +45,7 @@ public class SequencialInfoPostIt : BaseUICanvas
     {
         base.Show();
         postItsLoaded = false;
-        m_CharacterData = wrapper.SequencialInfoCardData.Owner;
+        //m_CharacterData = wrapper.SequencialInfoCardData.Owner;
         b_NextPressed = false;
 
         // Activate UI elements
@@ -55,9 +55,9 @@ public class SequencialInfoPostIt : BaseUICanvas
         loadNextButton.SetActive(false);
 
         // Set character display
-        CharacterShowcase characterShowcase = m_CharacterData.ShowcaseTemplate.GetInstance(this, CharacterShowcase.CameraPositions.CloseUp);
-        characterShowcase.GetComponent<ThoughtCollectionAnimations>().HandleThoughtCollection();
-        characterDisplay.texture = characterShowcase.ImageTexture;
+        //CharacterShowcase characterShowcase = m_CharacterData.ShowcaseTemplate.GetInstance(this, CharacterShowcase.CameraPositions.CloseUp);
+        //characterShowcase.GetComponent<ThoughtCollectionAnimations>().HandleThoughtCollection();
+        //characterDisplay.texture = characterShowcase.ImageTexture;
 
         // Create and initialize info cards
         foreach (var card in wrapper.SequencialInfoCardData.Cards)
@@ -285,7 +285,7 @@ public class SequencialInfoPostIt : BaseUICanvas
             return;
         }
 
-        m_CharacterData = data;
+        //m_CharacterData = data;
         Show();
     }
 

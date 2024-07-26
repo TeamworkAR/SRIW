@@ -44,7 +44,7 @@ MonoBehaviour:
   m_OnExitActions: []
   m_OnRevertActions: []
   m_OnRestoreActions: []
-  _position: {x: 140.75151, y: 224.9999}
+  _position: {x: 144.32251, y: 225}
   references:
     version: 2
     RefIds:
@@ -117,8 +117,10 @@ MonoBehaviour:
   m_Edges:
   - {fileID: 1941785847732091103}
   m_OnEnterActions:
+  - rid: 6753186729013018641
   - rid: 218737197906133028
   - rid: 8755670750845468672
+  - rid: -2
   m_OnStayActions: []
   m_OnExitActions: []
   m_OnRevertActions:
@@ -128,6 +130,8 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
     - rid: 218737197906133028
       type: {class: SetBackgroundAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
       data:
@@ -136,6 +140,12 @@ MonoBehaviour:
     - rid: 218737197906133063
       type: {class: HideQuestionWith3OptionsAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
       data: 
+    - rid: 6753186729013018641
+      type: {class: SetMainCameraRenderAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        m_mask:
+          serializedVersion: 2
+          m_Bits: 0
     - rid: 8755670750845468672
       type: {class: ShowQuestionWith3OptionsAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
       data:
