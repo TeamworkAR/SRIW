@@ -32,7 +32,7 @@ MonoBehaviour:
         m_Character: {fileID: 11400000, guid: f0e5c067ede22504aa083d3d055aef2e, type: 2}
         m_ControllerOverride: {fileID: 22100000, guid: 797916fcc53f223459fb51f895e7ffa6, type: 2}
         m_LipsControllerOverride: {fileID: 0}
-        m_CameraPosition: 39
+        m_CameraPosition: 2
         m_Mood:
           m_Mood: 7
           b_IsRandom: 0
@@ -128,7 +128,7 @@ MonoBehaviour:
         m_Character: {fileID: 11400000, guid: 1356e6b3dc2fc314c93b0553ec6f2f35, type: 2}
         m_ControllerOverride: {fileID: 22100000, guid: 2cbde4dcd57aa7140baa43a6788b0db1, type: 2}
         m_LipsControllerOverride: {fileID: 0}
-        m_CameraPosition: 39
+        m_CameraPosition: 2
         m_Mood:
           m_Mood: 6
           b_IsRandom: 0
@@ -253,7 +253,7 @@ MonoBehaviour:
         m_Character: {fileID: 11400000, guid: 1356e6b3dc2fc314c93b0553ec6f2f35, type: 2}
         m_ControllerOverride: {fileID: 22100000, guid: 2cbde4dcd57aa7140baa43a6788b0db1, type: 2}
         m_Clip: {fileID: 8300000, guid: a52042da95797344b83b958e830239af, type: 3}
-        m_CameraPosition: 39
+        m_CameraPosition: 2
         m_Mood:
           m_Mood: 6
           b_IsRandom: 0
@@ -556,7 +556,7 @@ MonoBehaviour:
         m_Character: {fileID: 11400000, guid: f0e5c067ede22504aa083d3d055aef2e, type: 2}
         m_ControllerOverride: {fileID: 22100000, guid: 797916fcc53f223459fb51f895e7ffa6, type: 2}
         m_Clip: {fileID: 8300000, guid: a6c6b9523d13b7547bf17ce2a49d5330, type: 3}
-        m_CameraPosition: 39
+        m_CameraPosition: 2
         m_Mood:
           m_Mood: 7
           b_IsRandom: 0

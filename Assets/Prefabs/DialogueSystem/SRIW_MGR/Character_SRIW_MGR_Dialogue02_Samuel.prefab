@@ -48,6 +48,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2338192431222646013, guid: 0e87f6ef887a4e4438443022d78e513d, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 4528a8919e4d72f43b608d817cc2406f, type: 2}
     - target: {fileID: 6430780764125696814, guid: 0e87f6ef887a4e4438443022d78e513d, type: 3}
       propertyPath: m_Controller
       value: 
@@ -135,7 +139,7 @@ PrefabInstance:
     - target: {fileID: 4091801531103595638, guid: 2d39120e4a3a6374daf7fd33530bf736, type: 3}
       propertyPath: m_OverrideIfAny
       value: 
-      objectReference: {fileID: 22100000, guid: c29b498da62106e43b18ec368d3676ad, type: 2}
+      objectReference: {fileID: 22100000, guid: 2cbde4dcd57aa7140baa43a6788b0db1, type: 2}
     - target: {fileID: 5620992525645777798, guid: 2d39120e4a3a6374daf7fd33530bf736, type: 3}
       propertyPath: m_Follow
       value: 
@@ -170,7 +174,7 @@ PrefabInstance:
       objectReference: {fileID: 3425335155091121519}
     - target: {fileID: 8498265504607037301, guid: 2d39120e4a3a6374daf7fd33530bf736, type: 3}
       propertyPath: m_Name
-      value: Character_Scenario03_Dialogue02_Samuel
+      value: Character_SRIW_MGR_Dialogue02_Samuel
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
