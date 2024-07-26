@@ -59,7 +59,7 @@ PrefabInstance:
     - target: {fileID: 3914901620254575813, guid: 99cb424de8c38ab43b0bd96c8f794714, type: 3}
       propertyPath: m_OverrideIfAny
       value: 
-      objectReference: {fileID: 22100000, guid: 2b2a302256710844e86b1b3cf15b6c44, type: 2}
+      objectReference: {fileID: 22100000, guid: 8ac8c91e39496e743afc41259d1f69df, type: 2}
     - target: {fileID: 3930826784907799531, guid: 99cb424de8c38ab43b0bd96c8f794714, type: 3}
       propertyPath: m_Layer
       value: 6
