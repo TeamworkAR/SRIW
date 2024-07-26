@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using System.Timers;
 using Core;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
@@ -24,6 +23,8 @@ namespace Managers
         private Dictionary<string, Dictionary<string,string>> _localizedValuesByEntryName = new();
         private bool _initialized;
         public bool Initialized => _initialized;
+        private int _stringTablesLoaded = 0;
+        public bool StringTablesLoaded => _stringTablesLoaded == _stringTableRefs.Count;
 
         /// <summary>
         /// Triggers when initialized, or locale changes
@@ -33,29 +34,39 @@ namespace Managers
         protected override void Awake()
         {
             base.Awake();
-
+            DontDestroyOnLoad(this.gameObject);
+            LocalizationSettings.SelectedLocaleChanged += HandleLocaleChanged;
             if (!LocalizationSettings.InitializationOperation.IsDone)
                 LocalizationSettings.InitializationOperation.Completed += _ => Initialize();
             else
                 Initialize();
         }
-
+        
         private void Initialize()
         {
-            LocalizationSettings.SelectedLocaleChanged += HandleLocaleChanged;
-            CacheAllLocalizedStringValues();
+            if(_initialized)
+                return;
             _initialized = true;
+            CacheAllLocalizedStringValues();
             OnLocalizationChange?.Invoke();
         }
 
+        public void InvalidateLocale()
+        {
+            _stringTablesLoaded = 0;
+        }
+        
         private void HandleLocaleChanged(Locale locale)
         {
+            _initialized = true;
+            Debug.Log("Localization Manager:" + locale);
             CacheAllLocalizedStringValues();
             OnLocalizationChange?.Invoke();
         }
         
         private void CacheAllLocalizedStringValues()
         {
+            _stringTablesLoaded = 0;
             _localizedValues.Clear();
             _localizedValuesByEntryName.Clear();
 
@@ -63,7 +74,6 @@ namespace Managers
             {
                 LocalizationSettings.StringDatabase.GetTableAsync(stringTableRef, LocalizationSettings.SelectedLocale).Completed += handle =>
                 {
-
                     /// <summary>
                     /// Force load of SharedTable and avoid release as workaround fix of WebGL NullReference issue
                     /// </summary>
@@ -81,10 +91,11 @@ namespace Managers
                     }
                     _localizedValues.Add(stringTableRef, values);
                     _localizedValuesByEntryName.Add(stringTableRef, entryValues);
+                    _stringTablesLoaded++;
                 };
             }
         }
-
+        
         public string GetLocalizedValue(LocalizedString localizedString)
         {
             var rtn = "";

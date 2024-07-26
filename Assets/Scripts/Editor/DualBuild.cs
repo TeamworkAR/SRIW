@@ -75,6 +75,7 @@ public class DualBuild
   {
     Debug.Log("Setup Scenario 1");
     List<EditorBuildSettingsScene> scenes = new List<EditorBuildSettingsScene>();
+    scenes.Add(new EditorBuildSettingsScene("Assets/Scenes/LoadingScene.unity", true));
     scenes.Add(new EditorBuildSettingsScene("Assets/Scenes/McScene.unity", true));
     scenes.Add(new EditorBuildSettingsScene( "Assets/Scenes/Kitchen & BreakRoom_Scenario01.unity", true));
     EditorBuildSettings.scenes = scenes.ToArray();
@@ -88,6 +89,7 @@ public class DualBuild
   {
     Debug.Log("Setup Scenario 2");
     List<EditorBuildSettingsScene> scenes = new List<EditorBuildSettingsScene>();
+    scenes.Add(new EditorBuildSettingsScene("Assets/Scenes/LoadingScene.unity", true));
     scenes.Add(new EditorBuildSettingsScene("Assets/Scenes/McScene.unity", true));
     scenes.Add(new EditorBuildSettingsScene( "Assets/Scenes/Kitchen & BreakRoom_Scenario02.unity", true));
     EditorBuildSettings.scenes = scenes.ToArray();
@@ -101,6 +103,7 @@ public class DualBuild
   {
     Debug.Log("Setup Scenario 3");
     List<EditorBuildSettingsScene> scenes = new List<EditorBuildSettingsScene>();
+    scenes.Add(new EditorBuildSettingsScene("Assets/Scenes/LoadingScene.unity", true));
     scenes.Add(new EditorBuildSettingsScene("Assets/Scenes/McScene.unity", true));
     scenes.Add(new EditorBuildSettingsScene("Assets/Scenes/Kitchen & BreakRoom_Scenario02.unity", true));
     scenes.Add(new EditorBuildSettingsScene( "Assets/Scenes/LivingRoom1_Scenario03.unity", true));
@@ -115,6 +118,7 @@ public class DualBuild
   {
     Debug.Log("Setup Scenario 4");
     List<EditorBuildSettingsScene> scenes = new List<EditorBuildSettingsScene>();
+    scenes.Add(new EditorBuildSettingsScene("Assets/Scenes/LoadingScene.unity", true));
     scenes.Add(new EditorBuildSettingsScene("Assets/Scenes/McScene.unity", true));
     scenes.Add(new EditorBuildSettingsScene("Assets/Scenes/Kitchen & BreakRoom_Scenario02.unity", true));
     EditorBuildSettings.scenes = scenes.ToArray();
@@ -128,6 +132,7 @@ public class DualBuild
   {
     Debug.Log("Setup Scenario 5");
     List<EditorBuildSettingsScene> scenes = new List<EditorBuildSettingsScene>();
+    scenes.Add(new EditorBuildSettingsScene("Assets/Scenes/LoadingScene.unity", true));
     scenes.Add(new EditorBuildSettingsScene("Assets/Scenes/McScene.unity", true));
     scenes.Add(new EditorBuildSettingsScene("Assets/Scenes/Kitchen & BreakRoom_Scenario05.unity", true));
     EditorBuildSettings.scenes = scenes.ToArray();

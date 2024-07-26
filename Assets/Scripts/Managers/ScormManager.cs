@@ -54,7 +54,7 @@ public class ScormManager : SingletonBehaviour<ScormManager>
     protected override void Awake()
     {
         base.Awake();
-        
+        DontDestroyOnLoad(this.gameObject);
         #if UNITY_EDITOR
             _scormService = new ScormPlayerPrefsService();
         #else

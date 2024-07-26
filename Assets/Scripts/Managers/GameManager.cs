@@ -26,26 +26,7 @@ namespace Managers
         public Graph.GraphInstance GraphInstance => m_GraphInstance;
 
         private IEnumerator Start()
-        {
-            // Wait for localization to initialize
-            // This is useful (and mandatory) when restoring a node, else our localized UIs might broke.
-            yield return LocalizationSettings.InitializationOperation;
-
-            // Try restore previously selected locale
-            var suspendedData = ScormManager.Instance.GetCustomString(Consts.ScormKeys.k_LOCALIZATION_SERIALIZATION_KEY);
-            if (string.IsNullOrEmpty(suspendedData) || LocalizationSettings.AvailableLocales.Locales.Count <= int.Parse(suspendedData))
-            {
-
-            }
-            else 
-            {
-                LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[int.Parse(suspendedData)];
-
-                yield return LocalizationSettings.SelectedLocaleAsync;
-            }
-
-            // Application.targetFrameRate = 60;
-
+        {   
             m_GraphInstance = m_FlowGraph.GetInstance(this);
 
             yield return null;

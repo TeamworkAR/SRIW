@@ -8,6 +8,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1099917859110923227}
     m_Modifications:
+    - target: {fileID: 460020764672061148, guid: 5a31daf3166013440bab3097d1047344, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 4528a8919e4d72f43b608d817cc2406f, type: 2}
     - target: {fileID: 1252390396732585552, guid: 5a31daf3166013440bab3097d1047344, type: 3}
       propertyPath: m_Name
       value: FBX_Wrapper_Anna
@@ -19,7 +23,7 @@ PrefabInstance:
     - target: {fileID: 4164704839103881525, guid: 5a31daf3166013440bab3097d1047344, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: 4528a8919e4d72f43b608d817cc2406f, type: 2}
+      objectReference: {fileID: 22100000, guid: ddc302b73c82db64c8f29ee2ab673192, type: 2}
     - target: {fileID: 4310949994796741043, guid: 5a31daf3166013440bab3097d1047344, type: 3}
       propertyPath: m_Controller
       value: 

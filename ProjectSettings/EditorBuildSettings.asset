@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/McScene.unity
     guid: 73e9d34c6efc66e4f94752341325157c
   - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: b05c898c2a1af1c44a820e1ee82ea64e
+  - enabled: 1
     path: Assets/Scenes/McScene_Production.unity
     guid: 23472cc742d1bbd4db89580d23ea038d
   - enabled: 1
