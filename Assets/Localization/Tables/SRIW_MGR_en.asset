@@ -167,16 +167,17 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2612453514629120
-    m_Localized: "Wait to observe if the senior leader\u2019s behavior happens again."
+    m_Localized: "A: Wait to observe if the senior leader\u2019s behavior happens
+      again."
     m_Metadata:
       m_Items: []
   - m_Id: 2612574507716608
-    m_Localized: "Explain to the crew members that it can happen sometimes, and it\u2019s
-      not a big deal."
+    m_Localized: "B: Explain to the crew members that it can happen sometimes, and
+      it\u2019s not a big deal."
     m_Metadata:
       m_Items: []
   - m_Id: 2612620355653632
-    m_Localized: " Say that the senior leader\u2019s conduct is not tolerated and
+    m_Localized: "C: Say that the senior leader\u2019s conduct is not tolerated and
       report it."
     m_Metadata:
       m_Items: []
@@ -379,22 +380,22 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2618062515425280
-    m_Localized: "Tell the customers that \u201Cwe appreciate your visit but we want
-      you to know that we can\u2019t have inappropriate language here.\u201D"
+    m_Localized: "A: Tell the customers that \u201Cwe appreciate your visit but we
+      want you to know that we can\u2019t have inappropriate language here.\u201D"
     m_Metadata:
       m_Items: []
   - m_Id: 2618343659622400
-    m_Localized: "Make sure to take sole responsibility for getting the customer\u2019s
+    m_Localized: "B: Make sure to take sole responsibility for getting the customer\u2019s
       order prepared."
     m_Metadata:
       m_Items: []
   - m_Id: 2618387137777664
-    m_Localized: "At the first opportunity, tell the employee that the customers\u2019
+    m_Localized: "C: At the first opportunity, tell the employee that the customers\u2019
       conduct is not tolerated here and report it."
     m_Metadata:
       m_Items: []
   - m_Id: 2618432058773504
-    m_Localized: Wait to mention what you observed till it is more convenient.
+    m_Localized: 'D: Wait to mention what you observed till it is more convenient.'
     m_Metadata:
       m_Items: []
   - m_Id: 2618481622863872

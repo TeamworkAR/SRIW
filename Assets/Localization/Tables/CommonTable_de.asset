@@ -115,7 +115,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18600375902208
-    m_Localized: Sie haben dieses Modul abgeschlossen!
+    m_Localized: Du hast dieses Modul abgeschlossen!
     m_Metadata:
       m_Items: []
   - m_Id: 18661440774144
@@ -123,20 +123,20 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 305594607886336
-    m_Localized: "Wie k\xF6nnte {0} sich f\xFChlen?"
+    m_Localized: "Wie k\xF6nnte man {0} sich f\xFChlen?"
     m_Metadata:
       m_Items: []
   - m_Id: 305854730231808
-    m_Localized: Setzen Sie sich mit den Gedanken der Charaktere auseinander, um
-      mehr zu erfahren.
+    m_Localized: Setze dich mit den Gedanken der Charaktere auseinander, um mehr
+      zu erfahren.
     m_Metadata:
       m_Items: []
   - m_Id: 306062570577920
-    m_Localized: '{0}s Gedanken'
+    m_Localized: '{0}Gedanken'
     m_Metadata:
       m_Items: []
   - m_Id: 307880474206208
-    m_Localized: "Was sollte {0} als N\xE4chstes tun?"
+    m_Localized: "Was sollte man{0} als N\xE4chstes tun?"
     m_Metadata:
       m_Items: []
   - m_Id: 308115871129600
@@ -144,11 +144,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 308521586155520
-    m_Localized: Was sollten {0} tun?
+    m_Localized: Was sollten wir {0} tun?
     m_Metadata:
       m_Items: []
   - m_Id: 308574623129600
-    m_Localized: Warum sollte {0} das tun?
+    m_Localized: Warum sollten wir {0} das tun?
     m_Metadata:
       m_Items: []
   - m_Id: 4962361918963712
@@ -337,7 +337,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46123280967393280
-    m_Localized: "Zug\xE4nglichkeit aktiviert. Verwenden Sie zum Navigieren die Pfeiltasten
+    m_Localized: "Zug\xE4nglichkeit aktiviert. Verwende zum Navigieren die Pfeiltasten
       und die Eingabetaste."
     m_Metadata:
       m_Items: []
@@ -378,7 +378,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46128236222996480
-    m_Localized: "Dr\xFCcken Sie die Eingabetaste, um zu \xE4ndern"
+    m_Localized: "Dr\xFCcke die Eingabetaste, um zu \xE4ndern"
     m_Metadata:
       m_Items: []
   - m_Id: 46128306674720768
@@ -458,7 +458,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 53943372556341248
-    m_Localized: Falsche Antwort, versuchen Sie es erneut
+    m_Localized: Falsche Antwort, versuche es erneut
     m_Metadata:
       m_Items: []
   - m_Id: 60890102246363136

@@ -120,7 +120,6 @@ MonoBehaviour:
   - rid: 6753186729013018641
   - rid: 218737197906133028
   - rid: 8755670750845468672
-  - rid: -2
   m_OnStayActions: []
   m_OnExitActions: []
   m_OnRevertActions:
@@ -130,8 +129,6 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: -2
-      type: {class: , ns: , asm: }
     - rid: 218737197906133028
       type: {class: SetBackgroundAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
       data:
