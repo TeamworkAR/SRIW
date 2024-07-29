@@ -16,7 +16,8 @@ MonoBehaviour:
     m_Code: en
   m_SharedData: {fileID: 11400000, guid: 30630d9d68e57f84bb4a6bc4784ad227, type: 2}
   m_Metadata:
-    m_Items: []
+    m_Items:
+    - rid: 6753186793229648172
   m_TableData:
   - m_Id: 58963357696
     m_Localized: "<b>At Mcdonald\u2019s, we promote and maintain a safe, respectful
@@ -31,7 +32,8 @@ MonoBehaviour:
     m_Localized: <size=+20><b>Manager's Role in Building a Safe, Respectful, and
       Inclusive Workplace</b>
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 6753186793229648172
   - m_Id: 300762370240512
     m_Localized: Living and championing our values every day
     m_Metadata:
@@ -167,17 +169,16 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2612453514629120
-    m_Localized: "A: Wait to observe if the senior leader\u2019s behavior happens
-      again."
+    m_Localized: "Wait to observe if the senior leader\u2019s behavior happens again."
     m_Metadata:
       m_Items: []
   - m_Id: 2612574507716608
-    m_Localized: "B: Explain to the crew members that it can happen sometimes, and
-      it\u2019s not a big deal."
+    m_Localized: "Explain to the crew members that it can happen sometimes, and it\u2019s
+      not a big deal."
     m_Metadata:
       m_Items: []
   - m_Id: 2612620355653632
-    m_Localized: "C: Say that the senior leader\u2019s conduct is not tolerated and
+    m_Localized: "Say that the senior leader\u2019s conduct is not tolerated and
       report it."
     m_Metadata:
       m_Items: []
@@ -813,4 +814,8 @@ MonoBehaviour:
       m_Items: []
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 6753186793229648172
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00703dd4f6fe0000

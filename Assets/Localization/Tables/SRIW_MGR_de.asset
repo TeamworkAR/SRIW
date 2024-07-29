@@ -169,17 +169,17 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2612453514629120
-    m_Localized: 'A: Warte ab, und beobachte, ob sich das Verhalten des Senior Leaders
-      wiederholt.'
+    m_Localized: Warte ab, und beobachte, ob sich das Verhalten des Senior Leaders
+      wiederholt.
     m_Metadata:
       m_Items: []
   - m_Id: 2612574507716608
-    m_Localized: "B: Erkl\xE4re den Mitarbeitenden, dass so etwas manchmal vorkommt
+    m_Localized: "Erkl\xE4re den Mitarbeitenden, dass so etwas manchmal vorkommt
       und keine gro\xDFe Sache ist."
     m_Metadata:
       m_Items: []
   - m_Id: 2612620355653632
-    m_Localized: "C: Erkl\xE4re, dass das Verhalten des Senior Leaders nicht toleriert
+    m_Localized: "Erkl\xE4re, dass das Verhalten des Senior Leaders nicht toleriert
       wird und melde es."
     m_Metadata:
       m_Items: []
@@ -234,8 +234,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2613610907652096
-    m_Localized: "<b>Beispiele f\xFCr Vergeltung/Schikane:</b>\n\n\u2022<indent=5%>K\xFCndigung</indent>\_\n-<indent=5%>Herabstufung\_</indent>\_\n\u2022<indent=5%>Schlechte
-      Leistungsbeurteilung\_\_</indent>\n-<indent=5%>Schichten wechseln</indent>\n\u2022<indent=5%>Ausschluss
+    m_Localized: "<b>Beispiele f\xFCr Vergeltung/Schikane:</b>\n\n\u2022<indent=5%>K\xFCndigung</indent>\_\n\u2022<indent=5%>Herabstufung\_</indent>\_\n\u2022<indent=5%>Schlechte
+      Leistungsbeurteilung\_\_</indent>\n\u2022<indent=5%>Schichten wechseln</indent>\n\u2022<indent=5%>Ausschluss
       von Teams, Veranstaltungen, Meetings</indent>\n\u2022<indent=5%>Unerw\xFCnschte
       Aufgaben\_\_</indent>"
     m_Metadata:
@@ -427,8 +427,9 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2618729158103040
     m_Localized: "Sich zu Wort zu melden, entspricht unseren Werten:\n\n\u2022<indent=5%>Menschen
-      werden dadurch an die erste Stelle gestellt</indent>\n-<indent=5%>Schafft Inklusion</indent>\n-<indent=5%>Unsere
-      Gemeinschaft/McFamily wird gest\xE4rkt</indent>\n\nEs ist die richtige Verhaltensweise."
+      werden dadurch an die erste Stelle gestellt</indent>\n\u2022<indent=5%>Schafft
+      Inklusion</indent>\n\u2022<indent=5%>Unsere Gemeinschaft/McFamily wird gest\xE4rkt</indent>\n\nEs
+      ist die richtige Verhaltensweise."
     m_Metadata:
       m_Items: []
   - m_Id: 2618858913091584
@@ -454,9 +455,10 @@ MonoBehaviour:
       beeintr\xE4chtigen.\n\n\u2022  Wenn Sie Mitarbeiter:innen unterschiedlich behandeln,
       laufen Sie Gefahr, eine Umgebung zu schaffen, die als diskriminierend empfunden
       werden kann. Das kann ein feindliches Arbeitsumfeld f\xFCr diejenigen schaffen,
-      die sich nicht bevorzugt f\xFChlen.\n\_\n- Bevorzugung bedeutet, dass ein oder
-      mehrere Mitarbeiter bevorzugt behandelt werden, wodurch andere auf m\xF6gliche
-      Bef\xF6rderungen oder Vorteile wie bessere Schichten verzichten m\xFCssen.\n\n"
+      die sich nicht bevorzugt f\xFChlen.\n\_\n\u2022 Bevorzugung bedeutet, dass
+      ein oder mehrere Mitarbeiter bevorzugt behandelt werden, wodurch andere auf
+      m\xF6gliche Bef\xF6rderungen oder Vorteile wie bessere Schichten verzichten
+      m\xFCssen."
     m_Metadata:
       m_Items: []
   - m_Id: 2619130938871808
@@ -474,12 +476,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619225725947904
-    m_Localized: "- Sei dir sich stets bewusst, dass Handlungen und Worte, auch au\xDFerhalb
-      des Arbeitsplatzes, sp\xE4ter Auswirkungen auf das Arbeitsumfeld haben k\xF6nnen.\n\n\u2022 
-      Pr\xFCfe die Richtlinien an deinem Arbeitsplatz, die den Umgang von Managern
-      mit Mitarbeitern au\xDFerhalb der Arbeit betreffen, und erkenne diese an.\n\n-
-      Denke dar\xFCber nach, bevor du sich au\xDFerhalb der Arbeit mit anderen Mitarbeitern
-      triffst"
+    m_Localized: "\u2022 Sei dir sich stets bewusst, dass Handlungen und Worte, auch
+      au\xDFerhalb des Arbeitsplatzes, sp\xE4ter Auswirkungen auf das Arbeitsumfeld
+      haben k\xF6nnen.\n\n\u2022  Pr\xFCfe die Richtlinien an deinem Arbeitsplatz,
+      die den Umgang von Managern mit Mitarbeitern au\xDFerhalb der Arbeit betreffen,
+      und erkenne diese an.\n\n\u2022 Denke dar\xFCber nach, bevor du sich au\xDFerhalb
+      der Arbeit mit anderen Mitarbeitern triffst"
     m_Metadata:
       m_Items: []
   - m_Id: 2619266410696704
@@ -531,11 +533,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619884999233536
-    m_Localized: "\u2022  Ein Beispiel f\xFCr den Missbrauch von Autorit\xE4t ist
+    m_Localized: "\u2022 Ein Beispiel f\xFCr den Missbrauch von Autorit\xE4t ist
       ein Fehlverhalten, bei dem eine Person mit Autorit\xE4t (z. B. als Manager:in,
       Vorgesetzte:r oder eine andere Person mit F\xFChrungskompetenz) Versprechungen
       macht, berufliche Vorteile verweigert oder dies androht oder Entscheidungen
-      im Austausch f\xFCr sexuelle Gef\xE4lligkeiten trifft.\n\n- Solche Verhaltensweisen
+      im Austausch f\xFCr sexuelle Gef\xE4lligkeiten trifft.\n\n\u2022 Solche Verhaltensweisen
       verletzen unsere Werte und f\xFCgen allen Beteiligten unglaublichen Schaden
       zu."
     m_Metadata:
@@ -546,13 +548,14 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619964825227264
-    m_Localized: "- Der Missbrauch von Autorit\xE4t beschr\xE4nkt sich nicht auf
-      den Austausch von Gef\xE4lligkeiten gegen Sex. Jede Aktivit\xE4t, die als Gegenleistung
-      f\xFCr einen Gefallen versprochen wird (z. B. ein Date, ein Kuss oder eine
-      Umarmung), ist unangemessen und wird von McDonald's nicht toleriert.\n\n- Amtsmissbrauch
-      wird nicht nach dem Geschlecht des T\xE4ters oder des Opfers kategorisiert.
-      Unabh\xE4ngig von den beteiligten Geschlechtern ist es absolut inakzeptabel,
-      jemanden sexuell zu bel\xE4stigen oder die eigene Autorit\xE4t zu missbrauchen."
+    m_Localized: "\u2022 Der Missbrauch von Autorit\xE4t beschr\xE4nkt sich nicht
+      auf den Austausch von Gef\xE4lligkeiten gegen Sex. Jede Aktivit\xE4t, die als
+      Gegenleistung f\xFCr einen Gefallen versprochen wird (z. B. ein Date, ein Kuss
+      oder eine Umarmung), ist unangemessen und wird von McDonald's nicht toleriert.\n\n\u2022
+      Amtsmissbrauch wird nicht nach dem Geschlecht des T\xE4ters oder des Opfers
+      kategorisiert. Unabh\xE4ngig von den beteiligten Geschlechtern ist es absolut
+      inakzeptabel, jemanden sexuell zu bel\xE4stigen oder die eigene Autorit\xE4t
+      zu missbrauchen."
     m_Metadata:
       m_Items: []
   - m_Id: 2620003890974720
@@ -569,16 +572,16 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "<b>Bedrohungen</b>\n\n\u2022   K\xFCndigung\n- Herabstufung\_\n\u2022  
-      Schlechte Leistungsbeurteilung\_\n\u2022   Schichten wechseln\n- Ausschluss
-      von Teams, Veranstaltungen, Treffen\n- Unerw\xFCnschte Aufgaben\n- Delegieren
-      der gleichen Aufgaben (Wischen, Putzen) \n<indent=5%>nur an bestimmte Mitarbeiter"
+    m_Localized: "<b>Bedrohungen</b>\n\n\u2022 K\xFCndigung\n\u2022 Herabstufung\_\n\u2022
+      Schlechte Leistungsbeurteilung\_\n\u2022 Schichten wechseln\n\u2022 Ausschluss
+      von Teams, Veranstaltungen, Treffen\n\u2022 Unerw\xFCnschte Aufgaben\n\u2022
+      Delegieren der gleichen Aufgaben (Wischen, Putzen) \n<indent=5%>nur an bestimmte
+      Mitarbeiter"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
-    m_Localized: "<b>Versprechen</b>\n\n\u2022   Weiterbesch\xE4ftigung\_\n\u2022  
-      Bef\xF6rderung\_\n\u2022   Positive Leistungsbeurteilung\_\n- Zus\xE4tzliche
-      \xDCberstunden"
+    m_Localized: "<b>Versprechen</b>\n\n\u2022 Weiterbesch\xE4ftigung\_\n\u2022 Bef\xF6rderung\_\n\u2022
+      Positive Leistungsbeurteilung\_\n\u2022 Zus\xE4tzliche \xDCberstunden"
     m_Metadata:
       m_Items: []
   - m_Id: 2620348922810368
@@ -589,39 +592,39 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620484646293504
-    m_Localized: -<indent=5%>Melde jedes unangemessene Verhalten.</indent>
+    m_Localized: Melde jedes unangemessene Verhalten.</indent>
     m_Metadata:
       m_Items: []
   - m_Id: 2620514086113280
-    m_Localized: -<indent=5%>Sprich es an, wenn du unangemessenes Verhalten mitbekommst.</indent>
+    m_Localized: Sprich es an, wenn du unangemessenes Verhalten mitbekommst.</indent>
     m_Metadata:
       m_Items: []
   - m_Id: 2620555144155136
-    m_Localized: "-<indent=5%>Unterst\xFCtze deine Mitarbeiter dabei dich zu \xE4u\xDFern,
-      wenn du unangemessenes Verhalten siehst oder erlebst.</indent>"
+    m_Localized: "Unterst\xFCtze deine Mitarbeiter dabei dich zu \xE4u\xDFern, wenn
+      du unangemessenes Verhalten siehst oder erlebst.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620572621819904
-    m_Localized: -<indent=5%>Verhindere oder stoppe alle Formen von Benachteiligung/Schikane.</indent>
+    m_Localized: Verhindere oder stoppe alle Formen von Benachteiligung/Schikane.</indent>
     m_Metadata:
       m_Items: []
   - m_Id: 2620609611386880
-    m_Localized: "-<indent=5%>Halte inne und denke nach, bevor du dich au\xDFerhalb
-      der Arbeit mit Mitarbeitern triffst.</indent>"
+    m_Localized: "Halte inne und denke nach, bevor du dich au\xDFerhalb der Arbeit
+      mit Mitarbeitern triffst.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620668432306176
-    m_Localized: "-<indent=5%>Sei dir deines Einflusses auf das Arbeitsumfeld bewusst
-      und vermeide G\xFCnstlingswirtschaft.</indent>"
+    m_Localized: "Sei dir deines Einflusses auf das Arbeitsumfeld bewusst und vermeide
+      G\xFCnstlingswirtschaft.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620709704257536
-    m_Localized: "-<indent=5%>Sei vorsichtig, wenn du mit Kollegen \xFCber soziale
-      Medien und Textnachrichten kommunizierst.</indent>"
+    m_Localized: "Sei vorsichtig, wenn du mit Kollegen \xFCber soziale Medien und
+      Textnachrichten kommunizierst.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620743099305984
-    m_Localized: "-<indent=5%>Missbrauche deine  Autorit\xE4t nicht.</indent>"
+    m_Localized: "Missbrauche deine  Autorit\xE4t nicht.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620798967435264

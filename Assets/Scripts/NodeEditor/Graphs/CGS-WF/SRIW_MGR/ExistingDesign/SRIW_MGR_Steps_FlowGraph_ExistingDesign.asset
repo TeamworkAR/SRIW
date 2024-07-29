@@ -146,7 +146,7 @@ MonoBehaviour:
   m_OnRevertActions:
   - rid: 8755670720168067091
   m_OnRestoreActions: []
-  _position: {x: 466, y: 302}
+  _position: {x: 466.00003, y: 302}
   references:
     version: 2
     RefIds:
@@ -421,14 +421,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Guid: 64e47f034793fa244b8792016b8c7214
   m_Condition:
-    rid: 8755670767467233316
+    rid: 6753186793229648183
   m_From: {fileID: -5088802577239373516}
   m_To: {fileID: -5833475000181090765}
   references:
     version: 2
     RefIds:
-    - rid: 8755670767467233316
-      type: {class: SequencialInfoPanelEndedCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+    - rid: 6753186793229648183
+      type: {class: BasicInfoWithTitlePanelEndedCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
       data: 
 --- !u!114 &-6102065955135831512
 MonoBehaviour:
@@ -485,7 +485,7 @@ MonoBehaviour:
   m_OnRevertActions:
   - rid: 218737197906133071
   m_OnRestoreActions: []
-  _position: {x: 167, y: 598}
+  _position: {x: 167.00002, y: 598}
   references:
     version: 2
     RefIds:
@@ -583,21 +583,18 @@ MonoBehaviour:
   m_Edges:
   - {fileID: -6447092087319636341}
   m_OnEnterActions:
-  - rid: 8755670767467233313
+  - rid: 6753186793229648182
   - rid: 218737401144803343
   - rid: 6753186250857119769
   m_OnStayActions: []
   m_OnExitActions: []
   m_OnRevertActions:
-  - rid: 218737149915430916
+  - rid: 6753186793229648184
   m_OnRestoreActions: []
-  _position: {x: 767, y: 449}
+  _position: {x: 788.00006, y: 449.00006}
   references:
     version: 2
     RefIds:
-    - rid: 218737149915430916
-      type: {class: HideSequencialInfoPanelUIAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
-      data: 
     - rid: 218737401144803343
       type: {class: SetMusicAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
       data:
@@ -606,10 +603,13 @@ MonoBehaviour:
     - rid: 6753186250857119769
       type: {class: DeactivateYellowBackground, ns: NodeEditor.Actions, asm: Assembly-CSharp}
       data: 
-    - rid: 8755670767467233313
-      type: {class: ShowSequencialInfoPanelUIAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+    - rid: 6753186793229648182
+      type: {class: StartBasicInfoWithTitlePanelAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
       data:
-        infoCardDataWrapper: {fileID: 11400000, guid: e6a6c69afae1c2847920d19092929c5a, type: 2}
+        infoPanelData: {fileID: 11400000, guid: e217c5286b383e240b283329c721fe73, type: 2}
+    - rid: 6753186793229648184
+      type: {class: HideBasicInfoWithTitlePanelAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data: 
 --- !u!114 &-4231224068395010496
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1529,7 +1529,7 @@ MonoBehaviour:
   m_OnRevertActions:
   - rid: 8755670609914757129
   m_OnRestoreActions: []
-  _position: {x: 466, y: -153}
+  _position: {x: 465.9999, y: -152.99997}
   references:
     version: 2
     RefIds:
