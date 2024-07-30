@@ -421,14 +421,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Guid: 64e47f034793fa244b8792016b8c7214
   m_Condition:
-    rid: 6753186793229648183
+    rid: 6753186816283115525
   m_From: {fileID: -5088802577239373516}
   m_To: {fileID: -5833475000181090765}
   references:
     version: 2
     RefIds:
-    - rid: 6753186793229648183
-      type: {class: BasicInfoWithTitlePanelEndedCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+    - rid: 6753186816283115525
+      type: {class: SequencialInfoPanelEndedCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
       data: 
 --- !u!114 &-6102065955135831512
 MonoBehaviour:
@@ -583,13 +583,13 @@ MonoBehaviour:
   m_Edges:
   - {fileID: -6447092087319636341}
   m_OnEnterActions:
-  - rid: 6753186793229648182
+  - rid: 6753186816283115520
   - rid: 218737401144803343
   - rid: 6753186250857119769
   m_OnStayActions: []
   m_OnExitActions: []
   m_OnRevertActions:
-  - rid: 6753186793229648184
+  - rid: 6753186816283115521
   m_OnRestoreActions: []
   _position: {x: 788.00006, y: 449.00006}
   references:
@@ -603,12 +603,12 @@ MonoBehaviour:
     - rid: 6753186250857119769
       type: {class: DeactivateYellowBackground, ns: NodeEditor.Actions, asm: Assembly-CSharp}
       data: 
-    - rid: 6753186793229648182
-      type: {class: StartBasicInfoWithTitlePanelAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+    - rid: 6753186816283115520
+      type: {class: ShowSequencialInfoPanelUIAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
       data:
-        infoPanelData: {fileID: 11400000, guid: e217c5286b383e240b283329c721fe73, type: 2}
-    - rid: 6753186793229648184
-      type: {class: HideBasicInfoWithTitlePanelAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+        infoCardDataWrapper: {fileID: 11400000, guid: e6a6c69afae1c2847920d19092929c5a, type: 2}
+    - rid: 6753186816283115521
+      type: {class: HideSequencialInfoPanelUIAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
       data: 
 --- !u!114 &-4231224068395010496
 MonoBehaviour:
