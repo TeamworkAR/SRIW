@@ -19,8 +19,8 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 58963357696
-    m_Localized: '&lt;b&gt;Na Mcdonald''s, promovemos e mantemos um local de trabalho
-      seguro, respeitador e inclusivo para todos:&lt;/b&gt;'
+    m_Localized: <b>Na Mcdonald's, promovemos e mantemos um local de trabalho seguro,
+      respeitador e inclusivo para todos:</b>
     m_Metadata:
       m_Items: []
   - m_Id: 32415523106816
@@ -29,8 +29,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 280336076206080
-    m_Localized: "&lt;size=+20&gt;&lt;b&gt;A fun\xE7\xE3o do gerente \xE9 construir
-      um local de trabalho seguro, respeitador e inclusivo.&lt;/b&gt;"
+    m_Localized: "<size=+20><b>A fun\xE7\xE3o do gerente \xE9 construir um local
+      de trabalho seguro, respeitador e inclusivo.</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 300762370240512
@@ -63,8 +63,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2592417236340736
-    m_Localized: "&lt;b&gt;Os gerentes t\xEAm a responsabilidade de serem modelos
-      a seguir, o que inclui:&lt;/b&gt;"
+    m_Localized: "<b>Os gerentes t\xEAm a responsabilidade de serem modelos a seguir,
+      o que inclui:</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 2592760418488320
@@ -104,12 +104,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2609365743521792
-    m_Localized: "&lt;b&gt;O que \xE9 que achas que deves fazer nesta situa\xE7\xE3o?&lt;/b&gt;"
+    m_Localized: "<b>O que \xE9 que achas que deves fazer nesta situa\xE7\xE3o?</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 2609551664435200
-    m_Localized: "&lt;b&gt;Algu\xE9m dirige-se a ti com uma poss\xEDvel reclama\xE7\xE3o.\nO
-      que \xE9 que achas que deves fazer nesta situa\xE7\xE3o?&lt;/b&gt;"
+    m_Localized: "<b>Algu\xE9m dirige-se a ti com uma poss\xEDvel reclama\xE7\xE3o.\nO
+      que \xE9 que achas que deves fazer nesta situa\xE7\xE3o?</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 2609684217024512
@@ -213,7 +213,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2613459648466944
-    m_Localized: "&lt;b&gt;Responsabilidades do gerente em mat\xE9ria de retalia\xE7\xE3o/vitimiza\xE7\xE3o&lt;/b&gt;"
+    m_Localized: "<b>Responsabilidades do gerente em mat\xE9ria de retalia\xE7\xE3o/vitimiza\xE7\xE3o</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 2613561855266816
@@ -226,10 +226,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2613610907652096
-    m_Localized: "&lt;b&gt;Exemplos de retalia\xE7\xE3o/vitima\xE7\xE3o:&lt;/b&gt;\n\n\u2022&lt;indent=5%&gt;Despedimento&lt;/indent&gt;\_\n\u2022&lt;indent=5%&gt;Despromo\xE7\xE3o\_&lt;/indent&gt;\_\n\u2022&lt;indent=5%&gt;An\xE1lise
-      do desempenho insatisfat\xF3ria\_\_&lt;/indent&gt;\n-&lt;indent=5%&gt;Mudan\xE7a
-      de turnos&lt;/indent&gt;\n\u2022&lt;indent=5%&gt;Exclus\xE3o de equipas, eventos,
-      reuni\xF5es\_&lt;/indent&gt;\n\u2022&lt;indent=5%&gt;Tarefas indesej\xE1veis\_\_&lt;/indent&gt;"
+    m_Localized: "<b>Exemplos de retalia\xE7\xE3o/vitima\xE7\xE3o:</b>\n\n\u2022<indent=5%>Despedimento</indent>\n\u2022<indent=5%>Despromo\xE7\xE3o\_</indent>\n\u2022<indent=5%>An\xE1lise
+      do desempenho insatisfat\xF3ria\_\_</indent>\n-&lt;indent=5%&gt;Mudan\xE7a
+      de turnos</indent>\n\u2022<indent=5%>Exclus\xE3o de equipas, eventos, reuni\xF5es\_</indent>\n\u2022<indent=5%>Tarefas
+      indesej\xE1veis\_\_</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2613718365720576
@@ -323,9 +323,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2616995702591488
-    m_Localized: "&lt;b&gt;Quando devemos fazer-nos ouvir&lt;/b&gt;\n\_\nN\xE3o tem
-      a certeza de quando \xE9 a coisa certa a fazer?\_\n\_\nFa\xE7a a si pr\xF3prio
-      estas perguntas sobre a situa\xE7\xE3o:"
+    m_Localized: "<b>Quando devemos fazer-nos ouvir</b>\n\_\nN\xE3o tem a certeza
+      de quando \xE9 a coisa certa a fazer?\_\n\_\nFa\xE7a a si pr\xF3prio estas
+      perguntas sobre a situa\xE7\xE3o:"
     m_Metadata:
       m_Items: []
   - m_Id: 2617243074252800
@@ -350,37 +350,34 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617686349271040
-    m_Localized: "&lt;b&gt;Existem 4 formas de te fazeres ouvir. Qualquer pessoa
-      pode utilizar estas quatro formas, consoante a situa\xE7\xE3o e o seu n\xEDvel
-      de conforto.\n\nVira cada cart\xE3o para obteres mais informa\xE7\xE3o.&lt;/b&gt;"
+    m_Localized: "<b>Existem 4 formas de te fazeres ouvir. Qualquer pessoa pode utilizar
+      estas quatro formas, consoante a situa\xE7\xE3o e o seu n\xEDvel de conforto.\n\nVira
+      cada cart\xE3o para obteres mais informa\xE7\xE3o.</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 2617762022903808
-    m_Localized: "&lt;b&gt;Seja direto:&lt;/b&gt; \nIdentifica a a\xE7\xE3o ou o
-      comportamento correto.\_"
+    m_Localized: "<b>Seja direto:</b> \nIdentifica a a\xE7\xE3o ou o comportamento
+      correto.\_"
     m_Metadata:
       m_Items: []
   - m_Id: 2617816230088704
-    m_Localized: "&lt;b&gt;Redirecionar:&lt;/b&gt; \nMuda de t\xF3pico e redireciona
-      a conversa."
+    m_Localized: "<b>Redirecionar:</b> \nMuda de t\xF3pico e redireciona a conversa."
     m_Metadata:
       m_Items: []
   - m_Id: 2617852200439808
-    m_Localized: '&lt;b&gt;Atraso:&lt;/b&gt;
+    m_Localized: '<b>Atraso:</b>
 
-      Aborda o comportamento ou o desconforto
-      num momento mais neutro.'
+      Aborda o comportamento ou o desconforto num
+      momento mais neutro.'
     m_Metadata:
       m_Items: []
   - m_Id: 2617899503800320
-    m_Localized: "&lt;b&gt;Procurar ajuda:&lt;/b&gt;\nEnquanto gerente, pode procurar
-      orienta\xE7\xE3o.\_"
+    m_Localized: "<b>Procurar ajuda:</b>\nEnquanto gerente, pode procurar orienta\xE7\xE3o.\_"
     m_Metadata:
       m_Items: []
   - m_Id: 2617962007318528
-    m_Localized: "&lt;b&gt;Quais das seguintes medidas deves tomar caso testemunhes
-      qualquer forma de conduta inadequada por parte de um cliente em rela\xE7\xE3o
-      a um funcion\xE1rio?&lt;/b&gt;"
+    m_Localized: "<b>Quais das seguintes medidas deves tomar caso testemunhes qualquer
+      forma de conduta inadequada por parte de um cliente em rela\xE7\xE3o a um funcion\xE1rio?</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 2618062515425280
@@ -414,21 +411,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2618619523190784
-    m_Localized: "&lt;b&gt;Por que raz\xE3o deves fazer-te ouvir?&lt;/b&gt;"
+    m_Localized: "<b>Por que raz\xE3o deves fazer-te ouvir?</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 2618729158103040
-    m_Localized: "Falar est\xE1 de acordo com os nossos valores:\n\n\u2022&lt;indent=5%&gt;Coloca
-      as pessoas em primeiro lugar&lt;/indent&gt;\n\u2022&lt;indent=5%&gt;Cria inclus\xE3o&lt;/indent&gt;\n\u2022&lt;indent=5%&gt;Fortalece
-      a nossa comunidade/fam\xEDlia de trabalho&lt;/indent&gt;\n\n\xC9 tamb\xE9m
-      a coisa certa a fazer."
+    m_Localized: "Falar est\xE1 de acordo com os nossos valores:\n\n\u2022<indent=5%>Coloca
+      as pessoas em primeiro lugar</indent>\n\u2022<indent=5%>Cria inclus\xE3o</indent>\n\u2022<indent=5%>Fortalece
+      a nossa comunidade/fam\xEDlia de trabalho</indent>\n\n\xC9 tamb\xE9m a coisa
+      certa a fazer."
     m_Metadata:
       m_Items: []
   - m_Id: 2618858913091584
-    m_Localized: "Lembra-te de que quando te fazes ouvir:\_\n\n\u2022&lt;indent=5%&gt;D\xE1s
-      o primeiro passo para p\xF4r fim a qualquer comportamento inadequado&lt;/indent&gt;\n\u2022&lt;indent=5%&gt;Ages
-      como um modelo a seguir dos nossos valores &lt;/indent&gt;\n\u2022&lt;indent=5%&gt;Incentivas
-      outras pessoas a expressarem as suas preocupa\xE7\xF5es&lt;/indent&gt;"
+    m_Localized: "Lembra-te de que quando te fazes ouvir:\_\n\n\u2022<indent=5%>D\xE1s
+      o primeiro passo para p\xF4r fim a qualquer comportamento inadequado</indent>\n\u2022<indent=5%>Ages
+      como um modelo a seguir dos nossos valores </indent>\n\u2022<indent=5%>Incentivas
+      outras pessoas a expressarem as suas preocupa\xE7\xF5es</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2618964798296064
@@ -437,7 +434,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619046234902528
-    m_Localized: '&lt;b&gt;Interagir com os empregados&lt;/b&gt;'
+    m_Localized: <b>Interagir com os empregados</b>
     m_Metadata:
       m_Items: []
   - m_Id: 2619095698329600
@@ -517,7 +514,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619797409583104
-    m_Localized: '&lt;b&gt;Abuso de autoridade&lt;/b&gt;'
+    m_Localized: <b>Abuso de autoridade</b>
     m_Metadata:
       m_Items: []
   - m_Id: 2619884999233536
@@ -552,69 +549,67 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620054579138560
-    m_Localized: "&lt;b&gt;O abuso de autoridade tamb\xE9m inclui tratar algu\xE9m
-      de forma menos favor\xE1vel porque rejeita propostas de favores ou atividades
-      sexuais.&lt;/b&gt;"
+    m_Localized: "<b>O abuso de autoridade tamb\xE9m inclui tratar algu\xE9m de forma
+      menos favor\xE1vel porque rejeita propostas de favores ou atividades sexuais.</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "&lt;b&gt;Amea\xE7as&lt;/b&gt;\n\n\u2022   Despedimento\n\u2022  
-      Despromo\xE7\xE3o\_\n\u2022   An\xE1lise do desempenho insatisfat\xF3ria\_\n-
-      Mudan\xE7a de turnos\n\u2022   Exclus\xE3o de equipas, eventos, reuni\xF5es\n-
-      Tarefas indesej\xE1veis\n\u2022   Delegar as mesmas tarefas (limpar o ch\xE3o,
-      limpeza) \n&lt;indent=5%&gt;apenas a determinados trabalhadores"
+    m_Localized: "<b>Amea\xE7as</b>\n\n\u2022   Despedimento\n\u2022   Despromo\xE7\xE3o\_\n\u2022  
+      An\xE1lise do desempenho insatisfat\xF3ria\_\n\u2022 Mudan\xE7a de turnos\n\u2022
+      Exclus\xE3o de equipas, eventos, reuni\xF5es\n\u2022  Tarefas indesej\xE1veis\n\u2022
+      Delegar as mesmas tarefas (limpar o ch\xE3o, limpeza) \n<indent=5%>apenas a
+      determinados trabalhadores"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
-    m_Localized: "&lt;b&gt;Promessas&lt;/b&gt;\n\n\u2022   Continuidade no emprego\_\n-
-      Promo\xE7\xE3o\_\n- Avalia\xE7\xE3o positiva do desempenho\_\n- Horas extraordin\xE1rias
-      adicionais"
+    m_Localized: "<b>Promessas</b>\n\n\u2022   Continuidade no emprego\_\n- Promo\xE7\xE3o\_\n-
+      Avalia\xE7\xE3o positiva do desempenho\_\n- Horas extraordin\xE1rias adicionais"
     m_Metadata:
       m_Items: []
   - m_Id: 2620348922810368
-    m_Localized: "&lt;b&gt;Conclus\xE3o\n\nNa sua fun\xE7\xE3o, tem a responsabilidade
-      de:&lt;/b&gt;"
+    m_Localized: "<b>Conclus\xE3o\n\nNa sua fun\xE7\xE3o, tem a responsabilidade
+      de:</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620484646293504
-    m_Localized: Comunicar todos os comportamentos inadequados.&lt;/indent&gt;
+    m_Localized: Comunicar todos os comportamentos inadequados.</indent>
     m_Metadata:
       m_Items: []
   - m_Id: 2620514086113280
-    m_Localized: Fale quando vir um comportamento inadequado.&lt;/indent&gt;
+    m_Localized: Fale quando vir um comportamento inadequado.</indent>
     m_Metadata:
       m_Items: []
   - m_Id: 2620555144155136
     m_Localized: "Incentiva a tua equipa a fazer-se ouvir caso observe ou seja v\xEDtima
-      de comportamento inadequado.&lt;/indent&gt;"
+      de comportamento inadequado.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620572621819904
-    m_Localized: "Prevenir ou p\xF4r termo a qualquer retalia\xE7\xE3o/vitima\xE7\xE3o.&lt;/indent&gt;"
+    m_Localized: "Prevenir ou p\xF4r termo a qualquer retalia\xE7\xE3o/vitima\xE7\xE3o.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620609611386880
     m_Localized: "Para e reflete antes de socializares com funcion\xE1rios fora do
-      local de trabalho.&lt;/indent&gt;"
+      local de trabalho.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620668432306176
     m_Localized: "Tenha consci\xEAncia do seu impacto no ambiente de trabalho e evite
-      o favoritismo.&lt;/indent&gt;"
+      o favoritismo.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620709704257536
     m_Localized: "Tenha cuidado ao comunicar com colegas de trabalho atrav\xE9s das
-      redes sociais e mensagens de texto.&lt;/indent&gt;"
+      redes sociais e mensagens de texto.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620743099305984
-    m_Localized: "N\xE3o abuse da sua autoridade.&lt;/indent&gt;"
+    m_Localized: "N\xE3o abuse da sua autoridade.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620798967435264
-    m_Localized: "&lt;b&gt;Lembrete&lt;/b&gt;\nSe tiveres d\xFAvidas sobre estes
-      pontos, rev\xEA as pol\xEDticas locais e pede aconselhamento."
+    m_Localized: "<b>Lembrete</b>\nSe tiveres d\xFAvidas sobre estes pontos, rev\xEA
+      as pol\xEDticas locais e pede aconselhamento."
     m_Metadata:
       m_Items: []
   - m_Id: 4631539316781056
@@ -677,38 +672,38 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5479293621964800
-    m_Localized: "&lt;b&gt;\"Esses coment\xE1rios s\xE3o inapropriados no trabalho.\"&lt;/b&gt;"
+    m_Localized: "<b>\"Esses coment\xE1rios s\xE3o inapropriados no trabalho.\"</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 5479429462888448
-    m_Localized: "&lt;b&gt;\"Esses tipos de coment\xE1rios podem ofender algu\xE9m
-      e s\xE3o inadequados aqui. Vamos voltar ao t\xF3pico em quest\xE3o.\"&lt;/b&gt;"
+    m_Localized: "<b>\"Esses tipos de coment\xE1rios podem ofender algu\xE9m e s\xE3o
+      inadequados aqui. Vamos voltar ao t\xF3pico em quest\xE3o.\"</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 5479531518693376
-    m_Localized: "&lt;b&gt;\"Tenho de o informar que o coment\xE1rio que fez anteriormente
-      pode ofender algu\xE9m e n\xE3o est\xE1 de acordo com os nossos valores.\"&lt;/b&gt;"
+    m_Localized: "<b>\"Tenho de o informar que o coment\xE1rio que fez anteriormente
+      pode ofender algu\xE9m e n\xE3o est\xE1 de acordo com os nossos valores.\"</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 5479641749196800
-    m_Localized: "&lt;b&gt;\"Preciso de orienta\xE7\xE3o sobre como lidar com algo
-      que aconteceu hoje.\"&lt;/b&gt;"
+    m_Localized: "<b>\"Preciso de orienta\xE7\xE3o sobre como lidar com algo que
+      aconteceu hoje.\"</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 5727196316266496
-    m_Localized: '&lt;b&gt;A&lt;/b&gt;'
+    m_Localized: <b>A</b>
     m_Metadata:
       m_Items: []
   - m_Id: 5727260262625280
-    m_Localized: '&lt;b&gt;B&lt;/b&gt;'
+    m_Localized: <b>B</b>
     m_Metadata:
       m_Items: []
   - m_Id: 5727327660896256
-    m_Localized: '&lt;b&gt;C&lt;/b&gt;'
+    m_Localized: <b>C</b>
     m_Metadata:
       m_Items: []
   - m_Id: 5727378479083520
-    m_Localized: '&lt;b&gt;D&lt;/b&gt;'
+    m_Localized: <b>D</b>
     m_Metadata:
       m_Items: []
   - m_Id: 5735202403778560
