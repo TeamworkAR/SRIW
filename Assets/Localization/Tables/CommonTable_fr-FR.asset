@@ -31,11 +31,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15149210296320
-    m_Localized: Consulte le carnet
+    m_Localized: Consulte le livret
     m_Metadata:
       m_Items: []
   - m_Id: 15485530562560
-    m_Localized: Ton carnet
+    m_Localized: Ton livret
     m_Metadata:
       m_Items: []
   - m_Id: 15683854032896
@@ -115,7 +115,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18600375902208
-    m_Localized: "Vous avez termin\xE9 ce module\_!"
+    m_Localized: "Tu as termin\xE9 ce module\_!"
     m_Metadata:
       m_Items: []
   - m_Id: 18661440774144
@@ -156,7 +156,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 7604280591466496
     m_Localized: "Tu as acc\xE8s aux pens\xE9es de {0}. Tu peux les retrouver dans
-      le carnet."
+      le livret."
     m_Metadata:
       m_Items: []
   - m_Id: 7607020013043712
@@ -168,7 +168,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7885533161013248
-    m_Localized: Prendre la parole
+    m_Localized: "Lib\xE9rer la parole"
     m_Metadata:
       m_Items: []
   - m_Id: 7885667890446336
@@ -337,8 +337,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46123280967393280
-    m_Localized: "Accessibilit\xE9 activ\xE9e. Utilisez les touches fl\xE9ch\xE9es
-      et la touche Entr\xE9e pour naviguer."
+    m_Localized: "Accessibilit\xE9 activ\xE9e. Utilise les touches fl\xE8ches et
+      la touche Entr\xE9e pour naviguer."
     m_Metadata:
       m_Items: []
   - m_Id: 46123565072769024
@@ -459,7 +459,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 53943372556341248
-    m_Localized: "R\xE9ponse incorrecte, r\xE9essayez"
+    m_Localized: "R\xE9ponse incorrecte, r\xE9essaye"
     m_Metadata:
       m_Items: []
   - m_Id: 60890102246363136

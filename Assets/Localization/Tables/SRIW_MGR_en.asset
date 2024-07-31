@@ -546,15 +546,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "<b>Threats</b>\n\n\u2022   Termination\n\u2022   Demotion\_\n\u2022  
-      Poor Performance Review\_\n\u2022   Changing shifts\n\u2022   Excluding from
-      teams, events, meetings\n\u2022   Undesirable tasks\n\u2022   Delegating the
-      same tasks (mopping, cleaning) \n<indent=5%>only to certain employees"
+    m_Localized: "Examples of abuse of authority:\n\n<b>Threats</b>\n\n\u2022 Termination\n\u2022
+      Demotion\_\n\u2022 Poor Performance Review\_\n\u2022 Changing shifts\n\u2022
+      Excluding from teams, events, meetings\n\u2022 Undesirable tasks\n\u2022 Delegating
+      the same tasks (mopping, cleaning) \n<indent=5%>only to certain employees"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
-    m_Localized: "<b>Promises</b>\n\n\u2022   Continued Employment\_\n\u2022   Promotion\_\n\u2022  
-      Positive Performance Review\_\n\u2022   Additional Overtime"
+    m_Localized: "<b>Promises</b>\n\n\u2022 Continued Employment\_\n\u2022 Promotion\_\n\u2022
+      Positive Performance Review\_\n\u2022 Additional Overtime"
     m_Metadata:
       m_Items: []
   - m_Id: 2620348922810368
@@ -565,37 +565,39 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620484646293504
-    m_Localized: Report all inappropriate behavior.</indent>
+    m_Localized: "\u2022<indent=5%>Report all inappropriate behavior.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620514086113280
-    m_Localized: Speak up when you see inappropriate behavior.</indent>
+    m_Localized: "\u2022<indent=5%>Speak up when you see inappropriate behavior.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620555144155136
-    m_Localized: Encourage your team to speak up if they see or experience inappropriate
-      behavior.</indent>
+    m_Localized: "\u2022<indent=5%>Encourage your team to speak up if they see or
+      experience inappropriate behavior.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620572621819904
-    m_Localized: Prevent or stop any retaliation/victimization.</indent>
+    m_Localized: "\u2022<indent=5%>Prevent or stop any retaliation/victimization.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620609611386880
-    m_Localized: Stop and think before you socialize outside of work with employees.</indent>
+    m_Localized: "\u2022<indent=5%>Stop and think before you socialize outside of
+      work with employees.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620668432306176
-    m_Localized: Be aware of your impact on the work environment and avoid favoritism.</indent>
+    m_Localized: "\u2022<indent=5%>Be aware of your impact on the work environment
+      and avoid favoritism.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620709704257536
-    m_Localized: Exercise caution when communicating with co-workers via social media
-      and text messages.</indent>
+    m_Localized: "\u2022<indent=5%>Exercise caution when communicating with co-workers
+      via social media and text messages.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620743099305984
-    m_Localized: "Don\u2019t abuse your authority.</indent>"
+    m_Localized: "\u2022<indent=5%>Don\u2019t abuse your authority.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620798967435264
@@ -745,7 +747,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7333489694953472
-    m_Localized: 
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 7603158175666176

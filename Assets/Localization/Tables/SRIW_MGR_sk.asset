@@ -380,8 +380,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617816230088704
-    m_Localized: "<b>Presmerovanie:</b> \nPrejdite na nov\xFA t\xE9mu a presmerujte
-      rozhovor."
+    m_Localized: "<b>Presmerova\u0165:</b> \nZa\u010Da\u0165 nov\xFA t\xE9mu a nasmerova\u0165
+      konverz\xE1ciu in\xFDm smerom"
     m_Metadata:
       m_Items: []
   - m_Id: 2617852200439808
@@ -587,11 +587,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "<b>Hrozby</b>\n\n\u2022 Ukon\u010Denie\n\u2022 Degrad\xE1cia\_\n\u2022
-      Slab\xE9 pracovn\xE9 hodnotenie\_\n\u2022 Prelo\u017Eenie na in\xFA zmenu\n\u2022
-      Vyl\xFA\u010Denie z t\xEDmov, podujat\xED, stretnut\xED\n\u2022 Ne\u017Eiaduce
-      \xFAlohy\n\u2022 Delegovanie rovnak\xFDch \xFAloh (um\xFDvanie, upratovanie)
-      \n<indent=5%>len niektor\xFDm zamestnancom"
+    m_Localized: "Pr\xEDklady zneu\u017Eitia pr\xE1vomoci:\n\n<b>Hrozby</b>\n\n\u2022
+      Ukon\u010Denie\n\u2022 Degrad\xE1cia\_\n\u2022 Slab\xE9 pracovn\xE9 hodnotenie\_\n\u2022
+      Prelo\u017Eenie na in\xFA zmenu\n\u2022 Vyl\xFA\u010Denie z t\xEDmov, podujat\xED,
+      stretnut\xED\n\u2022 Ne\u017Eiaduce \xFAlohy\n\u2022 Delegovanie rovnak\xFDch
+      \xFAloh (um\xFDvanie, upratovanie) \n<indent=5%>len niektor\xFDm zamestnancom"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
@@ -794,7 +794,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7333489694953472
-    m_Localized: 
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 7603158175666176

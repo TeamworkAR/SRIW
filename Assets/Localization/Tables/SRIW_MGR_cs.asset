@@ -383,8 +383,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617816230088704
-    m_Localized: "<b>P\u0159esm\u011Brov\xE1n\xED:</b> \nP\u0159ij\u010Fte s nov\xFDm
-      t\xE9matem a\_sto\u010Dte rozhovor jinam."
+    m_Localized: "<b>Bu\u010Fte p\u0159\xEDm\xED::</b> \nIdentifikujte spr\xE1vnou
+      akci nebo chov\xE1n\xED."
     m_Metadata:
       m_Items: []
   - m_Id: 2617852200439808
@@ -594,11 +594,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "<b>V\xFDhr\u016F\u017Eky</b>\n\n\u2022 Ukon\u010Den\xED\n\u2022
-      Degradace\_\n\u2022 \u0160patn\xE9 hodnocen\xED v\xFDkonnosti\_\n\u2022 St\u0159\xEDd\xE1n\xED
-      sm\u011Bn\n\u2022 Vylou\u010Den\xED z t\xFDm\u016F, akc\xED, setk\xE1n\xED\n\u2022
-      Ne\u017E\xE1douc\xED \xFAkoly\n\u2022 Delegov\xE1n\xED stejn\xFDch \xFAkol\u016F
-      (vyt\xEDr\xE1n\xED, \xFAklid) \n<indent=5%>pouze n\u011Bkter\xFDm zam\u011Bstnanc\u016Fm"
+    m_Localized: "P\u0159\xEDklady zneu\u017E\xEDv\xE1n\xED autority:\n\n<b>V\xFDhr\u016F\u017Eky</b>\n\n\u2022
+      Ukon\u010Den\xED\n\u2022 Degradace\_\n\u2022 \u0160patn\xE9 hodnocen\xED v\xFDkonnosti\_\n\u2022
+      St\u0159\xEDd\xE1n\xED sm\u011Bn\n\u2022 Vylou\u010Den\xED z t\xFDm\u016F,
+      akc\xED, setk\xE1n\xED\n\u2022 Ne\u017E\xE1douc\xED \xFAkoly\n\u2022 Delegov\xE1n\xED
+      stejn\xFDch \xFAkol\u016F (vyt\xEDr\xE1n\xED, \xFAklid) \n<indent=5%>pouze
+      n\u011Bkter\xFDm zam\u011Bstnanc\u016Fm"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
@@ -801,7 +802,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7333489694953472
-    m_Localized: 
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 7603158175666176

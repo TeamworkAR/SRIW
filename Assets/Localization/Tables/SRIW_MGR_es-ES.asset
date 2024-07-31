@@ -362,7 +362,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617816230088704
-    m_Localized: "<b>Redirigir:</b> \nPlantea un nuevo tema y redirige la conversaci\xF3n."
+    m_Localized: "<b>Redirigir:</b> \nsaca un nuevo tema de conversaci\xF3n y redirige
+      la conversaci\xF3n."
     m_Metadata:
       m_Items: []
   - m_Id: 2617852200439808
@@ -550,10 +551,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "<b>Amenazas</b>\n\n\u2022   Despido\n\u2022   Degradaci\xF3n\_\n\u2022
-      Revisi\xF3n de desempe\xF1o deficiente\_\n\u2022 Cambio de turnos\n\u2022 Excluir
-      de equipos, eventos y reuniones\n\u2022 Tareas no deseadas\n\u2022 Asignar
-      las mismas tareas (fregar, limpiar) \n<indent=5%>solo a ciertos empleados"
+    m_Localized: "Ejemplos de abuso de autoridad:\n\n<b>Amenazas</b>\n\n\u2022  
+      Despido\n\u2022   Degradaci\xF3n\_\n\u2022 Revisi\xF3n de desempe\xF1o deficiente\_\n\u2022
+      Cambio de turnos\n\u2022 Excluir de equipos, eventos y reuniones\n\u2022 Tareas
+      no deseadas\n\u2022 Asignar las mismas tareas (fregar, limpiar) \n<indent=5%>solo
+      a ciertos empleados"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
@@ -750,7 +752,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7333489694953472
-    m_Localized: 
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 7603158175666176
