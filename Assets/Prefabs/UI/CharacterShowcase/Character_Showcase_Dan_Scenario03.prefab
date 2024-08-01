@@ -365,6 +365,10 @@ PrefabInstance:
       propertyPath: inspSalsaLinked
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3732736768155482190, guid: 8684e082329766f42a8d889cdafbeb98, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 84ddcef63a92e94408cf9f7e81fd4224, type: 2}
     - target: {fileID: 3745958942702472705, guid: 8684e082329766f42a8d889cdafbeb98, type: 3}
       propertyPath: m_Layer
       value: 6
@@ -486,6 +490,10 @@ PrefabInstance:
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5476124573811785235, guid: 8684e082329766f42a8d889cdafbeb98, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5477460606070344016, guid: 8684e082329766f42a8d889cdafbeb98, type: 3}
       propertyPath: m_Layer
       value: 6
       objectReference: {fileID: 0}

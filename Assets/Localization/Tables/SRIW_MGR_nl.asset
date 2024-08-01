@@ -19,8 +19,8 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 58963357696
-    m_Localized: <b>Bij Mcdonald's bevorderen en onderhouden we een veilige, respectvolle
-      en inclusieve werkomgeving voor iedereen door</b>
+    m_Localized: <b>Bij McDonald's bevorderen en onderhouden we een veilige, respectvolle
+      en inclusieve werkomgeving voor iedereen door:</b>
     m_Metadata:
       m_Items: []
   - m_Id: 32415523106816
@@ -47,7 +47,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 328896373157888
-    m_Localized: Spreek je mening uit als je ongewenst gedrag ziet of ervaart
+    m_Localized: Van je laten horen als je ongepast gedrag ziet of ervaart
     m_Metadata:
       m_Items: []
   - m_Id: 329567763787776
@@ -67,7 +67,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2592417236340736
     m_Localized: <b>Managers hebben een verantwoordelijkheid als het gaat om het
-      zijn van het goede voorbeeld, waaronder</b>
+      zijn van het goede voorbeeld, waaronder:</b>
     m_Metadata:
       m_Items: []
   - m_Id: 2592760418488320
@@ -203,8 +203,8 @@ MonoBehaviour:
   - m_Id: 2612922806915072
     m_Localized: "Een medewerker klaagt bij je dat hij/zij is lastiggevallen door
       een manager omdat hij/zij voor de tweede keer deze week te laat terugkwam van
-      pauze. De manager nam hen apart om de kwestie te bespreken en zich ertoe te
-      verbinden punctueel te zijn.\n\_\nIs dit intimidatie?"
+      pauze. De manager nam de medewerker apart om de kwestie te bespreken en om
+      af te spreken dat hij/zij voortaan op tijd terug zou komen.\n\_\nIs dit intimidatie?"
     m_Metadata:
       m_Items: []
   - m_Id: 2613051878232064
@@ -225,7 +225,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2613459648466944
-    m_Localized: <b>Verantwoordelijkheden van de manager op het gebied van vergelding/slachtofferschap</b>
+    m_Localized: <b>Verantwoordelijkheden van de manager op het gebied van vergelding/represailles</b>
     m_Metadata:
       m_Items: []
   - m_Id: 2613561855266816
@@ -233,11 +233,11 @@ MonoBehaviour:
       negatieve werksfeer ervaart, omdat hij/zij van plan is een melding te maken,
       of betrokken is bij een melding (bijvoorbeeld als getuige) over gedrag op de
       werkplek, zoals mogelijke intimidatie (fysiek, psychologisch, seksueel), discriminatie,
-      pesten of vergelding.
+      pesten of vergelding/represailles.
     m_Metadata:
       m_Items: []
   - m_Id: 2613610907652096
-    m_Localized: "<b>Voorbeelden van vergelding/slachtofferschap</b>\n\n\u2022<indent=5%>Ontslag</indent>\n\u2022<indent=5%>Degradatie\_</indent>\n\u2022<indent=5%>Een
+    m_Localized: "<b>Voorbeelden van vergelding/represailles:</b>\n\n\u2022<indent=5%>Ontslag</indent>\_\n\u2022<indent=5%>Degradatie\_</indent>\_\n\u2022<indent=5%>Een
       slechte evaluatie op hun prestaties\_</indent>\n\u2022<indent=5%>Het wisselen
       van diensten</indent>\n\u2022<indent=5%>Uitgesloten worden van teams, evenementen,
       vergaderingen\_</indent>\n\u2022<indent=5%>Ongewenste taken\_\_</indent>"
@@ -290,7 +290,7 @@ MonoBehaviour:
       van de werksituatie van een medewerker omdat de medewerker een melding heeft
       gemaakt, is uiterst riskant, zelfs als de leidinggevende en de medewerker dit
       als een positieve zet beschouwen.\n\_\nEen goede vuistregel is om een medewerker
-      te blijven behandelen alsof die nooit een klacht heeft ingediend."
+      te blijven behandelen alsof die nooit een melding heeft gedaan."
     m_Metadata:
       m_Items: []
   - m_Id: 2614433234505728
@@ -323,8 +323,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2616712327024640
-    m_Localized: Iemand die een melding heeft gemaakt of betrokken is bij het onderzoek
-      naar een klacht kan zich vaak onzeker en zelfs bedreigd voelen.
+    m_Localized: Iemand die een klacht indient of betrokken is bij het onderzoek
+      naar een klacht, kan zich vaak onzeker en zelfs bedreigd voelen.
     m_Metadata:
       m_Items: []
   - m_Id: 2616952182493184
@@ -361,7 +361,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2617686349271040
     m_Localized: '<b>Dit kun je op vier manieren doen. Iedereen kan deze vier manieren
-      gebruiken, afhankelijk van de situatie en het comfortniveau.
+      gebruiken, afhankelijk van de situatie en hoe comfortabel iemand zich voelt.
 
 
       Draai
@@ -369,23 +369,23 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617762022903808
-    m_Localized: "<b>Wees direct</b> \nIdentificeer de juiste actie of gedrag.\_"
+    m_Localized: "<b>Wees direct:</b> \nIdentificeer de juiste actie of gedrag.\_"
     m_Metadata:
       m_Items: []
   - m_Id: 2617816230088704
-    m_Localized: "<b>Buig om:</b> \nPraat over een ander onderwerp en buig zo het
-      gesprek om."
+    m_Localized: "<b>Stuur het gesprek bij:</b> \nBreng een nieuw onderwerp ter sprake
+      en leid het gesprek om."
     m_Metadata:
       m_Items: []
   - m_Id: 2617852200439808
-    m_Localized: '<b>Vertragen</b>
+    m_Localized: '<b>Vertraag:</b>
 
       Bespreek het gedrag of ongemak op een neutraler
       moment.'
     m_Metadata:
       m_Items: []
   - m_Id: 2617899503800320
-    m_Localized: "<b>Zoek hulp</b>\nAls manager kun je iemand om advies vragen.\_"
+    m_Localized: "<b>Zoek hulp:</b>\nAls manager kun je iemand om advies vragen.\_"
     m_Metadata:
       m_Items: []
   - m_Id: 2617962007318528
@@ -434,10 +434,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2618858913091584
-    m_Localized: "Bedenk dat wanneer je iets zegt, je:\_\n\n\u2022<indent=5%>Zet
-      de eerste stap om ongewenst gedrag te stoppen</indent>\n\u2022<indent=5%>Handelt
-      als rolmodel voor onze waarden </indent>\n\u2022<indent=5%>Moedigt anderen
-      aan om hun zorgen naar voren te brengen</indent>"
+    m_Localized: "Bedenk dat wanneer je van je laat horen, je het volgende doet:\_\n\n\u2022<indent=5%>Zet
+      de eerste stap om ongewenst gedrag te stoppen</indent>\n\u2022<indent=5%>Handel
+      als rolmodel voor onze waarden </indent>\n\u2022<indent=5%>Moedig anderen aan
+      om hun zorgen naar voren te brengen</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2618964798296064
@@ -451,13 +451,13 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2619095698329600
     m_Localized: "\u2022 Het kan voor managers riskant zijn om buiten het werk om
-      vriendschappelijk met medewerkers om te gaan. Socialiseren kan vaak goed beginnen,
-      maar te vertrouwd raken kan jouw oordeel be\xEFnvloeden.\n\n\u2022 Als je mensen
-      anders behandelt, loop je het risico dat er een omgeving ontstaat die als discriminerend
-      kan worden ervaren. Dat kan een vijandige werkomgeving cre\xEBren voor degenen
-      die zich niet bevoordeeld voelen.\n\_\n\u2022 Vriendjespolitiek omvat het geven
-      van een voorkeursbehandeling aan een of meer werknemers, waardoor anderen mogelijke
-      promoties of voordelen zoals fijnere shifts mislopen.\n\n"
+      vriendschappelijk met medewerkers om te gaan. Sociaal contact kan vaak goed
+      beginnen, maar een te nauwe band kan op den duur je oordeel be\xEFnvloeden.\n\n\u2022
+      Als je mensen anders behandelt, loop je het risico dat er een omgeving ontstaat
+      die als discriminerend kan worden ervaren. Dat kan een vijandige werkomgeving
+      cre\xEBren voor degenen die zich niet bevoordeeld voelen.\n\_\n\u2022 Vriendjespolitiek
+      omvat het geven van een voorkeursbehandeling aan een of meer werknemers, waardoor
+      anderen mogelijke promoties of voordelen zoals fijnere shifts mislopen.\n\n"
     m_Metadata:
       m_Items: []
   - m_Id: 2619130938871808
@@ -482,7 +482,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619266410696704
-    m_Localized: Denk even na voordat je buiten het werk met andere werknemers omgaat.
+    m_Localized: Denk goed na voor je buiten het werk met andere medewerkers op stap
+      gaat.
     m_Metadata:
       m_Items: []
   - m_Id: 2619331070087168
@@ -544,13 +545,13 @@ MonoBehaviour:
       van gunsten voor seks. Elke activiteit die wordt beloofd in ruil voor een gunst
       (zoals een date, een kus of een knuffel) is ongepast en wordt niet getolereerd
       door McDonald's.\n\n\u2022 Misbruik van macht wordt niet bepaald op basis van
-      het geslacht van de dader of het slachtoffer. Ongeacht de betrokken genders
-      is het absoluut onaanvaardbaar om iemand seksueel te intimideren of je macht
-      te misbruiken."
+      het gender van de dader of het slachtoffer. Ongeacht de betrokken genders is
+      het absoluut onaanvaardbaar om iemand seksueel te intimideren of je macht te
+      misbruiken."
     m_Metadata:
       m_Items: []
   - m_Id: 2620003890974720
-    m_Localized: Misbruik van gezag wordt niet gecategoriseerd op basis van het geslacht
+    m_Localized: Misbruik van gezag wordt niet gecategoriseerd op basis van het gender
       van de dader of het slachtoffer. Ongeacht de betrokken genders is het absoluut
       onaanvaardbaar om iemand seksueel te intimideren of je macht te misbruiken.
     m_Metadata:
@@ -562,11 +563,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "Voorbeelden van machtsmisbruik:\n\n<b>Dreigementen</b>\n\n\u2022
-      Ontslag\n\u2022 Demotie\_\n\u2022 Een slechte beoordeling van hun werk\_\n\u2022
-      Wisselende diensten\n\u2022 Uitgesloten worden van teams, evenementen, vergaderingen\n\u2022
-      Ongewenste taken\n\u2022 Delegeren van dezelfde taken (moppen, schoonmaken)
-      \n<indent=5%>alleen voor bepaalde werknemers"
+    m_Localized: "<b>Dreigementen</b>\n\n\u2022 Ontslag\n\u2022 Demotie\_\n\u2022
+      Een slechte beoordeling van hun werk\_\n\u2022 Het wisselen van diensten\n\u2022
+      Uitgesloten worden van teams, evenementen, vergaderingen\n\u2022 Ongewenste
+      taken\n\u2022 Delegeren van dezelfde taken (moppen, schoonmaken) \n<indent=5%>alleen
+      voor bepaalde werknemers"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
@@ -579,7 +580,7 @@ MonoBehaviour:
 
 
       In jouw rol is het jouw verantwoordelijkheid
-      om</b>'
+      om:</b>'
     m_Metadata:
       m_Items: []
   - m_Id: 2620484646293504
@@ -598,8 +599,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620572621819904
-    m_Localized: "\u2022<indent=5%>alle vormen van vergelding te voorkomen of een
-      halt toe te roepen.</indent>"
+    m_Localized: "\u2022<indent=5%>alle vormen van vergelding/represailles te voorkomen
+      of een halt toe te roepen.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620609611386880
@@ -732,9 +733,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 6563320299212800
-    m_Localized: "Kijk, je weet dat ik het niet leuk vind hoe ze je behandelen, maar
-      laten we\nZeg eens eerlijk: wat dacht je dat er zou gebeuren? \nGingen ze een
-      feestje voor je geven?"
+    m_Localized: "Kijk, je weet dat ik het niet leuk vind hoe ze je behandelen, maar\nzeg
+      eens eerlijk: wat dacht je dat er zou gebeuren? \nDat ze een feest voor je
+      zouden organiseren?"
     m_Metadata:
       m_Items: []
   - m_Id: 6563519709007872
@@ -765,7 +766,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 6564307944558592
-    m_Localized: Uh Huh...
+    m_Localized: Uh-huh...
     m_Metadata:
       m_Items: []
   - m_Id: 6564322591068160
@@ -773,7 +774,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7333489694953472
-    m_Localized: ' '
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 7603158175666176

@@ -245,7 +245,7 @@ PrefabInstance:
       objectReference: {fileID: 2804776112727164327}
     - target: {fileID: -5141602710711696028, guid: b85bceb8f35d54c4dbd3232955758438, type: 3}
       propertyPath: inspSalsaLinked
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -5141602710711696028, guid: b85bceb8f35d54c4dbd3232955758438, type: 3}
       propertyPath: inspStateFoldoutEmotes

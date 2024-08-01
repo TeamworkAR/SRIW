@@ -47,9 +47,11 @@ public class SequencialInfoPanel : BaseUICanvas
         b_NextPressed = false;
 
         infoCardContainer.SetActive(true);
-        nextButton.SetActive(false);
-        loadNextButton.SetActive(false);
-        loadPreviousButton.SetActive(false);
+        nextButton.SetActive(false); // Keep the old functionality for nextButton
+        loadNextButton.SetActive(true); // Ensure loadNextButton is always active
+        loadNextButton.GetComponent<Button>().interactable = false; // Set to non-interactable initially
+        loadPreviousButton.SetActive(true); // Ensure loadPreviousButton is always active
+        loadPreviousButton.GetComponent<Button>().interactable = false; // Set to non-interactable initially
         carouselCounterContainer.Dispose(); // Clear any existing dots
 
         foreach (var card in wrapper.SequencialInfoCardData.Cards)
@@ -93,9 +95,9 @@ public class SequencialInfoPanel : BaseUICanvas
             spawnedSequencialInfoCards[i].gameObject.SetActive(i >= currentPage * postItsPerPage && i < (currentPage + 1) * postItsPerPage);
         }
 
-        loadNextButton.SetActive(false); // Hide loadNextButton initially
-        loadPreviousButton.SetActive(false); // Hide loadPreviousButton initially
-        nextButton.SetActive(false); // Hide nextButton initially
+        loadNextButton.GetComponent<Button>().interactable = false; // Set to non-interactable initially
+        loadPreviousButton.GetComponent<Button>().interactable = false; // Set to non-interactable initially
+        nextButton.SetActive(false); // Keep the old functionality for nextButton
         carouselCounterContainer.Select(currentPage); // Update the selected dot
 
         EnsureCarouselCounterIsBottomChild(); // Ensure carousel counter is at the bottom
@@ -145,11 +147,9 @@ public class SequencialInfoPanel : BaseUICanvas
             spawnedSequencialInfoCards[i].gameObject.SetActive(true);
         }
 
-        loadNextButton.SetActive((currentPage + 1) * postItsPerPage < spawnedSequencialInfoCards.Count); // Show loadNextButton if there are more post-its to show
         loadNextButton.GetComponent<Button>().interactable = (currentPage + 1) * postItsPerPage < spawnedSequencialInfoCards.Count; // Make sure the button is interactable
         nextButton.SetActive((currentPage + 1) * postItsPerPage >= spawnedSequencialInfoCards.Count); // Show nextButton if this is the last page
         nextButton.GetComponent<Button>().interactable = (currentPage + 1) * postItsPerPage >= spawnedSequencialInfoCards.Count; // Make sure the button is interactable
-        loadPreviousButton.SetActive(currentPage > 0); // Show loadPreviousButton if not on the first page
         loadPreviousButton.GetComponent<Button>().interactable = currentPage > 0; // Make sure the button is interactable
 
         if (currentPage == (spawnedSequencialInfoCards.Count - 1) / postItsPerPage)
@@ -170,7 +170,7 @@ public class SequencialInfoPanel : BaseUICanvas
 
         // Deactivate and clear UI elements
         infoCardContainer.SetActive(false);
-        nextButton.SetActive(false);
+        nextButton.SetActive(false); // Keep the old functionality for nextButton
         loadNextButton.SetActive(false);
         loadPreviousButton.SetActive(false);
         CharacterShowcase.ClearByOwner(this);
@@ -219,9 +219,9 @@ public class SequencialInfoPanel : BaseUICanvas
 
         RectTransform thoughtsContainerTransform = infoCardContainer.GetComponent<RectTransform>();
 
-        loadNextButton.SetActive(false);
-        loadPreviousButton.SetActive(false);
-        nextButton.SetActive(false);
+        loadNextButton.GetComponent<Button>().interactable = false; // Set to non-interactable initially
+        loadPreviousButton.GetComponent<Button>().interactable = false; // Set to non-interactable initially
+        nextButton.SetActive(false); // Keep the old functionality for nextButton
 
         int endPostItIndex = Mathf.Min(currentPostItIndex + postItsPerPage, spawnedSequencialInfoCards.Count);
         for (int i = currentPostItIndex; i < endPostItIndex; i++)
@@ -247,12 +247,10 @@ public class SequencialInfoPanel : BaseUICanvas
             panelsLoaded++;
             if (panelsLoaded == panelsToLoad)
             {
-                loadNextButton.SetActive((currentPage + 1) * postItsPerPage < spawnedSequencialInfoCards.Count);
-                loadNextButton.GetComponent<Button>().interactable = (currentPage + 1) * postItsPerPage < spawnedSequencialInfoCards.Count;
-                nextButton.SetActive((currentPage + 1) * postItsPerPage >= spawnedSequencialInfoCards.Count);
-                nextButton.GetComponent<Button>().interactable = (currentPage + 1) * postItsPerPage >= spawnedSequencialInfoCards.Count;
-                loadPreviousButton.SetActive(currentPage > 0);
-                loadPreviousButton.GetComponent<Button>().interactable = currentPage > 0;
+                loadNextButton.GetComponent<Button>().interactable = (currentPage + 1) * postItsPerPage < spawnedSequencialInfoCards.Count; // Make sure the button is interactable
+                nextButton.SetActive((currentPage + 1) * postItsPerPage >= spawnedSequencialInfoCards.Count); // Show nextButton if this is the last page
+                nextButton.GetComponent<Button>().interactable = (currentPage + 1) * postItsPerPage >= spawnedSequencialInfoCards.Count; // Make sure the button is interactable
+                loadPreviousButton.GetComponent<Button>().interactable = currentPage > 0; // Make sure the button is interactable
                 loadedPages.Add(currentPage);
 
                 if (currentPage == (spawnedSequencialInfoCards.Count - 1) / postItsPerPage)

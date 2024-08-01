@@ -16,8 +16,7 @@ MonoBehaviour:
     m_Code: en
   m_SharedData: {fileID: 11400000, guid: 30630d9d68e57f84bb4a6bc4784ad227, type: 2}
   m_Metadata:
-    m_Items:
-    - rid: 6753186793229648172
+    m_Items: []
   m_TableData:
   - m_Id: 58963357696
     m_Localized: "<b>At Mcdonald\u2019s, we promote and maintain a safe, respectful
@@ -32,8 +31,7 @@ MonoBehaviour:
     m_Localized: <size=+20><b>Manager's Role in Building a Safe, Respectful, and
       Inclusive Workplace</b>
     m_Metadata:
-      m_Items:
-      - rid: 6753186793229648172
+      m_Items: []
   - m_Id: 300762370240512
     m_Localized: Living and championing our values every day
     m_Metadata:
@@ -546,15 +544,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "Examples of abuse of authority:\n\n<b>Threats</b>\n\n\u2022 Termination\n\u2022
-      Demotion\_\n\u2022 Poor Performance Review\_\n\u2022 Changing shifts\n\u2022
-      Excluding from teams, events, meetings\n\u2022 Undesirable tasks\n\u2022 Delegating
-      the same tasks (mopping, cleaning) \n<indent=5%>only to certain employees"
+    m_Localized: "<b>Threats</b>\n\n\u2022   Termination\n\u2022   Demotion\_\n\u2022  
+      Poor Performance Review\_\n\u2022   Changing shifts\n\u2022   Excluding from
+      teams, events, meetings\n\u2022   Undesirable tasks\n\u2022   Delegating the
+      same tasks (mopping, cleaning) \n<indent=5%>only to certain employees"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
-    m_Localized: "<b>Promises</b>\n\n\u2022 Continued Employment\_\n\u2022 Promotion\_\n\u2022
-      Positive Performance Review\_\n\u2022 Additional Overtime"
+    m_Localized: "<b>Promises</b>\n\n\u2022   Continued Employment\_\n\u2022   Promotion\_\n\u2022  
+      Positive Performance Review\_\n\u2022   Additional Overtime"
     m_Metadata:
       m_Items: []
   - m_Id: 2620348922810368
@@ -747,7 +745,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7333489694953472
-    m_Localized: ' '
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 7603158175666176
@@ -816,8 +814,4 @@ MonoBehaviour:
       m_Items: []
   references:
     version: 2
-    RefIds:
-    - rid: 6753186793229648172
-      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_Entries: 00703dd4f6fe0000
+    RefIds: []

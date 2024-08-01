@@ -21,7 +21,7 @@ MonoBehaviour:
   - m_Id: 58963357696
     m_Localized: "<b>Chez McDonald\u2019s, nous promouvons et entretenons un environement
       de travail s\xFBr, respectueux et inclusif pour tous en respectant les principes
-      suivants\_</b>"
+      suivants\_:</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 32415523106816
@@ -65,7 +65,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2592417236340736
     m_Localized: "<b>Les leaders ont pour responsabilit\xE9 de montrer l\u2019exemple,
-      notamment par les actions suivantes\_</b>"
+      notamment par les actions suivantes\_:</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 2592760418488320
@@ -233,7 +233,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2613610907652096
-    m_Localized: "<b>Exemples de repr\xE9sailles </b>\n\n\u2022<indent=5%>Licenciement</indent>\n\u2022<indent=5%>R\xE9trogradation\_</indent>\n\u2022<indent=5%>Evaluation
+    m_Localized: "<b>Exemples de repr\xE9sailles :</b>\n\n\u2022<indent=5%>Licenciement</indent>\_\n\u2022<indent=5%>R\xE9trogradation\_</indent>\_\n\u2022<indent=5%>Evaluation
       de performance biais\xE9e\_\_</indent>\n\u2022<indent=5%>Modification de quarts
       de travail </indent>\n\u2022<indent=5%>Mise \xE0 l'\xE9cart de l'\xE9quipe,
       des \xE9v\xE9nements, des r\xE9unions\_</indent>\n\u2022<indent=5%>T\xE2ches
@@ -370,21 +370,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617762022903808
-    m_Localized: "<b>\xCAtre direct\_</b> \nIdentifie l\u2019action ou le comportement
+    m_Localized: "<b>\xCAtre direct\_:</b> \nIdentifie l\u2019action ou le comportement
       appropri\xE9.\_"
     m_Metadata:
       m_Items: []
   - m_Id: 2617816230088704
-    m_Localized: "<b>R\xE9oriente :</b> \nChange de sujet et r\xE9oriente la conversation."
+    m_Localized: "<b>Rediriger\_:</b> \nAborde un nouveau sujet et redirige la conversation."
     m_Metadata:
       m_Items: []
   - m_Id: 2617852200439808
-    m_Localized: "<b>Repousser \xE0 plus tard\_</b>\nG\xE8re le probl\xE8me de comportement
+    m_Localized: "<b>Repousser \xE0 plus tard\_:</b>\nG\xE8re le probl\xE8me de comportement
       ou la g\xEAne \xE0 un moment plus favorable."
     m_Metadata:
       m_Items: []
   - m_Id: 2617899503800320
-    m_Localized: "<b>Demander de l\u2019aide\_</b>\nEn tant que manager, tu peux
+    m_Localized: "<b>Demander de l\u2019aide\_:</b>\nEn tant que manager, tu peux
       demander conseil.\_"
     m_Metadata:
       m_Items: []
@@ -576,12 +576,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "Exemples d\u2019abus d\u2019autorit\xE9\_:\n\n<b>Menaces</b>\n\n\u2022
-      Licenciement\n\u2022 R\xE9trogradation\_\n\u2022 Evaluation de performance
-      biais\xE9e\_\n\u2022 Modification de quarts de travail\n\u2022\_Mise \xE0 l'\xE9cart
-      de l'\xE9quipe, des \xE9v\xE9nements et des r\xE9unions\n\u2022 T\xE2ches ind\xE9sirables\n\u2022
-      D\xE9l\xE9gation syst\xE9matique aux m\xEAmes t\xE2ches (passer la serpilli\xE8re,
-      nettoyage) \n<indent=5%>seulement \xE0 certains employ\xE9s"
+    m_Localized: "<b>Menaces</b>\n\n\u2022 Licenciement\n\u2022 R\xE9trogradation\_\n\u2022
+      Evaluation de performance biais\xE9e\_\n\u2022 Modification de quarts de travail\n\u2022\_Mise
+      \xE0 l'\xE9cart de l'\xE9quipe, des \xE9v\xE9nements et des r\xE9unions\n\u2022
+      T\xE2ches ind\xE9sirables\n\u2022 D\xE9l\xE9gation syst\xE9matique aux m\xEAmes
+      t\xE2ches (passer la serpilli\xE8re, nettoyage) \n<indent=5%>seulement \xE0
+      certains employ\xE9s"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
@@ -592,7 +592,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2620348922810368
     m_Localized: "<b>Conclusion\n\nDans ton r\xF4le, tu as les responsabilit\xE9s
-      suivantes\_</b>"
+      suivantes\_:</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620484646293504
@@ -785,7 +785,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7333489694953472
-    m_Localized: ' '
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 7603158175666176

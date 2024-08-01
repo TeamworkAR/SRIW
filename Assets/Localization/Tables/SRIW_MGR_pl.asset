@@ -20,7 +20,7 @@ MonoBehaviour:
   m_TableData:
   - m_Id: 58963357696
     m_Localized: "<b>W McDonald\u2019s promujemy i dbamy o bezpieczne, pe\u0142ne
-      szacunku i otwarto\u015Bci miejsce pracy dla wszystkich pracownik\xF3w poprzez</b>"
+      szacunku i otwarto\u015Bci miejsce pracy dla wszystkich pracownik\xF3w poprzez:</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 32415523106816
@@ -67,7 +67,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2592417236340736
     m_Localized: "<b>Mened\u017Cerowie ponosz\u0105 odpowiedzialno\u015B\u0107, je\u015Bli
-      chodzi o bycie wzorem do na\u015Bladowania, co obejmuje</b>"
+      chodzi o bycie wzorem do na\u015Bladowania, co obejmuje:</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 2592760418488320
@@ -245,8 +245,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2613610907652096
-    m_Localized: "<b>Przyk\u0142ady dzia\u0142a\u0144 odwetowych lub wiktymizacji</b>\n\n\u2022<indent=5%>Rozwi\u0105zanie
-      stosunku pracy</indent>\n\u2022<indent=5%>Degradacja\_</indent>\n\u2022<indent=5%>S\u0142aba
+    m_Localized: "<b>Przyk\u0142ady dzia\u0142a\u0144 odwetowych lub wiktymizacji:</b>\n\n\u2022<indent=5%>Rozwi\u0105zanie
+      stosunku pracy</indent>\_\n\u2022<indent=5%>Degradacja\_</indent>\_\n\u2022<indent=5%>S\u0142aba
       ocena w ramach Okresowej Oceny Jako\u015Bci Pracy </indent>\n\u2022<indent=5%>Zmiana
       godzin pracy</indent>\n\u2022<indent=5%>Wykluczenie z zespo\u0142u, wydarze\u0144,
       spotka\u0144\_</indent>\n\u2022<indent=5%>Niepo\u017C\u0105dane zadania\_\_</indent>"
@@ -384,22 +384,22 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617762022903808
-    m_Localized: "<b>B\u0105d\u017A bezpo\u015Bredni</b> \nZidentyfikuj w\u0142a\u015Bciwe
+    m_Localized: "<b>B\u0105d\u017A bezpo\u015Bredni:</b> \nZidentyfikuj w\u0142a\u015Bciwe
       dzia\u0142anie lub zachowanie.\_"
     m_Metadata:
       m_Items: []
   - m_Id: 2617816230088704
-    m_Localized: "<b>Przekierowanie:</b> \nPorusz nowy temat, by przekierowa\u0107
-      rozmow\u0119 na inne tory."
+    m_Localized: "<b>Przekieruj rozmow\u0119 na inny temat:</b> \nZacznij nowy temat
+      i\_przekieruj na niego rozmow\u0119."
     m_Metadata:
       m_Items: []
   - m_Id: 2617852200439808
-    m_Localized: "<b>Op\xF3\u017Anij reakcj\u0119</b>\nWr\xF3\u0107 do problematycznego
+    m_Localized: "<b>Op\xF3\u017Anij reakcj\u0119:</b>\nWr\xF3\u0107 do problematycznego
       zachowania w\_bardziej neutralnym czasie."
     m_Metadata:
       m_Items: []
   - m_Id: 2617899503800320
-    m_Localized: "<b>Poszukaj pomocy</b>\nJako mened\u017Cer mo\u017Cesz szuka\u0107
+    m_Localized: "<b>Poszukaj pomocy:</b>\nJako mened\u017Cer mo\u017Cesz szuka\u0107
       wskaz\xF3wek.\_"
     m_Metadata:
       m_Items: []
@@ -597,12 +597,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "Przyk\u0142ady nadu\u017Cycia w\u0142adzy:\n\n<b>Zagro\u017Cenia</b>\n\n\u2022
-      Rozwi\u0105zanie stosunku pracy\n\u2022 Degradacja\_\n\u2022 S\u0142aba ocena
-      w ramach Okresowej Oceny Jako\u015Bci Pracy\_\n\u2022 Zmiana godzin pracy\n\u2022
-      Wykluczenie z zespo\u0142u, wydarze\u0144, spotka\u0144\n\u2022 Niepo\u017C\u0105dane
-      zadania\n\u2022 Delegowanie tych samych zada\u0144 (zmywanie pod\u0142\xF3g,
-      sprz\u0105tanie) \n<indent=5%>tylko niekt\xF3rym pracownikom"
+    m_Localized: "<b>Zagro\u017Cenia</b>\n\n\u2022 Rozwi\u0105zanie stosunku pracy\n\u2022
+      Degradacja\_\n\u2022 S\u0142aba ocena w ramach Okresowej Oceny Jako\u015Bci
+      Pracy\_\n\u2022 Zmiana godzin pracy\n\u2022 Wykluczenie z zespo\u0142u, wydarze\u0144,
+      spotka\u0144\n\u2022 Niepo\u017C\u0105dane zadania\n\u2022 Delegowanie tych
+      samych zada\u0144 (zmywanie pod\u0142\xF3g, sprz\u0105tanie) \n<indent=5%>tylko
+      niekt\xF3rym pracownikom"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
@@ -612,7 +612,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620348922810368
-    m_Localized: "<b>Podsumowanie\n\nTwoje obowi\u0105zki w tej roli</b>"
+    m_Localized: "<b>Podsumowanie\n\nTwoje obowi\u0105zki w tej roli:</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620484646293504
@@ -807,7 +807,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7333489694953472
-    m_Localized: ' '
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 7603158175666176

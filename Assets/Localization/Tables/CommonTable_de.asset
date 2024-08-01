@@ -19,7 +19,7 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 6208095019008
-    m_Localized: "Szenario wird geladen\_..."
+    m_Localized: "Das Szenario wird geladen\_..."
     m_Metadata:
       m_Items: []
   - m_Id: 14475026259968
@@ -123,7 +123,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 305594607886336
-    m_Localized: "Wie k\xF6nnte man {0} sich f\xFChlen?"
+    m_Localized: "Wie k\xF6nnte {0} sich f\xFChlen?"
     m_Metadata:
       m_Items: []
   - m_Id: 305854730231808
@@ -132,11 +132,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 306062570577920
-    m_Localized: '{0}Gedanken'
+    m_Localized: '{0}''s Gedanken'
     m_Metadata:
       m_Items: []
   - m_Id: 307880474206208
-    m_Localized: "Was sollte man{0} als N\xE4chstes tun?"
+    m_Localized: "Was sollte {0} als N\xE4chstes tun?"
     m_Metadata:
       m_Items: []
   - m_Id: 308115871129600
@@ -148,7 +148,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 308574623129600
-    m_Localized: Warum sollten wir {0} das tun?
+    m_Localized: Warum sollte {0} das tun?
     m_Metadata:
       m_Items: []
   - m_Id: 4962361918963712
@@ -156,7 +156,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7604280591466496
-    m_Localized: Du hast die Gedanken von {0} erfasst. Du findest sie im Notizbuch.
+    m_Localized: Du hast die Gedanken von {0} erfasst.  Du findest sie im Notizbuch.
     m_Metadata:
       m_Items: []
   - m_Id: 7607020013043712
@@ -168,7 +168,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7885533161013248
-    m_Localized: "\xC4u\xDFere dich offen"
+    m_Localized: "\xC4ussere dich offen"
     m_Metadata:
       m_Items: []
   - m_Id: 7885667890446336
@@ -192,11 +192,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22352422563782656
-    m_Localized: "Ma\xDFnahme\_A"
+    m_Localized: "Massnahme\_A"
     m_Metadata:
       m_Items: []
   - m_Id: 22352543686893568
-    m_Localized: "Ma\xDFnahme\_B"
+    m_Localized: "Massnahme\_B"
     m_Metadata:
       m_Items: []
   - m_Id: 22352583197237248
@@ -313,7 +313,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 45314184118788096
-    m_Localized: "Cluebook schlie\xDFen"
+    m_Localized: Hinweisbuch schliessen
     m_Metadata:
       m_Items: []
   - m_Id: 45377977502916608
@@ -342,7 +342,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46123565072769024
-    m_Localized: "Deaktivierte Zug\xE4nglichkeit."
+    m_Localized: Zugriff deaktiviert
     m_Metadata:
       m_Items: []
   - m_Id: 46124492450160640
