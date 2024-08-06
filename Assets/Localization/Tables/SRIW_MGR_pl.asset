@@ -120,8 +120,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2609684217024512
-    m_Localized: "Odwr\xF3\u0107 karty, aby uzyska\u0107 wi\u0119cej kontekstu, a
-      nast\u0119pnie wybierz wszystkie, kt\xF3re maj\u0105 zastosowanie."
+    m_Localized: "Wybierz wszystkie karty, kt\xF3re maj\u0105 zastosowanie."
     m_Metadata:
       m_Items: []
   - m_Id: 2610809649451008
@@ -389,8 +388,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617816230088704
-    m_Localized: "<b>Przekieruj rozmow\u0119 na inny temat:</b> \nZacznij nowy temat
-      i\_przekieruj na niego rozmow\u0119."
+    m_Localized: "<b>Przekierowanie:</b> Porusz nowy temat, by przekierowa\u0107
+      rozmow\u0119 na inne tory."
     m_Metadata:
       m_Items: []
   - m_Id: 2617852200439808
@@ -601,8 +600,8 @@ MonoBehaviour:
       Degradacja\_\n\u2022 S\u0142aba ocena w ramach Okresowej Oceny Jako\u015Bci
       Pracy\_\n\u2022 Zmiana godzin pracy\n\u2022 Wykluczenie z zespo\u0142u, wydarze\u0144,
       spotka\u0144\n\u2022 Niepo\u017C\u0105dane zadania\n\u2022 Delegowanie tych
-      samych zada\u0144 (zmywanie pod\u0142\xF3g, sprz\u0105tanie) \n<indent=5%>tylko
-      niekt\xF3rym pracownikom"
+      samych zada\u0144 (zmywanie pod\u0142\xF3g, sprz\u0105tanie) tylko niekt\xF3rym
+      pracownikom"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
@@ -807,7 +806,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7333489694953472
-    m_Localized: 
+    m_Localized: '  '
     m_Metadata:
       m_Items: []
   - m_Id: 7603158175666176

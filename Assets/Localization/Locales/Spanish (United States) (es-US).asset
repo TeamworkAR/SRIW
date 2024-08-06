@@ -15,16 +15,11 @@ MonoBehaviour:
   m_Identifier:
     m_Code: es-US
   m_Metadata:
-    m_Items:
-    - rid: 6753186639236562944
+    m_Items: []
   m_LocaleName: Spanish (United States) (es-US)
   m_CustomFormatCultureCode: 
   m_UseCustomFormatter: 0
   m_SortOrder: 10
   references:
     version: 2
-    RefIds:
-    - rid: 6753186639236562944
-      type: {class: FallbackLocale, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_Locale: {fileID: 11400000, guid: 548ecdb4ddac6c44d8b387e860232ae7, type: 2}
+    RefIds: []

@@ -117,8 +117,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2609684217024512
-    m_Localized: Draai de kaarten om voor meer context en selecteer vervolgens alles
-      wat van toepassing is.
+    m_Localized: Selecteer alle toepasselijke kaarten.
     m_Metadata:
       m_Items: []
   - m_Id: 2610809649451008
@@ -373,8 +372,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617816230088704
-    m_Localized: "<b>Stuur het gesprek bij:</b> \nBreng een nieuw onderwerp ter sprake
-      en leid het gesprek om."
+    m_Localized: <b>Buig om:</b> Praat over een ander onderwerp en buig zo het gesprek
+      om.
     m_Metadata:
       m_Items: []
   - m_Id: 2617852200439808
@@ -566,8 +565,8 @@ MonoBehaviour:
     m_Localized: "<b>Dreigementen</b>\n\n\u2022 Ontslag\n\u2022 Demotie\_\n\u2022
       Een slechte beoordeling van hun werk\_\n\u2022 Het wisselen van diensten\n\u2022
       Uitgesloten worden van teams, evenementen, vergaderingen\n\u2022 Ongewenste
-      taken\n\u2022 Delegeren van dezelfde taken (moppen, schoonmaken) \n<indent=5%>alleen
-      voor bepaalde werknemers"
+      taken\n\u2022 Delegeren van dezelfde taken (moppen, schoonmaken) alleen voor
+      bepaalde werknemers"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
@@ -774,7 +773,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7333489694953472
-    m_Localized: 
+    m_Localized: '  '
     m_Metadata:
       m_Items: []
   - m_Id: 7603158175666176

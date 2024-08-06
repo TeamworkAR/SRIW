@@ -114,7 +114,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2609684217024512
-    m_Localized: Flip the cards for more context, then select all that apply.
+    m_Localized: Select all the applicable cards.
     m_Metadata:
       m_Items: []
   - m_Id: 2610809649451008
@@ -547,7 +547,7 @@ MonoBehaviour:
     m_Localized: "<b>Threats</b>\n\n\u2022   Termination\n\u2022   Demotion\_\n\u2022  
       Poor Performance Review\_\n\u2022   Changing shifts\n\u2022   Excluding from
       teams, events, meetings\n\u2022   Undesirable tasks\n\u2022   Delegating the
-      same tasks (mopping, cleaning) \n<indent=5%>only to certain employees"
+      same tasks (mopping, cleaning) only to certain employees"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
@@ -745,7 +745,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7333489694953472
-    m_Localized: 
+    m_Localized: '  '
     m_Metadata:
       m_Items: []
   - m_Id: 7603158175666176
