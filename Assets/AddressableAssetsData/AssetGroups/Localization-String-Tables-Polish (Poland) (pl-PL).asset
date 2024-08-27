@@ -17,13 +17,6 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 3a08996776847784c90089e6accd65dd
   m_SerializeEntries:
-  - m_GUID: 7a107725d9a9fa847ac8cef93d4a50aa
-    m_Address: CommonTable_pl-PL
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-pl-PL
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 89816f0726fd66d4098fcfd553fd861e
     m_Address: Scenario1_Table_pl-PL
     m_ReadOnly: 1

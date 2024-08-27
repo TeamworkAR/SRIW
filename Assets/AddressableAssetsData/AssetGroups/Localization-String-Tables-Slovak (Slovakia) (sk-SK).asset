@@ -17,13 +17,6 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 5004c08d1f5b8364090e2bf3442a5b30
   m_SerializeEntries:
-  - m_GUID: 72b6774e4275bd8438cd115f6d5a59a4
-    m_Address: CommonTable_sk-SK
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-sk-SK
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4c4eb6606afe23541b02610a9dacbe5a
     m_Address: Scenario1_Table_sk-SK
     m_ReadOnly: 1

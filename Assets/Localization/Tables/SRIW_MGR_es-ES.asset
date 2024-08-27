@@ -557,16 +557,16 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2620149190053888
     m_Localized: "Ejemplos de abuso de autoridad:\n\n<b>Amenazas</b>\n\n\u2022  
-      Despido\n\u2022   Degradaci\xF3n\_\n\u2022 Revisi\xF3n de desempe\xF1o deficiente\_\n\u2022
-      Cambio de turnos\n\u2022 Excluir de equipos, eventos y reuniones\n\u2022 Tareas
-      no deseadas\n\u2022 Asignar las mismas tareas (fregar, limpiar) solo a ciertos
-      empleados"
+      Despido\n\u2022   Degradaci\xF3n\_\n\u2022   Revisi\xF3n de desempe\xF1o deficiente\_\n\u2022  
+      Cambio de turnos\n\u2022   Excluir de equipos, eventos y reuniones\n\u2022  
+      Tareas no deseadas\n\u2022   Asignar las mismas tareas (fregar, limpiar) solo
+      a ciertos empleados"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
-    m_Localized: "<b>Promesas</b>\n\n\u2022   Renovaci\xF3n del contrato\_\n\u2022
-      Promoci\xF3n\_\n\u2022   Evaluaci\xF3n de desempe\xF1o positiva\_\n\u2022 Horas
-      extras adicionales"
+    m_Localized: "<b>Promesas</b>\n\n\u2022   Renovaci\xF3n del contrato\_\n\u2022  
+      Promoci\xF3n\_\n\u2022   Evaluaci\xF3n de desempe\xF1o positiva\_\n\u2022  
+      Horas extras adicionales"
     m_Metadata:
       m_Items: []
   - m_Id: 2620348922810368
@@ -619,7 +619,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 4633439663648768
-    m_Localized: No prometas confidencialidad ni hagas promesas
+    m_Localized: No prometas confidencialidad ni hagas promesas.
     m_Metadata:
       m_Items: []
   - m_Id: 4633509599473664

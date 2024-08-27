@@ -24,13 +24,6 @@ MonoBehaviour:
     - Locale-fr-CA
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7b368edd1fe186044980a1b320c8a061
-    m_Address: CommonTable_fr-CA
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-fr-CA
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 23f0a74356cf3bc458513a9df14bad1a
     m_Address: Scenario2_Table_fr-CA
     m_ReadOnly: 1
