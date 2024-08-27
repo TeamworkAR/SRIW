@@ -1449,7 +1449,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 557381975349125514, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 759380992864694980, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
       propertyPath: disableFlip

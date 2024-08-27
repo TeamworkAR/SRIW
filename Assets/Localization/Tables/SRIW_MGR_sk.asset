@@ -55,7 +55,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 329567763787776
     m_Localized: "Pam\xE4t\xE1me na to, \u017Ee ka\u017Ed\xFD, najm\xE4 ved\xFAci
-      pracovn\xEDci, zohr\xE1vaj\xFA k\u013E\xFA\u010Dov\xFA \xFAlohu pri vytv\xE1ran\xED
+      pracovn\xEDci, zohr\xE1vaj\xFA k\u013E\xFA\u010Dov\xFA rolu pri vytv\xE1ran\xED
       re\u0161pektuj\xFAcej kult\xFAry"
     m_Metadata:
       m_Items: []
@@ -72,17 +72,17 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2592760418488320
-    m_Localized: "D\xE1vaj\xFA kladn\xFD pr\xEDklad t\xFDm, \u017Ee d\xE1vaj\xFA
-      pozor, aby ich po\u010D\xEDnanie vr\xE1tane rozhodnut\xED v zamestnan\xED a
-      spr\xE1vania sa na pracovisku nenieslo zn\xE1mky nevhodn\xE9ho spr\xE1vania,
-      ako je ob\u0165a\u017Eovanie (fyzick\xE9, psychick\xE9, sexu\xE1lne), diskrimin\xE1cia,
-      \u0161ikanovanie a odveta/viktimiz\xE1cia."
+    m_Localized: "Ukazuj\xFA pozit\xEDvny pr\xEDklad t\xFDm, \u017Ee d\xE1vaj\xFA
+      pozor, aby ich skutky a rozhodnutia v zamestnan\xED, vr\xE1tane spr\xE1vania
+      sa na pracovisku, neniesli zn\xE1mky nevhodnosti. To zah\u0155\u0148a napr\xEDklad
+      ob\u0165a\u017Eovanie (fyzick\xE9, psychick\xE9, sexu\xE1lne), diskrimin\xE1ciu,
+      \u0161ikanovanie alebo odvetu/viktimiz\xE1ciu."
     m_Metadata:
       m_Items: []
   - m_Id: 2593642577088512
-    m_Localized: "Podnikaj\xFA kroky na odstr\xE1nenie ak\xE9hoko\u013Evek nevhodn\xE9ho
-      spr\xE1vania, ako je ob\u0165a\u017Eovanie (fyzick\xE9, psychick\xE9, sexu\xE1lne),
-      diskrimin\xE1cia, \u0161ikanovanie a odveta/viktimiz\xE1cia."
+    m_Localized: "Podnikaj\xFA preto kroky na odstr\xE1\u0148enie ak\xE9hoko\u013Evek
+      nevhodn\xE9ho spr\xE1vania, ako je ob\u0165a\u017Eovanie (fyzick\xE9, psychick\xE9,
+      sexu\xE1lne), diskrimin\xE1cia, \u0161ikanovanie a odveta/viktimiz\xE1cia."
     m_Metadata:
       m_Items: []
   - m_Id: 2594270552477696
@@ -99,12 +99,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2595063053635584
-    m_Localized: "Spolupracujte so spr\xE1vnymi \u013Eu\u010Fmi na r\xFDchle a d\xF4kladn\xE9
+    m_Localized: "Spolupr\xE1ce so spr\xE1vnymi \u013Eudmi na r\xFDchle a d\xF4kladn\xE9
       vy\u0161etrenie obvinen\xED."
     m_Metadata:
       m_Items: []
   - m_Id: 2595208877002752
-    m_Localized: "Zabezpe\u010Dte, aby ste vy a \u010Dlenovia v\xE1\u0161ho t\xEDmu
+    m_Localized: "Zabezpe\u010Denia, aby ste vy a \u010Dlenovia v\xE1\u0161ho t\xEDmu
       vedeli, ako a kde sa ozva\u0165, ak za\u017Eij\xFA alebo rozpoznaj\xFA nevhodn\xE9
       spr\xE1vanie."
     m_Metadata:
@@ -140,8 +140,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2611299066007552
-    m_Localized: "Mlad\xFD zamestnanec v\xE1m povedal, \u017Ee dod\xE1vate\u013E
-      na nich \u017Emurkol a c\xEDtili sa nepr\xEDjemne.\n\nJe nasleduj\xFAca odpove\u010F
+    m_Localized: "Mlad\u0161\xED zamestnanec V\xE1m povedal, \u017Ee na neho \u017Emurkol
+      dod\xE1vate\u013E a c\xEDtil sa nepr\xEDjemne.\n\nJe nasleduj\xFAca odpove\u010F
       mana\u017E\xE9ra vhodn\xE1?"
     m_Metadata:
       m_Items: []
@@ -151,8 +151,8 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2611612242104320
     m_Localized: "\u201ETen dod\xE1vate\u013E \u017Emurk\xE1 na v\u0161etk\xFDch,
-      ale je ne\u0161kodn\xFD.\nAk urobia nie\u010Do v\xE1\u017Enej\u0161ie, v\u017Edy
-      n\xE1s m\xF4\u017Eete pr\xEDs\u0165 informova\u0165.\""
+      ale je ne\u0161kodn\xFD.\nAk sa stane nie\u010Do v\xE1\u017Ene, m\xF4\u017Ee\u0161
+      n\xE1m to v\u017Edy pr\xEDs\u0165 ozn\xE1mi\u0165.\""
     m_Metadata:
       m_Items: []
   - m_Id: 2611893193363456
@@ -168,14 +168,14 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2612287864786944
-    m_Localized: "\u010Co by ste mali urobi\u0165, ak v\xE1m zamestnanec povie, \u017Ee
-      bol svedkom nevhodn\xE9ho vyjadrovania zo strany hlavn\xE9ho ved\xFAceho vo\u010Di
+    m_Localized: "\u010Co by ste mali urobi\u0165, ak V\xE1m zamestnanec povie, \u017Ee
+      bol svedkom nevhodn\xE9ho spr\xE1vania zo strany ved\xFAceho zamestnanca vo\u010Di
       \u010Dlenom t\xEDmu?"
     m_Metadata:
       m_Items: []
   - m_Id: 2612453514629120
     m_Localized: "Po\u010Dka\u0165 a sledova\u0165, \u010Di sa tak\xE9to spr\xE1vanie
-      hlavn\xE9ho ved\xFAceho bude opakova\u0165."
+      ved\xFAceho zamestnanca bude opakova\u0165."
     m_Metadata:
       m_Items: []
   - m_Id: 2612574507716608
@@ -184,14 +184,14 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2612620355653632
-    m_Localized: "Poveda\u0165, \u017Ee spr\xE1vanie hlavn\xE9ho ved\xFAceho sa netoleruje,
+    m_Localized: "Poveda\u0165, \u017Ee spr\xE1vanie ved\xFAceho zamestnanca sa netoleruje,
       a nahl\xE1si\u0165 to."
     m_Metadata:
       m_Items: []
   - m_Id: 2612676479635456
     m_Localized: "Spr\xE1vne! Ako mana\u017E\xE9r m\xE1te mo\u017Enos\u0165 zastavi\u0165
       nevhodn\xE9 spr\xE1vanie. Ak\xE9ko\u013Evek nevhodn\xE9 spr\xE1vanie, a teda
-      aj spr\xE1vania hlavn\xE9ho ved\xFAceho, sa mus\xED nahl\xE1si\u0165 a bra\u0165
+      aj spr\xE1vania ved\xFAceho zamestnanca, sa mus\xED nahl\xE1si\u0165 a bra\u0165
       v\xE1\u017Ene."
     m_Metadata:
       m_Items: []
@@ -203,10 +203,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2612922806915072
-    m_Localized: "Zamestnanec sa v\xE1m s\u0165a\u017Euje, \u017Ee ho mana\u017E\xE9r
+    m_Localized: "Zamestnanec sa V\xE1m s\u0165a\u017Euje, \u017Ee ho mana\u017E\xE9r
       ob\u0165a\u017Eoval, preto\u017Ee sa druh\xFDkr\xE1t tento t\xFD\u017Ede\u0148
-      vr\xE1til neskoro z prest\xE1vky. Mana\u017E\xE9r ich vzal nabok, aby prediskutovali
-      probl\xE9m a z\xEDskali z\xE1v\xE4zok, \u017Ee bud\xFA dochv\xED\u013Eni.\n\_\nJe
+      vr\xE1til z prest\xE1vky neskoro. Mana\u017E\xE9r ho vzal bokom, aby prediskutovali
+      probl\xE9m a pri\u0161lo k z\xE1v\xE4zku, \u017Ee bude dochv\xEDlny.\n\_\nJe
       to ob\u0165a\u017Eovanie?"
     m_Metadata:
       m_Items: []
@@ -216,7 +216,7 @@ MonoBehaviour:
       ob\u0165a\u017Eovania. Mohlo by v\u0161ak \xEDs\u0165 o ob\u0165a\u017Eovanie,
       ak by sp\xE4tn\xE1 v\xE4zba bola doru\u010Den\xE1 n\xE1siln\xFDm, ubli\u017Euj\xFAcim,
       v\xFDhra\u017En\xFDm alebo zastra\u0161uj\xFAcim sp\xF4sobom. Ak si nie ste
-      ist\xED, mali by ste to nahl\xE1si\u0165 prostredn\xEDctvom spr\xE1vneho kan\xE1la."
+      ist\xFD, mali by ste to nahl\xE1si\u0165 prostredn\xEDctvom spr\xE1vneho kan\xE1la."
     m_Metadata:
       m_Items: []
   - m_Id: 2613344506433536
@@ -242,11 +242,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2613610907652096
-    m_Localized: "<b>Pr\xEDklady odplaty/viktimiz\xE1cie:</b>\n\n\u2022<indent=5%>Ukon\u010Denie</indent>\n\u2022<indent=5%>Prelo\u017Eenie
-      na ni\u017E\u0161iu poz\xEDciu\_</indent>\n\u2022<indent=5%>Slab\xE9 pracovn\xE9
-      hodnotenie \_\_</indent>\n\u2022<indent=5%>Prelo\u017Eenie na in\xFA zmenu</indent>\n\u2022<indent=5%>Vyl\xFA\u010Denie
-      z t\xEDmov, podujat\xED, stretnut\xED\_</indent>\n\u2022<indent=5%>Ne\u017Eiaduce
-      \xFAlohy\_\_</indent>"
+    m_Localized: "<b>Pr\xEDklady odplaty/viktimiz\xE1cie:</b>\n\n\u2022<indent=5%>Ukon\u010Denie
+      pracovn\xE9ho pomeru</indent>\n\u2022<indent=5%>Prelo\u017Eenie na ni\u017E\u0161iu
+      poz\xEDciu\_</indent>\n\u2022<indent=5%>Slab\xE9 pracovn\xE9 hodnotenie \_\_</indent>\n\u2022<indent=5%>Prelo\u017Eenie
+      na in\xFA zmenu</indent>\n\u2022<indent=5%>Vyl\xFA\u010Denie z t\xEDmov, podujat\xED,
+      stretnut\xED\_</indent>\n\u2022<indent=5%>Ne\u017Eiaduce \xFAlohy\_\_</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2613718365720576
@@ -267,7 +267,8 @@ MonoBehaviour:
       Miguela za nevhodn\xE9 spr\xE1vanie. Teraz sa s n\xEDm niektor\xED zo Samuelov\xFDch
       spolupracovn\xEDkov nerozpr\xE1vaj\xFA. Samuel ich konfrontoval s t\xFDm, pre\u010Do
       musel nahl\xE1si\u0165 Miguela, no jeho spolupracovn\xEDci ho st\xE1le ignoruj\xFA.\_\_\n\_\nKe\u010F
-      mana\u017E\xE9rka Anna spozoruje nap\xE4tie, sadne si so Samuelom na kus re\u010Di."
+      mana\u017E\xE9rka Anna spozoruje nap\xE4tie, sadne si so Samuelom, aby to spolo\u010Dne
+      prediskutovali."
     m_Metadata:
       m_Items: []
   - m_Id: 2614011002310656
@@ -316,7 +317,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2615178197422080
-    m_Localized: "Existuje mnoho d\xF4vodov, pre\u010Do \u013Eudia nemusia nahl\xE1si\u0165
+    m_Localized: "Existuje mnoho d\xF4vodov, pre\u010Do \u013Eudia nepodaj\xFA s\u0165a\u017Enos\u0165
       (napr\xEDklad strach, \u017Ee ich nahl\xE1senie nebude bran\xE9 v\xE1\u017Ene)."
     m_Metadata:
       m_Items: []
@@ -374,12 +375,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617762022903808
-    m_Localized: "<b>Bu\u010F priamy:</b> \nIdentifikujte spr\xE1vnu \u010Dinnos\u0165
+    m_Localized: "<b>Bu\u010Fte priamy:</b> \nIdentifikujte spr\xE1vnu \u010Dinnos\u0165
       alebo spr\xE1vanie.\_"
     m_Metadata:
       m_Items: []
   - m_Id: 2617816230088704
-    m_Localized: "<b>Presmerova\u0165:</b> \nZa\u010Da\u0165 nov\xFA t\xE9mu a nasmerova\u0165
+    m_Localized: "<b>Premostenie:</b> \nZa\u010Da\u0165 nov\xFA t\xE9mu a nasmerova\u0165
       konverz\xE1ciu in\xFDm smerom"
     m_Metadata:
       m_Items: []
@@ -400,9 +401,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2618062515425280
-    m_Localized: "Povedzte z\xE1kazn\xEDkom, \u017Ee \u201Eva\u0161e n\xE1v\u0161tevy
-      si v\xE1\u017Eime, ale chceme, aby ste vedeli, \u017Ee tu nem\xF4\u017Eeme
-      ma\u0165 nevhodn\xE9 v\xFDrazy.\u201C"
+    m_Localized: "Povedzte z\xE1kazn\xEDkom: \"Va\u0161ej n\xE1v\u0161tevy si v\xE1\u017Eime,
+      ale chceme, aby ste vedeli, \u017Ee tak\xE9to v\xFDrazy s\xFA tu nepr\xEDpustn\xE9.\""
     m_Metadata:
       m_Items: []
   - m_Id: 2618343659622400
@@ -461,7 +461,7 @@ MonoBehaviour:
     m_Localized: "\u2022  Pre mana\u017E\xE9rov m\xF4\u017Ee by\u0165 riskantn\xE9
       stret\xE1va\u0165 sa so zamestnancami mimo pracoviska. Stret\xE1vanie sa m\xF4\u017Ee
       by\u0165 spo\u010Diatku dobr\xE9, ale pr\xEDli\u0161n\xE1 d\xF4vernos\u0165
-      m\xE1 potenci\xE1l ovplyvni\u0165 v\xE1\u0161 \xFAsudok.\n\n\u2022 Ak sa k
+      m\xE1 potenci\xE1l ovplyvni\u0165 V\xE1\u0161 \xFAsudok.\n\n\u2022 Ak sa k
       \u013Eu\u010Fom spr\xE1vate odli\u0161ne, riskujete, \u017Ee vytvor\xEDte prostredie,
       ktor\xE9 m\xF4\u017Ee by\u0165 vn\xEDman\xE9 ako diskrimina\u010Dn\xE9. To
       m\xF4\u017Ee vytvori\u0165 nepriate\u013Esk\xE9 pracovn\xE9 prostredie pre
@@ -490,9 +490,9 @@ MonoBehaviour:
   - m_Id: 2619225725947904
     m_Localized: "\u2022 V\u017Edy si uvedomte, \u017Ee \u010Diny a slov\xE1, dokonca
       aj mimo pr\xE1ce, m\xF4\u017Eu nesk\xF4r ovplyvni\u0165 pracovn\xE9 prostredie.\n\n\u2022 
-      Pozrite si a prijmite z\xE1sady na va\u0161om pracovisku t\xFDkaj\xFAce sa
-      mana\u017E\xE9rov, ktor\xED sa stret\xE1vaj\xFA so zamestnancami mimo pr\xE1ce.\n\n\u2022
-      Zastavte sa a zamyslite sa predt\xFDm, ako sa budete st\xFDka\u0165 mimo pr\xE1ce
+      Pozrite si a prijmite z\xE1sady na pracovisku t\xFDkaj\xFAce sa mana\u017E\xE9rov,
+      ktor\xED sa stret\xE1vaj\xFA so zamestnancami mimo pr\xE1ce.\n\n\u2022 Zastavte
+      sa a zamyslite sa predt\xFDm, ako sa budete stret\xE1va\u0165 mimo pr\xE1ce
       s ostatn\xFDmi zamestnancami."
     m_Metadata:
       m_Items: []
@@ -522,7 +522,7 @@ MonoBehaviour:
     m_Localized: "Neuverej\u0148ujte ani nepodporujte \u017Eiadne pr\xEDspevky, ktor\xE9
       obsahuj\xFA diskrimina\u010Dn\xE9 pozn\xE1mky alebo obsah, ob\u0165a\u017Eovanie
       (fyzick\xE9, psychick\xE9, sexu\xE1lne), vyhr\xE1\u017Eky n\xE1sil\xEDm alebo
-      podobn\xE9 nevhodn\xE9 alebo nez\xE1konn\xE9 spr\xE1vanie."
+      in\xE9 nevhodn\xE9 \u010Di nez\xE1konn\xE9 spr\xE1vanie."
     m_Metadata:
       m_Items: []
   - m_Id: 2619636767739904
@@ -587,10 +587,11 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2620149190053888
     m_Localized: "Pr\xEDklady zneu\u017Eitia pr\xE1vomoci:\n\n<b>Hrozby</b>\n\n\u2022
-      Ukon\u010Denie\n\u2022 Degrad\xE1cia\_\n\u2022 Slab\xE9 pracovn\xE9 hodnotenie\_\n\u2022
-      Prelo\u017Eenie na in\xFA zmenu\n\u2022 Vyl\xFA\u010Denie z t\xEDmov, podujat\xED,
-      stretnut\xED\n\u2022 Ne\u017Eiaduce \xFAlohy\n\u2022 Delegovanie rovnak\xFDch
-      \xFAloh (um\xFDvanie, upratovanie) len niektor\xFDm zamestnancom"
+      Ukon\u010Denie pracovn\xE9ho pomeru\n\u2022 Degrad\xE1cia\_\n\u2022 Slab\xE9
+      pracovn\xE9 hodnotenie\_\n\u2022 Prelo\u017Eenie na in\xFA zmenu\n\u2022 Vyl\xFA\u010Denie
+      z t\xEDmov, podujat\xED, stretnut\xED\n\u2022 Ne\u017Eiaduce \xFAlohy\n\u2022
+      Delegovanie rovnak\xFDch \xFAloh (um\xFDvanie, upratovanie) len niektor\xFDm
+      zamestnancom"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
@@ -689,7 +690,7 @@ MonoBehaviour:
     m_Localized: "To, \u010Do hovor\xEDte alebo rob\xEDte, alebo \u010Do nie je povedan\xE9
       alebo uroben\xE9, m\xE1 \u010Dasto obrovsk\xE9 d\xF4sledky.\u202F\u202F\_\n\_\nUistite
       sa, \u017Ee sa dan\xE1 osoba nec\xEDti izolovan\xE1 od svojich spolupracovn\xEDkov
-      alebo oddelen\xE1 od svojich pracovn\xFDch pr\xEDle\u017Eitost\xED a povinnost\xED."
+      alebo od svojich pracovn\xFDch pr\xEDle\u017Eitost\xED a povinnost\xED."
     m_Metadata:
       m_Items: []
   - m_Id: 5377724755308544
@@ -717,7 +718,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5479531518693376
-    m_Localized: "<b>\u201EMus\xEDm v\xE1s upozorni\u0165, \u017Ee v\xE1\u0161 predch\xE1dzaj\xFAci
+    m_Localized: "<b>\u201EMus\xEDm V\xE1s upozorni\u0165, \u017Ee V\xE1\u0161 predch\xE1dzaj\xFAci
       koment\xE1r by mohol niekoho urazi\u0165 a nie je v s\xFAlade s na\u0161imi
       hodnotami.\u201C</b>"
     m_Metadata:
@@ -753,12 +754,12 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 6563320299212800
     m_Localized: "Pozri, vie\u0161, \u017Ee sa mi nep\xE1\u010Di, ako sa k tebe spr\xE1vaj\xFA,
-      ale bu\u010Fme\nrealisti. \u010Co si si myslel, \u017Ee sa stane? \nChystali
-      sa ti usporiada\u0165 p\xE1rty?"
+      ale bu\u010Fme\nrealisti. \u010Co si si myslel, \u017Ee sa stane? \n\u017De
+      ti usporiadaj\xFA p\xE1rty?"
     m_Metadata:
       m_Items: []
   - m_Id: 6563519709007872
-    m_Localized: "Pozri, ani mne sa t\xE1to situ\xE1cia nep\xE1\u010Di, ale nemal
+    m_Localized: "Pozri, ani mne sa t\xE1to situ\xE1cia nep\xE1\u010Di, ale nemala
       som na v\xFDber.\nVie\u0161, \u017Ee nem\xF4\u017Eem ani pomyslie\u0165 na
       napl\xE1novanie rozpisu Miguelovi \na\u017E do ukon\u010Denia vy\u0161etrovania.
       Ale \u010Do ma tr\xE1pi je,\n\u017Ee nikto sa nerozpr\xE1va, pr\xE1ca ide dolu
@@ -797,8 +798,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7603158175666176
-    m_Localized: "Va\u0161ou \xFAlohou ako l\xEDdra je udr\u017Eiava\u0165 \u0161tandardy
-      a bezpe\u010Dn\xE9 pracovn\xE9 prostredie. Neust\xE1le budete vyz\xFDvan\xED
+    m_Localized: "Va\u0161ou \xFAlohou ako l\xEDder je udr\u017Eiava\u0165 \u0161tandardy
+      a bezpe\u010Dn\xE9 pracovn\xE9 prostredie. Neust\xE1le budete vyz\xFDvan\xFD
       poskytova\u0165 kou\u010Ding a sp\xE4tn\xFA v\xE4zbu. Toto by sa malo v\u017Edy
       robi\u0165 spravodlivo a s re\u0161pektom."
     m_Metadata:

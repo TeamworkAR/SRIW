@@ -57,10 +57,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2592079758446592
-    m_Localized: "En tant que leaders d'autres personnes, vous avez un r\xF4le essentiel
-      dans la construction d'un milieu de travail s\xFBr, respectueux et inclusif.\n\nOn
-      s\u2019attend \xE0 ce que vous soyez un mod\xE8le pour votre \xE9quipe et que
-      vous meniez toujours par l\u2019exemple!"
+    m_Localized: "En tant que leaders, vous avez un r\xF4le essentiel dans la cr\xE9ation
+      d'un milieu de travail s\xFBr, respectueux et inclusif.\nOn s'attend \xE0 ce
+      que vous soyez un mod\xE8le pour votre \xE9quipe et que vous montriez toujours
+      l'exemple."
     m_Metadata:
       m_Items: []
   - m_Id: 2592417236340736
@@ -97,8 +97,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2595063053635584
-    m_Localized: "Collaborer avec les bonnes personnes pour enqu\xEAter rapidement
-      et en profondeur sur les all\xE9gations."
+    m_Localized: "Collaborer avec les bonnes personnes pour mener rapidement une
+      enqu\xEAte approfondie sur les all\xE9gations."
     m_Metadata:
       m_Items: []
   - m_Id: 2595208877002752
@@ -124,20 +124,20 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2610878549282816
-    m_Localized: "Prenez la plainte au s\xE9rieux."
+    m_Localized: "Prendre la plainte au s\xE9rieux."
     m_Metadata:
       m_Items: []
   - m_Id: 2610915408826368
-    m_Localized: "\xC9coutez, mais ne prenez pas parti et ne tirez pas de conclusions."
+    m_Localized: "\xC9couter, mais ne pas prendre parti et ne pas tirer de conclusions."
     m_Metadata:
       m_Items: []
   - m_Id: 2610968991059968
-    m_Localized: Expliquez que quelqu'un va assurer un suivi.
+    m_Localized: Expliquer que quelqu'un va assurer un suivi.
     m_Metadata:
       m_Items: []
   - m_Id: 2611299066007552
     m_Localized: "Un jeune employ\xE9 vous a dit qu'un fournisseur lui avait fait
-      un clin d'\u0153il et que cela l'avait mise mal \xE0 l'aise.\n\nLa r\xE9ponse
+      un clin d'\u0153il et que cela l'avait mis mal \xE0 l'aise.\n\nLa r\xE9ponse
       suivante d'un g\xE9rant est-elle appropri\xE9e?"
     m_Metadata:
       m_Items: []
@@ -166,22 +166,22 @@ MonoBehaviour:
   - m_Id: 2612287864786944
     m_Localized: "Que devriez-vous faire si un employ\xE9 vous dit qu'il a \xE9t\xE9
       t\xE9moin d'un langage inappropri\xE9 de la part d'un leader haut plac\xE9
-      \xE0 envers des \xE9quipiers?"
+      envers des \xE9quipiers?"
     m_Metadata:
       m_Items: []
   - m_Id: 2612453514629120
-    m_Localized: "Attendez d\u2019observer si le comportement du leader haut plac\xE9
+    m_Localized: "Attendre d\u2019observer si le comportement du leader haut plac\xE9
       se reproduit."
     m_Metadata:
       m_Items: []
   - m_Id: 2612574507716608
-    m_Localized: "Expliquez aux \xE9quipiers que cela peut arriver parfois et que
+    m_Localized: "Expliquer aux \xE9quipiers que cela peut arriver parfois et que
       ce n'est pas grave."
     m_Metadata:
       m_Items: []
   - m_Id: 2612620355653632
-    m_Localized: "Dites que le comportement du haut dirigeant n\u2019est pas tol\xE9r\xE9
-      et signalez-le."
+    m_Localized: "Dire que le comportement du haut dirigeant n\u2019est pas tol\xE9r\xE9
+      et le signaler."
     m_Metadata:
       m_Items: []
   - m_Id: 2612676479635456
@@ -229,9 +229,9 @@ MonoBehaviour:
   - m_Id: 2613561855266816
     m_Localized: "Des repr\xE9sailles ou de la victimisation se produisent lorsqu'une
       personne est punie ou subit des mesures d'emploi ou individuelles n\xE9gatives
-      parce qu'elle a l'intention de ou qu'elle a d\xE9pos\xE9 une plainte, ou encore
-      qu'elle est concern\xE9e par une plainte (comme en tant que t\xE9moin) au sujet
-      d'un comportement en milieu de travail tel que le harc\xE8lement (physique,
+      parce qu'elle a l'intention de d\xE9poser de d\xE9poser une plainte, de l'avoir
+      fait, ou d'\xEAtre impliqu\xE9e dans une plainte (comme en tant que t\xE9moin)
+      au sujet d'un comportement en milieu de travail tel que le harc\xE8lement (physique,
       psychologique ou sexuel), la discrimination, l'intimidation, les repr\xE9sailles
       ou la victimisation."
     m_Metadata:
@@ -261,8 +261,8 @@ MonoBehaviour:
   - m_Id: 2613934519177216
     m_Localized: "Dans le sc\xE9nario suivant, Samuel a port\xE9 plainte contre son
       coll\xE8gue Miguel pour comportement inappropri\xE9. Maintenant, certains des
-      coll\xE8gues de Samuel ne lui parlent pas. Samuel les a confront\xE9s \xE0
-      la raison pour laquelle il a d\xFB signaler Miguel, mais ses coll\xE8gues l\u2019ignorent
+      coll\xE8gues de Samuel ne lui parlent pas. Samuel les a confront\xE9s sur la
+      raison pour laquelle il a d\xFB signaler Miguel, mais ses coll\xE8gues l\u2019ignorent
       toujours.\_\_\n\_\nApr\xE8s avoir remarqu\xE9 la tension, Anna, la g\xE9rante,
       s'assoit pour discuter avec Samuel."
     m_Metadata:
@@ -371,7 +371,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617762022903808
-    m_Localized: "<b>\xCAtre direct\_:</b> \nD\xE9terminez la bonne mesure \xE0 prendre
+    m_Localized: "<b>\xCAtre direct\_:</b> \nD\xE9terminer la bonne mesure \xE0 prendre
       ou le bon comportement \xE0 adopter.\_"
     m_Metadata:
       m_Items: []
@@ -380,7 +380,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617852200439808
-    m_Localized: "<b>Retarder\_:</b>\nG\xE9rez le comportement ou le malaise \xE0
+    m_Localized: "<b>Retarder\_:</b>\nG\xE9rer le comportement ou le malaise \xE0
       un moment plus neutre."
     m_Metadata:
       m_Items: []
@@ -397,8 +397,8 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2618062515425280
     m_Localized: "Dire aux clients\_: \xAB\_Nous sommes heureux de votre visite,
-      mais tenons \xE0 vous informer que nous ne pouvons accepter de langage inappropri\xE9
-      ici.\_\xBB"
+      mais tenons \xE0 vous informer que nous ne pouvons pas accepter de langage
+      inappropri\xE9 ici.\_\xBB"
     m_Metadata:
       m_Items: []
   - m_Id: 2618343659622400
@@ -412,7 +412,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2618432058773504
-    m_Localized: "Attendez de mentionner ce que vous avez observ\xE9 jusqu\u2019\xE0
+    m_Localized: "Attendre de mentionner ce que vous avez observ\xE9 jusqu\u2019\xE0
       ce que ce soit plus pratique."
     m_Metadata:
       m_Items: []
@@ -649,11 +649,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 4633509599473664
-    m_Localized: "Signalez imm\xE9diatement, cherchez conseil et soyez discret."
+    m_Localized: "Signaler imm\xE9diatement, chercher conseil et \xEAtre discret."
     m_Metadata:
       m_Items: []
   - m_Id: 4633596132159488
-    m_Localized: Offrez votre opinion sur la situation pour montrer de l'empathie.
+    m_Localized: Offrir son opinion sur la situation pour montrer de l'empathie.
     m_Metadata:
       m_Items: []
   - m_Id: 4633979759980544
@@ -680,7 +680,7 @@ MonoBehaviour:
   - m_Id: 5044474736373760
     m_Localized: "Ce que vous dites ou faites, ou ce qui n'est pas dit ou fait, a
       souvent d'\xE9normes implications.\u202F\u202F\_\n\_\nAssurez-vous que la personne
-      ne se sent pas isol\xE9e de ses coll\xE8gues ou s\xE9par\xE9e de ses occasions
+      ne se sente pas isol\xE9e de ses coll\xE8gues ou s\xE9par\xE9e de ses opportunit\xE9s
       de travail et de ses responsabilit\xE9s."
     m_Metadata:
       m_Items: []
@@ -743,7 +743,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 6563320299212800
-    m_Localized: "Regarde, tu sais que je n'aime pas la fa\xE7on dont ils vous traitent,
+    m_Localized: "Regarde, tu sais que je n'aime pas la fa\xE7on dont ils te traitent,
       mais\nsoyons honn\xEAtes, que pensais-tu qu'il allait se passer? \nQu'ils allaient
       t'organiser une f\xEAte?"
     m_Metadata:
@@ -802,7 +802,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8376570875695104
-    m_Localized: "Sugg\xE9rez \xE0 la personne d'attendre quelques jours pour voir
+    m_Localized: "Sugg\xE9rer \xE0 la personne d'attendre quelques jours pour voir
       si le probl\xE8me se r\xE9sout de lui-m\xEAme."
     m_Metadata:
       m_Items: []

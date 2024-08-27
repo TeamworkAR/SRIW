@@ -12,4 +12,11 @@ public class ForceLayoutUpdate : MonoBehaviour
         layoutGroup.gameObject.SetActive(true);
         LayoutRebuilder.ForceRebuildLayoutImmediate(layoutGroup);
     }
+
+    private void OnEnable()
+    {
+        canvas.enabled = true;
+        layoutGroup.gameObject.SetActive(true);
+        LayoutRebuilder.ForceRebuildLayoutImmediate(layoutGroup);
+    }
 }

@@ -76,9 +76,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2593642577088512
-    m_Localized: "Massnahmen zur Beseitigung aller unangemessenen Verhaltensweisen
-      wie Bel\xE4stigung (physisch, psychisch, sexuell), Diskriminierung, Mobbing
-      und Vergeltung/Schikane."
+    m_Localized: "Massnahmen zu ergreifen, die zur Beseitigung aller unangemessenen
+      Verhaltensweisen wie Bel\xE4stigung (physisch, psychisch, sexuell), Diskriminierung,
+      Mobbing und Vergeltung / Schikane dienen."
     m_Metadata:
       m_Items: []
   - m_Id: 2594270552477696
@@ -113,7 +113,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2609684217024512
-    m_Localized: "W\xE4hlt alle Karten aus, die zutreffen."
+    m_Localized: "W\xE4hle alle Karten aus, die zutreffen."
     m_Metadata:
       m_Items: []
   - m_Id: 2610809649451008
@@ -162,23 +162,23 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2612287864786944
     m_Localized: "Was solltest du tun, wenn Mitarbeiter dir mitteilen, dass sie Zeuge
-      unangemessener \xC4usserungen eines Senior Leaders gegen\xFCber Crew-Mitarbeitenden
-      wurden?"
+      unangemessener \xC4usserungen eines leitende F\xFChrungskraft gegen\xFCber
+      Crew-Mitarbeiter wurden?"
     m_Metadata:
       m_Items: []
   - m_Id: 2612453514629120
-    m_Localized: Warte ab, und beobachte, ob sich das Verhalten des Senior Leaders
-      wiederholt.
+    m_Localized: "Warte ab, und beobachte, ob sich das Verhalten des leitende F\xFChrungskraft
+      wiederholt."
     m_Metadata:
       m_Items: []
   - m_Id: 2612574507716608
-    m_Localized: "Erkl\xE4re den Mitarbeitenden, dass so etwas manchmal vorkommt
-      und keine grosse Sache ist."
+    m_Localized: "Erkl\xE4re den Mitarbeiter, dass so etwas manchmal vorkommt und
+      keine grosse Sache ist."
     m_Metadata:
       m_Items: []
   - m_Id: 2612620355653632
-    m_Localized: "Erkl\xE4re, dass das Verhalten des Senior Leaders nicht toleriert
-      wird und melde es."
+    m_Localized: "Erkl\xE4re, dass das Verhalten des leitende F\xFChrungskraft nicht
+      toleriert wird und melde es."
     m_Metadata:
       m_Items: []
   - m_Id: 2612676479635456
@@ -202,12 +202,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2613051878232064
-    m_Localized: "Richtig! Die Erwartungen von McDonald's zu erl\xE4utern und ein
-      Problem mit einem Mitarbeiter im Einzelgespr\xE4ch zu erl\xE4utern, ist keine
-      Form der Schikane. Allerdings k\xF6nnte es sich um eine Schikane handeln, wenn
-      das Feedback in einer eindringlichen, verletzenden, bedrohlichen oder einsch\xFCchternden
-      Weise gegeben wurde. Wenn du dir unsicher bist, solltest du das \xFCber den
-      richtigen Weg melden."
+    m_Localized: "Richtig! Die Erwartung von McDonald's, ein Problem mit einem Mitarbeiter
+      in einem Einzelgespr\xE4ch zu erl\xE4utern, ist keine Form der Schikane. Allerdings
+      k\xF6nnte es sich um eine Schikane handeln, wenn das Feedback in einer eindringlichen,
+      verletzenden, bedrohlichen oder einsch\xFCchternden Weise gegeben wurde. Wenn
+      du dir unsicher bist, solltest du das \xFCber den richtigen Weg melden."
     m_Metadata:
       m_Items: []
   - m_Id: 2613344506433536
@@ -232,9 +231,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2613610907652096
-    m_Localized: "<b>Beispiele f\xFCr Vergeltung/Schikane:</b>\n\n\u2022<indent=5%>K\xFCndigung</indent>\_\n-<indent=5%>Herabstufung\_</indent>\_\n\u2022<indent=5%>Schlechte
-      Leistungsbeurteilung\_\_</indent>\n-<indent=5%>Schichten wechseln</indent>\n\u2022<indent=5%>Ausschluss
-      von Teams, Veranstaltungen, Meetings</indent>\n\u2022<indent=5%>Unerw\xFCnschte
+    m_Localized: "<b>Beispiele f\xFCr Vergeltung/Schikane:</b>\n\n\u2022<indent=5%>K\xFCndigung</indent>\_\n\u2022<indent=5%>Herabstufung\_</indent>\_\n\u2022<indent=5%>Schlechte
+      Leistungsbeurteilung\_\_</indent>\n\u2022<indent=5%>Schichten wechseln</indent>\n\u2022<indent=5%>Ausschluss
+      vom Team, Veranstaltungen, Meetings</indent>\n\u2022<indent=5%>Unerw\xFCnschte
       Aufgaben\_\_</indent>"
     m_Metadata:
       m_Items: []
@@ -253,7 +252,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2613934519177216
     m_Localized: "Im folgenden Szenario meldet Samuel seinen Kollegen Miguel wegen
-      unangemessenen Verhalten. Nun sprechen einige von Samuels Kollegen nicht mit
+      unangemessenen Verhaltens. Nun sprechen einige von Samuels Kollegen nicht mit
       ihm. Samuel hat seinen Kollegen erkl\xE4rt, warum er Miguel melden musste,
       aber sie ignorieren ihn immer noch.\_\_\n\_\nAls Anna, die Managerin, die Anspannung
       bemerkt, setzt sie sich zu einem Gespr\xE4ch mit Samuel zusammen."
@@ -424,7 +423,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2618729158103040
     m_Localized: "Sich zu Wort zu melden, entspricht unseren Werten:\n\n\u2022<indent=5%>Menschen
-      werden dadurch an die erste Stelle gestellt</indent>\n\u2022<indent=5%>Schafft
+      werden dadurch an erste Stelle gestellt</indent>\n\u2022<indent=5%>Schafft
       Inklusion</indent>\n\u2022<indent=5%>Unsere Gemeinschaft/McFamily wird gest\xE4rkt</indent>\n\nEs
       ist die richtige Verhaltensweise."
     m_Metadata:
@@ -530,13 +529,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619884999233536
-    m_Localized: "\u2022 Ein Beispiel f\xFCr den Missbrauch von Autorit\xE4t ist
-      ein Fehlverhalten, bei dem eine Person mit Autorit\xE4t (z. B. als Manager:in,
-      Vorgesetzte:r oder eine andere Person mit F\xFChrungskompetenz) Versprechungen
-      macht, berufliche Vorteile verweigert oder dies androht oder Entscheidungen
-      im Austausch f\xFCr sexuelle Gef\xE4lligkeiten trifft.\n\n\u2022 Solche Verhaltensweisen
-      verletzen unsere Werte und f\xFCgen allen Beteiligten unglaublichen Schaden
-      zu."
+    m_Localized: "\u2022 Ein Beispiel f\xFCr den Missbrauch vn Autorit\xE4t ist ein
+      Fehlverhalten, bei dem eine Person mit Autorit\xE4t (z. B. Manager, Vorgesetzter
+      oder eine andere Person mit F\xFChrungskompetenz) Versprechungen macht, berufliche
+      Vorteile verweigert oder dies androht oder Entscheidungen im Austausch f\xFCr
+      sexuelle Gef\xE4lligkeiten trifft.\n\n\u2022 Solche Verhaltensweisen verletzen
+      unsere Werte und f\xFCgen allen Beteiligten unglaublichen Schaden zu."
     m_Metadata:
       m_Items: []
   - m_Id: 2619924635406336
@@ -571,7 +569,7 @@ MonoBehaviour:
   - m_Id: 2620149190053888
     m_Localized: "<b>Bedrohungen</b>\n\n\u2022 K\xFCndigung\n\u2022 Herabstufung\_\n\u2022
       Schlechte Leistungsbeurteilung\_\n\u2022 Schichten wechseln\n\u2022 Ausschluss
-      von Teams, Veranstaltungen, Treffen\n\u2022 Unerw\xFCnschte Aufgaben\n\u2022
+      vom Team, Veranstaltungen, Meetings\n\u2022 Unerw\xFCnschte Aufgaben\n\u2022
       Delegieren der gleichen Aufgaben (Wischen, Putzen) nur an bestimmte Mitarbeiter"
     m_Metadata:
       m_Items: []
@@ -598,8 +596,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620555144155136
-    m_Localized: "\u2022 <indent=5%>Unterst\xFCtze deine Mitarbeiter dabei dich zu
-      \xE4ussern, wenn du unangemessenes Verhalten siehst oder erlebst.</indent>"
+    m_Localized: "\u2022 <indent=5%>Unterst\xFCtze deine Mitarbeiter dabei sich zu
+      \xE4ussern, wenn sie unangemessenes Verhalten sehen oder erleben.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620572621819904
@@ -694,19 +692,19 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5479429462888448
-    m_Localized: "<b>\u201EDiese Art von Kommentaren k\xF6nnte jemanden beleidigen
-      und sie sind hier unangebracht.\u201C Kommen wir zur\xFCck zum Thema.\u201C</b>"
+    m_Localized: "<b>\"Diese Art von Kommentaren k\xF6nnte jemanden beleidigen und
+      sie sind hier unangebracht.\u201C Kommen wir zur\xFCck zum Thema.\u201C</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 5479531518693376
     m_Localized: "<b>\"Ich muss dich darauf hinweisen, dass die Bemerkung, die du
       vorhin gemacht hast, jemanden beleidigen k\xF6nnte und nicht mit unseren Werten
-      \xFCbereinstimmt.</b>"
+      \xFCbereinstimmt.\"</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 5479641749196800
-    m_Localized: "<b>\u201EIch brauche Rat dazu, wie ich mit etwas umgehen soll,
-      das heute passiert ist.\u201C</b>"
+    m_Localized: "<b>\"Ich brauche Rat dazu, wie ich mit etwas umgehen soll, das
+      heute passiert ist.\u201C</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 5727196316266496
@@ -774,18 +772,18 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7333489694953472
-    m_Localized: '  '
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 7603158175666176
-    m_Localized: "Als F\xFChrungskraft ist es deine Aufgabe, f\xFCr die Einhaltung
-      von Standards und ein sicheres Arbeitsumfeld zu sorgen. Du wirst st\xE4ndig
+    m_Localized: "Als F\xFChrungskraft ist es deine Aufgabe, auf die Einhaltung der
+      Standards zu achten und ein sicheres Arbeitsumfeld zu schaffen. Du wirst st\xE4ndig
       Coaching und Feedback geben m\xFCssen. Dies sollte stets auf faire und respektvolle
       Weise geschehen."
     m_Metadata:
       m_Items: []
   - m_Id: 8375492478193664
-    m_Localized: Versprich keine Vertraulichkeit und mache keine Versprechungen
+    m_Localized: Versprich Vertraulichkeit und mache keine Versprechungen
     m_Metadata:
       m_Items: []
   - m_Id: 8375577408655360

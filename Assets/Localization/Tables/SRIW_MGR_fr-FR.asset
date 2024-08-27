@@ -226,7 +226,7 @@ MonoBehaviour:
     m_Localized: "On qualifie de repr\xE9sailles le fait qu'une personne soit punie
       ou subisse un mauvais traitement dans le cadre de son emploi ou envers sa personne
       parce qu\u2019elle a l\u2019intention de d\xE9poser ou a d\xE9pos\xE9 une plainte,
-      ou est impliqu\xE9e dans une plainte (en tant que t\xE9moin) en rapport avec
+      ou est impliqu\xE9e dans une plainte (en tant que t\xE9moin) en signalementavec
       un comportement sur le lieu de travail, comme du harc\xE8lement potentiel (physique,
       moral, sexuel), de la discrimination, de l'intimidation ou des repr\xE9sailles."
     m_Metadata:
@@ -315,7 +315,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2615219234492416
     m_Localized: "Recueille uniquement les informations n\xE9cessaires afin d'\xE9tablir
-      avec empathie un rapport objectif."
+      avec empathie un signalement objectif."
     m_Metadata:
       m_Items: []
   - m_Id: 2615270258200576
@@ -358,8 +358,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617613712314368
-    m_Localized: "Si votre r\xE9ponse \xE0 l\u2019une de ces questions est \xAB\_Oui\_\xBB,
-      c\u2019est une bonne id\xE9e de lib\xE9rer la parole."
+    m_Localized: "Si tu as r\xE9pondu oui \xE0 une de ces questions, c\u2019est une
+      bonne id\xE9e de lib\xE9rer la parole."
     m_Metadata:
       m_Items: []
   - m_Id: 2617686349271040
@@ -374,7 +374,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617816230088704
-    m_Localized: "<b>Rediriger\_:</b> \nAborde un nouveau sujet et redirige la conversation."
+    m_Localized: "<b>Recentrer\_:</b> \nAborde un nouveau sujet et redirige la conversation."
     m_Metadata:
       m_Items: []
   - m_Id: 2617852200439808
@@ -438,8 +438,8 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2618858913091584
     m_Localized: "N\u2019oublie pas que lorsque tu lib\xE8res la parole, tu\_:\_\n\n\u2022<indent=5%>Fais
-      le premier pas pour mettre fin \xE0 tout comportement inappropri\xE9.</indent>\n\u2022<indent=5%>Montre
-      l\u2019exemple en donnant vie \xE0 nos valeurs</indent>\n\u2022<indent=5%>Encourage
+      le premier pas pour mettre fin \xE0 tout comportement inappropri\xE9.</indent>\n\u2022<indent=5%>Montres
+      l\u2019exemple en donnant vie \xE0 nos valeurs</indent>\n\u2022<indent=5%>Encourages
       les autres \xE0 faire part de leurs pr\xE9occupations</indent>"
     m_Metadata:
       m_Items: []
@@ -679,7 +679,7 @@ MonoBehaviour:
   - m_Id: 5044474736373760
     m_Localized: "Ce que tu dis ou fais, ou ce qui n\u2019est pas dit ou fait, a
       souvent d\u2019\xE9normes cons\xE9quences.\u202F\u202F\_\n\_\nAssure-toi que
-      la personne ne se sent pas isol\xE9e de ses coll\xE8gues ou \xE9loign\xE9es
+      la personne ne se sent pas isol\xE9e de ses coll\xE8gues ou \xE9loign\xE9e
       de ses opportunit\xE9s et responsabilit\xE9s professionnelles."
     m_Metadata:
       m_Items: []
@@ -783,14 +783,14 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7333489694953472
-    m_Localized: '  '
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 7603158175666176
     m_Localized: "En tant que leader, ton r\xF4le est d\u2019assurer le respect des
       standards et un environnement de travail s\xFBr. Tu seras constamment mis au
-      d\xE9fi de fournir du coaching et du feedback. Cela doit toujours \xEAtre fait
-      de mani\xE8re \xE9quitable et respectueuse."
+      d\xE9fi de coacher et de communiquer du feedback. Cela doit toujours \xEAtre
+      fait de mani\xE8re \xE9quitable et respectueuse."
     m_Metadata:
       m_Items: []
   - m_Id: 8375492478193664
