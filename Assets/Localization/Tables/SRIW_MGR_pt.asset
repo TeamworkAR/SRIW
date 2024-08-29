@@ -19,7 +19,7 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 58963357696
-    m_Localized: <b>Na Mcdonald's, promovemos e mantemos um local de trabalho seguro,
+    m_Localized: <b>Na McDonald's, promovemos e mantemos um local de trabalho seguro,
       respeitador e inclusivo para todos:</b>
     m_Metadata:
       m_Items: []
@@ -145,7 +145,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2611893193363456
-    m_Localized: "Correto! Os gerentes devem levar sempre a s\xE9rio uma conduta
+    m_Localized: "Correto! Os gerentes devem valorizar sempre a s\xE9rio uma conduta
       potencialmente inadequada. Isto significa comunicar imediatamente o incidente."
     m_Metadata:
       m_Items: []
@@ -385,7 +385,8 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2618387137777664
     m_Localized: "Na primeira oportunidade, diz ao funcion\xE1rio que a conduta do
-      cliente n\xE3o \xE9 tolerada aqui e denuncia-a."
+      cliente n\xE3o \xE9 aceit\xE1vel e que ir\xE1s reportar a situa\xE7\xE3o \xE1
+      hierarquia."
     m_Metadata:
       m_Items: []
   - m_Id: 2618432058773504
@@ -507,12 +508,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619884999233536
-    m_Localized: "\u2022 Um exemplo de abuso de autoridade \xE9 a conduta impr\xF3pria
-      que envolve uma pessoa com autoridade (como um diretor, supervisor ou outra
-      figura de autoridade) que faz promessas, nega ou amea\xE7a um benef\xEDcio
-      profissional ou toma decis\xF5es em troca de favores sexuais.\n\n\u2022  Estes
-      comportamentos violam os nossos valores e s\xE3o extremamente prejudiciais
-      para todas as pessoas envolvidas."
+    m_Localized: "\u2022 Abuso de autoridade \xE9 a conduta impr\xF3pria quando envolve
+      pessoas com cargos de hierarquia superior, com promessas de benef\xEDcios profissionais
+      em troca de favores.\n\n\u2022  Estes comportamentos violam os nossos valores
+      e s\xE3o extremamente prejudiciais para todas as pessoas envolvidas."
     m_Metadata:
       m_Items: []
   - m_Id: 2619924635406336
@@ -562,39 +561,39 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620484646293504
-    m_Localized: Comunicar todos os comportamentos inadequados.</indent>
+    m_Localized: Comunicar todos os comportamentos inadequados.
     m_Metadata:
       m_Items: []
   - m_Id: 2620514086113280
-    m_Localized: Fale quando vir um comportamento inadequado.</indent>
+    m_Localized: Fale quando vir um comportamento inadequado.
     m_Metadata:
       m_Items: []
   - m_Id: 2620555144155136
     m_Localized: Incentivar a tua equipa a fazer-se ouvir caso observe ou seja vitima
-      de comportamento inadequado.</indent>
+      de comportamento inadequado.
     m_Metadata:
       m_Items: []
   - m_Id: 2620572621819904
-    m_Localized: "Prevenir ou por termo a qualquer retalia\xE7\xE3o.</indent>"
+    m_Localized: "Prevenir ou por termo a qualquer retalia\xE7\xE3o."
     m_Metadata:
       m_Items: []
   - m_Id: 2620609611386880
     m_Localized: "Reflectir antes de socializares com os funcion\xE1rios/colaboradores
-      fora do local de trabalho.</indent>"
+      fora do local de trabalho."
     m_Metadata:
       m_Items: []
   - m_Id: 2620668432306176
     m_Localized: "Ter consci\xEAncia do teu impacto no ambiente de trabalho e evitar
-      o favoritismo.</indent>"
+      o favoritismo."
     m_Metadata:
       m_Items: []
   - m_Id: 2620709704257536
     m_Localized: "Ter cuidado ao comunicar com colegas de trabalho atrav\xE9s das
-      redes sociais e mensagens de texto.</indent>"
+      redes sociais e mensagens de texto."
     m_Metadata:
       m_Items: []
   - m_Id: 2620743099305984
-    m_Localized: "N\xE3o abusar da tua autoridade.</indent>"
+    m_Localized: "N\xE3o abusar da tua autoridade."
     m_Metadata:
       m_Items: []
   - m_Id: 2620798967435264
@@ -615,8 +614,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 4633596132159488
-    m_Localized: "D\xEA a sua opini\xE3o pessoal sobre a situa\xE7\xE3o para mostrar
-      empatia."
+    m_Localized: "D\xE1 a tua opini\xE3o pessoal sobre a situa\xE7\xE3o para mostrares
+      empatia"
     m_Metadata:
       m_Items: []
   - m_Id: 4633979759980544
@@ -764,8 +763,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8376643999191040
-    m_Localized: "D\xEA a sua opini\xE3o pessoal sobre a situa\xE7\xE3o para mostrar
-      empatia."
+    m_Localized: "D\xE1 a tua opini\xE3o pessoal sobre a situa\xE7\xE3o para mostrares
+      empatia"
     m_Metadata:
       m_Items: []
   - m_Id: 8377561062789120
