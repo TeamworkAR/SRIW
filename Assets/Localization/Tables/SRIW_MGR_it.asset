@@ -436,15 +436,16 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619095698329600
-    m_Localized: "\u2022  In quanto manager devi prestare attenzione quando socializzi
-      con i colleghi al di fuori del posto di lavoro. La socializzazione pu\xF2 spesso
-      iniziare bene, ma la troppa familiarit\xE0 pu\xF2 potenzialmente influenzare
-      il tuo giudizio.\n\n\u2022  Se tratti il personale in modo diverso, rischi
-      di creare un ambiente che pu\xF2 essere percepito come discriminatorio. Ci\xF2
-      pu\xF2 creare un ambiente di lavoro ostile per coloro che non si sentono favoriti.\n\_\n\u2022
-      Il favoritismo implica concedere un trattamento preferenziale ad uno o pi\xF9
-      dipendenti, facendo perdere ad altri possibili promozioni lavorative o benefici
-      come turni migliori.\n\n"
+    m_Localized: "\u2022<indent=5%>In quanto manager devi prestare attenzione quando
+      socializzi con i colleghi al di fuori del posto di lavoro. La socializzazione
+      pu\xF2 spesso iniziare bene, ma la troppa familiarit\xE0 pu\xF2 potenzialmente
+      influenzare il tuo giudizio.</indent>\n\n\u2022<indent=5%>Se tratti il personale
+      in modo diverso, rischi di creare un ambiente che pu\xF2 essere percepito come
+      discriminatorio. Ci\xF2 pu\xF2 creare un ambiente di lavoro ostile per coloro
+      che non si sentono favoriti.</indent>\n\_\n\u2022<indent=5%>Il favoritismo
+      implica concedere un trattamento preferenziale ad uno o pi\xF9 dipendenti,
+      facendo perdere ad altri possibili promozioni lavorative o benefici come turni
+      migliori.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619130938871808

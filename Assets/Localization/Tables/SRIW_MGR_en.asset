@@ -434,14 +434,14 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619095698329600
-    m_Localized: "\u2022  It can be risky for managers to socialize with employees
-      outside of the workplace. Socializing can often start out well, but becoming
-      overly familiar has the potential to impact your judgment.\n\n\u2022  If you
-      treat people differently, you risk creating an environment that can be perceived
-      as discriminatory. That can create a hostile work environment for those who
-      don\u2019t feel favored.\n\_\n\u2022  Favoritism includes giving preferential
-      treatment to one or more employees, causing others to lose out on possible
-      job promotions or benefits like better shifts.\n\n"
+    m_Localized: "\u2022<indent=5%>It can be risky for managers to socialize with
+      employees outside of the workplace. Socializing can often start out well, but
+      becoming overly familiar has the potential to impact your judgment.</indent>\n\n\u2022<indent=5%>If
+      you treat people differently, you risk creating an environment that can be
+      perceived as discriminatory. That can create a hostile work environment for
+      those who don\u2019t feel favored.</indent>\n\_\n\u2022<indent=5%>Favoritism
+      includes giving preferential treatment to one or more employees, causing others
+      to lose out on possible job promotions or benefits like better shifts.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619130938871808

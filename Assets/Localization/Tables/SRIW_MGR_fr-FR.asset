@@ -453,16 +453,17 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619095698329600
-    m_Localized: "\u2022 Il peut \xEAtre risqu\xE9 pour les managers de socialiser
-      avec les employ\xE9s en dehors du travail. Les relations sociales sont souvent
-      agr\xE9ables au d\xE9but, mais devenir trop proche peut potentiellement affecter
-      ton objectivit\xE9.\n\n\u2022 Si tu traites les gens diff\xE9remment, tu risques
-      de cr\xE9er un environnement qui peut \xEAtre per\xE7u comme discriminatoire.
-      Cela peut cr\xE9er un environnement de travail hostile pour ceux qui ne se
-      sentent pas favoris\xE9s.\n\_\n\u2022 Le favoritisme consiste \xE0 accorder
-      un traitement pr\xE9f\xE9rentiel \xE0 un ou plusieurs employ\xE9s, privant
-      ainsi d\u2019autres personnes d\u2019\xE9ventuelles \xE9volutions professionnelles
-      ou d'avantages tels que des quarts de travail plus favorables.\n\n"
+    m_Localized: "\u2022<indent=5%>Il peut \xEAtre risqu\xE9 pour les managers de
+      socialiser avec les employ\xE9s en dehors du travail. Les relations sociales
+      sont souvent agr\xE9ables au d\xE9but, mais devenir trop proche peut potentiellement
+      affecter ton objectivit\xE9.</indent>\n\n\u2022<indent=5%>Si tu traites les
+      gens diff\xE9remment, tu risques de cr\xE9er un environnement qui peut \xEAtre
+      per\xE7u comme discriminatoire. Cela peut cr\xE9er un environnement de travail
+      hostile pour ceux qui ne se sentent pas favoris\xE9s.</indent>\n\_\n\u2022<indent=5%>Le
+      favoritisme consiste \xE0 accorder un traitement pr\xE9f\xE9rentiel \xE0 un
+      ou plusieurs employ\xE9s, privant ainsi d\u2019autres personnes d\u2019\xE9ventuelles
+      \xE9volutions professionnelles ou d'avantages tels que des quarts de travail
+      plus favorables.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619130938871808

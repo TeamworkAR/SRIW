@@ -166,7 +166,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2612453514629120
     m_Localized: "Espere a observar si el comportamiento del l\xEDder superior se
-      repite."
+      repite.                                                               "
     m_Metadata:
       m_Items: []
   - m_Id: 2612574507716608
@@ -176,7 +176,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2612620355653632
     m_Localized: "Di que no se puede tolerar la conducta del l\xEDder s\xE9nior y
-      denunciarla."
+      denunciarla.                                                           "
     m_Metadata:
       m_Items: []
   - m_Id: 2612676479635456
@@ -442,15 +442,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619095698329600
-    m_Localized: "\u2022 Puede resultar arriesgado para la gerencia socializar con
-      la plantilla fuera del lugar de trabajo. A menudo, socializar puede ser un
-      buen punto de partida, pero tener demasiada confianza puede afectar a tu juicio.\n\n\u2022
-      Si se tratan a las personas de manera diferente, se corre el riesgo de crear
-      un entorno que pueda percibirse como discriminatorio. Esto puede crear un entorno
-      laboral hostil para quienes no se sienten favorecidos.\n\_\n\u2022 El favoritismo
-      incluye dar un trato preferencial a una o m\xE1s  personas de la plantilla
-      haciendo que otras pierdan posibles ascensos laborales o beneficios como mejores
-      turnos.\n\n"
+    m_Localized: "\u2022<indent=5%>Puede resultar arriesgado para la gerencia socializar
+      con la plantilla fuera del lugar de trabajo. A menudo, socializar puede ser
+      un buen punto de partida, pero tener demasiada confianza puede afectar a tu
+      juicio.</indent>\n\n\u2022<indent=5%>Si se tratan a las personas de manera
+      diferente, se corre el riesgo de crear un entorno que pueda percibirse como
+      discriminatorio. Esto puede crear un entorno laboral hostil para quienes no
+      se sienten favorecidos.</indent>\n\_\n\u2022<indent=5%>El favoritismo incluye
+      dar un trato preferencial a una o m\xE1s  personas de la plantilla haciendo
+      que otras pierdan posibles ascensos laborales o beneficios como mejores turnos.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619130938871808
