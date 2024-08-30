@@ -458,11 +458,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619225725947904
-    m_Localized: "\u2022  Always be aware that actions and words, even away from
-      work, can later affect the work environment.\n\n\u2022  Review and acknowledge
-      the policy where you work regarding managers socializing with employees outside
-      of work.\n\n\u2022  Stop and think before socializing outside of work with
-      other employees."
+    m_Localized: "\u2022<indent=5%>Always be aware that actions and words, even away
+      from work, can later affect the work environment.</indent>\n\n\u2022<indent=5%>Review
+      and acknowledge the policy where you work regarding managers socializing with
+      employees outside of work.</indent>\n\n\u2022<indent=5%>Stop and think before
+      socializing outside of work with other employees.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619266410696704
@@ -511,11 +511,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619884999233536
-    m_Localized: "\u2022  An example of abuse of authority is misconduct that involves
-      a person with authority (such as a manager, supervisor or other authority figure)
-      making promises, denying, or threatening a job benefit or making decisions
-      in exchange for sexual favors.\n\n\u2022  Such behaviors violate our values
-      and do incredible damage to everyone involved."
+    m_Localized: "\u2022<indent=5%> An example of abuse of authority is misconduct
+      that involves a person with authority (such as a manager, supervisor or other
+      authority figure) making promises, denying, or threatening a job benefit or
+      making decisions in exchange for sexual favors.</indent>\n\n\u2022<indent=5%>Such
+      behaviors violate our values and do incredible damage to everyone involved.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619924635406336
@@ -524,12 +524,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619964825227264
-    m_Localized: "\u2022  Abuse of authority is not limited to exchanging favors
-      for sex. Any activity promised in exchange for a favor (such as a date, a kiss,
-      or a hug) is inappropriate and not tolerated by McDonald\u2019s.\n\n\u2022 
+    m_Localized: "\u2022<indent=5%>Abuse of authority is not limited to exchanging
+      favors for sex. Any activity promised in exchange for a favor (such as a date,
+      a kiss, or a hug) is inappropriate and not tolerated by McDonald\u2019s.</indent>\n\n\u2022<indent=5%>
       Abuse of authority isn\u2019t categorized by the gender of the offender or
       victim. Regardless of the genders involved, it\u2019s absolutely unacceptable
-      to sexually harass anyone or abuse your authority."
+      to sexually harass anyone or abuse your authority.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620003890974720
@@ -544,15 +544,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "<b>Threats</b>\n\n\u2022   Termination\n\u2022   Demotion\_\n\u2022  
-      Poor performance review\_\n\u2022   Changing shifts\n\u2022   Excluding from
-      teams, events, meetings\n\u2022   Undesirable tasks\n\u2022   Delegating the
-      same tasks (mopping, cleaning) only to certain employees"
+    m_Localized: "<b>Threats</b>\n\n\u2022<indent=5%>Termination</indent>\n\u2022<indent=5%>Demotion\_</indent>\n\u2022<indent=5%>Poor
+      performance review\_</indent>\n\u2022<indent=5%>Changing shifts</indent>\n\u2022<indent=5%>Excluding
+      from teams, events, meetings</indent>\n\u2022<indent=5%> Undesirable tasks</indent>\n\u2022<indent=5%>Delegating
+      the same tasks (mopping, cleaning) only to certain employees</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
-    m_Localized: "<b>Promises</b>\n\n\u2022   Continued employment\_\n\u2022   Promotion\_\n\u2022  
-      Positive performance review\_\n\u2022   Additional overtime"
+    m_Localized: "<b>Promises</b>\n\n\u2022<indent=5%>Continued employment\_</indent>\n\u2022<indent=5%>Promotion\_</indent>\n\u2022<indent=5%>Positive
+      performance review\_</indent>\n\u2022<indent=5%>Additional overtime</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620348922810368

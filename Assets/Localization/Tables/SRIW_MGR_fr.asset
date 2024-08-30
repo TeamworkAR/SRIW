@@ -484,12 +484,13 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619225725947904
-    m_Localized: "\u2022\_Soyez toujours conscient que les gestes et les paroles,
-      m\xEAme en dehors de votre travail, peuvent plus tard avoir une incidence sur
-      le milieu de travail.\n\n\u2022\_Passez en revue et acceptez la politique en
-      vigueur dans votre milieu de travail concernant la socialisation des g\xE9rants
-      avec des employ\xE9s en dehors du travail.\n\n\u2022   Arr\xEAtez-vous et r\xE9fl\xE9chissez
-      avant de socialiser en dehors du travail avec d\u2019autres employ\xE9s."
+    m_Localized: "\u2022<indent=5%>Soyez toujours conscient que les gestes et les
+      paroles, m\xEAme en dehors de votre travail, peuvent plus tard avoir une incidence
+      sur le milieu de travail.</indent>\n\n\u2022<indent=5%>Passez en revue et acceptez
+      la politique en vigueur dans votre milieu de travail concernant la socialisation
+      des g\xE9rants avec des employ\xE9s en dehors du travail.</indent>\n\n\u2022<indent=5%>Arr\xEAtez-vous
+      et r\xE9fl\xE9chissez avant de socialiser en dehors du travail avec d\u2019autres
+      employ\xE9s.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619266410696704
@@ -541,12 +542,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619884999233536
-    m_Localized: "\u2022\_Un exemple d'abus d'autorit\xE9 est un comportement inappropri\xE9
-      qui implique une personne responsable (comme un g\xE9rant, un superviseur ou
-      une autre figure d'autorit\xE9) promettant, refusant ou mena\xE7ant un avantage
-      professionnel ou prenant des d\xE9cisions en \xE9change de faveurs sexuelles.\n\n\u2022\_De
-      tels comportements contreviennent \xE0 nos valeurs et causent des torts immenses
-      \xE0 toutes les personnes concern\xE9es."
+    m_Localized: "\u2022<indent=5%>Un exemple d'abus d'autorit\xE9 est un comportement
+      inappropri\xE9 qui implique une personne responsable (comme un g\xE9rant, un
+      superviseur ou une autre figure d'autorit\xE9) promettant, refusant ou mena\xE7ant
+      un avantage professionnel ou prenant des d\xE9cisions en \xE9change de faveurs
+      sexuelles.</indent>\n\n\u2022<indent=5%>De tels comportements contreviennent
+      \xE0 nos valeurs et causent des torts immenses \xE0 toutes les personnes concern\xE9es.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619924635406336
@@ -555,14 +556,14 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619964825227264
-    m_Localized: "\u2022\_L'abus de pouvoir ne se limite pas \xE0 l'\xE9change de
-      faveurs contre des relations sexuelles. Toute activit\xE9 promise en \xE9change
+    m_Localized: "\u2022<indent=5%>L'abus de pouvoir ne se limite pas \xE0 l'\xE9change
+      de faveurs contre des relations sexuelles. Toute activit\xE9 promise en \xE9change
       d\u2019une faveur (comme un rendez-vous, un baiser ou une accolade) est inappropri\xE9e
-      et n\u2019est pas tol\xE9r\xE9e par McDonald\u2019s.\n\n\u2022\_L'abus de pouvoir
-      n'est pas cat\xE9goris\xE9 en fonction du sexe de l'auteur de l'infraction
+      et n\u2019est pas tol\xE9r\xE9e par McDonald\u2019s.</indent>\n\n\u2022<indent=5%>L'abus
+      de pouvoir n'est pas cat\xE9goris\xE9 en fonction du sexe de l'auteur de l'infraction
       ou de la victime. Quels que soient les genres des personnes concern\xE9es,
       il est absolument inacceptable de harceler sexuellement quelqu'un ou d'abuser
-      de votre pouvoir."
+      de votre pouvoir.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620003890974720
@@ -579,17 +580,18 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "Exemples d'abus de pouvoir\_:\n\n<b>Menaces</b>\n\n\u2022 Cessation
-      d\u2019emploi\n\u2022 R\xE9trogradation\_\n\u2022 Mauvaise \xE9valuation du
-      rendement\_\n\u2022 Changement de quarts de travail\n\u2022\_Exclusion d'\xE9quipes,
-      d'\xE9v\xE9nements ou de r\xE9unions\n\u2022 T\xE2ches ind\xE9sirables\n\u2022\_D\xE9l\xE9gation
+    m_Localized: "Exemples d'abus de pouvoir\_:\n\n<b>Menaces</b>\n\n\u2022<indent=5%>Cessation
+      d\u2019emploi</indent>\n\u2022<indent=5%>R\xE9trogradation</indent>\n\u2022<indent=5%>Mauvaise
+      \xE9valuation du rendement</indent>\n\u2022<indent=5%>Changement de quarts
+      de travail</indent>\n\u2022<indent=5%>Exclusion d'\xE9quipes, d'\xE9v\xE9nements
+      ou de r\xE9unions</indent>\n\u2022<indent=5%>T\xE2ches ind\xE9sirables</indent>\n\u2022<indent=5%>D\xE9l\xE9gation
       des m\xEAmes t\xE2ches (lavage du plancher, nettoyage) seulement \xE0 certains
-      employ\xE9s"
+      employ\xE9s</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
-    m_Localized: "<b>Promesses</b>\n\n\u2022   Maintien de l\u2019emploi\_\n\u2022\_Promotion\_\n\u2022\_\xC9valuation
-      favorable du rendement\_\n\u2022\_Ajout d'heures suppl\xE9mentaires"
+    m_Localized: "<b>Promesses</b>\n\n\u2022<indent=5%>Maintien de l\u2019emploi\_</indent>\n\u2022<indent=5%>Promotion\_</indent>\n\u2022<indent=5%>\xC9valuation
+      favorable du rendement\_</indent>\n\u2022<indent=5%>Ajout d'heures suppl\xE9mentaires</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620348922810368

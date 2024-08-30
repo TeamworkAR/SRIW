@@ -495,12 +495,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619225725947904
-    m_Localized: "\u2022 V\u017Edy si uv\u011Bdomujte, \u017Ee \u010Diny a slova,
-      dokonce i mimo pr\xE1ci, mohou pozd\u011Bji ovlivnit pracovn\xED prost\u0159ed\xED.\n\n\u2022
-      Projd\u011Bte si\_a\_seznamte se se\_z\xE1sadami va\u0161eho pracovi\u0161t\u011B,
-      kter\xE9\_se\_t\xFDkaj\xED vztah\u016F mana\u017Eer\u016F se\_zam\u011Bstnanci
-      mimo pr\xE1ci.\n\n\u2022 Zastavte se a p\u0159em\xFD\u0161lejte p\u0159ed t\xEDm,
-      ne\u017E se budete potk\xE1vat mimo pr\xE1ci s ostatn\xEDmi zam\u011Bstnanci."
+    m_Localized: "\u2022<indent=5%>V\u017Edy si uv\u011Bdomujte, \u017Ee \u010Diny
+      a slova, dokonce i mimo pr\xE1ci, mohou pozd\u011Bji ovlivnit pracovn\xED prost\u0159ed\xED.</indent>\n\n\u2022<indent=5%>Projd\u011Bte
+      si\_a\_seznamte se se\_z\xE1sadami va\u0161eho pracovi\u0161t\u011B, kter\xE9\_se\_t\xFDkaj\xED
+      vztah\u016F mana\u017Eer\u016F se\_zam\u011Bstnanci mimo pr\xE1ci.</indent>\n\n\u2022<indent=5%>Zastavte
+      se a p\u0159em\xFD\u0161lejte p\u0159ed t\xEDm, ne\u017E se budete potk\xE1vat
+      mimo pr\xE1ci s ostatn\xEDmi zam\u011Bstnanci.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619266410696704
@@ -556,13 +556,14 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619884999233536
-    m_Localized: "\u2022 P\u0159\xEDkladem zneu\u017E\xEDv\xE1n\xED autority je nevhodn\xE9
-      chov\xE1n\xED, p\u0159i\_kter\xE9m osoba na\_autoritativn\xED pozici (t\u0159eba
-      mana\u017Eer, vedouc\xED nebo\_jin\xE1 autoritativn\xED role) n\u011Bco sl\xEDb\xED
-      \u010Di odm\xEDtne, vyhro\u017Euje odejmut\xEDm pracovn\xEDho benefitu nebo\_u\u010Din\xED
-      rozhodnut\xED v\xFDm\u011Bnou za\_sexu\xE1ln\xED laskavosti.\n\n\u2022 Takov\xE9
-      chov\xE1n\xED poru\u0161uje na\u0161e hodnoty a zp\u016Fsobuje neuv\u011B\u0159itelnou
-      \u0161kodu v\u0161em z\xFA\u010Dastn\u011Bn\xFDm."
+    m_Localized: "\u2022<indent=5%>P\u0159\xEDkladem zneu\u017E\xEDv\xE1n\xED autority
+      je nevhodn\xE9 chov\xE1n\xED, p\u0159i\_kter\xE9m osoba na\_autoritativn\xED
+      pozici (t\u0159eba mana\u017Eer, vedouc\xED nebo\_jin\xE1 autoritativn\xED
+      role) n\u011Bco sl\xEDb\xED \u010Di odm\xEDtne, vyhro\u017Euje odejmut\xEDm
+      pracovn\xEDho benefitu nebo\_u\u010Din\xED rozhodnut\xED v\xFDm\u011Bnou za\_sexu\xE1ln\xED
+      laskavosti.</indent>\n\n\u2022<indent=5%>Takov\xE9 chov\xE1n\xED poru\u0161uje
+      na\u0161e hodnoty a zp\u016Fsobuje neuv\u011B\u0159itelnou \u0161kodu v\u0161em
+      z\xFA\u010Dastn\u011Bn\xFDm.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619924635406336
@@ -571,13 +572,13 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619964825227264
-    m_Localized: "\u2022 Zneu\u017E\xEDv\xE1n\xED autority se\_neomezuje jen na\_v\xFDm\u011Bnu
-      slu\u017Eeb za\_sex. Cokoli, co bylo sl\xEDbeno v\xFDm\u011Bnou za laskavost
-      (nap\u0159. rande, polibek nebo\_obejmut\xED) je nevhodn\xE9 a\_spole\u010Dnost
-      McDonald\u2019s to netoleruje.\n\n\u2022 zneu\u017Eit\xED pravomoci nen\xED
-      kategorizov\xE1no podle pohlav\xED pachatele nebo ob\u011Bti. Bez\_ohledu na\_pohlav\xED
-      z\xFA\u010Dastn\u011Bn\xFDch osob je naprosto nep\u0159\xEDpustn\xE9 kohokoli
-      sexu\xE1ln\u011B obt\u011B\u017Eovat nebo\_zneu\u017E\xEDvat autoritu."
+    m_Localized: "\u2022<indent=5%> Zneu\u017E\xEDv\xE1n\xED autority se\_neomezuje
+      jen na\_v\xFDm\u011Bnu slu\u017Eeb za\_sex. Cokoli, co bylo sl\xEDbeno v\xFDm\u011Bnou
+      za laskavost (nap\u0159. rande, polibek nebo\_obejmut\xED) je nevhodn\xE9 a\_spole\u010Dnost
+      McDonald\u2019s to netoleruje.</indent>\n\n\u2022<indent=5%> zneu\u017Eit\xED
+      pravomoci nen\xED kategorizov\xE1no podle pohlav\xED pachatele nebo ob\u011Bti.
+      Bez\_ohledu na\_pohlav\xED z\xFA\u010Dastn\u011Bn\xFDch osob je naprosto nep\u0159\xEDpustn\xE9
+      kohokoli sexu\xE1ln\u011B obt\u011B\u017Eovat nebo\_zneu\u017E\xEDvat autoritu.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620003890974720
@@ -594,18 +595,19 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "P\u0159\xEDklady zneu\u017E\xEDv\xE1n\xED autority:\n\n<b>V\xFDhr\u016F\u017Eky</b>\n\n\u2022
-      Ukon\u010Den\xED\n\u2022 Degradace\_\n\u2022 \u0160patn\xE9 hodnocen\xED v\xFDkonnosti\_\n\u2022
-      St\u0159\xEDd\xE1n\xED sm\u011Bn\n\u2022 Vylou\u010Den\xED z t\xFDm\u016F,
-      akc\xED, setk\xE1n\xED\n\u2022 Ne\u017E\xE1douc\xED \xFAkoly\n\u2022 Delegov\xE1n\xED
+    m_Localized: "P\u0159\xEDklady zneu\u017E\xEDv\xE1n\xED autority:\n\n<b>V\xFDhr\u016F\u017Eky</b>\n\n\u2022<indent=5%>
+      Ukon\u010Den\xED</indent>\n\u2022<indent=5%>Degradace\_</indent>\n\u2022<indent=5%>\u0160patn\xE9
+      hodnocen\xED v\xFDkonnosti\_</indent>\n\u2022<indent=5%>St\u0159\xEDd\xE1n\xED
+      sm\u011Bn</indent>\n\u2022<indent=5%>Vylou\u010Den\xED z t\xFDm\u016F, akc\xED,
+      setk\xE1n\xED</indent>\n\u2022<indent=5%>Ne\u017E\xE1douc\xED \xFAkoly</indent>\n\u2022<indent=5%>Delegov\xE1n\xED
       stejn\xFDch \xFAkol\u016F (vyt\xEDr\xE1n\xED, \xFAklid) pouze n\u011Bkter\xFDm
-      zam\u011Bstnanc\u016Fm"
+      zam\u011Bstnanc\u016Fm</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
-    m_Localized: "<b>Sliby</b>\n\n\u2022 Dal\u0161\xED zam\u011Bstn\xE1n\xED\_\n\u2022
-      Propaga\u010Dn\xED akce\_\n\u2022 Pozitivn\xED hodnocen\xED v\xFDkonu\_\n\u2022
-      Dal\u0161\xED p\u0159es\u010Dasy"
+    m_Localized: "<b>Sliby</b>\n\n\u2022<indent=5%>Dal\u0161\xED zam\u011Bstn\xE1n\xED\_</indent>\n\u2022<indent=5%>Propaga\u010Dn\xED
+      akce\_</indent>\n\u2022<indent=5%>Pozitivn\xED hodnocen\xED v\xFDkonu\_</indent>\n\u2022<indent=5%>Dal\u0161\xED
+      p\u0159es\u010Dasy</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620348922810368

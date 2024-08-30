@@ -472,12 +472,13 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619225725947904
-    m_Localized: "\u2022 Sei dir sich stets bewusst, dass Handlungen und Worte, auch
-      ausserhalb des Arbeitsplatzes, sp\xE4ter Auswirkungen auf das Arbeitsumfeld
-      haben k\xF6nnen.\n\n\u2022 Pr\xFCfe die Richtlinien an deinem Arbeitsplatz,
-      die den Umgang von Managern mit Mitarbeitern ausserhalb der Arbeit betreffen,
-      und erkenne diese an.\n\n\u2022 Denke dar\xFCber nach, bevor du dich ausserhalb
-      der Arbeit mit anderen Mitarbeitern triffst"
+    m_Localized: "\u2022<indent=5%>Sei dir sich stets bewusst, dass Handlungen und
+      Worte, auch ausserhalb des Arbeitsplatzes, sp\xE4ter Auswirkungen auf das Arbeitsumfeld
+      haben k\xF6nnen.</indent>\n\n\u2022<indent=5%> Pr\xFCfe die Richtlinien an
+      deinem Arbeitsplatz, die den Umgang von Managern mit Mitarbeitern ausserhalb
+      der Arbeit betreffen, und erkenne diese an.</indent>\n\n\u2022<indent=5%>Denke
+      dar\xFCber nach, bevor du dich ausserhalb der Arbeit mit anderen Mitarbeitern
+      triffst.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619266410696704
@@ -529,12 +530,13 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619884999233536
-    m_Localized: "\u2022 Ein Beispiel f\xFCr den Missbrauch vn Autorit\xE4t ist ein
-      Fehlverhalten, bei dem eine Person mit Autorit\xE4t (z. B. Manager, Vorgesetzter
-      oder eine andere Person mit F\xFChrungskompetenz) Versprechungen macht, berufliche
-      Vorteile verweigert oder dies androht oder Entscheidungen im Austausch f\xFCr
-      sexuelle Gef\xE4lligkeiten trifft.\n\n\u2022 Solche Verhaltensweisen verletzen
-      unsere Werte und f\xFCgen allen Beteiligten unglaublichen Schaden zu."
+    m_Localized: "\u2022<indent=5%>Ein Beispiel f\xFCr den Missbrauch vn Autorit\xE4t
+      ist ein Fehlverhalten, bei dem eine Person mit Autorit\xE4t (z. B. Manager,
+      Vorgesetzter oder eine andere Person mit F\xFChrungskompetenz) Versprechungen
+      macht, berufliche Vorteile verweigert oder dies androht oder Entscheidungen
+      im Austausch f\xFCr sexuelle Gef\xE4lligkeiten trifft.</indent>\n\n\u2022<indent=5%>Solche
+      Verhaltensweisen verletzen unsere Werte und f\xFCgen allen Beteiligten unglaublichen
+      Schaden zu.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619924635406336
@@ -543,14 +545,14 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619964825227264
-    m_Localized: "\u2022 Der Missbrauch von Autorit\xE4t beschr\xE4nkt sich nicht
-      auf den Austausch von Gef\xE4lligkeiten gegen Sex. Jede Aktivit\xE4t, die als
-      Gegenleistung f\xFCr einen Gefallen versprochen wird (z. B. ein Date, ein Kuss
-      oder eine Umarmung), ist unangemessen und wird von McDonald's nicht toleriert.\n\n\u2022
-      Amtsmissbrauch wird nicht nach dem Geschlecht des T\xE4ters oder des Opfers
-      kategorisiert. Unabh\xE4ngig von den beteiligten Geschlechtern ist es absolut
-      inakzeptabel, jemanden sexuell zu bel\xE4stigen oder die eigene Autorit\xE4t
-      zu missbrauchen."
+    m_Localized: "\u2022<indent=5%>Der Missbrauch von Autorit\xE4t beschr\xE4nkt
+      sich nicht auf den Austausch von Gef\xE4lligkeiten gegen Sex. Jede Aktivit\xE4t,
+      die als Gegenleistung f\xFCr einen Gefallen versprochen wird (z. B. ein Date,
+      ein Kuss oder eine Umarmung), ist unangemessen und wird von McDonald's nicht
+      toleriert.</indent>\n\n\u2022<indent=5%>Amtsmissbrauch wird nicht nach dem
+      Geschlecht des T\xE4ters oder des Opfers kategorisiert. Unabh\xE4ngig von den
+      beteiligten Geschlechtern ist es absolut inakzeptabel, jemanden sexuell zu
+      bel\xE4stigen oder die eigene Autorit\xE4t zu missbrauchen.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620003890974720
@@ -567,16 +569,17 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "<b>Bedrohungen</b>\n\n\u2022 K\xFCndigung\n\u2022 Herabstufung\_\n\u2022
-      Schlechte Leistungsbeurteilung\_\n\u2022 Schichten wechseln\n\u2022 Ausschluss
-      vom Team, Veranstaltungen, Meetings\n\u2022 Unerw\xFCnschte Aufgaben\n\u2022
-      Delegieren der gleichen Aufgaben (Wischen, Putzen) nur an bestimmte Mitarbeiter"
+    m_Localized: "<b>Bedrohungen</b>\n\n\u2022<indent=5%>K\xFCndigung</indent>\n\u2022<indent=5%>Herabstufung\_</indent>\n\u2022<indent=5%>Schlechte
+      Leistungsbeurteilung\_</indent>\n\u2022<indent=5%> Schichten wechseln</indent>\n\u2022<indent=5%>
+      Ausschluss vom Team, Veranstaltungen, Meetings</indent>\n\u2022<indent=5%>
+      Unerw\xFCnschte Aufgaben</indent>\n\u2022 <indent=5%>Delegieren der gleichen
+      Aufgaben (Wischen, Putzen) nur an bestimmte Mitarbeiter</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
-    m_Localized: "<b>Versprechen</b>\n\n\u2022 Weiterf\xFChrung der Besch\xE4ftigung\_\n\u2022
-      Bef\xF6rderung\_\n\u2022 Positive Leistungsbeurteilung\_\n\u2022 Zus\xE4tzliche
-      \xDCberstunden"
+    m_Localized: "<b>Versprechen</b>\n\n\u2022<indent=5%> Weiterf\xFChrung der Besch\xE4ftigung\_</indent>\n\u2022<indent=5%>
+      Bef\xF6rderung\_</indent>\n\u2022<indent=5%>Positive Leistungsbeurteilung\_</indent>\n\u2022<indent=5%>Zus\xE4tzliche
+      \xDCberstunden</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620348922810368

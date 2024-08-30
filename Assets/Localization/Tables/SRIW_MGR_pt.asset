@@ -458,11 +458,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619225725947904
-    m_Localized: "\u2022  Tem sempre presente que as a\xE7\xF5es e as palavras, mesmo
-      fora do trabalho, podem afetar mais tarde o ambiente de trabalho.\n\n\u2022 
-      Rev\xEA e cumpre a pol\xEDtica do teu local de trabalho no que diz respeito
-      \xE0 socializa\xE7\xE3o entre gerentes e funcion\xE1rios fora do local de trabalho.\n\n\u2022
-      Pare e pense antes de socializar fora do trabalho com outros empregados."
+    m_Localized: "\u2022<indent=5%>Tem sempre presente que as a\xE7\xF5es e as palavras,
+      mesmo fora do trabalho, podem afetar mais tarde o ambiente de trabalho.</indent>\n\n\u2022<indent=5%>Rev\xEA
+      e cumpre a pol\xEDtica do teu local de trabalho no que diz respeito \xE0 socializa\xE7\xE3o
+      entre gerentes e funcion\xE1rios fora do local de trabalho.</indent>\n\n\u2022<indent=5%>Pare
+      e pense antes de socializar fora do trabalho com outros empregados.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619266410696704
@@ -511,10 +511,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619884999233536
-    m_Localized: "\u2022 Abuso de autoridade \xE9 a conduta impr\xF3pria quando envolve
-      pessoas com cargos de hierarquia superior, com promessas de benef\xEDcios profissionais
-      em troca de favores.\n\n\u2022  Estes comportamentos violam os nossos valores
-      e s\xE3o extremamente prejudiciais para todas as pessoas envolvidas."
+    m_Localized: "\u2022<indent=5%> Abuso de autoridade \xE9 a conduta impr\xF3pria
+      quando envolve pessoas com cargos de hierarquia superior, com promessas de
+      benef\xEDcios profissionais em troca de favores.</indent>\n\n\u2022<indent=5%>
+      Estes comportamentos violam os nossos valores e s\xE3o extremamente prejudiciais
+      para todas as pessoas envolvidas.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619924635406336
@@ -523,13 +524,13 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619964825227264
-    m_Localized: "\u2022  O abuso de autoridade n\xE3o se limita \xE0 troca de favores
-      por sexo. Qualquer atividade prometida em troca de um favor (como um encontro,
-      um beijo ou um abra\xE7o) \xE9 inadequada e n\xE3o \xE9 tolerada pela McDonald's.\n\n\u2022 
-      O abuso de autoridade n\xE3o \xE9 classificado em fun\xE7\xE3o do g\xE9nero
-      do agressor ou da v\xEDtima. Independentemente dos g\xE9neros envolvidos, \xE9
-      absolutamente inaceit\xE1vel assediar sexualmente algu\xE9m ou abusar da sua
-      autoridade."
+    m_Localized: "\u2022<indent=5%>O abuso de autoridade n\xE3o se limita \xE0 troca
+      de favores por sexo. Qualquer atividade prometida em troca de um favor (como
+      um encontro, um beijo ou um abra\xE7o) \xE9 inadequada e n\xE3o \xE9 tolerada
+      pela McDonald's.</indent>\n\n\u2022<indent=5%>O abuso de autoridade n\xE3o
+      \xE9 classificado em fun\xE7\xE3o do g\xE9nero do agressor ou da v\xEDtima.
+      Independentemente dos g\xE9neros envolvidos, \xE9 absolutamente inaceit\xE1vel
+      assediar sexualmente algu\xE9m ou abusar da sua autoridade.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620003890974720
@@ -545,17 +546,17 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "Exemplos de abuso de autoridade:\n\n<b>Amea\xE7as</b>\n\n\u2022  
-      Despedimento\n\u2022   Despromo\xE7\xE3o\_\n\u2022   An\xE1lise do desempenho
-      insatisfat\xF3ria\_\n\u2022   Mudan\xE7a de turnos\n\u2022   Exclus\xE3o de
-      equipas, eventos, reuni\xF5es\n\u2022  Tarefas indesej\xE1veis\n\u2022  Delegar
-      as mesmas tarefas (limpar o ch\xE3o, limpeza) apenas a determinados trabalhadores"
+    m_Localized: "Exemplos de abuso de autoridade:\n\n<b>Amea\xE7as</b>\n\n\u2022<indent=5%>Despedimento</indent>\n\u2022<indent=5%>Despromo\xE7\xE3o\_</indent>\n\u2022<indent=5%>An\xE1lise
+      do desempenho insatisfat\xF3ria\_</indent>\n\u2022<indent=5%>Mudan\xE7a de
+      turnos</indent>\n\u2022<indent=5%>Exclus\xE3o de equipas, eventos, reuni\xF5es</indent>\n\u2022<indent=5%>
+      Tarefas indesej\xE1veis</indent>\n\u2022<indent=5%>Delegar as mesmas tarefas
+      (limpar o ch\xE3o, limpeza) apenas a determinados trabalhadores</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
-    m_Localized: "<b>Promessas</b>\n\n\u2022  Continuidade no emprego\_\n\u2022 
-      Promo\xE7\xE3o\_\n\u2022  Avalia\xE7\xE3o positiva do desempenho\_\n\u2022 
-      Horas extraordin\xE1rias adicionais"
+    m_Localized: "<b>Promessas</b>\n\n\u2022<indent=5%>Continuidade no emprego\_</indent>\n\u2022<indent=5%>Promo\xE7\xE3o\_</indent>\n\u2022<indent=5%>Avalia\xE7\xE3o
+      positiva do desempenho\_</indent>\n\u2022<indent=5%>Horas extraordin\xE1rias
+      adicionais</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620348922810368

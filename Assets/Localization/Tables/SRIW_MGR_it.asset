@@ -464,12 +464,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619225725947904
-    m_Localized: "\u2022  Tieni sempre presente che le tue azioni e le tue parole,
-      anche se sei lontano dal luogo in cui lavori, prima o poi possono ripercuotersi
-      sull'ambiente lavorativo.\n\n\u2022  Informati direttamente sul ristorante
-      per approfondire le linee guida sulla socializzazione tra manager e collaboratori
-      fuori dal lavoro\n\n\u2022  Rifletti quando socializzi fuori dal lavoro con
-      gli altri colleghi."
+    m_Localized: "\u2022<indent=5%>Tieni sempre presente che le tue azioni e le tue
+      parole, anche se sei lontano dal luogo in cui lavori, prima o poi possono ripercuotersi
+      sull'ambiente lavorativo.</indent>\n\n\u2022<indent=5%> Informati direttamente
+      sul ristorante per approfondire le linee guida sulla socializzazione tra manager
+      e collaboratori fuori dal lavoro</indent>\n\n\u2022<indent=5%>Rifletti quando
+      socializzi fuori dal lavoro con gli altri colleghi.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619266410696704
@@ -517,12 +517,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619884999233536
-    m_Localized: "\u2022 Un esempio di abuso di autorit\xE0 \xE8 un comportamento
+    m_Localized: "\u2022<indent=5%>Un esempio di abuso di autorit\xE0 \xE8 un comportamento
       scorretto che coinvolge una persona con autorit\xE0 (come un direttore, un
       supervisore o un'altra figura di autorit\xE0) che fa promesse, nega, minaccia
-      un vantaggio lavorativo o prende decisioni in cambio di favori sessuali\n\n\u2022
-      Tali comportamenti violano i nostri valori e causano danni incredibili a tutte
-      le persone coinvolte."
+      un vantaggio lavorativo o prende decisioni in cambio di favori sessuali.</indent>\n\n\u2022<indent=5%>Tali
+      comportamenti violano i nostri valori e causano danni incredibili a tutte le
+      persone coinvolte.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619924635406336
@@ -531,13 +531,13 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619964825227264
-    m_Localized: "\u2022 L'abuso di autorit\xE0 non si limita allo scambio di favori
-      in cambio di sesso. Qualsiasi cosa promessa in cambio di un favore (come un
-      appuntamento, un bacio o un abbraccio) \xE8 inappropriata e non tollerata da
-      McDonald's.\n\n\u2022  L'abuso di autorit\xE0 non \xE8 classificato in base
-      al genere dell'autore del reato o della vittima. Indipendentemente dai generi
-      coinvolti, \xE8 assolutamente inaccettabile molestare sessualmente qualcuno
-      o abusare della propria autorit\xE0."
+    m_Localized: "\u2022<indent=5%>L'abuso di autorit\xE0 non si limita allo scambio
+      di favori in cambio di sesso. Qualsiasi cosa promessa in cambio di un favore
+      (come un appuntamento, un bacio o un abbraccio) \xE8 inappropriata e non tollerata
+      da McDonald's.</indent>\n\n\u2022<indent=5%> L'abuso di autorit\xE0 non \xE8
+      classificato in base al genere dell'autore del reato o della vittima. Indipendentemente
+      dai generi coinvolti, \xE8 assolutamente inaccettabile molestare sessualmente
+      qualcuno o abusare della propria autorit\xE0.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620003890974720
@@ -553,16 +553,16 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "Esempi di abuso di autorit\xE0:\n\n<b>Minacce</b>\n\n\u2022 Provvedimento
-      disciplinare\n\u2022 Demansionamento\_\n\u2022 Performance Review negativa\_\n\u2022
-      Cambio dei turni\n\u2022 Esclusione da gruppi, eventi, riunioni\n\u2022 Compiti
-      indesiderati\n\u2022 Delega degli stessi compiti (lavaggio, pulizia) solo ad
-      alcuni dipendenti"
+    m_Localized: "Esempi di abuso di autorit\xE0:\n\n<b>Minacce</b>\n\n\u2022 <indent=5%>Provvedimento
+      disciplinare</indent>\n\u2022<indent=5%> Demansionamento\_</indent>\n\u2022<indent=5%>Performance
+      Review negativa\_</indent>\n\u2022<indent=5%>Cambio dei turni</indent>\n\u2022<indent=5%>Esclusione
+      da gruppi, eventi, riunioni</indent>\n\u2022<indent=5%>Compiti indesiderati</indent>\n\u2022<indent=5%>Delega
+      degli stessi compiti (lavaggio, pulizia) solo ad alcuni dipendenti</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
-    m_Localized: "<b>Promesse</b>\n\n\u2022   Proroga contratto\_\n\u2022   Promozione\_\n\u2022  
-      Performance Review positiva\_\n\u2022   Straordinari aggiuntivi"
+    m_Localized: "<b>Promesse</b>\n\n\u2022<indent=5%>Proroga contratto\_</indent>\n\u2022<indent=5%>Promozione\_</indent>\n\u2022<indent=5%>Performance
+      Review positiva\_</indent>\n\u2022<indent=5%> Straordinari aggiuntivi</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620348922810368

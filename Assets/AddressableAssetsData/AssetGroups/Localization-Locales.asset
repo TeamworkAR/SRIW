@@ -108,42 +108,6 @@ MonoBehaviour:
     - Locale
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9240ba4289f8e344c89adfdbd353d2aa
-    m_Address: Slovak (Slovakia) (sk-SK)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9ce6ae3e923d07145b467a6274737412
-    m_Address: French (Canada) (fr-CA)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 18041e8eb9f714b468993ee7adb58052
-    m_Address: Dutch (Netherlands) (nl-NL)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6b10c0f4ed7705842bb26862d57a8bee
-    m_Address: Portuguese (Portugal) (pt-PT)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9e1cee6e02abc72468eeaea36bebbc1f
-    m_Address: Polish (Poland) (pl-PL)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fd0d7cbf992162b4c991d6f3e1932eb1
-    m_Address: Spanish (es)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 2d72e871c656bcd49bcfc065e13eed24, type: 2}
   m_SchemaSet:

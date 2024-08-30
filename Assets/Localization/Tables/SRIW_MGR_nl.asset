@@ -475,11 +475,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619225725947904
-    m_Localized: "\u2022 Houd er altijd rekening mee dat acties en woorden, zelfs
-      buiten het werk, later de werkomgeving kunnen be\xEFnvloeden.\n\n\u2022 Bekijk
+    m_Localized: "\u2022<indent=5%>Houd er altijd rekening mee dat acties en woorden,
+      zelfs buiten het werk, later de werkomgeving kunnen be\xEFnvloeden.</indent>\n\n\u2022<indent=5%>Bekijk
       en ga mee met het beleid dat op jouw werkplek geldt ten aanzien van managers
-      die buiten werktijd vriendschappelijk omgaan met medewerkers.\n\n\u2022 Denk
-      goed na voor je buiten het werk met andere medewerkers op stap gaat."
+      die buiten werktijd vriendschappelijk omgaan met medewerkers.</indent>\n\n\u2022<indent=5%>Denk
+      goed na voor je buiten het werk met andere medewerkers op stap gaat.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619266410696704
@@ -529,11 +529,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619884999233536
-    m_Localized: "\u2022 Een voorbeeld van misbruik van macht is wangedrag waarbij
-      een persoon met macht (zoals een manager of supervisor) beloften doet, dingen
-      ontzegd, arbeidsvoorwaarden wijzigt, of beslissingen neemt in ruil voor (seksuele)
-      gunsten.\n\n\u2022 Dergelijk gedrag is in strijd met onze waarden en veroorzaakt
-      ongelooflijke schade aan alle betrokkenen."
+    m_Localized: "\u2022<indent=5%>Een voorbeeld van misbruik van macht is wangedrag
+      waarbij een persoon met macht (zoals een manager of supervisor) beloften doet,
+      dingen ontzegd, arbeidsvoorwaarden wijzigt, of beslissingen neemt in ruil voor
+      (seksuele) gunsten.</indent>\n\n\u2022<indent=5%>Dergelijk gedrag is in strijd
+      met onze waarden en veroorzaakt ongelooflijke schade aan alle betrokkenen.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619924635406336
@@ -542,13 +542,13 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619964825227264
-    m_Localized: "\u2022 Misbruik van macht beperkt zich niet tot het uitwisselen
+    m_Localized: "\u2022<indent=5%>Misbruik van macht beperkt zich niet tot het uitwisselen
       van gunsten voor seks. Elke activiteit die wordt beloofd in ruil voor een gunst
       (zoals een date, een kus of een knuffel) is ongepast en wordt niet getolereerd
-      door McDonald's.\n\n\u2022 Misbruik van macht wordt niet bepaald op basis van
-      het gender van de dader of het slachtoffer. Ongeacht de betrokken genders is
-      het absoluut onaanvaardbaar om iemand seksueel te intimideren of je macht te
-      misbruiken."
+      door McDonald's.</indent>\n\n\u2022<indent=5%>Misbruik van macht wordt niet
+      bepaald op basis van het gender van de dader of het slachtoffer. Ongeacht de
+      betrokken genders is het absoluut onaanvaardbaar om iemand seksueel te intimideren
+      of je macht te misbruiken.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620003890974720
@@ -564,15 +564,16 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "<b>Dreigementen</b>\n\n\u2022 Ontslag\n\u2022 Demotie\_\n\u2022
-      Een slechte beoordeling \n\u2022 Het wisselen van diensten\n\u2022 Uitgesloten
-      worden van teams, evenementen, vergaderingen\n\u2022 Ongewenste taken\n\u2022
-      Delegeren van dezelfde taken (moppen, schoonmaken) alleen voor bepaalde werknemers"
+    m_Localized: "<b>Dreigementen</b>\n\n\u2022<indent=5%>Ontslag</indent>\n\u2022<indent=5%>Demotie\_</indent>\n\u2022<indent=5%>Een
+      slechte beoordeling </indent>\n\u2022<indent=5%>Het wisselen van diensten</indent>\n\u2022<indent=5%>Uitgesloten
+      worden van teams, evenementen, vergaderingen</indent>\n\u2022<indent=5%>Ongewenste
+      taken</indent>\n\u2022<indent=5%>Delegeren van dezelfde taken (moppen, schoonmaken)
+      alleen voor bepaalde werknemers</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
-    m_Localized: "<b>Beloften</b>\n\n\u2022 Contractverlenging\_\n\u2022 Promotie\_\n\u2022
-      Positieve evaluaties op hun prestaties\_\n\u2022 Extra overuren"
+    m_Localized: "<b>Beloften</b>\n\n\u2022<indent=5%>Contractverlenging\_</indent>\n\u2022<indent=5%>Promotie\_</indent>\n\u2022<indent=5%>Positieve
+      evaluaties op hun prestaties\_</indent>\n\u2022<indent=5%>Extra overuren</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620348922810368

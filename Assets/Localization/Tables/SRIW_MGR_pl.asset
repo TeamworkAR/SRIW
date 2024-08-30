@@ -499,12 +499,13 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619225725947904
-    m_Localized: "\u2022 Zawsze miej \u015Bwiadomo\u015B\u0107, \u017Ce dzia\u0142ania
-      i s\u0142owa, nawet poza prac\u0105, mog\u0105 p\xF3\u017Aniej wp\u0142yn\u0105\u0107
-      na \u015Brodowisko pracy.\n\n\u2022 Zapoznaj si\u0119 i zaakceptuj obowi\u0105zuj\u0105c\u0105
-      w miejscu pracy polityk\u0119 dotycz\u0105c\u0105 kontakt\xF3w towarzyskich
-      mened\u017Cer\xF3w z pracownikami.\n\n\u2022 Zastan\xF3w si\u0119, zanim nawi\u0105\u017Cesz
-      kontakty towarzyskie z innymi pracownikami."
+    m_Localized: "\u2022<indent=5%>Zawsze miej \u015Bwiadomo\u015B\u0107, \u017Ce
+      dzia\u0142ania i s\u0142owa, nawet poza prac\u0105, mog\u0105 p\xF3\u017Aniej
+      wp\u0142yn\u0105\u0107 na \u015Brodowisko pracy.</indent>\n\n\u2022<indent=5%>
+      Zapoznaj si\u0119 i zaakceptuj obowi\u0105zuj\u0105c\u0105 w miejscu pracy
+      polityk\u0119 dotycz\u0105c\u0105 kontakt\xF3w towarzyskich mened\u017Cer\xF3w
+      z pracownikami.</indent></indent>\n\n\u2022<indent=5%>Zastan\xF3w si\u0119,
+      zanim nawi\u0105\u017Cesz kontakty towarzyskie z innymi pracownikami.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619266410696704
@@ -558,13 +559,14 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619884999233536
-    m_Localized: "\u2022 Przyk\u0142adem nadu\u017Cycia w\u0142adzy jest niew\u0142a\u015Bciwe
-      post\u0119powanie, w wyniku kt\xF3rego osoba posiadaj\u0105ca w\u0142adz\u0119
-      (taka jak menad\u017Cer, prze\u0142o\u017Cony lub inna osoba posiadaj\u0105ca
-      w\u0142adz\u0119) obiecuje przyznanie, odmawia przyznania lub grozi odebraniem
-      benefit\xF3w pracowniczych lub podejmuje decyzje w zamian za przys\u0142ugi
-      seksualne.\n\n\u2022 Takie zachowania naruszaj\u0105 nasze warto\u015Bci i
-      wyrz\u0105dzaj\u0105 niesamowite szkody wszystkim zaanga\u017Cowanym osobom."
+    m_Localized: "\u2022<indent=5%>Przyk\u0142adem nadu\u017Cycia w\u0142adzy jest
+      niew\u0142a\u015Bciwe post\u0119powanie, w wyniku kt\xF3rego osoba posiadaj\u0105ca
+      w\u0142adz\u0119 (taka jak menad\u017Cer, prze\u0142o\u017Cony lub inna osoba
+      posiadaj\u0105ca w\u0142adz\u0119) obiecuje przyznanie, odmawia przyznania
+      lub grozi odebraniem benefit\xF3w pracowniczych lub podejmuje decyzje w zamian
+      za przys\u0142ugi seksualne.</indent>\n\n\u2022<indent=5%> Takie zachowania
+      naruszaj\u0105 nasze warto\u015Bci i wyrz\u0105dzaj\u0105 niesamowite szkody
+      wszystkim zaanga\u017Cowanym osobom.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619924635406336
@@ -573,13 +575,13 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619964825227264
-    m_Localized: "\u2022 Nadu\u017Cycie w\u0142adzy nie ogranicza si\u0119 do oddawania
-      przys\u0142ug w zamian za seks. Wszelkie dzia\u0142ania obiecane w zamian za
-      przys\u0142ug\u0119 (takie jak randka, poca\u0142unek lub u\u015Bcisk) s\u0105
-      niew\u0142a\u015Bciwe i nie s\u0105 tolerowane przez McDonald's.\n\n\u2022
-      Nadu\u017Cycie w\u0142adzy nie klasyfikuje si\u0119 wed\u0142ug p\u0142ci sprawcy
-      lub ofiary. Niedopuszczalne jest molestowanie seksualne kogokolwiek lub nadu\u017Cywanie
-      swojej w\u0142adzy bez wzgl\u0119du na czyj\u0105kolwiek p\u0142e\u0107."
+    m_Localized: "\u2022<indent=5%>Nadu\u017Cycie w\u0142adzy nie ogranicza si\u0119
+      do oddawania przys\u0142ug w zamian za seks. Wszelkie dzia\u0142ania obiecane
+      w zamian za przys\u0142ug\u0119 (takie jak randka, poca\u0142unek lub u\u015Bcisk)
+      s\u0105 niew\u0142a\u015Bciwe i nie s\u0105 tolerowane przez McDonald's.</indent>\n\n\u2022<indent=5%>Nadu\u017Cycie
+      w\u0142adzy nie klasyfikuje si\u0119 wed\u0142ug p\u0142ci sprawcy lub ofiary.
+      Niedopuszczalne jest molestowanie seksualne kogokolwiek lub nadu\u017Cywanie
+      swojej w\u0142adzy bez wzgl\u0119du na czyj\u0105kolwiek p\u0142e\u0107.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620003890974720
@@ -596,18 +598,19 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "<b>Zagro\u017Cenia</b>\n\n\u2022 Rozwi\u0105zanie stosunku pracy\n\u2022
-      Degradacja\_\n\u2022 S\u0142aba ocena w ramach Okresowej Oceny Jako\u015Bci
-      Pracy\_\n\u2022 Zmiana godzin pracy\n\u2022 Wykluczenie z zespo\u0142u, wydarze\u0144,
-      spotka\u0144\n\u2022 Niepo\u017C\u0105dane zadania\n\u2022 Delegowanie tych
-      samych zada\u0144 (zmywanie pod\u0142\xF3g, sprz\u0105tanie) tylko niekt\xF3rym
-      pracownikom"
+    m_Localized: "<b>Zagro\u017Cenia</b>\n\n\u2022<indent=5%>Rozwi\u0105zanie stosunku
+      pracy</indent>\n\u2022<indent=5%>Degradacja\_</indent>\n\u2022<indent=5%> S\u0142aba
+      ocena w ramach Okresowej Oceny Jako\u015Bci Pracy\_</indent>\n\u2022<indent=5%>
+      Zmiana godzin pracy</indent>\n\u2022<indent=5%> Wykluczenie z zespo\u0142u,
+      wydarze\u0144, spotka\u0144</indent>\n\u2022<indent=5%> Niepo\u017C\u0105dane
+      zadania</indent>\n\u2022<indent=5%>Delegowanie tych samych zada\u0144 (zmywanie
+      pod\u0142\xF3g, sprz\u0105tanie) tylko niekt\xF3rym pracownikom</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
-    m_Localized: "<b>Obietnice</b>\n\n\u2022 Kontynuacja zatrudnienia\_\n\u2022 Awans\_\n\u2022
-      Pozytywna ocena w ramach Okresowej Oceny Jako\u015Bci Pracy\_\n\u2022 Dodatkowe
-      nadgodziny"
+    m_Localized: "<b>Obietnice</b>\n\n\u2022<indent=5%>Kontynuacja zatrudnienia\_</indent>\n\u2022<indent=5%>
+      Awans\_</indent>\n\u2022<indent=5%>Pozytywna ocena w ramach Okresowej Oceny
+      Jako\u015Bci Pracy\_</indent>\n\u2022<indent=5%>Dodatkowe nadgodziny</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620348922810368
