@@ -387,7 +387,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617816230088704
-    m_Localized: "<b>Przekierowanie:</b> Porusz nowy temat, by przekierowa\u0107
+    m_Localized: "<b>Przekierowanie:</b> \nPorusz nowy temat, by przekierowa\u0107
       rozmow\u0119 na inne tory."
     m_Metadata:
       m_Items: []
@@ -501,11 +501,10 @@ MonoBehaviour:
   - m_Id: 2619225725947904
     m_Localized: "\u2022<indent=5%>Zawsze miej \u015Bwiadomo\u015B\u0107, \u017Ce
       dzia\u0142ania i s\u0142owa, nawet poza prac\u0105, mog\u0105 p\xF3\u017Aniej
-      wp\u0142yn\u0105\u0107 na \u015Brodowisko pracy.</indent>\n\n\u2022<indent=5%>
-      Zapoznaj si\u0119 i zaakceptuj obowi\u0105zuj\u0105c\u0105 w miejscu pracy
-      polityk\u0119 dotycz\u0105c\u0105 kontakt\xF3w towarzyskich mened\u017Cer\xF3w
-      z pracownikami.</indent></indent>\n\n\u2022<indent=5%>Zastan\xF3w si\u0119,
-      zanim nawi\u0105\u017Cesz kontakty towarzyskie z innymi pracownikami.</indent>"
+      wp\u0142yn\u0105\u0107 na \u015Brodowisko pracy.</indent>\n\n\u2022<indent=5%>Zapoznaj
+      si\u0119 i zaakceptuj obowi\u0105zuj\u0105c\u0105 w miejscu pracy polityk\u0119
+      dotycz\u0105c\u0105 kontakt\xF3w towarzyskich mened\u017Cer\xF3w z pracownikami.</indent></indent>\n\n\u2022<indent=5%>Zastan\xF3w
+      si\u0119, zanim nawi\u0105\u017Cesz kontakty towarzyskie z innymi pracownikami.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619266410696704
@@ -564,7 +563,7 @@ MonoBehaviour:
       w\u0142adz\u0119 (taka jak menad\u017Cer, prze\u0142o\u017Cony lub inna osoba
       posiadaj\u0105ca w\u0142adz\u0119) obiecuje przyznanie, odmawia przyznania
       lub grozi odebraniem benefit\xF3w pracowniczych lub podejmuje decyzje w zamian
-      za przys\u0142ugi seksualne.</indent>\n\n\u2022<indent=5%> Takie zachowania
+      za przys\u0142ugi seksualne.</indent>\n\n\u2022<indent=5%>Takie zachowania
       naruszaj\u0105 nasze warto\u015Bci i wyrz\u0105dzaj\u0105 niesamowite szkody
       wszystkim zaanga\u017Cowanym osobom.</indent>"
     m_Metadata:
@@ -599,18 +598,18 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2620149190053888
     m_Localized: "<b>Zagro\u017Cenia</b>\n\n\u2022<indent=5%>Rozwi\u0105zanie stosunku
-      pracy</indent>\n\u2022<indent=5%>Degradacja\_</indent>\n\u2022<indent=5%> S\u0142aba
+      pracy</indent>\n\u2022<indent=5%>Degradacja\_</indent>\n\u2022<indent=5%>S\u0142aba
       ocena w ramach Okresowej Oceny Jako\u015Bci Pracy\_</indent>\n\u2022<indent=5%>
-      Zmiana godzin pracy</indent>\n\u2022<indent=5%> Wykluczenie z zespo\u0142u,
-      wydarze\u0144, spotka\u0144</indent>\n\u2022<indent=5%> Niepo\u017C\u0105dane
+      Zmiana godzin pracy</indent>\n\u2022<indent=5%>Wykluczenie z zespo\u0142u,
+      wydarze\u0144, spotka\u0144</indent>\n\u2022<indent=5%>Niepo\u017C\u0105dane
       zadania</indent>\n\u2022<indent=5%>Delegowanie tych samych zada\u0144 (zmywanie
       pod\u0142\xF3g, sprz\u0105tanie) tylko niekt\xF3rym pracownikom</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620257784778752
-    m_Localized: "<b>Obietnice</b>\n\n\u2022<indent=5%>Kontynuacja zatrudnienia\_</indent>\n\u2022<indent=5%>
-      Awans\_</indent>\n\u2022<indent=5%>Pozytywna ocena w ramach Okresowej Oceny
-      Jako\u015Bci Pracy\_</indent>\n\u2022<indent=5%>Dodatkowe nadgodziny</indent>"
+    m_Localized: "<b>Obietnice</b>\n\n\u2022<indent=5%>Kontynuacja zatrudnienia\_</indent>\n\u2022<indent=5%>Awans\_</indent>\n\u2022<indent=5%>Pozytywna
+      ocena w ramach Okresowej Oceny Jako\u015Bci Pracy\_</indent>\n\u2022<indent=5%>Dodatkowe
+      nadgodziny</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2620348922810368

@@ -382,7 +382,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617816230088704
-    m_Localized: "<b>P\u0159esm\u011Brov\xE1n\xED:</b> P\u0159ejd\u011Bte na nov\xE9
+    m_Localized: "<b>P\u0159esm\u011Brov\xE1n\xED:</b> \nP\u0159ejd\u011Bte na nov\xE9
       t\xE9ma a p\u0159esm\u011Brujte konverzaci."
     m_Metadata:
       m_Items: []
@@ -468,15 +468,14 @@ MonoBehaviour:
     m_Localized: "\u2022<indent=5%>Pro mana\u017Eery m\u016F\u017Ee b\xFDt riskantn\xED
       st\xFDkat se se zam\u011Bstnanci mimo pracovi\u0161t\u011B. Spole\u010Densk\xE9
       ud\xE1losti m\u016F\u017Eou \u010Dasto za\u010D\xEDnat dob\u0159e, ale\_p\u0159\xEDli\u0161
-      bl\xEDzk\xFD neform\xE1ln\xED vztah m\u016F\u017Ee ovlivnit v\xE1\u0161\_\xFAsudek.</indent>\n\n\u2022
-      Pokud se k lidem chov\xE1te odli\u0161n\u011B, riskujete vytvo\u0159en\xED
-      prost\u0159ed\xED, kter\xE9 m\u016F\u017Ee b\xFDt vn\xEDm\xE1no jako diskrimina\u010Dn\xED.
-      To m\u016F\u017Ee vytvo\u0159it nep\u0159\xE1telsk\xE9 pracovn\xED prost\u0159ed\xED
-      pro ty, kte\u0159\xED se nec\xEDt\xED zv\xFDhodn\u011Bni.</indent>\n\_\n\u2022
-      Zv\xFDhod\u0148ov\xE1n\xED zahrnuje preferen\u010Dn\xED zach\xE1zen\xED s jedn\xEDm
-      nebo v\xEDce zam\u011Bstnanci, co\u017E zp\u016Fsobuje, \u017Ee ostatn\xED
-      p\u0159ich\xE1zej\xED o p\u0159\xEDpadn\xE9 pov\xFD\u0161en\xED nebo v\xFDhody,
-      jako jsou lep\u0161\xED sm\u011Bny.</indent>"
+      bl\xEDzk\xFD neform\xE1ln\xED vztah m\u016F\u017Ee ovlivnit v\xE1\u0161\_\xFAsudek.</indent>\n\n\u2022<indent=5%>Pokud
+      se k lidem chov\xE1te odli\u0161n\u011B, riskujete vytvo\u0159en\xED prost\u0159ed\xED,
+      kter\xE9 m\u016F\u017Ee b\xFDt vn\xEDm\xE1no jako diskrimina\u010Dn\xED. To
+      m\u016F\u017Ee vytvo\u0159it nep\u0159\xE1telsk\xE9 pracovn\xED prost\u0159ed\xED
+      pro ty, kte\u0159\xED se nec\xEDt\xED zv\xFDhodn\u011Bni.</indent>\n\_\n\u2022<indent=5%>Zv\xFDhod\u0148ov\xE1n\xED
+      zahrnuje preferen\u010Dn\xED zach\xE1zen\xED s jedn\xEDm nebo v\xEDce zam\u011Bstnanci,
+      co\u017E zp\u016Fsobuje, \u017Ee ostatn\xED p\u0159ich\xE1zej\xED o p\u0159\xEDpadn\xE9
+      pov\xFD\u0161en\xED nebo v\xFDhody, jako jsou lep\u0161\xED sm\u011Bny.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619130938871808
@@ -572,10 +571,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619964825227264
-    m_Localized: "\u2022<indent=5%> Zneu\u017E\xEDv\xE1n\xED autority se\_neomezuje
+    m_Localized: "\u2022<indent=5%>Zneu\u017E\xEDv\xE1n\xED autority se\_neomezuje
       jen na\_v\xFDm\u011Bnu slu\u017Eeb za\_sex. Cokoli, co bylo sl\xEDbeno v\xFDm\u011Bnou
       za laskavost (nap\u0159. rande, polibek nebo\_obejmut\xED) je nevhodn\xE9 a\_spole\u010Dnost
-      McDonald\u2019s to netoleruje.</indent>\n\n\u2022<indent=5%> zneu\u017Eit\xED
+      McDonald\u2019s to netoleruje.</indent>\n\n\u2022<indent=5%>Zneu\u017Eit\xED
       pravomoci nen\xED kategorizov\xE1no podle pohlav\xED pachatele nebo ob\u011Bti.
       Bez\_ohledu na\_pohlav\xED z\xFA\u010Dastn\u011Bn\xFDch osob je naprosto nep\u0159\xEDpustn\xE9
       kohokoli sexu\xE1ln\u011B obt\u011B\u017Eovat nebo\_zneu\u017E\xEDvat autoritu.</indent>"
@@ -595,8 +594,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620149190053888
-    m_Localized: "P\u0159\xEDklady zneu\u017E\xEDv\xE1n\xED autority:\n\n<b>V\xFDhr\u016F\u017Eky</b>\n\n\u2022<indent=5%>
-      Ukon\u010Den\xED</indent>\n\u2022<indent=5%>Degradace\_</indent>\n\u2022<indent=5%>\u0160patn\xE9
+    m_Localized: "P\u0159\xEDklady zneu\u017E\xEDv\xE1n\xED autority:\n\n<b>V\xFDhr\u016F\u017Eky</b>\n\n\u2022<indent=5%>Ukon\u010Den\xED</indent>\n\u2022<indent=5%>Degradace\_</indent>\n\u2022<indent=5%>\u0160patn\xE9
       hodnocen\xED v\xFDkonnosti\_</indent>\n\u2022<indent=5%>St\u0159\xEDd\xE1n\xED
       sm\u011Bn</indent>\n\u2022<indent=5%>Vylou\u010Den\xED z t\xFDm\u016F, akc\xED,
       setk\xE1n\xED</indent>\n\u2022<indent=5%>Ne\u017E\xE1douc\xED \xFAkoly</indent>\n\u2022<indent=5%>Delegov\xE1n\xED
