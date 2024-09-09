@@ -15,43 +15,8 @@ MonoBehaviour:
   m_GroupName: Localization-String-Tables-Dutch (Netherlands) (nl-NL)
   m_Data:
     m_SerializedData: []
-  m_GUID: 2a5d2a599dd1c9546b846665b67acd22
-  m_SerializeEntries:
-  - m_GUID: 3667ff618efd99346906a748cc8eb774
-    m_Address: Scenario4_Table_nl-NL
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-nl-NL
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: af7a468a250ffc241aa02c612ebe8f62
-    m_Address: Scenario3_Table_nl-NL
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-nl-NL
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7c2897a8eb0283643803d2dd64d06801
-    m_Address: Scenario2_Table_nl-NL
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-nl-NL
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b38a0015a2a83f040b8330f4d4ba6081
-    m_Address: Scenario1_Table_nl-NL
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-nl-NL
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4269831440b148f479b7663e8131c84c
-    m_Address: Scenario5_Table_nl-NL
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-nl-NL
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
+  m_GUID: 1776dee07c71a1b41b6696b49da5c364
+  m_SerializeEntries: []
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 2d72e871c656bcd49bcfc065e13eed24, type: 2}
   m_SchemaSet:

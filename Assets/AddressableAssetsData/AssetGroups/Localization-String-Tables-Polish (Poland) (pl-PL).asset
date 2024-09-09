@@ -15,43 +15,8 @@ MonoBehaviour:
   m_GroupName: Localization-String-Tables-Polish (Poland) (pl-PL)
   m_Data:
     m_SerializedData: []
-  m_GUID: 3a08996776847784c90089e6accd65dd
-  m_SerializeEntries:
-  - m_GUID: 89816f0726fd66d4098fcfd553fd861e
-    m_Address: Scenario1_Table_pl-PL
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-pl-PL
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3f8bb330e53997844b5455e634165cc6
-    m_Address: Scenario2_Table_pl-PL
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-pl-PL
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 354ed3d0fdf78554aaa07f8036b1eb6d
-    m_Address: Scenario3_Table_pl-PL
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-pl-PL
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: af7031228c57f734298b52b1f32df4ae
-    m_Address: Scenario4_Table_pl-PL
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-pl-PL
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b62710098ff0d0f4c9f0a7abf7e09f45
-    m_Address: Scenario5_Table_pl-PL
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-pl-PL
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
+  m_GUID: 08eadda47099a6441b0c42d3c9c6183f
+  m_SerializeEntries: []
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 2d72e871c656bcd49bcfc065e13eed24, type: 2}
   m_SchemaSet:

@@ -15,43 +15,8 @@ MonoBehaviour:
   m_GroupName: Localization-String-Tables-French (Canada) (fr-CA)
   m_Data:
     m_SerializedData: []
-  m_GUID: f11c3b535818fb24a8c294a9c94ad7d7
-  m_SerializeEntries:
-  - m_GUID: 723c7e15381299e4ca913057dbddf6a5
-    m_Address: Scenario1_Table_fr-CA
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-fr-CA
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 23f0a74356cf3bc458513a9df14bad1a
-    m_Address: Scenario2_Table_fr-CA
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-fr-CA
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 72ed52b77ff6fc54d93db2c4fdf27538
-    m_Address: Scenario3_Table_fr-CA
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-fr-CA
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fab7e8295c3cbe347a900aa7dab33bd7
-    m_Address: Scenario4_Table_fr-CA
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-fr-CA
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c0b239ea5d20d19439689b3cdf82ec7a
-    m_Address: Scenario5_Table_fr-CA
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-fr-CA
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
+  m_GUID: 607e8d4fe8162594182f4c27740f143c
+  m_SerializeEntries: []
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 2d72e871c656bcd49bcfc065e13eed24, type: 2}
   m_SchemaSet:

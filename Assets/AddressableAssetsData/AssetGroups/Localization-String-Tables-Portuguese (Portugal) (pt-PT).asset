@@ -15,43 +15,8 @@ MonoBehaviour:
   m_GroupName: Localization-String-Tables-Portuguese (Portugal) (pt-PT)
   m_Data:
     m_SerializedData: []
-  m_GUID: cf8de2d472a9d8a4c94eeeb908304020
-  m_SerializeEntries:
-  - m_GUID: f8517d11caeaae849af897b1b309f04d
-    m_Address: Scenario5_Table_pt-PT
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-pt-PT
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: f659f36d05576574dbedfc4467140078
-    m_Address: Scenario4_Table_pt-PT
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-pt-PT
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: dee254a62c6bc2346b2fb03c8389c591
-    m_Address: Scenario3_Table_pt-PT
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-pt-PT
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 00bf6502800cdf341aff6d8bdedf4c81
-    m_Address: Scenario2_Table_pt-PT
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-pt-PT
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 8086edb6f2659cd4cb7f132d39a75e14
-    m_Address: Scenario1_Table_pt-PT
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-pt-PT
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
+  m_GUID: c9c479ee252c2294db49c978ea2e1fad
+  m_SerializeEntries: []
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 2d72e871c656bcd49bcfc065e13eed24, type: 2}
   m_SchemaSet:
