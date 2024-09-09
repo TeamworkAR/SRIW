@@ -167,7 +167,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2612453514629120
-    m_Localized: Wait to observe if the senior leaders' behavior happens again.
+    m_Localized: 'Wait to observe if the senior leaders'' behavior happens again.
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 2612574507716608
@@ -176,8 +178,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2612620355653632
-    m_Localized: Say that the senior leader's conduct is not tolerated and report
+    m_Localized: 'Say that the senior leader''s conduct is not tolerated and report
       it.
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 2612676479635456
@@ -441,7 +445,7 @@ MonoBehaviour:
       perceived as discriminatory. That can create a hostile work environment for
       those who don\u2019t feel favored.</indent>\n\_\n\u2022<indent=5%>Favoritism
       includes giving preferential treatment to one or more employees, causing others
-      to lose out on possible job promotions or benefits like better shifts.</indent>"
+      to lose out on possible job promotions or benefits like better shifts.</indent>\n\n"
     m_Metadata:
       m_Items: []
   - m_Id: 2619130938871808

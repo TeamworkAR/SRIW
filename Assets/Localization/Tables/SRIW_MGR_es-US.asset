@@ -165,7 +165,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2612453514629120
     m_Localized: "Esperar a observar si se repite el comportamiento del l\xEDder
-      s\xE9nior."
+      s\xE9nior.\n\n"
     m_Metadata:
       m_Items: []
   - m_Id: 2612574507716608
@@ -174,7 +174,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2612620355653632
-    m_Localized: "Indicar que la conducta del l\xEDder s\xE9nior no se tolera e informarla."
+    m_Localized: "Indicar que la conducta del l\xEDder s\xE9nior no se tolera e informarla.\n\n"
     m_Metadata:
       m_Items: []
   - m_Id: 2612676479635456
@@ -446,7 +446,7 @@ MonoBehaviour:
       hostil para quienes no se sienten favorecidos.</indent>\n\_\n\u2022<indent=5%>El
       favoritismo incluye dar un trato preferencial a uno o m\xE1s empleados, haciendo
       que otros pierdan posibles ascensos en el trabajo o beneficios como mejores
-      turnos.</indent>"
+      turnos.</indent>\n\n"
     m_Metadata:
       m_Items: []
   - m_Id: 2619130938871808
@@ -554,8 +554,8 @@ MonoBehaviour:
   - m_Id: 2620149190053888
     m_Localized: "Ejemplos de abuso de autoridad:\n\n<b>Amenazas</b>\n\n\u2022<indent=5%>Despido</indent>\n\u2022<indent=5%>Descenso
       de categor\xEDa\_</indent>\n\u2022<indent=5%>Revisi\xF3n de desempe\xF1o deficiente\_</indent>\n\u2022<indent=5%>Cambio
-      de turnos</indent>\n\u2022<indent=5%>Exclusi\xF3n de equipos, eventos y reuniones</indent>\n\u2022<indent=5%>
-      Tareas no deseadas</indent>\n\u2022<indent=5%>Delegar las mismas tareas (trapear,
+      de turnos</indent>\n\u2022<indent=5%>Exclusi\xF3n de equipos, eventos y reuniones</indent>\n\u2022<indent=5%>Tareas
+      no deseadas</indent>\n\u2022<indent=5%>Delegar las mismas tareas (trapear,
       limpiar) solo a ciertos empleados</indent>"
     m_Metadata:
       m_Items: []

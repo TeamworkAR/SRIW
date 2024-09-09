@@ -64,8 +64,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2592417236340736
-    m_Localized: "<b>Les leaders ont pour responsabilit\xE9 de montrer l\u2019exemple,
-      notamment par les actions suivantes\_:</b>"
+    m_Localized: "<b>Responsabilit\xE9s du manager en mati\xE8re de r\xE9pr\xE9sailles:</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 2592760418488320
@@ -169,7 +168,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2612453514629120
-    m_Localized: Attendre pour observer si le comportement du dirigeant se reproduit.
+    m_Localized: "Attendre pour observer si le comportement du dirigeant se reproduit.                           
+      \n\n"
     m_Metadata:
       m_Items: []
   - m_Id: 2612574507716608
@@ -179,7 +179,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2612620355653632
     m_Localized: "D\xE9clarer que le comportement du dirigeant n\u2019est pas tol\xE9r\xE9
-      et le signaler."
+      et le signaler.                  \n\n"
     m_Metadata:
       m_Items: []
   - m_Id: 2612676479635456
@@ -226,8 +226,8 @@ MonoBehaviour:
     m_Localized: "On qualifie de repr\xE9sailles le fait qu'une personne soit punie
       ou subisse un mauvais traitement dans le cadre de son emploi ou envers sa personne
       parce qu\u2019elle a l\u2019intention de d\xE9poser ou a d\xE9pos\xE9 une plainte,
-      ou est impliqu\xE9e dans une plainte (en tant que t\xE9moin) en signalementavec
-      un comportement sur le lieu de travail, comme du harc\xE8lement potentiel (physique,
+      ou est impliqu\xE9e dans une plainte (en tant que t\xE9moin) en signalant un
+      comportement sur le lieu de travail, comme du harc\xE8lement potentiel (physique,
       moral, sexuel), de la discrimination, de l'intimidation ou des repr\xE9sailles."
     m_Metadata:
       m_Items: []
@@ -314,8 +314,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2615219234492416
-    m_Localized: "Recueille uniquement les informations n\xE9cessaires afin d'\xE9tablir
-      avec empathie un signalement objectif."
+    m_Localized: "Recueille uniquement les informations n\xE9cessaires afin de proc\xE9der
+      avec empathie \xE0 un signalement objectif."
     m_Metadata:
       m_Items: []
   - m_Id: 2615270258200576
@@ -463,7 +463,7 @@ MonoBehaviour:
       favoritisme consiste \xE0 accorder un traitement pr\xE9f\xE9rentiel \xE0 un
       ou plusieurs employ\xE9s, privant ainsi d\u2019autres personnes d\u2019\xE9ventuelles
       \xE9volutions professionnelles ou d'avantages tels que des quarts de travail
-      plus favorables.</indent>"
+      plus favorables.</indent>\n\n"
     m_Metadata:
       m_Items: []
   - m_Id: 2619130938871808

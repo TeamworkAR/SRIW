@@ -47,7 +47,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 328896373157888
-    m_Localized: Van je laten horen als je ongepast gedrag ziet of ervaart
+    m_Localized: Van je laten horen als je ongewenst gedrag ziet of ervaart
     m_Metadata:
       m_Items: []
   - m_Id: 329567763787776
@@ -67,7 +67,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2592417236340736
     m_Localized: <b>Managers hebben een verantwoordelijkheid om het goede voorbeeld
-      te geven, waaronder::</b>
+      te geven, waaronder:</b>
     m_Metadata:
       m_Items: []
   - m_Id: 2592760418488320
@@ -179,8 +179,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2612574507716608
-    m_Localized: Leg de medewerkers uit dat dit soms kan gebeuren, en dat dit geen
+    m_Localized: 'Leg de medewerkers uit dat dit soms kan gebeuren, en dat dit geen
       probleem is.
+
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 2612620355653632
@@ -442,8 +445,8 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2618964798296064
     m_Localized: "Spreek jouw mening uit om een fijne cultuur van verbondenheid te
-      cree\xEBren waarin elke persoon een stem heeft en het gevoel heeft bij iemand
-      terecht te kunnen."
+      cree\xEBren waarin iedereen een stem heeft en het gevoel heeft bij iemand terecht
+      te kunnen."
     m_Metadata:
       m_Items: []
   - m_Id: 2619046234902528
@@ -458,7 +461,7 @@ MonoBehaviour:
       die als discriminerend kan worden ervaren. Dat kan een vijandige werkomgeving
       cre\xEBren voor degenen die zich niet bevoordeeld voelen.</indent>\n\_\n\u2022<indent=5%>Vriendjespolitiek
       omvat het geven van een voorkeursbehandeling aan een of meer werknemers, waardoor
-      anderen mogelijke promoties of voordelen zoals fijnere shifts mislopen.</indent>"
+      anderen mogelijke promoties of voordelen zoals fijnere shifts mislopen.</indent>\n\n"
     m_Metadata:
       m_Items: []
   - m_Id: 2619130938871808
@@ -505,7 +508,7 @@ MonoBehaviour:
   - m_Id: 2619588357083136
     m_Localized: Plaats of ondersteun geen berichten die discriminerende opmerkingen,
       intimidatie (fysiek, psychologisch, seksueel), bedreigingen met geweld of soortgelijk
-      ongewenst of onwettig gedrag bevatten.
+      ongewenst of bevatten.
     m_Metadata:
       m_Items: []
   - m_Id: 2619636767739904
@@ -599,7 +602,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2620572621819904
     m_Localized: alle vormen van vergelding/represailles te voorkomen of een halt
-      toe te roepen.
+      of te stoppen.
     m_Metadata:
       m_Items: []
   - m_Id: 2620609611386880

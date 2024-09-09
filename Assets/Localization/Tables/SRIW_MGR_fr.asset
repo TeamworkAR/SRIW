@@ -136,8 +136,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2611299066007552
-    m_Localized: "Un jeune employ\xE9 vous a dit qu'un fournisseur lui avait fait
-      un clin d'\u0153il et que cela l'avait mis mal \xE0 l'aise.\n\nLa r\xE9ponse
+    m_Localized: "Une jeune employ\xE9e vous a dit qu'un fournisseur lui avait fait
+      un clin d'\u0153il et que cela l'avait mise mal \xE0 l'aise.\n\nLa r\xE9ponse
       suivante d'un g\xE9rant est-elle appropri\xE9e?"
     m_Metadata:
       m_Items: []
@@ -171,7 +171,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2612453514629120
     m_Localized: "Attendre d\u2019observer si le comportement du leader haut plac\xE9
-      se reproduit."
+      se reproduit.\n\n"
     m_Metadata:
       m_Items: []
   - m_Id: 2612574507716608
@@ -290,11 +290,11 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2614313474543616
     m_Localized: "Exact! Il est clair qu'Anna veut transf\xE9rer Samuel dans un autre
-      restaurant en raison de la plainte de Samuel. Changer la situation de travail
-      d'un employ\xE9 parce que l'employ\xE9 a fait une plainte est extr\xEAmement
-      risqu\xE9, m\xEAme si le g\xE9rant et l'employ\xE9 consid\xE8rent qu'il s'agit
-      d'un geste positif.\n\_\nUne bonne r\xE8gle de base est de traiter un employ\xE9
-      de la m\xEAme mani\xE8re que s'il n'avait jamais fait de plainte."
+      restaurant en raison de sa plainte. Changer la situation de travail d'un employ\xE9
+      parce que l'employ\xE9 a fait une plainte est extr\xEAmement risqu\xE9, m\xEAme
+      si le g\xE9rant et l'employ\xE9 consid\xE8rent qu'il s'agit d'un geste positif.\n\_\nUne
+      bonne r\xE8gle de base est de traiter un employ\xE9 de la m\xEAme mani\xE8re
+      que s'il n'avait jamais fait de plainte."
     m_Metadata:
       m_Items: []
   - m_Id: 2614433234505728
@@ -465,7 +465,7 @@ MonoBehaviour:
       de travail hostile pour ceux qui ne se sentent pas favoris\xE9s.</indent>\n\_\n\u2022<indent=5%>Le
       favoritisme consiste notamment \xE0 donner un traitement pr\xE9f\xE9rentiel
       \xE0 un ou plusieurs employ\xE9s, ce qui fait perdre \xE0 d'autres d'\xE9ventuelles
-      promotions ou des avantages comme de meilleurs quarts de travail.</indent>"
+      promotions ou des avantages comme de meilleurs quarts de travail.</indent>\n\n"
     m_Metadata:
       m_Items: []
   - m_Id: 2619130938871808
@@ -551,8 +551,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619924635406336
-    m_Localized: "\u2022\_De tels comportements contreviennent \xE0 nos valeurs et
-      causent des torts immenses \xE0 toutes les personnes concern\xE9es."
+    m_Localized: "\u2022<indent=5%>De tels comportements contreviennent \xE0 nos
+      valeurs et causent des torts immenses \xE0 toutes les personnes concern\xE9es.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619964825227264
