@@ -59,7 +59,7 @@ MonoBehaviour:
   - m_Id: 2592079758446592
     m_Localized: "Enquanto gerente de outras pessoas, desempenhas uma fun\xE7\xE3o
       crucial na constru\xE7\xE3o de um local de trabalho seguro, respeitador e inclusivo.\n\nEspera-se
-      que seja um modelo para a sua equipa e que d\xEA sempre o exemplo!"
+      que sejas um modelo para a tua equipa e que d\xEAs sempre o exemplo!"
     m_Metadata:
       m_Items: []
   - m_Id: 2592417236340736
@@ -106,8 +106,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2609551664435200
-    m_Localized: "<b>Algu\xE9m se dirige a ti e faz uma queixa.\nQue deves fazer
-      nesta situa\xE7\xE3o?</b>"
+    m_Localized: "<b>Se dirige a ti e faz uma queixa.\nQue deves fazer nesta situa\xE7\xE3o?</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 2609684217024512
@@ -127,7 +126,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2610968991059968
-    m_Localized: "Explicar que algu\xE9m ir\xE1 dar seguimento ao problema."
+    m_Localized: "Explicar que algu\xE9m ir\xE1s dar seguimento ao problema."
     m_Metadata:
       m_Items: []
   - m_Id: 2611299066007552
@@ -177,7 +176,7 @@ MonoBehaviour:
   - m_Id: 2612676479635456
     m_Localized: "Correto! Enquanto gerente, tens o poder de p\xF4r fim a comportamentos
       inadequados. Qualquer comportamento inadequado, incluindo os comportamentos
-      dos l\xEDderes seniores, deve ser comunicado e levado a s\xE9rio."
+      dos superiores hier\xE1rquicos, deve ser comunicado e levado a s\xE9rio."
     m_Metadata:
       m_Items: []
   - m_Id: 2612770310410240
@@ -190,7 +189,7 @@ MonoBehaviour:
     m_Localized: "Um funcion\xE1rio vem queixar-se de que foi v\xEDtima de ass\xE9dio
       por parte de um gerente porque regressou atrasado ap\xF3s uma pausa pela segunda
       vez esta semana. O gerente chamou-o \xE0 parte para falar sobre esta situa\xE7\xE3o
-      e pedir ocompromisso para ser pontual.\n\_\nIsto \xE9 ass\xE9dio?"
+      e pedir o compromisso para ser pontual.\n\_\nIsto \xE9 ass\xE9dio?"
     m_Metadata:
       m_Items: []
   - m_Id: 2613051878232064
@@ -220,7 +219,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2613610907652096
-    m_Localized: "<b>Exemplos de retalia\xE7\xE3o/vitima\xE7\xE3o:</b>\n\n\u2022<indent=5%>Despedimento</indent>\n\u2022<indent=5%>Despromo\xE7\xE3o\_</indent>\n\u2022<indent=5%>An\xE1lise
+    m_Localized: "<b>Exemplos de retalia\xE7\xE3o:</b>\n\n\u2022<indent=5%>Despedimento</indent>\n\u2022<indent=5%>Despromo\xE7\xE3o\_</indent>\n\u2022<indent=5%>An\xE1lise
       do desempenho insatisfat\xF3ria\_\_</indent>\n\u2022<indent=5%>Mudan\xE7a de
       turnos</indent>\n\u2022<indent=5%>Exclus\xE3o de equipas, eventos, reuni\xF5es\_</indent>\n\u2022<indent=5%>Tarefas
       indesej\xE1veis\_\_</indent>"
@@ -270,10 +269,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2614313474543616
     m_Localized: "Correto! \xC9 evidente que a Ana quer transferir o Samuel para
-      outro restaurante, devido \xE0s consequ\xEAncias da queixa do Samuel. Alterar
-      a situa\xE7\xE3o de trabalho de um funcion\xE1rio porque apresentou uma reclama\xE7\xE3o
-      \xE9 extremamente arriscado, mesmo que o gerente e o funcion\xE1rio considerem
-      ser uma mudan\xE7a positiva.\n\_\nUma boa regra de ouro \xE9 tratar um funcion\xE1rio
+      outro restaurante, devido \xE0s consequ\xEAncias da queixa do Samuel. Mesmo
+      que o gerente e o funcion\xE1rio considerem ser uma mudan\xE7a positiva. Cada
+      situa\xE7\xE3o dever\xE1 ser avaliada com o superior hier\xE1rquico (Consultores
+      e ou Franquiados)\n\_\nUma boa regra de ouro \xE9 tratar um funcion\xE1rio
       como nunca tivesse apresentado uma queixa."
     m_Metadata:
       m_Items: []
@@ -433,14 +432,13 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2619095698329600
-    m_Localized: "\u2022<indent=5%>Pode ser arriscado para os gestores socializarem
-      com os empregados fora do local de trabalho. \xC9 frequente a socializa\xE7\xE3o
-      poder ser agrad\xE1vel no in\xEDcio. Contudo, quando se torna excessivamente
-      familiar, pode afetar o discernimento.</indent>\n\n\u2022<indent=5%>Deves ter
-      aten\xE7\xE3o na socializa\xE7\xE3o com os funcion\xE1rios/colaboradores fora
-      do local de trabalho.</indent>\n\_\n\u2022<indent=5%>Assegurar que n\xE3o existem
-      favoritismos ou qualquer tratamento preferencial relativamente a funcion\xE1rios/colaboradores
-      (hor\xE1rios, promo\xE7\xF5es, folgas, etc..)</indent>\n\n"
+    m_Localized: "\u2022<indent=5%>Pode ser arriscado para os gerentes socializarem
+      com os funcion\xE1rios fora do local de trabalho. A socializa\xE7\xE3o pode
+      ser agrad\xE1vel, contudo quando se torna excessivamente familiar, pode afetar
+      o discernimento.</indent>\n\n\u2022<indent=5%>Deves ter aten\xE7\xE3o na socializa\xE7\xE3o
+      com os funcion\xE1rios/colaboradores fora do local de trabalho.</indent>\n\_\n\u2022<indent=5%>Assegurar
+      que n\xE3o existem favoritismos ou qualquer tratamento preferencial relativamente
+      a funcion\xE1rios/colaboradores (hor\xE1rios, promo\xE7\xF5es, folgas, etc..)</indent>\n\n"
     m_Metadata:
       m_Items: []
   - m_Id: 2619130938871808
@@ -492,13 +490,13 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2619636767739904
     m_Localized: "Os gerentes devem ter cuidado e bom senso ao interagir com os empregados
-      atrav\xE9s de mensagens de texto ou das redes sociais."
+      atrav\xE9s de mensagens de texto ou redes sociais."
     m_Metadata:
       m_Items: []
   - m_Id: 2619668753502208
-    m_Localized: "A participa\xE7\xE3o em tais f\xF3runs com subordinados pode aumentar
-      a possibilidade de viola\xE7\xE3o dos nossos valores. Pense antes de publicar
-      qualquer coisa e pe\xE7a sempre autoriza\xE7\xE3o."
+    m_Localized: "A intera\xE7\xE3o excessiva em tais for\xFAns com funcion\xE1rios
+      pode aumentar a possibilidade de viola\xE7\xE3o dos nossos valores. Pensa antes
+      de publicar qualquer coisa."
     m_Metadata:
       m_Items: []
   - m_Id: 2619733047988224
@@ -569,7 +567,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620514086113280
-    m_Localized: Fale quando vir um comportamento inadequado.
+    m_Localized: Falar quando vires um comportamento inadequado.
     m_Metadata:
       m_Items: []
   - m_Id: 2620555144155136
@@ -614,12 +612,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 4633509599473664
-    m_Localized: Comunique imediatamente, aconselhe-se e seja discreto.
+    m_Localized: "Comunica imediatamente, aconselha-te e s\xEA discreto."
     m_Metadata:
       m_Items: []
   - m_Id: 4633596132159488
     m_Localized: "D\xE1 a tua opini\xE3o pessoal sobre a situa\xE7\xE3o para mostrares
-      empatia"
+      empatia."
     m_Metadata:
       m_Items: []
   - m_Id: 4633979759980544
@@ -643,8 +641,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5044474736373760
-    m_Localized: "Garante que apessoa se sente segura e confort\xE1vel no local de
-      trabalho, junto dos colegas."
+    m_Localized: "Garante que a pessoa se sente segura e confort\xE1vel no local
+      de trabalho, junto dos colegas."
     m_Metadata:
       m_Items: []
   - m_Id: 5377724755308544
@@ -666,7 +664,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5479429462888448
-    m_Localized: "<b>\"Esses de coment\xE1rios podem ofender algu\xE9m e s\xE3o inadequados
+    m_Localized: "<b>\"Esses coment\xE1rios podem ofender algu\xE9m e s\xE3o inadequados
       aqui. Vamos voltar ao t\xF3pico em quest\xE3o.\"</b>"
     m_Metadata:
       m_Items: []
@@ -767,8 +765,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8376643999191040
-    m_Localized: "D\xE1 a tua opini\xE3o pessoal sobre a situa\xE7\xE3o para mostrares
-      empatia"
+    m_Localized: "Dar a tua opini\xE3o pode desvalorizar a queixa."
     m_Metadata:
       m_Items: []
   - m_Id: 8377561062789120
@@ -805,8 +802,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15218309350809600
-    m_Localized: "D\xE1 a tua opini\xE3o pessoal sobre a situa\xE7\xE3o para mostrares
-      empatia"
+    m_Localized: "Dar a tua opini\xE3o pode desvalorizar a queixa."
     m_Metadata:
       m_Items: []
   - m_Id: 15219142033399808

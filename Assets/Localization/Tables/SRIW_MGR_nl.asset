@@ -19,12 +19,12 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 58963357696
-    m_Localized: <b>Bij McDonald's bevorderen en onderhouden we een Veilige, Respectvolle
-      en Inclusieve werkomgeving voor iedereen door:</b>
+    m_Localized: <b>Bij McDonald's hebben we elke dag aandacht voor een Veilige,
+      Respectvolle en Inclusieve werkomgeving voor iedereen door:</b>
     m_Metadata:
       m_Items: []
   - m_Id: 32415523106816
-    m_Localized: De rol van de Manager bij het opbouwen van een Veilige, Respectvolle
+    m_Localized: De rol van de manager bij het opbouwen van een Veilige, Respectvolle
       en Inclusieve werkomgeving
     m_Metadata:
       m_Items: []
@@ -34,11 +34,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 300762370240512
-    m_Localized: Elke dag onze waarden naleven en promoten
+    m_Localized: Elke dag onze waarden na te leven
     m_Metadata:
       m_Items: []
   - m_Id: 301541340573696
-    m_Localized: Iedereen met respect behandelen
+    m_Localized: Iedereen met respect te behandelen
     m_Metadata:
       m_Items: []
   - m_Id: 324650974146560
@@ -47,22 +47,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 328896373157888
-    m_Localized: Van je laten horen als je ongewenst gedrag ziet of ervaart
+    m_Localized: Van te laten horen als je ongewenst gedrag ziet of ervaart
     m_Metadata:
       m_Items: []
   - m_Id: 329567763787776
-    m_Localized: "Bewust te zijn dat iedereen, vooral Manager, een belangrijke rol
+    m_Localized: "Bewust te zijn dat iedereen, jij als manager, een belangrijke rol
       speelt bij het cre\xEBren van een respectvolle cultuur."
     m_Metadata:
       m_Items: []
   - m_Id: 2592079758446592
-    m_Localized: 'Als Manager van anderen speel je een cruciale rol bij het opbouwen
-      van een Veilige, Respectvolle en Inclusieve werkomgeving.
+    m_Localized: 'Als manager peel je een cruciale rol bij het werken aan een Veilige,
+      Respectvolle en Inclusieve werkomgeving.
 
 
-      Er wordt
-      van je verwacht dat je een rolmodel bent voor je team en altijd het goede voorbeeld
-      geeft!'
+      Er wordt van je verwacht dat
+      je een rolmodel bent voor je team en altijd het goede voorbeeld geeft!'
     m_Metadata:
       m_Items: []
   - m_Id: 2592417236340736
@@ -90,9 +89,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2594492410187776
-    m_Localized: Beschuldigingen of meldingen van alle vormen van ongewenst gedrag,
-      zoals intimidatie (fysiek, psychologisch, seksueel), discriminatie, pesten
-      en vergelding, serieus nemen.
+    m_Localized: Meldingen van alle vormen van ongewenst gedrag, zoals intimidatie
+      (fysiek, psychologisch, seksueel), discriminatie, pesten en vergelding, serieus
+      te nemen.
     m_Metadata:
       m_Items: []
   - m_Id: 2595063053635584
@@ -101,8 +100,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2595208877002752
-    m_Localized: Ervoor zorgen dat jij en jouw collega's weten hoe en waar ze zich
-      moeten melden als ze ongewenst gedrag ervaren of herkennen.
+    m_Localized: Ervoor te zorgen dat jij en jouw collega's weten hoe en waar ze
+      zich moeten melden als ze ongewenst gedrag ervaren of herkennen.
     m_Metadata:
       m_Items: []
   - m_Id: 2609365743521792
@@ -110,7 +109,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2609551664435200
-    m_Localized: '<b>Iemand heeft zich bij je gemeld met een mogelijke melding.
+    m_Localized: '<b>Lemand is naar je toe gekomen met een mogelijke melding.
 
       Wat
       denk je dat je in deze situatie moet doen?</b>'
@@ -142,8 +141,8 @@ MonoBehaviour:
       haar knipoogde en dat ze zich daar ongemakkelijk bij voelde.
 
 
-      Is de
-      volgende reactie van een manager passend?'
+      Was de
+      reactie van de manager passend?'
     m_Metadata:
       m_Items: []
   - m_Id: 2611431417270272
@@ -158,7 +157,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2611893193363456
-    m_Localized: Juist! Managers moeten potentieel ongewenst gedrag altijd serieus
+    m_Localized: Juist! Managers moeten mogelijk ongewenst gedrag altijd serieus
       nemen. Dit betekent dat je het incident onmiddellijk moet melden.
     m_Metadata:
       m_Items: []
@@ -169,7 +168,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2612287864786944
     m_Localized: Wat moet je doen als een medewerker je vertelt getuige te zijn geweest
-      van een situatie waarbij een Manager een aantal Crewleden op een ongevewenste
+      van een situatie waarbij een Manager een aantal Crewleden op een ongewenste
       manier aansprak?
     m_Metadata:
       m_Items: []
@@ -204,19 +203,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2612922806915072
-    m_Localized: "Een medewerker klaagt bij je dat hij/zij is lastiggevallen door
-      een manager omdat hij/zij voor de tweede keer deze week te laat terugkwam van
-      pauze. De manager nam de medewerker apart om de kwestie te bespreken en om
-      af te spreken dat hij/zij voortaan op tijd terug zou komen.\n\_\nIs dit intimidatie?"
+    m_Localized: 'Een medewerker klaagt over lastig gevallen worden door een manager,
+      omdat de medewerker voor de tweede keer deze week te laat terugkwam van pauze.
+      De manager nam de medewerker apart om de kwestie te bespreken en om af te spreken
+      dat de medewerker voortaan op tijd terug zou komen.
+
+
+      Is dit intimidatie?'
     m_Metadata:
       m_Items: []
   - m_Id: 2613051878232064
     m_Localized: "Juist! Het communiceren van de verwachtingen van McDonald's en
       het apart nemen van een medewerker om een \u200B\u200Bkwestie te bespreken
       is geen vorm van intimidatie. Er kan echter sprake zijn van intimidatie als
-      de feedback op een krachtige, kwetsende, bedreigende of intimiderende manier
-      wordt gegeven. Als je het niet zeker weet, moet je dit via het juiste kanaal
-      melden."
+      de feedback op een, kwetsende, bedreigende of intimiderende manier wordt gegeven.
+      Als je het niet zeker weet, moet je dit via het juiste kanaal oppakken."
     m_Metadata:
       m_Items: []
   - m_Id: 2613344506433536
@@ -233,7 +234,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2613561855266816
     m_Localized: Er is sprake van vergelding wanneer iemand wordt gestraft of een
-      negatieve werksfeer ervaart, omdat hij/zij melding heeft gemaakt, van plan
+      negatieve werksfeer ervaart, omdat die persoon melding heeft gemaakt, van plan
       is een melding te maken, of betrokken is bij een melding (bijvoorbeeld als
       getuige) over gedrag op de werkplek, zoals mogelijke intimidatie (fysiek, psychologisch,
       seksueel), discriminatie, pesten of vergelding/wraakacties.
@@ -250,7 +251,7 @@ MonoBehaviour:
     m_Localized: 'Als manager: voorkom, stop en rapporteer wanneer je merkt dat jouw
       team aan vergelding doet. Als je als manager wordt beschuldigd van vergelding/wraakacties,
       blijf dan als rolmodel leidinggeven aan de medewerker. Werk volledig en eerlijk
-      samen met de onderzoekers en laat het proces zijn gang gaan.'
+      mee aan het onderzoek.'
     m_Metadata:
       m_Items: []
   - m_Id: 2613822434791424
@@ -291,7 +292,7 @@ MonoBehaviour:
     m_Localized: "Juist!\_Het is duidelijk dat Anna Samuel naar een ander restaurant
       wil overplaatsen op basis van de gevolgen van de melding van Samuel. Het veranderen
       van de werksituatie van een medewerker omdat de medewerker een melding heeft
-      gemaakt, is uiterst riskant, zelfs als de leidinggevende en de medewerker dit
+      gemaakt, is zeer riskant, zelfs als de leidinggevende en de medewerker dit
       als een positieve zet beschouwen.\n\_\nEen goede vuistregel is om een medewerker
       te blijven behandelen alsof die nooit een melding heeft gedaan."
     m_Metadata:
@@ -321,13 +322,13 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2615270258200576
-    m_Localized: Het managen van verwachtingen tijdens het rapportageproces is van
-      cruciaal belang.
+    m_Localized: Het managen van verwachtingen tijdens het proces is van cruciaal
+      belang.
     m_Metadata:
       m_Items: []
   - m_Id: 2616712327024640
-    m_Localized: Iemand die een klacht indient of betrokken is bij het onderzoek
-      naar een klacht, kan zich vaak onzeker en zelfs bedreigd voelen.
+    m_Localized: Iemand die een klacht meldt of betrokken is bij het onderzoek naar
+      een klacht, kan zich vaak onzeker en zelfs bedreigd voelen.
     m_Metadata:
       m_Items: []
   - m_Id: 2616952182493184
@@ -358,8 +359,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2617613712314368
-    m_Localized: Kun je een of meer van deze vragen met Ja beantwoorden, dan is het
-      een goed idee om er iets van te zeggen.
+    m_Localized: Kun je een of meer van deze vragen met 'Ja' beantwoorden, dan is
+      het een goed idee om er iets van te zeggen.
     m_Metadata:
       m_Items: []
   - m_Id: 2617686349271040
@@ -383,8 +384,7 @@ MonoBehaviour:
   - m_Id: 2617852200439808
     m_Localized: '<b>Vertraag:</b>
 
-      Bespreek het gedrag of ongemak op een neutraler
-      moment.'
+      Bespreek het gedrag op een neutraler moment.'
     m_Metadata:
       m_Items: []
   - m_Id: 2617899503800320
@@ -437,16 +437,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2618858913091584
-    m_Localized: "Bedenk dat wanneer je van je laat horen, je het volgende doet:\_\n\n\u2022<indent=5%>Zet
-      de eerste stap om ongewenst gedrag te stoppen</indent>\n\u2022<indent=5%>Handel
-      als rolmodel voor onze waarden </indent>\n\u2022<indent=5%>Moedig anderen aan
-      om hun zorgen naar voren te brengen</indent>"
+    m_Localized: "Bedenk dat wanneer je van je laat horen, je het volgende doet:\_\n\n\u2022<indent=5%>Je
+      zet de eerste stap om ongewenst gedrag te stoppen</indent>\n\u2022<indent=5%>Je
+      handelt als rolmodel voor onze waarden </indent>\n\u2022<indent=5%>Je moedig
+      anderen aan om hun zorgen naar voren te brengen</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2618964798296064
-    m_Localized: "Spreek jouw mening uit om een fijne cultuur van verbondenheid te
-      cree\xEBren waarin iedereen een stem heeft en het gevoel heeft bij iemand terecht
-      te kunnen."
+    m_Localized: "Spreek jouw mening uit om een cultuur van verbondenheid te cree\xEBren
+      waarin iedereen een stem heeft en het gevoel heeft bij iemand terecht te kunnen."
     m_Metadata:
       m_Items: []
   - m_Id: 2619046234902528
@@ -479,9 +478,9 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2619225725947904
     m_Localized: "\u2022<indent=5%>Houd er altijd rekening mee dat acties en woorden,
-      zelfs buiten het werk, later de werkomgeving kunnen be\xEFnvloeden.</indent>\n\n\u2022<indent=5%>Bekijk
-      en ga mee met het beleid dat op jouw werkplek geldt ten aanzien van managers
-      die buiten werktijd vriendschappelijk omgaan met medewerkers.</indent>\n\n\u2022<indent=5%>Denk
+      zelfs buiten het werk, later de werkomgeving kunnen be\xEFnvloeden.</indent>\n\n\u2022<indent=5%>Volg
+      het beleid dat op jouw werkplek geldt ten aanzien van managers die buiten werktijd
+      vriendschappelijk omgaan met medewerkers.</indent>\n\n\u2022<indent=5%>Denk
       goed na voor je buiten het werk met andere medewerkers op stap gaat.</indent>"
     m_Metadata:
       m_Items: []
@@ -508,7 +507,7 @@ MonoBehaviour:
   - m_Id: 2619588357083136
     m_Localized: Plaats of ondersteun geen berichten die discriminerende opmerkingen,
       intimidatie (fysiek, psychologisch, seksueel), bedreigingen met geweld of soortgelijk
-      ongewenst of bevatten.
+      ongewenst bevatten.
     m_Metadata:
       m_Items: []
   - m_Id: 2619636767739904
@@ -536,7 +535,7 @@ MonoBehaviour:
       waarbij een persoon met macht (zoals een manager of supervisor) beloften doet,
       dingen ontzegd, arbeidsvoorwaarden wijzigt, of beslissingen neemt in ruil voor
       (seksuele) gunsten.</indent>\n\n\u2022<indent=5%>Dergelijk gedrag is in strijd
-      met onze waarden en veroorzaakt ongelooflijke schade aan alle betrokkenen.</indent>"
+      met onze waarden en veroorzaakt grote schade aan alle betrokkenen.</indent>"
     m_Metadata:
       m_Items: []
   - m_Id: 2619924635406336
@@ -601,7 +600,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620572621819904
-    m_Localized: alle vormen van vergelding/represailles te voorkomen of een halt
+    m_Localized: alle vormen van vergelding/wraakacties te voorkomen of een halt
       of te stoppen.
     m_Metadata:
       m_Items: []
@@ -611,24 +610,24 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2620668432306176
-    m_Localized: je bewust te zijn van jouw impact op de werkomgeving en voortrekkerij
+    m_Localized: je bewust te zijn van jouw impact op de werkomgeving en voortrekken
       te vermijden.
     m_Metadata:
       m_Items: []
   - m_Id: 2620709704257536
-    m_Localized: Wees voorzichtig bij het communiceren met collega's via sociale
+    m_Localized: Voorzichtig te zijn bij het communiceren met collega's via sociale
       media en sms.
     m_Metadata:
       m_Items: []
   - m_Id: 2620743099305984
-    m_Localized: Maak geen misbruik van je macht.
+    m_Localized: Geen misbruik te maken
     m_Metadata:
       m_Items: []
   - m_Id: 2620798967435264
-    m_Localized: '<b>Herinnering</b>
+    m_Localized: '
 
-      Heb je vragen over deze punten, raadpleeg
-      dan het beleid van jouw restaurant en vraag om advies.'
+      Heb je vragen over deze onderwerpen, raadpleeg dan het
+      beleid van jouw restaurant en vraag om advies.'
     m_Metadata:
       m_Items: []
   - m_Id: 4631539316781056
@@ -648,8 +647,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 4633979759980544
-    m_Localized: Het managen van verwachtingen tijdens het rapportageproces is van
-      cruciaal belang.
+    m_Localized: Het managen van verwachtingen tijdens het proces is van cruciaal
+      belang.
     m_Metadata:
       m_Items: []
   - m_Id: 4634832814305280
@@ -671,8 +670,8 @@ MonoBehaviour:
   - m_Id: 5044474736373760
     m_Localized: "Wat je zegt of doet, of wat je niet zegt of doet, heeft vaak grote
       gevolgen.\u202F\u202F\_\n\_\nZorg ervoor dat diegene zich niet afgezonderd
-      voelt van collega's of een afstand ervaart tot hun kans en verantwoordelijkheden
-      op het werk."
+      voelt van collega's of het gevoel heeft de werkzaamheden niet meer zoals voorheen
+      te kunnen doen."
     m_Metadata:
       m_Items: []
   - m_Id: 5377724755308544
@@ -685,24 +684,23 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5378092260225024
-    m_Localized: "Als manager moet je zaken bespreekbaar maken en andere stimuleren
-      dat ook te doen. Aan jou de taak om je als rolmodel te gedragen voor het gedrag
-      dat past bij de waarden van McDonald's. \_"
+    m_Localized: "Als manager moet je zaken bespreekbaar maken en anderen stimuleren
+      dat ook te doen. Aan jou de taak om je als rolmodel te gedragen op een manier
+      die past bij de waarden van McDonald's. \_"
     m_Metadata:
       m_Items: []
   - m_Id: 5479293621964800
-    m_Localized: <b>"Deze opmerkingen zijn ongepast op het werk."</b>
+    m_Localized: <b>"Deze opmerkingen zijn ongewenst op het werk."</b>
     m_Metadata:
       m_Items: []
   - m_Id: 5479429462888448
-    m_Localized: <b>"Met dit soort opmerkingen kun je iemand beledigen en deze zijn
-      hier ongepast. Laten we teruggaan naar het onderwerp waar het om gaat."</b>
+    m_Localized: <b>"Met dit soort opmerkingen kun je iemand beledigen en dit is
+      ongewenst. Laten we teruggaan naar het onderwerp waar het om gaat."</b>
     m_Metadata:
       m_Items: []
   - m_Id: 5479531518693376
-    m_Localized: <b>"Het is belangrijk dat je van mij hoort dat de opmerking die
-      je daarstraks plaatste voor anderen beledigend kan zijn en niet past bij onze
-      waarden."</b>
+    m_Localized: <b>"De opmerking die je eerder maakte kan voor anderen beledigend
+      zijn en past niet bij onze waarden."</b>
     m_Metadata:
       m_Items: []
   - m_Id: 5479641749196800
@@ -780,9 +778,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7603158175666176
-    m_Localized: Als manager moet jij de standaarden handhaven en een veilige werkomgeving
-      bieden. Je wordt voortdurend uitgedaagd om coaching en feedback te geven. Dit
-      moet altijd eerlijk en respectvol gebeuren.
+    m_Localized: Als manager ben je verantwoordelijk voor het bieden van een veilige
+      werkomgeving. Je wordt voortdurend uitgedaagd om coaching en feedback te geven.
+      Dit moet altijd eerlijk en respectvol gebeuren.
     m_Metadata:
       m_Items: []
   - m_Id: 8375492478193664
@@ -815,7 +813,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 8377809847930880
     m_Localized: Dit is geen correct antwoord, omdat het belangrijk is om klachten
-      snel te behandelen in plaats van actie uit te stellen.
+      snel te behandelen in plaats van uit te stellen.
     m_Metadata:
       m_Items: []
   - m_Id: 8377869428019200

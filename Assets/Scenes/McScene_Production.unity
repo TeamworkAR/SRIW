@@ -1453,7 +1453,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 557381975349125514, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 759380992864694980, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
       propertyPath: disableFlip
@@ -1665,7 +1665,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5501070355356296738, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5758206349447014861, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
       propertyPath: m_AnchoredPosition.x

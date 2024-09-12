@@ -24,7 +24,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 32415523106816
-    m_Localized: Die Aufgabe eines Manager:in bei der Schaffung eines sicheren, respektvollen
+    m_Localized: Die Aufgabe eines Managers bei der Schaffung eines sicheren, respektvollen
       und inklusiven Arbeitsplatzes
     m_Metadata:
       m_Items: []
@@ -135,7 +135,7 @@ MonoBehaviour:
   - m_Id: 2611299066007552
     m_Localized: "Eine junge Mitarbeiterin hat dich dar\xFCber informiert, dass ihr
       ein Lieferant zugezwinkert hat und sie sich dabei unwohl gef\xFChlt hat.\n\nIst
-      die folgende Antwort des Manager:in angemessen?"
+      die folgende Antwort des Managers angemessen?"
     m_Metadata:
       m_Items: []
   - m_Id: 2611431417270272
@@ -218,20 +218,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2613459648466944
-    m_Localized: <b>Verantwortlichkeiten von Managern im Zusammenhang mit Vergeltung/Schikane</b>
+    m_Localized: <b>Verantwortlichkeiten von Managern im Zusammenhang mit Vergeltung
+      / Schikane</b>
     m_Metadata:
       m_Items: []
   - m_Id: 2613561855266816
-    m_Localized: "Vergeltung/Schikane liegt vor, wenn jemand bestraft wird oder eine
-      negative arbeitsrechtliche oder individuelle Massnahme erf\xE4hrt, weil er
-      beabsichtigt, eine Beschwerde einzureichen oder an einer Beschwerde (z. B.
-      als Zeuge) \xFCber ein Verhalten am Arbeitsplatz beteiligt ist, wie z. B. potenzielle
-      Bel\xE4stigung (k\xF6rperlich, psychologisch, sexuell), Diskriminierung, Mobbing
-      oder Vergeltung/Schikane."
+    m_Localized: "Vergeltung / Schikane liegt vor, wenn jemand bestraft wird oder
+      eine negative arbeitsrechtliche oder individuelle Massnahme erf\xE4hrt, weil
+      er beabsichtigt, eine Beschwerde einzureichen oder an einer Beschwerde (z.
+      B. als Zeuge) \xFCber ein Verhalten am Arbeitsplatz beteiligt ist, wie z. B.
+      potenzielle Bel\xE4stigung (k\xF6rperlich, psychologisch, sexuell), Diskriminierung,
+      Mobbing oder Vergeltung/Schikane."
     m_Metadata:
       m_Items: []
   - m_Id: 2613610907652096
-    m_Localized: "<b>Beispiele f\xFCr Vergeltung/Schikane:</b>\n\n\u2022<indent=5%>K\xFCndigung</indent>\_\n\u2022<indent=5%>Herabstufung\_</indent>\_\n\u2022<indent=5%>Schlechte
+    m_Localized: "<b>Beispiele f\xFCr Vergeltung / Schikane:</b>\n\n\u2022<indent=5%>K\xFCndigung</indent>\_\n\u2022<indent=5%>Herabstufung\_</indent>\_\n\u2022<indent=5%>Schlechte
       Leistungsbeurteilung\_\_</indent>\n\u2022<indent=5%>Schichten wechseln</indent>\n\u2022<indent=5%>Ausschluss
       vom Team, Veranstaltungen, Meetings</indent>\n\u2022<indent=5%>Unerw\xFCnschte
       Aufgaben\_\_</indent>"
