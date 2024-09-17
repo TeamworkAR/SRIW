@@ -31,4 +31,21 @@ namespace Data.ScenarioSettings
         public bool ShowTextBackground => showTextBackground;
 
     }
+
+    [Serializable]
+    public class DisclaimerPanelData
+    {
+        [SerializeField] private CharacterData.CharacterData owner = null;
+
+        [SerializeField] private LocalizedString infoString = null;
+
+        [SerializeField] private bool showTextBackground = true;
+
+        public LocalizedString InfoString => infoString;
+
+        public CharacterData.CharacterData Owner => owner;
+
+        public bool ShowTextBackground => showTextBackground;
+
+    }
 }

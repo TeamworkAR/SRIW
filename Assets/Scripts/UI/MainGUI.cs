@@ -91,6 +91,8 @@ namespace UI
         [SerializeField] private QuestionWith4OptionsPanel questionWith4OptionPanel = null;
 
         [SerializeField] private BasicCharacterOnLeftPanel basicCharacterOnLeftPanel = null;
+
+        [SerializeField] private DisclaimerPanel disclaimerPanel = null;
         public QuestionWith3OptionsPanel QuestionWith3OptionPanel => questionWith3OptionPanel;
         public QuestionWith4OptionsPanel QuestionWith4OptionPanel => questionWith4OptionPanel;
         [SerializeField] private Flip4CardsWithDoubleSideTextPanel flip4CardsWithDoubleSideTextPanel = null;
@@ -150,5 +152,7 @@ namespace UI
         public DecisionMaking4GridUI DecisionMaking4GridUI => decisionMaking4GridUI;
         public SingleFlipCardPanel SingleFlipPanel => singleFlipPanel;
         public BasicCharacterOnLeftPanel BasicCharacterOnLeftPanel => basicCharacterOnLeftPanel;
+
+        public DisclaimerPanel DisclaimerPanel => disclaimerPanel;
     }
 }

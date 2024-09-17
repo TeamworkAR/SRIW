@@ -1,28 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-9122304872154569744
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
-  m_Name: Edge - StateNode - 155ac30f7b24db44cb5deb1927ebe762 to StateNode - acf42b02a1c156b42ae130d318353daa
-  m_EditorClassIdentifier: 
-  m_Guid: 97879cebf15cbe84d879fe016b16b789
-  m_Condition:
-    rid: 7452529927775322118
-  m_From: {fileID: 1593387174601064561}
-  m_To: {fileID: 6484866534639170045}
-  references:
-    version: 2
-    RefIds:
-    - rid: 7452529927775322118
-      type: {class: LocalizationSelectionDoneCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
-      data: 
 --- !u!114 &-9042243310875950102
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1112,8 +1089,8 @@ MonoBehaviour:
   - {fileID: 865436534399807688}
   - {fileID: 3785191652765396420}
   - {fileID: -6102065955135831512}
+  - {fileID: 4781338951606658350}
   m_Edges:
-  - {fileID: -9122304872154569744}
   - {fileID: 1045310410624042395}
   - {fileID: -7950899646217210194}
   - {fileID: 530016858534284588}
@@ -1140,6 +1117,8 @@ MonoBehaviour:
   - {fileID: 4171724761358556267}
   - {fileID: -7084407668107892883}
   - {fileID: -7312536324119039464}
+  - {fileID: 5031964494883787545}
+  - {fileID: 1258520029380966685}
 --- !u!114 &530016858534284588
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1223,6 +1202,29 @@ MonoBehaviour:
     - rid: 8755670609914757135
       type: {class: BasicInfoPanelEndedCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
       data: 
+--- !u!114 &1258520029380966685
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 6de71312c2608a949aaf5be281ced3bc to StateNode - acf42b02a1c156b42ae130d318353daa
+  m_EditorClassIdentifier: 
+  m_Guid: f3e7800e835fca44a918f39b97fbb65b
+  m_Condition:
+    rid: 2768814768303898633
+  m_From: {fileID: 4781338951606658350}
+  m_To: {fileID: 6484866534639170045}
+  references:
+    version: 2
+    RefIds:
+    - rid: 2768814768303898633
+      type: {class: DisclaimerPanelEndedCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data: 
 --- !u!114 &1593387174601064561
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1237,7 +1239,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Guid: 155ac30f7b24db44cb5deb1927ebe762
   m_Edges:
-  - {fileID: -9122304872154569744}
+  - {fileID: 5031964494883787545}
   m_OnEnterActions:
   - rid: 7452529905986437122
   - rid: 7452529927775322114
@@ -1248,7 +1250,7 @@ MonoBehaviour:
   m_OnRestoreActions:
   - rid: 7452529927775322116
   - rid: 7452529927775322117
-  _position: {x: 0.000015258789, y: -191.49991}
+  _position: {x: -142, y: -173}
   references:
     version: 2
     RefIds:
@@ -1633,6 +1635,66 @@ MonoBehaviour:
     - rid: 8755670767467233301
       type: {class: HideBasicCarouselPanelAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
       data: 
+--- !u!114 &4781338951606658350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b0fd20573c483fb289341ed5aaf522, type: 3}
+  m_Name: StateNode - 6de71312c2608a949aaf5be281ced3bc
+  m_EditorClassIdentifier: 
+  m_Guid: 6de71312c2608a949aaf5be281ced3bc
+  m_Edges:
+  - {fileID: 1258520029380966685}
+  m_OnEnterActions:
+  - rid: 2768814768303898631
+  - rid: 2768814768303898637
+  m_OnStayActions: []
+  m_OnExitActions: []
+  m_OnRevertActions:
+  - rid: 2768814768303898635
+  m_OnRestoreActions: []
+  _position: {x: 19, y: -163}
+  references:
+    version: 2
+    RefIds:
+    - rid: 2768814768303898631
+      type: {class: StartDisclaimerPanelAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data:
+        infoPanelData: {fileID: 11400000, guid: b6cbc1bff9cb75a4fbe19e245beab931, type: 2}
+    - rid: 2768814768303898635
+      type: {class: HideDisclaimerPanelAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data: 
+    - rid: 2768814768303898637
+      type: {class: ActivateYellowBackground, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data: 
+--- !u!114 &5031964494883787545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee31aa93b041d5b09877577094ad78, type: 3}
+  m_Name: Edge - StateNode - 155ac30f7b24db44cb5deb1927ebe762 to StateNode - 6de71312c2608a949aaf5be281ced3bc
+  m_EditorClassIdentifier: 
+  m_Guid: 08babda3d807d9649b69236e20e020aa
+  m_Condition:
+    rid: 2768814768303898632
+  m_From: {fileID: 1593387174601064561}
+  m_To: {fileID: 4781338951606658350}
+  references:
+    version: 2
+    RefIds:
+    - rid: 2768814768303898632
+      type: {class: LocalizationSelectionDoneCondition, ns: NodeEditor.Conditions, asm: Assembly-CSharp}
+      data: 
 --- !u!114 &5197149553066203897
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1886,6 +1948,7 @@ MonoBehaviour:
   m_Edges:
   - {fileID: -9042243310875950102}
   m_OnEnterActions:
+  - rid: 2768814768303898638
   - rid: 8755670609914757137
   - rid: 7452530106067320841
   m_OnStayActions: []
@@ -1893,11 +1956,18 @@ MonoBehaviour:
   m_OnRevertActions:
   - rid: 8755670609914757138
   - rid: 7452530106067320834
+  - rid: 2768814768303898639
   m_OnRestoreActions: []
   _position: {x: 167, y: -152}
   references:
     version: 2
     RefIds:
+    - rid: 2768814768303898638
+      type: {class: DeactivateYellowBackground, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data: 
+    - rid: 2768814768303898639
+      type: {class: ActivateYellowBackground, ns: NodeEditor.Actions, asm: Assembly-CSharp}
+      data: 
     - rid: 7452530106067320834
       type: {class: SetMusicAction, ns: NodeEditor.Actions, asm: Assembly-CSharp}
       data:
