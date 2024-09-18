@@ -26,22 +26,16 @@ public class DecisionMakingGridUI : BaseUICanvas
 
     [SerializeField] private TextMeshProUGUI lowerText = null;
 
-    //[SerializeField] private LocalizedString localizedString_CircleTop = null;
-    //
-    //[SerializeField] private LocalizedString localizedString_CircleBot = null;
-    //
-    //[SerializeField] private LocalizedString localizedString_Lower = null;
-
     private DecisionMakingGridData m_Data = null;
 
     private int m_WrongAttempts = 0;
 
-    // TODO: Tack this coroutine better
     private Coroutine m_Running = null;
 
     private bool endedDecision = false;
 
-    // public bool IsDone() => cards.TrueForAll(t => t.IsCorrectlySelectedOrUnselected == true) && m_Running == null && IsOnScreen() == false;
+    private int flippedCardsCount = 0;
+
     public bool IsDone() => endedDecision;
 
     public void ShowWithWrapperData(DecisionMakingGridDataWrapper decisionMakingGridDataWrapper)
@@ -52,12 +46,12 @@ public class DecisionMakingGridUI : BaseUICanvas
         base.Show();
 
         m_CheckButton.gameObject.SetActive(true);
+        m_CheckButton.interactable = false;  // Keep it inactive initially
         m_ButtonNext.gameObject.SetActive(false);
 
         m_WrongAttempts = 1;
 
         m_Data = decisionMakingGridDataWrapper.DecisionMakingGridData;
-
 
         circleText_Top.text = m_Data.CircleTopString.GetLocalizedString();
         circleText_Bot.text = m_Data.CircleBottomString.GetLocalizedString();
@@ -66,7 +60,6 @@ public class DecisionMakingGridUI : BaseUICanvas
         if (m_Data.Chatacter != null)
         {
             CharacterShowcase characterShowcase = m_Data.Chatacter.ShowcaseTemplate.GetInstance(this, CharacterShowcase.CameraPositions.CloseUp);
-
             characterShowcase.GetComponent<DecisionMakingAnimations>().HandleDecisionMaking();
 
             if (m_CharacterImage != null)
@@ -74,78 +67,36 @@ public class DecisionMakingGridUI : BaseUICanvas
                 m_CharacterImage.enabled = true;
                 m_CharacterImage.texture = characterShowcase.ImageTexture;
             }
-
-            
         }
         else
+        {
             m_CharacterImage.enabled = false;
-        
+        }
+
+        flippedCardsCount = 0;  // Reset flipped card count
 
         for (int i = 0; i < m_Data.Tiles.Count; i++)
         {
             cards[i].ResetViz();
-
             cards[i].FeedData(m_Data.Tiles[i]);
+            cards[i].OnCardFlipped = OnCardFlipped;  // Set callback for card flip
         }
 
-        //forcing every tile to be enabled when the decision making panel is shown
         foreach (var tile in cards)
         {
             tile.enabled = true;
         }
     }
 
-    /* public override void Show()
-     {
-         this.gameObject.SetActive(true);
-         base.Show();
-
-         m_CheckButton.gameObject.SetActive(true);
-         m_ButtonNext.gameObject.SetActive(false);
-
-         m_WrongAttempts = 0;
-
-         m_Data = GameManager.Instance.ScenarioSettings.GetExtension<ScenarioSettings.DecisionMakingExtension>();
-
-         circleText_Top.text = localizedString_CircleTop.GetLocalizedString();
-         circleText_Bot.text = localizedString_Lower.GetLocalizedString();
-         lowerText.text = localizedString_Lower.GetLocalizedString();
-
-         CharacterShowcase characterShowcase = m_Data.Chatacter.ShowcaseTemplate.GetInstance(this, CharacterShowcase.CameraPositions.CloseUp);
-
-         characterShowcase.GetComponent<DecisionMakingAnimations>().HandleDecisionMaking();
-
-         m_CharacterImage.texture = characterShowcase.ImageTexture;
-
-         for (int i = 0; i < m_Data.Tiles.Count; i++)
-         {
-             cards[i].ResetViz();
-
-             cards[i].FeedData();
-         }
-
-         //forcing every tile to be enabled when the decision making panel is shown
-         foreach (var tile in cards)
-         {
-             tile.enabled = true;
-         }
-     }*/
-
-    public override void Hide()
+    private void OnCardFlipped()
     {
-        base.Hide();
+        flippedCardsCount++;
 
-        if (m_Running != null)
+        if (flippedCardsCount >= cards.Count)
         {
-            StopCoroutine(m_Running);
+            m_CheckButton.interactable = true;  // Make the button interactable when all cards are flipped
         }
-
-        CharacterShowcase.ClearByOwner(this);
-
-        m_Data = null;
-        this.gameObject.SetActive(false);
     }
-
 
     public void CheckAnswer()
     {
@@ -158,10 +109,9 @@ public class DecisionMakingGridUI : BaseUICanvas
                 if (m_Data.WrongAttemptClips.Count > m_WrongAttempts)
                 {
                     ScenarioSettings.DecisionMakingExtension.AttemptClipData attemptClipData =
-                    tile.FlipCardData.AttemptClipOverride != null && tile.FlipCardData.AttemptClipOverride.Audio != null
-                       ? tile.FlipCardData.AttemptClipOverride
-                       : m_Data.WrongAttemptClips[m_WrongAttempts];
-
+                        tile.FlipCardData.AttemptClipOverride != null && tile.FlipCardData.AttemptClipOverride.Audio != null
+                            ? tile.FlipCardData.AttemptClipOverride
+                            : m_Data.WrongAttemptClips[m_WrongAttempts];
 
                     AudioManager.Instance.PlayDecisioMakingClip(attemptClipData.Audio);
                     MainGUI.Instance.MSubtitlesUI.ShowSubtitle(attemptClipData.SubTitles);
@@ -175,10 +125,6 @@ public class DecisionMakingGridUI : BaseUICanvas
 
                     void OnCdEnded()
                     {
-                        // Right answer clip was removed from scripts
-                        // AudioManager.Instance.PlayDecisioMakingClip(m_Data.RightAttemptClip.Audio);
-                        // MainGUI.Instance.MSubtitlesUI.ShowSubtitle(m_Data.RightAttemptClip.SubTitles);
-
                         cards.ForEach(t => t.ShowResult());
 
                         m_Running = StartCoroutine(Helpers.UI.COR_Cooldown(Consts.UI.k_DECISION_MAKING_END_CD, () => DisableInteraction(false), EnableInteraction_WrongAttempts));
@@ -195,10 +141,6 @@ public class DecisionMakingGridUI : BaseUICanvas
             }
         }
 
-        // Right answer clip was removed from scripts
-        // AudioManager.Instance.PlayDecisioMakingClip(m_Data.RightAttemptClip.Audio);
-        // MainGUI.Instance.MSubtitlesUI.ShowSubtitle(m_Data.RightAttemptClip.SubTitles);
-
         m_Running = StartCoroutine(Helpers.UI.COR_Cooldown(Consts.UI.k_DECISION_MAKING_END_CD, () => DisableInteraction(true), () => { EnableInteraction(); EndDecisionMaking(); }));
 
         void DisableInteraction(bool finalAnswer)
@@ -210,7 +152,6 @@ public class DecisionMakingGridUI : BaseUICanvas
                 if (finalAnswer)
                     tile.ShowResult();
                 tile.enabled = false;
-
             }
         }
 
@@ -221,9 +162,7 @@ public class DecisionMakingGridUI : BaseUICanvas
             foreach (var tile in cards)
             {
                 tile.ResetViz();
-
                 tile.enabled = true;
-
             }
 
             m_Running = null;

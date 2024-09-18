@@ -4,9 +4,9 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
-using UnityEngine.Events;
 
 public class FlipCard : MonoBehaviour, IPointerClickHandler
 {
@@ -28,7 +28,7 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
     [SerializeField] private Sprite frontSprite = null;
     [SerializeField] private Sprite backSprite = null;
     [SerializeField] private bool isWrong = false;
-    [SerializeField] private bool disableFlip = false; // New field to disable flipping
+
     FlipCardDecisionData flipCardDecisionData;
     string frontText;
     string flippedText;
@@ -38,7 +38,6 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
     private bool isRightEntry = false;
     private bool isFlipped = false;
     private bool isSelected = false;
-    private UnityAction onClickCallback; // Define the onClickCallback
 
     public bool IsAnimating => running != null;
     public bool IsRightEntry => isRightEntry;
@@ -46,6 +45,9 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
     public bool IsCorrectlySelectedOrUnselected => ((isSelected && isRightEntry) || (!isSelected && !isRightEntry));
     public FlipCardDecisionData FlipCardData => flipCardDecisionData;
     public string FlippedText => flippedText;
+
+    // Define an event that is triggered when the card is flipped
+    public UnityAction OnCardFlipped;
 
     public void FeedData(FlipCardDecisionData flipCardDecisionData)
     {
@@ -76,17 +78,7 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
     {
         if (isTutorialCard) return;
 
-        if (disableFlip)
-        {
-            //isFlipped = true;
-            UpdateValues();
-            selectButton.SetActive(true);
-            onClickCallback?.Invoke();
-        }
-        else
-        {
-            Rotate();
-        }
+        Rotate();
     }
 
     public void OnSelected()
@@ -112,6 +104,9 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
         UpdateValues();
         yield return Helpers.UI.COR_Rotate(rotatingObjects, Vector3.zero, 0.2f);
         TryStopLifecycle();
+
+        // Trigger the OnCardFlipped event when the card is flipped
+        OnCardFlipped?.Invoke();
     }
 
     private void TryStartLifecycle()
@@ -170,10 +165,5 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
         dot2.color = inactiveDotColor;
 
         cardImage.sprite = frontSprite;
-    }
-
-    public void SetOnClickCallback(UnityAction action)
-    {
-        onClickCallback = action;
     }
 }
