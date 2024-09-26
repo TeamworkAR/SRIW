@@ -32,7 +32,7 @@ public class Flip4CardsWithDoubleSideTextPanel : BaseUICanvas
 
         base.Show();
 
-        nextButton.SetActive(false);
+        nextButton.SetActive(false); // Initially hide the next button
 
         flipCounter = 0;
         cardFlippedOnce = new bool[flipCardsByOrder.Count]; // Initialize the tracking array
@@ -41,63 +41,60 @@ public class Flip4CardsWithDoubleSideTextPanel : BaseUICanvas
 
         for (int i = 0; i < wrapper.data.CardTexts.Count; i++)
         {
-            // Create a local copy of the index to avoid closure issues
             int localIndex = i;
 
             // Set texts for the card
             flipCardsByOrder[localIndex].SetTexts(wrapper.data.CardTexts[localIndex].Front.GetLocalizedString(),
                 wrapper.data.CardTexts[localIndex].Back.GetLocalizedString());
 
-            // Use a callback every time the button is pressed so we can know when all are flipped
+            // Use a callback every time the card is flipped so we can track if it's flipped
             flipCardsByOrder[localIndex].SetOnClickCallback(() => CheckIfCardFlipped(localIndex));
         }
     }
 
+    // Check if each card has been flipped
     private void CheckIfCardFlipped(int cardIndex)
     {
-        // Check if the card was flipped for the first time
-        if (!cardFlippedOnce[cardIndex])
+        if (!cardFlippedOnce[cardIndex]) // If the card has not been flipped yet
         {
-            cardFlippedOnce[cardIndex] = true;
+            cardFlippedOnce[cardIndex] = true; // Mark it as flipped
             flipCounter++;
         }
 
-        // Check if all cards are flipped at least once
+        // If all cards are flipped, enable the next button
         if (flipCounter >= flipCardsByOrder.Count)
         {
-            nextButton.SetActive(true);
+            nextButton.SetActive(true); // Show next button
         }
     }
 
-    // New method to check if all cards are flipped when enabling the UI
+    // Called when enabling the UI to check if cards are already flipped
     private void CheckAllCardsFlipped()
     {
         flipCounter = 0;
         for (int i = 0; i < flipCardsByOrder.Count; i++)
         {
-            // Assuming the DoubleSideFlipCard class has a property IsFlipped to check if the card is flipped
-            if (flipCardsByOrder[i].IsFlipped)
+            if (flipCardsByOrder[i].IsFlipped) // Using the IsFlipped property from DoubleSideFlipCard
             {
-                cardFlippedOnce[i] = true;
                 flipCounter++;
+                cardFlippedOnce[i] = true; // Mark this card as flipped
             }
         }
 
-        // If all cards were flipped, enable the next button
-        if (flipCounter >= flipCardsByOrder.Count)
-        {
-            nextButton.SetActive(true);
-        }
+        // If all cards are flipped, enable the next button
+        nextButton.SetActive(flipCounter >= flipCardsByOrder.Count);
+    }
+
+    // This will automatically be called when the UI becomes active
+    private void Update()
+    {
+        CheckAllCardsFlipped(); // Check flipped cards when the UI is enabled
     }
 
     public override void Show()
     {
         base.Show();
-
         uiEnded = false;
-
-        // Check the state of all cards when showing the panel
-        CheckAllCardsFlipped();
     }
 
     public override void Hide()
@@ -108,7 +105,6 @@ public class Flip4CardsWithDoubleSideTextPanel : BaseUICanvas
     public void EndPanel()
     {
         uiEnded = true;
-
         Hide();
     }
 }
