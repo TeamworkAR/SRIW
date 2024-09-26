@@ -26,13 +26,16 @@ public class DoubleSideFlipCard : MonoBehaviour, IPointerClickHandler
 
     private Coroutine running = null;
     private bool isRightEntry = false;
-    private bool isFlipped = false;
+    private bool isFlipped = false; // The private field that tracks if the card is flipped
     private bool isSelected = false;
 
     public bool IsAnimating => running != null;
     public bool IsRightEntry => isRightEntry;
     public bool IsSelected => isSelected;
     public bool IsCorrectlySelectedOrUnselected => ((isSelected && isRightEntry) || (!isSelected && !isRightEntry));
+
+    // Public property to check if the card is flipped
+    public bool IsFlipped => isFlipped;
 
     private UnityAction onClickCallback;
 

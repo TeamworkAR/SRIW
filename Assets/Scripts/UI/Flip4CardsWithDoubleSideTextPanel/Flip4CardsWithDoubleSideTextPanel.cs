@@ -69,11 +69,35 @@ public class Flip4CardsWithDoubleSideTextPanel : BaseUICanvas
         }
     }
 
+    // New method to check if all cards are flipped when enabling the UI
+    private void CheckAllCardsFlipped()
+    {
+        flipCounter = 0;
+        for (int i = 0; i < flipCardsByOrder.Count; i++)
+        {
+            // Assuming the DoubleSideFlipCard class has a property IsFlipped to check if the card is flipped
+            if (flipCardsByOrder[i].IsFlipped)
+            {
+                cardFlippedOnce[i] = true;
+                flipCounter++;
+            }
+        }
+
+        // If all cards were flipped, enable the next button
+        if (flipCounter >= flipCardsByOrder.Count)
+        {
+            nextButton.SetActive(true);
+        }
+    }
+
     public override void Show()
     {
         base.Show();
 
         uiEnded = false;
+
+        // Check the state of all cards when showing the panel
+        CheckAllCardsFlipped();
     }
 
     public override void Hide()
