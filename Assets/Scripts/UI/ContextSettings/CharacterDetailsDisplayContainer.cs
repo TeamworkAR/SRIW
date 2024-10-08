@@ -45,39 +45,26 @@ namespace UI.ContextSettings
 
         public void StartFadeIn()
         {
-            if (m_Running == null)
-            {
-                m_Running = StartCoroutine(COR_FadeIn());
-            }
+            m_Running = StartCoroutine(COR_FadeIn());
         }
 
         public void StopFadeIn()
         {
-            if (m_Running != null)
-            {
-                StopCoroutine(m_Running);
-                
-                m_Running = null;
-            }
             this.GetComponentInChildren<AccessibleLabel>().Select();
+            
+            StopCoroutine(m_Running);
+            m_Running = null;
         }
         
         public void StartFadeOut()
         {
-            if (m_Running == null)
-            {
-                m_Running = StartCoroutine(COR_FadeOut());
-            }
+            m_Running = StartCoroutine(COR_FadeOut());
         }
 
         public void StopFadeOut()
         {
-            if (m_Running != null)
-            {
-                StopCoroutine(m_Running);
-                
-                m_Running = null;
-            }
+            StopCoroutine(m_Running);
+            m_Running = null;
         }
 
         private IEnumerator COR_FadeIn()

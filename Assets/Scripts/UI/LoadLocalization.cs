@@ -40,10 +40,12 @@ public class LoadLocalization : MonoBehaviour
                 LocalizationSettings.SelectedLocale = newLocale;
             }
         }
-        while (!LocalizationManager.Instance.StringTablesLoaded)
+
+        while (!LocalizationManager.Instance.IsLoaded)
         {
             yield return null;
         }
+
         SceneManager.sceneLoaded += OnSceneLoaded;
         SceneManager.LoadScene(sceneOnLoad, LoadSceneMode.Additive);
     }

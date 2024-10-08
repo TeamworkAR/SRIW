@@ -64,7 +64,7 @@ namespace Core
                 // int wordCount = text.Split(new char[] { ' ', '\r', '\n' }, StringSplitOptions.RemoveEmptyEntries).Length;
                 // float wordsPerMinute = 200; // Average reading speed
                 // return (wordCount / wordsPerMinute) + 2f;
-                return Mathf.Max(text.Length * 0.1f, 4f);
+                return text != null ? Mathf.Max(text.Length * 0.1f, 4f) : 1f;
             }
 
             /// <summary>
@@ -213,6 +213,9 @@ namespace Core
 
                 public T GetCurrent() => m_Content[m_idx];
 
+                //used only in scenario 0
+                public void SetIndex(int idx) => m_idx = idx;
+  
                 public int Count => m_Content.Count;
 
                 public bool IsLast => m_idx == m_Content.Count - 1;

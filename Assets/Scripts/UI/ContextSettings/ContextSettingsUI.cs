@@ -130,51 +130,16 @@ namespace UI.ContextSettings
 
         private void StartLifeCycle()
         {
-            if (m_Running == null)
-            {
-                m_Running = StartCoroutine(COR_LifeCycle());   
-            }
-            else
-            {
-                // TODO: Error message
-                Debug.LogError("");
-            }    
+            m_Running = StartCoroutine(COR_LifeCycle());   
         }
 
         private void StopLifeCycle()
         {
-            if (m_Running != null)
-            {
-                StopCoroutine(m_Running);
-                m_Running = null;
-            }
-            else
-            {
-                // TODO: Error message
-                Debug.LogError("");
-            }
+            m_Running = null;
         }
 
         private IEnumerator COR_LifeCycle()
         {
-            // m_OuterCircleLayoutGroup.alpha = 0f;
-            
-            // foreach (var valueTuples in m_CharacterDisplayInstances.Values)
-            // {
-            //     foreach (var valueTuple in valueTuples)
-            //     {
-            //         valueTuple.characterDisplay.Show(valueTuple.showcase, false);
-            //         valueTuple.characterDisplay.Hide(false);
-            //     }
-            // }
-            //
-            // while (m_CharacterDisplayInstances.Values.SelectMany( kvp => kvp).Any( kvp => kvp.characterDisplay.IsAnimating))
-            // {
-            //     yield return null;
-            // }
-            
-            // yield return Helpers.UI.COR_Fade(m_OuterCircleLayoutGroup, 1f, 0f, 1f);
-            
             for (int i = 0; i < Mathf.Max(m_CharacterDisplayInstances.Values.Select(l => l.Count).ToArray()); i++)
             {
                 CharacterDetailsDisplayContainer previousDisplayContainer = null;
@@ -182,13 +147,6 @@ namespace UI.ContextSettings
                 {
                     if (i < valueTuples.Count)
                     {
-                        // valueTuples[i].characterDisplay.StartFadeOut();
-                        //
-                        // while (valueTuples[i].characterDisplay.IsAnimating)
-                        // {
-                        //     yield return null;
-                        // }
-
                         CharacterShowcase showcase = valueTuples[i].characterData.ShowcaseTemplate
                             .GetInstance(this, CharacterShowcase.CameraPositions.CloseUp);
                         
@@ -231,13 +189,6 @@ namespace UI.ContextSettings
                         {
                             yield return null;
                         }
-                        
-                        // valueTuples[i].characterDisplay.StartFadeIn();
-                        //
-                        // while (valueTuples[i].characterDisplay.IsAnimating)
-                        // {
-                        //     yield return null;
-                        // }
                     }
                 }
             }

@@ -20,15 +20,13 @@ namespace UI.MoodCheckIn
 
         [SerializeField] private LocalizedString m_LocalizedString = null;
         
-        private Coroutine m_Running = null;
-
         private List<MoodCheckInDisplay> m_MoodCheckInDisplays = new List<MoodCheckInDisplay>(0);
 
         private const float k_CHOSEN_WAIT_TIME = 4f;
 
         private bool b_MoodChosen = false;
 
-        public override bool IsDone() => base.IsDone() && m_Running == null && b_MoodChosen;
+        public override bool IsDone() => base.IsDone() && b_MoodChosen;
 
         private MoodCheckInEntry m_Entry = null;
 
@@ -63,18 +61,6 @@ namespace UI.MoodCheckIn
             m_TitleText.text = string.Format(LocalizationManager.Instance.GetLocalizedValue(m_LocalizedString), m_Entry.Character.GetName());
         }
 
-        protected override void OnHideStart()
-        {
-            base.OnHideStart();
-            
-            if (m_Running != null)
-            {
-                StopCoroutine(m_Running);
-
-                m_Running = null;
-            }
-        }
-
         protected override void OnHideCompleted()
         {
             base.OnHideCompleted();
@@ -84,8 +70,6 @@ namespace UI.MoodCheckIn
                 moodCheckInDisplay.OnMoodChosen -= OnMoodChosen;
                 Destroy(moodCheckInDisplay.gameObject);
             }
-            
-            m_Running = null;
             
             m_MoodCheckInDisplays.Clear();
 
@@ -102,8 +86,6 @@ namespace UI.MoodCheckIn
             b_MoodChosen = true;
             
             Hide();
-
-            m_Running = null;
         }
 
         [Serializable]
