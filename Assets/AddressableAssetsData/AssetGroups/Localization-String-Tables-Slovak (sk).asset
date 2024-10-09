@@ -16,21 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 0118f248a292e2e4ea02cce42c4acb28
-  m_SerializeEntries:
-  - m_GUID: 38f85046158a5944ebdd1763927f7812
-    m_Address: SRIW_MGR_sk
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-sk
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c04bc784fe395c348ab09e92b9a94c7b
-    m_Address: CommonTable_sk
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-sk
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 2d72e871c656bcd49bcfc065e13eed24, type: 2}
   m_SchemaSet:

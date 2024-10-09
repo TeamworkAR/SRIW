@@ -1743,6 +1743,14 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -4.0000153
       objectReference: {fileID: 0}
+    - target: {fileID: 6650800423422256662, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: EndScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 6650800423422256662, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: UI.Localization.LocalizationUI, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 7054214737966468842, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
       propertyPath: m_Enabled
       value: 0
