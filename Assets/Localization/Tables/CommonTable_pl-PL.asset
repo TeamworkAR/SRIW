@@ -39,7 +39,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15683854032896
-    m_Localized: "Przejrzyj, co uda\u0142o Ci si\u0119 odkry\u0107 na tych stronach"
+    m_Localized: "Przeanalizuj to, co uda\u0142o Ci si\u0119 odkry\u0107 na tych
+      stronach"
     m_Metadata:
       m_Items: []
   - m_Id: 15782223044608
@@ -116,7 +117,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18600375902208
-    m_Localized: "Uda\u0142o Ci si\u0119 uko\u0144czy\u0107 scenariusz!"
+    m_Localized: "Uko\u0144czy\u0142e\u015B ten modu\u0142!"
     m_Metadata:
       m_Items: []
   - m_Id: 18661440774144
@@ -128,7 +129,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 305854730231808
-    m_Localized: "Sprawd\u017A, co naprawd\u0119 my\u015Bl\u0105 postacie."
+    m_Localized: "Poznaj my\u015Bli bohater\xF3w, aby dowiedzie\u0107 si\u0119 wi\u0119cej."
     m_Metadata:
       m_Items: []
   - m_Id: 306062570577920
@@ -185,7 +186,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 12209512372113408
-    m_Localized: ' '
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 14483484056883200
@@ -233,7 +234,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 43881920319184896
-    m_Localized: Przycisk Wstecz scenariusza
+    m_Localized: "Scenariusz \u2013 przycisk Wstecz"
     m_Metadata:
       m_Items: []
   - m_Id: 43882092331786240
@@ -241,7 +242,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 43883160138670080
-    m_Localized: "Przycisk wyciszenia d\u017Awi\u0119ku"
+    m_Localized: "Przycisk wyciszania d\u017Awi\u0119ku"
     m_Metadata:
       m_Items: []
   - m_Id: 43902784624386048
@@ -249,7 +250,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 43915910031859712
-    m_Localized: Sterowanie scenariuszem
+    m_Localized: "Scenariusz \u2013 elementy steruj\u0105ce"
     m_Metadata:
       m_Items: []
   - m_Id: 43916426069663744
@@ -269,15 +270,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 43953185537122304
-    m_Localized: "Wybierz opcj\u0119 Odpowied\u017A"
+    m_Localized: "Wybierz odpowied\u017A"
     m_Metadata:
       m_Items: []
   - m_Id: 44966374580150272
-    m_Localized: Zbierz zasady
+    m_Localized: Zebrane zasady
     m_Metadata:
       m_Items: []
   - m_Id: 44966547372892160
-    m_Localized: "Zbieraj my\u015Bli"
+    m_Localized: "Zebrane przemy\u015Blenia"
     m_Metadata:
       m_Items: []
   - m_Id: 44967107740295168
@@ -285,11 +286,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 44968492443623424
-    m_Localized: "Nast\u0119pna polityka"
+    m_Localized: "Nast\u0119pna zasada"
     m_Metadata:
       m_Items: []
   - m_Id: 44969933178658816
-    m_Localized: Poprzednia polityka
+    m_Localized: Poprzednia zasada
     m_Metadata:
       m_Items: []
   - m_Id: 45301409422237696
@@ -297,23 +298,23 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 45301481098698752
-    m_Localized: "Nast\u0119pny"
+    m_Localized: Dalej
     m_Metadata:
       m_Items: []
   - m_Id: 45302496162209792
-    m_Localized: "Ksi\u0105\u017Cka ze wskaz\xF3wkami"
+    m_Localized: "Ksi\u0119ga wskaz\xF3wek"
     m_Metadata:
       m_Items: []
   - m_Id: 45312246765576192
-    m_Localized: "Zagraj w My\u015Bl"
+    m_Localized: "Do przemy\u015Blenia"
     m_Metadata:
       m_Items: []
   - m_Id: 45313241272803328
-    m_Localized: Z powrotem
+    m_Localized: Wstecz
     m_Metadata:
       m_Items: []
   - m_Id: 45314184118788096
-    m_Localized: "Zamknij ksi\u0105\u017Ck\u0119 ze wskaz\xF3wkami"
+    m_Localized: "Zamknij Ksi\u0119g\u0119 wskaz\xF3wek"
     m_Metadata:
       m_Items: []
   - m_Id: 45377977502916608
@@ -321,11 +322,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 45378019005554688
-    m_Localized: "Nast\u0119pny"
+    m_Localized: Dalej
     m_Metadata:
       m_Items: []
   - m_Id: 45378309117173760
-    m_Localized: Nauka
+    m_Localized: "Spostrze\u017Cenia"
     m_Metadata:
       m_Items: []
   - m_Id: 45378851340017664
@@ -342,7 +343,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46123565072769024
-    m_Localized: "Dost\u0119pno\u015B\u0107 dla niepe\u0142nosprawnych."
+    m_Localized: "Dost\u0119p wy\u0142\u0105czony"
     m_Metadata:
       m_Items: []
   - m_Id: 46124492450160640
@@ -366,11 +367,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46127911416094720
-    m_Localized: "Upu\u015Bci\u0107"
+    m_Localized: Menu rozwijane
     m_Metadata:
       m_Items: []
   - m_Id: 46127952037928960
-    m_Localized: "Naci\u015Bnij przycisk Return, aby wybra\u0107"
+    m_Localized: "Naci\u015Bnij przycisk powrotu, aby wybra\u0107"
     m_Metadata:
       m_Items: []
   - m_Id: 46128060410355712
@@ -378,7 +379,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46128236222996480
-    m_Localized: "Naci\u015Bnij przycisk Return, aby zmieni\u0107"
+    m_Localized: "Naci\u015Bnij przycisk powrotu aby zmieni\u0107"
     m_Metadata:
       m_Items: []
   - m_Id: 46128306674720768
@@ -394,47 +395,83 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46141420694659072
-    m_Localized: "Prawid\u0142owy"
+    m_Localized: "Zgadza si\u0119"
     m_Metadata:
       m_Items: []
   - m_Id: 46141496884191232
-    m_Localized: " B\u0142\u0119dny"
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 48971575213416448
-    m_Localized: Pauza
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 48974385543897088
-    m_Localized: "Gra\u0107"
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 49947109173940224
-    m_Localized: "przemy\u015Blenia {0}"
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 50463397114798080
-    m_Localized: "Prze\u0142\u0105cz czytnik ekranu"
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 49947225825923072
-    m_Localized: "Spostrze\u017Cenia"
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 50493918238728192
-    m_Localized: Poprzedni
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 51137395486089216
-    m_Localized: "Nast\u0119pny"
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 51340606229630976
-    m_Localized: "Wybierz dzia\u0142anie poni\u017Cej."
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 54968277945733120
-    m_Localized: "Dokonaj wyboru poni\u017Cej."
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53135351207522304
+    m_Localized: Wybierz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53253607381626880
+    m_Localized: "Znacznik miejsca mi\u0119dzy ekranami zostanie usuni\u0119ty"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53884971725950976
+    m_Localized: Tak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885464065937408
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885695662821376
+    m_Localized: "To zale\u017Cy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53943372556341248
+    m_Localized: "Niepoprawna odpowied\u017A. Spr\xF3buj ponownie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890102246363136
+    m_Localized: "Nast\u0119pna strona"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890169237786624
+    m_Localized: Poprzednia strona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83045819392675840
+    m_Localized: "Wy\u015Blij opini\u0119"
     m_Metadata:
       m_Items: []
   references:

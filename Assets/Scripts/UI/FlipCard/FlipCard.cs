@@ -57,7 +57,7 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
         isRightEntry = flipCardDecisionData.IsRightEntry;
         frontText = flipCardDecisionData.FrontText.GetLocalizedString();
         flippedText = flipCardDecisionData.FlippedText.GetLocalizedString();
-        if (isWrong == true)
+        if (isWrong)
         {
             incorrectText = flipCardDecisionData.IncorrectAnswerResponse.GetLocalizedString();
         }
@@ -78,7 +78,13 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
     {
         if (isTutorialCard) return;
 
-        Rotate();
+        ShowSelectButton();
+    }
+
+    public void ShowSelectButton()
+    {
+        // Ensure the select button is visible
+        selectButton.SetActive(true);
     }
 
     public void OnSelected()
@@ -141,7 +147,7 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
         else
         {
             m_Frame.color = GameManager.Instance.DevSettings.WrongAnswerColor;
-            if (isWrong == true)
+            if (isWrong)
             {
                 m_Text.text = incorrectText;
             }

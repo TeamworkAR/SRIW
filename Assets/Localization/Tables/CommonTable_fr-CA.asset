@@ -51,7 +51,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15904717692928
-    m_Localized: "Recueille les pens\xE9es"
+    m_Localized: "Recueillir les pens\xE9es"
     m_Metadata:
       m_Items: []
   - m_Id: 16087207665664
@@ -116,7 +116,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18600375902208
-    m_Localized: "Tu as termin\xE9 ce sc\xE9nario."
+    m_Localized: "Vous avez termin\xE9 ce module!"
     m_Metadata:
       m_Items: []
   - m_Id: 18661440774144
@@ -128,7 +128,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 305854730231808
-    m_Localized: "Explore les pens\xE9es des personnages."
+    m_Localized: "Explorez les pens\xE9es des personnages pour en savoir plus."
     m_Metadata:
       m_Items: []
   - m_Id: 306062570577920
@@ -157,7 +157,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 7604280591466496
     m_Localized: "Tu as recueilli ce que pense {0}. Tu trouveras ses pens\xE9es dans
-      le carnet."
+      le cahier."
     m_Metadata:
       m_Items: []
   - m_Id: 7607020013043712
@@ -185,7 +185,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 12209512372113408
-    m_Localized: ' '
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 14483484056883200
@@ -233,7 +233,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 43881920319184896
-    m_Localized: "Bouton retour du sc\xE9nario"
+    m_Localized: "Bouton Retour du sc\xE9nario"
     m_Metadata:
       m_Items: []
   - m_Id: 43882092331786240
@@ -241,15 +241,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 43883160138670080
-    m_Localized: Bouton de sourdine
+    m_Localized: Bouton de mise en sourdine
     m_Metadata:
       m_Items: []
   - m_Id: 43902784624386048
-    m_Localized: Bouton sous-titres
+    m_Localized: Bouton Sous-titres
     m_Metadata:
       m_Items: []
   - m_Id: 43915910031859712
-    m_Localized: "Contr\xF4les du sc\xE9nario"
+    m_Localized: "Commandes du sc\xE9nario"
     m_Metadata:
       m_Items: []
   - m_Id: 43916426069663744
@@ -261,7 +261,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 43938901818073088
-    m_Localized: "D\xE9cision de sc\xE9nario"
+    m_Localized: "D\xE9cision du sc\xE9nario"
     m_Metadata:
       m_Items: []
   - m_Id: 43947730123350016
@@ -269,15 +269,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 43953185537122304
-    m_Localized: "S\xE9lectionnez la r\xE9ponse"
+    m_Localized: "S\xE9lectionner la r\xE9ponse"
     m_Metadata:
       m_Items: []
   - m_Id: 44966374580150272
-    m_Localized: Collecter les politiques
+    m_Localized: Recueillir les politiques
     m_Metadata:
       m_Items: []
   - m_Id: 44966547372892160
-    m_Localized: "Recueillir des pens\xE9es"
+    m_Localized: "Recueillir les pens\xE9es"
     m_Metadata:
       m_Items: []
   - m_Id: 44967107740295168
@@ -305,11 +305,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 45312246765576192
-    m_Localized: "Jouer \xE0 la pens\xE9e"
+    m_Localized: "Lire la pens\xE9e"
     m_Metadata:
       m_Items: []
   - m_Id: 45313241272803328
-    m_Localized: Dos
+    m_Localized: Retour
     m_Metadata:
       m_Items: []
   - m_Id: 45314184118788096
@@ -337,12 +337,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46123280967393280
-    m_Localized: "Accessibilit\xE9 activ\xE9e. Utilisez les touches fl\xE9ch\xE9es
-      et la touche Entr\xE9e pour naviguer."
+    m_Localized: "Accessibilit\xE9 activ\xE9e. Utilisez les fl\xE8ches et la touche
+      Entr\xE9e pour naviguer."
     m_Metadata:
       m_Items: []
   - m_Id: 46123565072769024
-    m_Localized: "Accessibilit\xE9 aux personnes handicap\xE9es."
+    m_Localized: "Accessibilit\xE9 d\xE9sactiv\xE9e."
     m_Metadata:
       m_Items: []
   - m_Id: 46124492450160640
@@ -354,11 +354,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46127604380459008
-    m_Localized: "Glissi\xE8re"
+    m_Localized: Diapo
     m_Metadata:
       m_Items: []
   - m_Id: 46127822517821440
-    m_Localized: Basculer
+    m_Localized: Bascule
     m_Metadata:
       m_Items: []
   - m_Id: 46127860144922624
@@ -366,11 +366,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46127911416094720
-    m_Localized: "D\xE9rouler"
+    m_Localized: "Liste d\xE9roulante"
     m_Metadata:
       m_Items: []
   - m_Id: 46127952037928960
-    m_Localized: "Appuyez sur retour pour s\xE9lectionner"
+    m_Localized: "Appuyer sur la touche Retour pour s\xE9lectionner l'\xE9l\xE9ment"
     m_Metadata:
       m_Items: []
   - m_Id: 46128060410355712
@@ -378,11 +378,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46128236222996480
-    m_Localized: Appuyez sur retour pour modifier
+    m_Localized: "Appuyer sur la touche Retour pour modifier l'\xE9l\xE9ment"
     m_Metadata:
       m_Items: []
   - m_Id: 46128306674720768
-    m_Localized: Appuyez deux fois pour modifier
+    m_Localized: Appuyer deux fois pour changer
     m_Metadata:
       m_Items: []
   - m_Id: 46128328283774976
@@ -390,55 +390,87 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46128344960327680
-    m_Localized: "Article\_XX sur\_AA"
+    m_Localized: "\xC9l\xE9ment XX de YY"
     m_Metadata:
       m_Items: []
   - m_Id: 46141420694659072
-    m_Localized: Correct
+    m_Localized: Exact
     m_Metadata:
       m_Items: []
   - m_Id: 46141496884191232
-    m_Localized: ' Incorrect'
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 48971575213416448
-    m_Localized: Pause
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 48974385543897088
-    m_Localized: Jouer
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 50463397114798080
-    m_Localized: "Basculer le lecteur d'\xE9cran"
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 49947109173940224
-    m_Localized: "Les pens\xE9es de {0}"
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 49947225825923072
-    m_Localized: Connaissances
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 50493918238728192
-    m_Localized: "Pr\xE9c\xE9dent"
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 51137395486089216
-    m_Localized: Suivant
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 51340606229630976
-    m_Localized: Choisissez une action ci-dessous.
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 54968277945733120
-    m_Localized: "Faites une s\xE9lection ci-dessous."
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 83045819392675840
-    m_Localized: 
+    m_Localized: Envoyer des commentaires
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53135351207522304
+    m_Localized: "S\xE9lectionner"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53253607381626880
+    m_Localized: "Espace r\xE9serv\xE9 entre les \xE9crans sera supprim\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53884971725950976
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885464065937408
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885695662821376
+    m_Localized: "\xC7a d\xE9pend"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53943372556341248
+    m_Localized: "Mauvaise r\xE9ponse; r\xE9essayez"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890102246363136
+    m_Localized: Page suivante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890169237786624
+    m_Localized: "Page pr\xE9c\xE9dente"
     m_Metadata:
       m_Items: []
   references:

@@ -76,7 +76,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 16936046714880
-    m_Localized: "N\xE1povedy k z\xE1sad\xE1m"
+    m_Localized: "Rady k z\xE1sad\xE1m"
     m_Metadata:
       m_Items: []
   - m_Id: 16998114025472
@@ -116,7 +116,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18600375902208
-    m_Localized: "Dokon\u010Dili ste tento scen\xE1r!"
+    m_Localized: "Dokon\u010Dili ste tento modul!"
     m_Metadata:
       m_Items: []
   - m_Id: 18661440774144
@@ -128,7 +128,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 305854730231808
-    m_Localized: "Presk\xFAmajte, \u010Do si postavy skuto\u010Dne myslia."
+    m_Localized: "Presk\xFAmajte my\u0161lienky post\xE1v a zistite viac."
     m_Metadata:
       m_Items: []
   - m_Id: 306062570577920
@@ -185,7 +185,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 12209512372113408
-    m_Localized: ' '
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 14483484056883200
@@ -234,19 +234,19 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 43881920319184896
-    m_Localized: "Tla\u010Didlo sp\xE4\u0165 do scen\xE1ra"
+    m_Localized: "Tla\u010Didlo Sp\xE4\u0165 do scen\xE1ra"
     m_Metadata:
       m_Items: []
   - m_Id: 43882092331786240
-    m_Localized: "Tla\u010Didlo otvorenia knihy k\u013E\xFA\u010Dov"
+    m_Localized: "Tla\u010Didlo Otvori\u0165 knihu r\xE1d"
     m_Metadata:
       m_Items: []
   - m_Id: 43883160138670080
-    m_Localized: "Tla\u010Didlo na stlmenie zvuku"
+    m_Localized: "Tla\u010Didlo Stlmi\u0165 zvuk"
     m_Metadata:
       m_Items: []
   - m_Id: 43902784624386048
-    m_Localized: "Tla\u010Didlo titulkov"
+    m_Localized: "Tla\u010Didlo Titulky"
     m_Metadata:
       m_Items: []
   - m_Id: 43915910031859712
@@ -270,27 +270,27 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 43953185537122304
-    m_Localized: "Vyberte mo\u017Enos\u0165 Odpove\u010F"
+    m_Localized: "Vyberte odpove\u010F"
     m_Metadata:
       m_Items: []
   - m_Id: 44966374580150272
-    m_Localized: "Zbierajte z\xE1sady"
+    m_Localized: "Zozbierajte z\xE1sady"
     m_Metadata:
       m_Items: []
   - m_Id: 44966547372892160
-    m_Localized: "Zbierajte my\u0161lienky"
+    m_Localized: "Zozbierajte my\u0161lienky"
     m_Metadata:
       m_Items: []
   - m_Id: 44967107740295168
-    m_Localized: "Kolekcia ind\xEDci\xED"
+    m_Localized: "Zbierka r\xE1d"
     m_Metadata:
       m_Items: []
   - m_Id: 44968492443623424
-    m_Localized: "\u010Eal\u0161ia politika"
+    m_Localized: "\u010Eal\u0161ia z\xE1sada"
     m_Metadata:
       m_Items: []
   - m_Id: 44969933178658816
-    m_Localized: "Predch\xE1dzaj\xFAca politika"
+    m_Localized: "Predch\xE1dzaj\xFAca z\xE1sada"
     m_Metadata:
       m_Items: []
   - m_Id: 45301409422237696
@@ -298,23 +298,23 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 45301481098698752
-    m_Localized: "\u010Eal\u0161ie"
+    m_Localized: "\u010Ealej"
     m_Metadata:
       m_Items: []
   - m_Id: 45302496162209792
-    m_Localized: "N\xE1povedn\xE1 kniha"
+    m_Localized: "Kniha r\xE1d"
     m_Metadata:
       m_Items: []
   - m_Id: 45312246765576192
-    m_Localized: "Hra\u0165 My\u0161lienka"
+    m_Localized: "Prehra\u0165 my\u0161lienku"
     m_Metadata:
       m_Items: []
   - m_Id: 45313241272803328
-    m_Localized: "sp\xE4\u0165"
+    m_Localized: "Sp\xE4\u0165"
     m_Metadata:
       m_Items: []
   - m_Id: 45314184118788096
-    m_Localized: "Zavrie\u0165 Cluebook"
+    m_Localized: "Zavrie\u0165 knihu r\xE1d"
     m_Metadata:
       m_Items: []
   - m_Id: 45377977502916608
@@ -322,11 +322,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 45378019005554688
-    m_Localized: "\u010Eal\u0161ie"
+    m_Localized: "\u010Ealej"
     m_Metadata:
       m_Items: []
   - m_Id: 45378309117173760
-    m_Localized: "U\u010Denie"
+    m_Localized: Poznatky
     m_Metadata:
       m_Items: []
   - m_Id: 45378851340017664
@@ -343,7 +343,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46123565072769024
-    m_Localized: "Zak\xE1zan\xE1 dostupnos\u0165."
+    m_Localized: "Vypnut\xE1 dostupnos\u0165."
     m_Metadata:
       m_Items: []
   - m_Id: 46124492450160640
@@ -371,23 +371,23 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46127952037928960
-    m_Localized: "Pre v\xFDber stla\u010Dte return"
+    m_Localized: "Vyberte stla\u010Den\xEDm tla\u010Didla Sp\xE4\u0165"
     m_Metadata:
       m_Items: []
   - m_Id: 46128060410355712
-    m_Localized: "Dvojit\xFDm klepnut\xEDm vyberiete"
+    m_Localized: "Vyberte dvojit\xFDm \u0165uknut\xEDm"
     m_Metadata:
       m_Items: []
   - m_Id: 46128236222996480
-    m_Localized: "Pre zmenu stla\u010Dte return"
+    m_Localized: "Zme\u0148te stla\u010Den\xEDm tla\u010Didla Sp\xE4\u0165"
     m_Metadata:
       m_Items: []
   - m_Id: 46128306674720768
-    m_Localized: "Dvojit\xFDm klepnut\xEDm zmen\xEDte"
+    m_Localized: "Zme\u0148te dvojit\xFDm \u0165uknut\xEDm"
     m_Metadata:
       m_Items: []
   - m_Id: 46128328283774976
-    m_Localized: "TT vybrat\xE9"
+    m_Localized: "Vybran\xE9 TT"
     m_Metadata:
       m_Items: []
   - m_Id: 46128344960327680
@@ -399,47 +399,79 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46141496884191232
-    m_Localized: " Nespr\xE1vne"
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 48971575213416448
-    m_Localized: Pauza
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 48974385543897088
-    m_Localized: "hra\u0165"
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 50463397114798080
-    m_Localized: "Prepn\xFA\u0165 \u010D\xEDta\u010Dku obrazovky"
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 49947109173940224
-    m_Localized: "My\u0161lienky pou\u017E\xEDvate\u013Ea {0}"
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 49947225825923072
-    m_Localized: Insights
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 50493918238728192
-    m_Localized: "Predch\xE1dzaj\xFAce"
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 51137395486089216
-    m_Localized: "\u010Eal\u0161ie"
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 51340606229630976
-    m_Localized: "Vyberte akciu ni\u017E\u0161ie."
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 54968277945733120
-    m_Localized: "Vyberte si ni\u017E\u0161ie."
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 83045819392675840
-    m_Localized: 
+    m_Localized: "Odosla\u0165 sp\xE4tn\xFA v\xE4zbu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53135351207522304
+    m_Localized: "Vybra\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53253607381626880
+    m_Localized: "Z\xE1stupn\xFD symbol medzi obrazovkami, bude odstr\xE1nen\xFD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53884971725950976
+    m_Localized: "\xC1no"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885464065937408
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885695662821376
+    m_Localized: "Z\xE1vis\xED to od okolnost\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53943372556341248
+    m_Localized: "Nespr\xE1vna odpove\u010F, sk\xFAste to znova"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890102246363136
+    m_Localized: "\u010Eal\u0161ia strana"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890169237786624
+    m_Localized: "Predch\xE1dzaj\xFAca strana"
     m_Metadata:
       m_Items: []
   references:

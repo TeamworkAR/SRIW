@@ -27,7 +27,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15104377380864
-    m_Localized: Bekijk het eens nader
+    m_Localized: Bekijk het eens wat beter
     m_Metadata:
       m_Items: []
   - m_Id: 15149210296320
@@ -71,15 +71,16 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 16795206180864
-    m_Localized: Je beschikt tevens over een beknopte bron om hierover na te denken.
+    m_Localized: Je beschikt bovendien over een beknopte bron die je kan helpen om
+      hierover na te denken.
     m_Metadata:
       m_Items: []
   - m_Id: 16936046714880
-    m_Localized: Beleidshints
+    m_Localized: Tips over het beleid
     m_Metadata:
       m_Items: []
   - m_Id: 16998114025472
-    m_Localized: Ga terug om meer beleid te ontgrendelen
+    m_Localized: Ga terug om meer beleid te bekijken
     m_Metadata:
       m_Items: []
   - m_Id: 17254121758720
@@ -87,7 +88,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 17420975366144
-    m_Localized: Besluit controleren
+    m_Localized: Beslissing controleren
     m_Metadata:
       m_Items: []
   - m_Id: 17492572135424
@@ -95,7 +96,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 17583991185408
-    m_Localized: Kies waarom het dit zou moeten doen
+    m_Localized: Kies waarom het personage dit zou moeten doen
     m_Metadata:
       m_Items: []
   - m_Id: 17679877169152
@@ -115,7 +116,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18600375902208
-    m_Localized: Je hebt dit scenario voltooid!
+    m_Localized: Je hebt deze module voltooid!
     m_Metadata:
       m_Items: []
   - m_Id: 18661440774144
@@ -127,7 +128,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 305854730231808
-    m_Localized: Ontdek wat de personages werkelijk denken.
+    m_Localized: Leer meer over de gedachten van de personages voor meer informatie.
     m_Metadata:
       m_Items: []
   - m_Id: 306062570577920
@@ -147,7 +148,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 308574623129600
-    m_Localized: Waarom moet {0} dit doen?
+    m_Localized: Waarom zou {0} dit moeten doen?
     m_Metadata:
       m_Items: []
   - m_Id: 4962361918963712
@@ -168,15 +169,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7885533161013248
-    m_Localized: Van zich laten horen
+    m_Localized: Kaart het aan
     m_Metadata:
       m_Items: []
   - m_Id: 7885667890446336
-    m_Localized: Melding maken
+    m_Localized: Meld het
     m_Metadata:
       m_Items: []
   - m_Id: 7885684868988928
-    m_Localized: Er verder niet op ingaan
+    m_Localized: Laat het gaan
     m_Metadata:
       m_Items: []
   - m_Id: 10068604280795136
@@ -184,11 +185,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 12209512372113408
-    m_Localized: ' '
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 14483484056883200
-    m_Localized: Ga terug om meer gedachten te ontgrendelen
+    m_Localized: Ga terug om meer gedachten te bekijken
     m_Metadata:
       m_Items: []
   - m_Id: 22352422563782656
@@ -216,7 +217,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22352764743491584
-    m_Localized: Help het personage bij de beslissing wat deze moet doen, en waarom
+    m_Localized: Help het personage bepalen wat te doen en waarom
     m_Metadata:
       m_Items: []
   - m_Id: 22352880455950336
@@ -224,7 +225,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 43586336613982208
-    m_Localized: Taal selectie
+    m_Localized: Taal selecteren
     m_Metadata:
       m_Items: []
   - m_Id: 43606493818249216
@@ -236,11 +237,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 43882092331786240
-    m_Localized: Open aanwijzingsboekknop
+    m_Localized: Knop open boek met aanwijzingen
     m_Metadata:
       m_Items: []
   - m_Id: 43883160138670080
-    m_Localized: Knop voor het dempen van audio
+    m_Localized: Knop audio dempen
     m_Metadata:
       m_Items: []
   - m_Id: 43902784624386048
@@ -248,7 +249,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 43915910031859712
-    m_Localized: Scenariobediening
+    m_Localized: Scenariobesturing
     m_Metadata:
       m_Items: []
   - m_Id: 43916426069663744
@@ -268,15 +269,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 43953185537122304
-    m_Localized: Selecteer Reactie
+    m_Localized: Reactie selecteren
     m_Metadata:
       m_Items: []
   - m_Id: 44966374580150272
-    m_Localized: Verzamel beleid
+    m_Localized: Beleid verzamelen
     m_Metadata:
       m_Items: []
   - m_Id: 44966547372892160
-    m_Localized: Verzamel gedachten
+    m_Localized: Gedachten verzamelen
     m_Metadata:
       m_Items: []
   - m_Id: 44967107740295168
@@ -284,7 +285,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 44968492443623424
-    m_Localized: Volgende beleid
+    m_Localized: Volgend beleid
     m_Metadata:
       m_Items: []
   - m_Id: 44969933178658816
@@ -292,7 +293,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 45301409422237696
-    m_Localized: Vorig
+    m_Localized: Vorige
     m_Metadata:
       m_Items: []
   - m_Id: 45301481098698752
@@ -300,23 +301,23 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 45302496162209792
-    m_Localized: Aanwijzingenboek
+    m_Localized: Boek met aanwijzingen
     m_Metadata:
       m_Items: []
   - m_Id: 45312246765576192
-    m_Localized: Speel Gedachte
+    m_Localized: Gedachte afspelen
     m_Metadata:
       m_Items: []
   - m_Id: 45313241272803328
-    m_Localized: Rug
+    m_Localized: Terug
     m_Metadata:
       m_Items: []
   - m_Id: 45314184118788096
-    m_Localized: "Sluit het Cli\xEBntboek"
+    m_Localized: Boek met aanwijzingen sluiten
     m_Metadata:
       m_Items: []
   - m_Id: 45377977502916608
-    m_Localized: Vorig
+    m_Localized: Vorige
     m_Metadata:
       m_Items: []
   - m_Id: 45378019005554688
@@ -324,7 +325,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 45378309117173760
-    m_Localized: Lessen
+    m_Localized: Leerpunten
     m_Metadata:
       m_Items: []
   - m_Id: 45378851340017664
@@ -341,7 +342,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46123565072769024
-    m_Localized: Toegankelijkheid voor gehandicapten.
+    m_Localized: Toegankelijkheid uitgeschakeld.
     m_Metadata:
       m_Items: []
   - m_Id: 46124492450160640
@@ -353,7 +354,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46127604380459008
-    m_Localized: Schuifregelaar
+    m_Localized: Schuifknop
     m_Metadata:
       m_Items: []
   - m_Id: 46127822517821440
@@ -365,7 +366,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46127911416094720
-    m_Localized: Laten vallen
+    m_Localized: Vervolgkeuzemenu
     m_Metadata:
       m_Items: []
   - m_Id: 46127952037928960
@@ -373,7 +374,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46128060410355712
-    m_Localized: Dubbeltik om te selecteren
+    m_Localized: Dubbelklik om te selecteren
     m_Metadata:
       m_Items: []
   - m_Id: 46128236222996480
@@ -381,7 +382,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46128306674720768
-    m_Localized: Dubbeltik om te wijzigen
+    m_Localized: Dubbelklik om te wijzigen
     m_Metadata:
       m_Items: []
   - m_Id: 46128328283774976
@@ -389,7 +390,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46128344960327680
-    m_Localized: Punt XX van YY
+    m_Localized: Item XX van YY
     m_Metadata:
       m_Items: []
   - m_Id: 46141420694659072
@@ -397,43 +398,79 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 46141496884191232
-    m_Localized: ' Niet correct'
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 48971575213416448
-    m_Localized: Pauze
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 48974385543897088
-    m_Localized: Toneelstuk
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 50463397114798080
-    m_Localized: Schakel Schermlezer in
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 49947109173940224
-    m_Localized: de gedachten van {0}
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 49947225825923072
-    m_Localized: Inzichten
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 50493918238728192
-    m_Localized: Vorig
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 51137395486089216
-    m_Localized: Volgende
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 51340606229630976
-    m_Localized: Kies hieronder een actie.
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 54968277945733120
-    m_Localized: Maak hieronder een selectie.
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53135351207522304
+    m_Localized: Selecteer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53253607381626880
+    m_Localized: Tijdelijke aanduiding tussen schermen, wordt verwijderd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53884971725950976
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885464065937408
+    m_Localized: Nee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53885695662821376
+    m_Localized: Het hangt er van af
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53943372556341248
+    m_Localized: Onjuist antwoord. Probeer het opnieuw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890102246363136
+    m_Localized: Volgende pagina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60890169237786624
+    m_Localized: Vorige pagina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83045819392675840
+    m_Localized: Feedback verzenden
     m_Metadata:
       m_Items: []
   references:

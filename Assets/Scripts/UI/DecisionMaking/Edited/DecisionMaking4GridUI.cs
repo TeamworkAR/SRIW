@@ -13,30 +13,18 @@ using UnityEngine.UI;
 public class DecisionMaking4GridUI : BaseUICanvas
 {
     [SerializeField] private List<FlipCard> cards = null;
-
     [SerializeField] private Button m_CheckButton = null;
-
     [SerializeField] private Button m_ButtonNext = null;
-
     [SerializeField] private RawImage m_CharacterImage = null;
-
     [SerializeField] private TextMeshProUGUI circleText_Top = null;
-
     [SerializeField] private TextMeshProUGUI circleText_Bot = null;
-
     [SerializeField] private TextMeshProUGUI lowerText = null;
-
     [SerializeField] private TextMeshProUGUI correctText = null;
 
     private DecisionMakingGridData m_Data = null;
-
     private int m_WrongAttempts = 0;
-
     private Coroutine m_Running = null;
-
     private bool endedDecision = false;
-
-    private int flippedCardsCount = 0;  // Tracks how many cards have been flipped
 
     public bool IsDone() => endedDecision;
 
@@ -48,7 +36,7 @@ public class DecisionMaking4GridUI : BaseUICanvas
         base.Show();
 
         m_CheckButton.gameObject.SetActive(true);
-        m_CheckButton.interactable = false;  // Set the button to be non-interactable initially
+        m_CheckButton.interactable = false;  // Initially not interactable
         m_ButtonNext.gameObject.SetActive(false);
 
         m_WrongAttempts = 1;
@@ -75,31 +63,18 @@ public class DecisionMaking4GridUI : BaseUICanvas
             m_CharacterImage.enabled = false;
         }
 
-        flippedCardsCount = 0;  // Reset the flipped card count
-
         for (int i = 0; i < m_Data.Tiles.Count; i++)
         {
             cards[i].ResetViz();
             cards[i].FeedData(m_Data.Tiles[i]);
-
-            cards[i].OnCardFlipped = OnCardFlipped;  // Assign the callback for card flipping
+            cards[i].ShowSelectButton(); // Make sure each card shows its select button
         }
+
+        m_CheckButton.interactable = true; // Make sure the check button is interactable once the setup is done
 
         foreach (var tile in cards)
         {
             tile.enabled = true;
-        }
-    }
-
-    // Callback for when a card is flipped
-    private void OnCardFlipped()
-    {
-        flippedCardsCount++;
-
-        // If all cards have been flipped, enable the check button
-        if (flippedCardsCount >= cards.Count)
-        {
-            m_CheckButton.interactable = true;
         }
     }
 
@@ -146,7 +121,6 @@ public class DecisionMaking4GridUI : BaseUICanvas
                     void OnCdEnded()
                     {
                         cards.ForEach(t => t.ShowResult());
-
                         m_Running = StartCoroutine(Helpers.UI.COR_Cooldown(Consts.UI.k_DECISION_MAKING_END_CD, () => DisableInteraction(false), EnableInteraction_WrongAttempts));
                     }
                 }
@@ -209,7 +183,6 @@ public class DecisionMaking4GridUI : BaseUICanvas
 
     public void CorrectAnswerSelected()
     {
-        // Find the correct FlipCard
         foreach (var tile in cards)
         {
             if (tile.IsRightEntry)
