@@ -20,6 +20,7 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
     [SerializeField] private bool isTutorialCard;
     [SerializeField] private List<GameObject> rotatingObjects = new List<GameObject>(0);
     [SerializeField] private bool isFlippableMultipleTimes = false;
+    [SerializeField] private bool isSelectAlwaysActive = false; // New boolean to determine if the select button is always active.
     [SerializeField] private Image dot1 = null;
     [SerializeField] private Image dot2 = null;
     [SerializeField] private Color activeDotColor = Color.black;
@@ -46,8 +47,9 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
     public FlipCardDecisionData FlipCardData => flipCardDecisionData;
     public string FlippedText => flippedText;
 
-    // Define an event that is triggered when the card is flipped
+    // Define events that are triggered when the card is flipped or selected.
     public UnityAction OnCardFlipped;
+    public UnityAction OnCardSelected;
 
     public void FeedData(FlipCardDecisionData flipCardDecisionData)
     {
@@ -61,29 +63,34 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
         {
             incorrectText = flipCardDecisionData.IncorrectAnswerResponse.GetLocalizedString();
         }
+
         UpdateValues();
+
+        // If the select button should always be active, ensure it is visible from the start.
+        if (isSelectAlwaysActive)
+        {
+            selectButton.SetActive(true);
+        }
     }
 
     private void UpdateValues()
     {
         m_Text.text = isFlipped ? flippedText : frontText;
-
         dot1.color = isFlipped ? inactiveDotColor : activeDotColor;
         dot2.color = isFlipped ? activeDotColor : inactiveDotColor;
-
         cardImage.sprite = isFlipped ? backSprite : frontSprite;
     }
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        if (isTutorialCard) return;
+        if (isTutorialCard || isSelectAlwaysActive) return;
 
-        ShowSelectButton();
+        Rotate();
     }
 
     public void ShowSelectButton()
     {
-        // Ensure the select button is visible
+        // Ensure the select button is visible.
         selectButton.SetActive(true);
     }
 
@@ -91,11 +98,20 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
     {
         isSelected = !isSelected;
         m_Frame.color = isSelected ? selectedColor : defaultColor;
-        m_Frame.gameObject.SetActive(isSelected); // Activate or deactivate the frame based on the selection state
+        m_Frame.gameObject.SetActive(isSelected); // Activate or deactivate the frame based on the selection state.
+
+        // Trigger the OnCardSelected event when the card is selected.
+        OnCardSelected?.Invoke();
     }
 
     public void Rotate()
     {
+        if (isSelectAlwaysActive)
+        {
+            ShowSelectButton(); // Show the select button immediately if the card should not flip.
+            return;
+        }
+
         selectButton.SetActive(true);
         if (isFlippableMultipleTimes || !isFlipped)
         {
@@ -105,38 +121,33 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
 
     private IEnumerator COR_NextValueLifeCycle()
     {
-        yield return Helpers.UI.COR_Rotate(rotatingObjects, new Vector3(0f, 90f, 0f), 0.2f);
+        const float rotateDuration = 0.2f; // Default rotation duration.
+        yield return Helpers.UI.COR_Rotate(rotatingObjects, new Vector3(0f, 90f, 0f), rotateDuration);
         isFlipped = !isFlipped;
         UpdateValues();
-        yield return Helpers.UI.COR_Rotate(rotatingObjects, Vector3.zero, 0.2f);
+        yield return Helpers.UI.COR_Rotate(rotatingObjects, Vector3.zero, rotateDuration);
         TryStopLifecycle();
 
-        // Trigger the OnCardFlipped event when the card is flipped
+        // Trigger the OnCardFlipped event when the card is flipped.
         OnCardFlipped?.Invoke();
     }
 
     private void TryStartLifecycle()
     {
-        if (running != null)
-        {
-            return;
-        }
+        if (running != null) return;
         running = StartCoroutine(COR_NextValueLifeCycle());
     }
 
     private void TryStopLifecycle()
     {
-        if (running == null)
-        {
-            return;
-        }
+        if (running == null) return;
         StopCoroutine(running);
         running = null;
     }
 
     public void ShowResult()
     {
-        m_Frame.gameObject.SetActive(true); // Ensure frame is visible when showing result
+        m_Frame.gameObject.SetActive(true); // Ensure frame is visible when showing result.
         if (isRightEntry)
         {
             m_Frame.color = GameManager.Instance.DevSettings.CorrectAnswerColor;
@@ -160,12 +171,14 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
     public void ResetViz()
     {
         m_Frame.color = defaultColor;
-        m_Frame.gameObject.SetActive(false); // Deactivate the frame initially
+        m_Frame.gameObject.SetActive(false); // Deactivate the frame initially.
         isSelected = false;
         isFlipped = false;
         m_TickCorrect.SetActive(false);
         m_CrossWrong.SetActive(false);
-        selectButton.SetActive(false);
+
+        // Reset selectButton visibility based on isSelectAlwaysActive.
+        selectButton.SetActive(isSelectAlwaysActive);
 
         dot1.color = activeDotColor;
         dot2.color = inactiveDotColor;

@@ -25,6 +25,7 @@ public class DecisionMaking4GridUI : BaseUICanvas
     private int m_WrongAttempts = 0;
     private Coroutine m_Running = null;
     private bool endedDecision = false;
+    private bool hasSelection = false;
 
     public bool IsDone() => endedDecision;
 
@@ -36,7 +37,7 @@ public class DecisionMaking4GridUI : BaseUICanvas
         base.Show();
 
         m_CheckButton.gameObject.SetActive(true);
-        m_CheckButton.interactable = false;  // Initially not interactable
+        m_CheckButton.interactable = false; // Initially not interactable
         m_ButtonNext.gameObject.SetActive(false);
 
         m_WrongAttempts = 1;
@@ -67,15 +68,22 @@ public class DecisionMaking4GridUI : BaseUICanvas
         {
             cards[i].ResetViz();
             cards[i].FeedData(m_Data.Tiles[i]);
-            cards[i].ShowSelectButton(); // Make sure each card shows its select button
-        }
+            cards[i].ShowSelectButton(); // Show the select button initially if needed
 
-        m_CheckButton.interactable = true; // Make sure the check button is interactable once the setup is done
+            // Set the OnCardSelected callback for each card
+            cards[i].OnCardSelected = OnCardSelected;
+        }
 
         foreach (var tile in cards)
         {
             tile.enabled = true;
         }
+    }
+
+    private void OnCardSelected()
+    {
+        hasSelection = true;
+        m_CheckButton.interactable = hasSelection;
     }
 
     public override void Hide()
@@ -104,9 +112,9 @@ public class DecisionMaking4GridUI : BaseUICanvas
                 if (m_Data.WrongAttemptClips.Count > m_WrongAttempts)
                 {
                     ScenarioSettings.DecisionMakingExtension.AttemptClipData attemptClipData =
-                    tile.FlipCardData.AttemptClipOverride != null && tile.FlipCardData.AttemptClipOverride.Audio != null
-                       ? tile.FlipCardData.AttemptClipOverride
-                       : m_Data.WrongAttemptClips[m_WrongAttempts];
+                        tile.FlipCardData.AttemptClipOverride != null && tile.FlipCardData.AttemptClipOverride.Audio != null
+                            ? tile.FlipCardData.AttemptClipOverride
+                            : m_Data.WrongAttemptClips[m_WrongAttempts];
 
                     AudioManager.Instance.PlayDecisioMakingClip(attemptClipData.Audio);
                     MainGUI.Instance.MSubtitlesUI.ShowSubtitle(attemptClipData.SubTitles);

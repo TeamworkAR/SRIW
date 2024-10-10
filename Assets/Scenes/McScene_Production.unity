@@ -1447,6 +1447,10 @@ PrefabInstance:
       propertyPath: disableFlip
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 274561205936900442, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
+      propertyPath: isSelectAlwaysActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 294099840648112046, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: -29.999634
@@ -1457,6 +1461,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 759380992864694980, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
       propertyPath: disableFlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 759380992864694980, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
+      propertyPath: isSelectAlwaysActive
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 980208047042175232, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
@@ -1699,6 +1707,10 @@ PrefabInstance:
       propertyPath: disableFlip
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4031227621868363377, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
+      propertyPath: isSelectAlwaysActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4228223375955422689, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 29.999634
@@ -1809,6 +1821,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580309941030537162, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
       propertyPath: disableFlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8580309941030537162, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
+      propertyPath: isSelectAlwaysActive
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8745934404555171589, guid: ab6830fc0a3dca440af76bf8889f99b5, type: 3}
