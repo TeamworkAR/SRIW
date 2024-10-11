@@ -691,7 +691,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5377927554101248
-    m_Localized: "mer lorsque quelqu'un est t\xE9moin d'une situation tendue au travail."
+    m_Localized: "Lorsque quelqu'un est t\xE9moin d'une situation tendue au travail."
     m_Metadata:
       m_Items: []
   - m_Id: 5378092260225024
@@ -887,6 +887,11 @@ MonoBehaviour:
       Corporation ou l\u2019une de ses filiales et ton franchis\xE9, ni ne cr\xE9e
       une relation de travail entre toi et McDonald\u2019s Corporation ou l\u2019une
       de ses filiales telles que McDonald\u2019s USA, LLC.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31118497416957952
+    m_Localized: "Retournez chaque carte pour obtenir plus d'informations. S\xE9lectionnez
+      toutes les cartes qui s\u2019appliquent."
     m_Metadata:
       m_Items: []
   references:
