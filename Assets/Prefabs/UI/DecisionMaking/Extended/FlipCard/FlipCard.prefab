@@ -755,7 +755,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -971,6 +971,7 @@ MonoBehaviour:
   rotatingObjects:
   - {fileID: 6676878318087634433}
   isFlippableMultipleTimes: 0
+  isSelectAlwaysActive: 0
   dot1: {fileID: 5725583552251985375}
   dot2: {fileID: 8764081098283733249}
   activeDotColor: {r: 0.94509804, g: 0.3372549, b: 0.11372549, a: 1}
@@ -979,7 +980,8 @@ MonoBehaviour:
   frontSprite: {fileID: 21300000, guid: f6cb95987db33474598969d1b2aa3c4c, type: 3}
   backSprite: {fileID: 21300000, guid: 891df0f02c770384888ee347fde59f92, type: 3}
   isWrong: 0
-  disableFlip: 0
+  selectButtonActiveColor: {r: 1, g: 0.7372549, b: 0.050980393, a: 1}
+  selectButtonDefaultColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!114 &1799213755098835806
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1654,6 +1656,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4795740791078412047, guid: 25338d9dbeb7fd54a9150860d6499bc2, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795740791078412047, guid: 25338d9dbeb7fd54a9150860d6499bc2, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795740791078412047, guid: 25338d9dbeb7fd54a9150860d6499bc2, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6183920003094074940, guid: 25338d9dbeb7fd54a9150860d6499bc2, type: 3}
       propertyPath: m_Name
       value: Select_Button
@@ -1661,6 +1675,30 @@ PrefabInstance:
     - target: {fileID: 6183920003094074940, guid: 25338d9dbeb7fd54a9150860d6499bc2, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7933015663317089723, guid: 25338d9dbeb7fd54a9150860d6499bc2, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: be6926f811b9ce04790d9e60fc84f71c, type: 3}
+    - target: {fileID: 7933015663317089723, guid: 25338d9dbeb7fd54a9150860d6499bc2, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7933015663317089723, guid: 25338d9dbeb7fd54a9150860d6499bc2, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7933015663317089723, guid: 25338d9dbeb7fd54a9150860d6499bc2, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7933015663317089723, guid: 25338d9dbeb7fd54a9150860d6499bc2, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7933015663317089723, guid: 25338d9dbeb7fd54a9150860d6499bc2, type: 3}
+      propertyPath: m_PixelsPerUnitMultiplier
+      value: 1.36
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 980995217340870917, guid: 25338d9dbeb7fd54a9150860d6499bc2, type: 3}

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using CareBoo.Serially;
 using Core;
 using Managers;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -26,18 +27,17 @@ namespace UI.Generic
 
         protected override void DoStateTransition(SelectionState state, bool instant)
         {
-            if (GameManager.Instance == null)
-            {
-                return;
-            }
-
-            if (!gameObject.activeInHierarchy)
+            if (GameManager.Instance == null || !gameObject.activeInHierarchy)
                 return;
 
             Color tintColor = m_Override.GetColor(state);
 
             foreach (var graphic in m_TargetGraphics)
             {
+                // Ensure we don't fade text objects unintentionally
+                if (graphic is TextMeshProUGUI)
+                    continue;  // Skip fading for TextMeshPro components
+
                 try
                 {
                     graphic.CrossFadeColor(tintColor, Consts.UI.k_BUTTON_FADE_DURATION, true, true);
@@ -47,9 +47,9 @@ namespace UI.Generic
                     Console.WriteLine(e);
                     throw;
                 }
-                
             }
         }
+
 
         [Serializable]
         protected abstract class ButtonStatesColorOverride

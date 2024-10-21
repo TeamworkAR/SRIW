@@ -10,6 +10,7 @@ using UnityEngine.UI;
 
 public class FlipCard : MonoBehaviour, IPointerClickHandler
 {
+    [Header("UI Elements")]
     [SerializeField] private TextMeshProUGUI m_Text = null;
     [SerializeField] private GameObject selectButton = null;
     [SerializeField] private GameObject m_TickCorrect = null;
@@ -20,7 +21,7 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
     [SerializeField] private bool isTutorialCard;
     [SerializeField] private List<GameObject> rotatingObjects = new List<GameObject>(0);
     [SerializeField] private bool isFlippableMultipleTimes = false;
-    [SerializeField] private bool isSelectAlwaysActive = false; // New boolean to determine if the select button is always active.
+    [SerializeField] private bool isSelectAlwaysActive = false;
     [SerializeField] private Image dot1 = null;
     [SerializeField] private Image dot2 = null;
     [SerializeField] private Color activeDotColor = Color.black;
@@ -29,6 +30,12 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
     [SerializeField] private Sprite frontSprite = null;
     [SerializeField] private Sprite backSprite = null;
     [SerializeField] private bool isWrong = false;
+
+    [Header("Select Button Color Settings")]
+    [SerializeField] private Color selectButtonActiveColor = Color.green;  // Active color for selection
+    [SerializeField] private Color selectButtonDefaultColor = Color.white; // Default color when not selected
+
+    private Image selectButtonImage;  // Reference to the Image component on the select button
 
     FlipCardDecisionData flipCardDecisionData;
     string frontText;
@@ -43,13 +50,21 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
     public bool IsAnimating => running != null;
     public bool IsRightEntry => isRightEntry;
     public bool IsSelected => isSelected;
-    public bool IsCorrectlySelectedOrUnselected => ((isSelected && isRightEntry) || (!isSelected && !isRightEntry));
+    public bool IsCorrectlySelectedOrUnselected => (isSelected && isRightEntry) || (!isSelected && !isRightEntry);
     public FlipCardDecisionData FlipCardData => flipCardDecisionData;
     public string FlippedText => flippedText;
 
-    // Define events that are triggered when the card is flipped or selected.
     public UnityAction OnCardFlipped;
     public UnityAction OnCardSelected;
+
+    private void Awake()
+    {
+        // Get the Image component from the select button
+        if (selectButton != null)
+        {
+            selectButtonImage = selectButton.GetComponent<Image>();
+        }
+    }
 
     public void FeedData(FlipCardDecisionData flipCardDecisionData)
     {
@@ -66,7 +81,6 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
 
         UpdateValues();
 
-        // If the select button should always be active, ensure it is visible from the start.
         if (isSelectAlwaysActive)
         {
             selectButton.SetActive(true);
@@ -90,17 +104,24 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
 
     public void ShowSelectButton()
     {
-        // Ensure the select button is visible.
         selectButton.SetActive(true);
     }
 
     public void OnSelected()
     {
-        isSelected = !isSelected;
-        m_Frame.color = isSelected ? selectedColor : defaultColor;
-        m_Frame.gameObject.SetActive(isSelected); // Activate or deactivate the frame based on the selection state.
+        isSelected = !isSelected;  // Toggle selection state
 
-        // Trigger the OnCardSelected event when the card is selected.
+        // Change the frame's visibility and color
+        m_Frame.gameObject.SetActive(isSelected);
+        m_Frame.color = isSelected ? selectedColor : defaultColor;
+
+        // Change the select button's color
+        if (selectButtonImage != null)
+        {
+            selectButtonImage.color = isSelected ? selectButtonActiveColor : selectButtonDefaultColor;
+        }
+
+        // Trigger the OnCardSelected event
         OnCardSelected?.Invoke();
     }
 
@@ -108,7 +129,7 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
     {
         if (isSelectAlwaysActive)
         {
-            ShowSelectButton(); // Show the select button immediately if the card should not flip.
+            ShowSelectButton();
             return;
         }
 
@@ -121,14 +142,13 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
 
     private IEnumerator COR_NextValueLifeCycle()
     {
-        const float rotateDuration = 0.2f; // Default rotation duration.
+        const float rotateDuration = 0.2f;
         yield return Helpers.UI.COR_Rotate(rotatingObjects, new Vector3(0f, 90f, 0f), rotateDuration);
         isFlipped = !isFlipped;
         UpdateValues();
         yield return Helpers.UI.COR_Rotate(rotatingObjects, Vector3.zero, rotateDuration);
         TryStopLifecycle();
 
-        // Trigger the OnCardFlipped event when the card is flipped.
         OnCardFlipped?.Invoke();
     }
 
@@ -147,7 +167,7 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
 
     public void ShowResult()
     {
-        m_Frame.gameObject.SetActive(true); // Ensure frame is visible when showing result.
+        m_Frame.gameObject.SetActive(true);
         if (isRightEntry)
         {
             m_Frame.color = GameManager.Instance.DevSettings.CorrectAnswerColor;
@@ -171,18 +191,21 @@ public class FlipCard : MonoBehaviour, IPointerClickHandler
     public void ResetViz()
     {
         m_Frame.color = defaultColor;
-        m_Frame.gameObject.SetActive(false); // Deactivate the frame initially.
+        m_Frame.gameObject.SetActive(false);
         isSelected = false;
         isFlipped = false;
         m_TickCorrect.SetActive(false);
         m_CrossWrong.SetActive(false);
 
-        // Reset selectButton visibility based on isSelectAlwaysActive.
         selectButton.SetActive(isSelectAlwaysActive);
 
         dot1.color = activeDotColor;
         dot2.color = inactiveDotColor;
-
         cardImage.sprite = frontSprite;
+
+        if (selectButtonImage != null)
+        {
+            selectButtonImage.color = selectButtonDefaultColor;
+        }
     }
 }
